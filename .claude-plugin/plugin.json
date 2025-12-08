@@ -1,0 +1,13 @@
+{
+  "name": "compound-ai-leadership",
+  "version": "0.1.0",
+  "description": "AI-augmented leadership operating system. Compounds business wisdom through structured decision-making, mentor consultations, and continuous learning loops.",
+  "author": "ThriverHenry",
+  "homepage": "https://github.com/ThriverHenry/compound-ai-leadership",
+  "components": {
+    "agents": 8,
+    "commands": 6,
+    "skills": 4,
+    "mcpServers": 0
+  }
+}
