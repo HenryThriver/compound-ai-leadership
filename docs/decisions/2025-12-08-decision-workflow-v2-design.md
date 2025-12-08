@@ -341,10 +341,11 @@ Anything else before we close this decision session?
 
 | Parameter | Options | Default |
 |-----------|---------|---------|
-| Risk rigor | Conservative / Balanced / Aggressive | Balanced |
+| Risk rigor | Conservative / Balanced / Aggressive | **Conservative** |
 | Framework depth | Quick / Standard / Deep | Standard |
 | Value check | Full / Key-values-only / Skip | Full |
 | Execution mode | Sequential / Parallel | Sequential |
+| Question style | One-by-one / Batched | **One-by-one** |
 
 ---
 
@@ -412,12 +413,213 @@ Anything else before we close this decision session?
 
 ---
 
-## Open Questions for You
+## Resolved Design Questions
 
-1. **Phase 2 structure:** Should I ask ALL clarifying questions for ALL frameworks upfront, or ask per-framework and go deeper on each before moving to next?
+1. **Phase 2 structure:** Ask clarifying questions **one by one across all frameworks**. Earlier answers may resolve later questions. Don't batch by framework—interleave intelligently.
 
-2. **Value calibration:** Do you want to pre-calibrate your value interpretations once (store as examples), or calibrate fresh each decision?
+2. **Value calibration:** Calibrate per decision, but **write the rationale as an example** to the value skill file. Future readings get tighter. Call out drift if observed.
 
-3. **Risk rigor default:** Conservative (surface everything), Balanced (likely + high-impact), or Aggressive (only critical)?
+3. **Risk rigor default:** **Conservative** — surface everything, user dismisses what's not real.
 
-4. **Anything missing from this flow?**
+---
+
+## Downstream: Hypothesis → Validation → Learning Loop
+
+The decision workflow doesn't end when the decision is made. It extends into:
+
+### Hypothesis Creation (Phase 6-7)
+
+Every GO decision generates at least one hypothesis:
+- **What we believe:** [prediction]
+- **Success metrics:** [KPIs with targets]
+- **Review date:** [when to check]
+
+Hypothesis doc created in `docs/hypotheses/` with:
+- Link back to originating decision
+- Specific, measurable success criteria
+- Scheduled review date
+
+### Review Trigger System
+
+**Problem:** How do we remember to check hypotheses at the right time?
+
+**Solution: Review Queue**
+
+Create `docs/hypotheses/REVIEW_QUEUE.md`:
+```markdown
+# Hypothesis Review Queue
+
+## Overdue
+| Hypothesis | Review Date | Decision |
+|------------|-------------|----------|
+| [None] | | |
+
+## This Week
+| Hypothesis | Review Date | Decision |
+|------------|-------------|----------|
+| [Link] | 2025-12-15 | [Link] |
+
+## This Month
+| Hypothesis | Review Date | Decision |
+|------------|-------------|----------|
+| [Link] | 2025-12-31 | [Link] |
+
+## Future
+| Hypothesis | Review Date | Decision |
+|------------|-------------|----------|
+| [Link] | 2025-02-15 | [Link] |
+```
+
+**When creating a hypothesis:** Add to REVIEW_QUEUE.md in the appropriate section.
+
+**At session start:** Check REVIEW_QUEUE for overdue or due-this-week items.
+
+### Session Start Ritual
+
+When beginning any working session (`/tactical-session`, `/strategic-review`, or manual):
+
+1. **Check review queue**
+   - Any overdue hypotheses?
+   - Any due this week?
+
+2. **Surface for user**
+   ```
+   Before we begin, you have [N] hypotheses due for review:
+   - [Hypothesis 1] (due: [date]) - from decision: [link]
+   - [Hypothesis 2] (overdue by [N] days)
+
+   Would you like to review these now, defer, or proceed with today's session?
+   ```
+
+3. **If reviewing:** Run hypothesis validation workflow
+
+### Hypothesis Validation Workflow
+
+When reviewing a hypothesis:
+
+1. **Load hypothesis doc**
+   - Original prediction
+   - Success metrics
+   - Current observations
+
+2. **Gather current data**
+   - What actually happened?
+   - Did we hit the KPIs?
+   - What surprised us?
+
+3. **Make the call**
+   - ✅ **Validated:** Hypothesis confirmed
+   - ❌ **Invalidated:** Hypothesis wrong
+   - ⚠️ **Inconclusive:** Need more time/data
+   - 🔄 **Pivoted:** Circumstances changed, hypothesis no longer applies
+
+4. **Extract learning**
+   - What do we now know?
+   - Does this change any values or frameworks?
+   - Should we update any checklists?
+
+5. **Update system**
+   - Write learning to `docs/learnings/`
+   - Update value calibration examples if relevant
+   - Update framework with new insight if applicable
+   - Update hypothesis status
+   - Remove from REVIEW_QUEUE or reschedule
+
+### The Closed Loop
+
+```
+DECISION
+    ↓
+HYPOTHESIS (with review date)
+    ↓
+REVIEW_QUEUE (tracks due dates)
+    ↓
+SESSION_START (surfaces due reviews)
+    ↓
+VALIDATION (compare prediction to reality)
+    ↓
+LEARNING (extract and document)
+    ↓
+SYSTEM_UPDATE (values, frameworks, checklists)
+    ↓
+[Loop back: Next decision is better informed]
+```
+
+### Value Calibration Evolution
+
+When a value calibration happens during Phase 4:
+
+1. User provides their reading with rationale
+2. That rationale is written as an **example application** to the value:
+
+```yaml
+# In skills/business-values/SKILL.md or a linked examples file
+
+### Value: Add value to customers in every interaction
+
+**Calibration Examples:**
+- **Decision:** Annual review product (2025-12-08)
+  - **Situation:** Building a tool primarily for myself
+  - **Reading:** ✅ Aligned
+  - **Rationale:** "I'm solving my own real problem, and the templates for others are genuine value-adds, not afterthoughts."
+
+- **Decision:** [Future decision]
+  - **Situation:** ...
+  - **Reading:** ...
+  - **Rationale:** ...
+```
+
+Over time, these examples create a "case law" of value interpretation. If readings start to drift from earlier examples, surface that:
+
+```
+Note: This reading differs from your interpretation in [previous decision].
+Then: [reading + rationale]
+Now: [proposed reading + rationale]
+
+Is this evolution in your thinking, or should we maintain consistency?
+```
+
+---
+
+## Updated Phase 2: One-by-One Clarifying Questions
+
+Instead of batching questions by framework, ask them intelligently:
+
+```
+**Clarifying Questions**
+
+I'll ask these one at a time. Earlier answers may resolve later questions.
+
+**Question 1 of [N]:** (from Reversibility framework)
+Can you undo this decision easily if it doesn't work out?
+
+[User answers]
+
+**Question 2 of [N]:** (from Opportunity Cost framework)
+What are you NOT doing by doing this?
+
+[User answers]
+
+**Question 3 of [N]:** (from Regret Minimization framework)
+At 80, looking back, would you regret NOT trying this?
+
+[User answers - but this might already be answered by Q1 and Q2]
+
+Ah, based on your earlier answers, I think I have enough context for the Regret Minimization lens. Let me confirm:
+- You said [X], which suggests [Y].
+- Does that capture your thinking on regret, or is there more?
+
+[Continue through remaining questions, skipping or confirming those already addressed]
+```
+
+**Magic wand + worst case:** Ask once, early, as these inform multiple frameworks:
+
+```
+Before we dive into framework-specific questions:
+
+1. **Magic wand:** If this goes perfectly—better than your wildest dreams—what does that look like? What does it unlock for you?
+
+2. **Worst case:** What's the fear? If this fails completely, what does that look like and feel like?
+
+[These answers inform Regret Min, Asymmetric Bets, and Risk analysis]
+```
