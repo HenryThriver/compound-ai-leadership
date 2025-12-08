@@ -177,16 +177,63 @@ Most decisions have a right balance of speed and quality. Find it explicitly rat
 
 ---
 
+### Intuition / Gut Feel
+
+**Origin:** Human pattern recognition, accumulated experience
+
+**The Model:**
+Intuition is compressed experience. Your gut has processed thousands of data points you can't consciously articulate. It's not irrational—it's pre-rational.
+
+**Application:**
+1. Capture gut feel BEFORE analysis (baseline)
+2. Run rational frameworks
+3. Check if conclusion aligns with intuition
+4. If divergent: explore what intuition is sensing
+5. Integration, not dominance of either mode
+
+**When to trust it:**
+- Decisions in your domain of expertise
+- When you have relevant lived experience
+- When energy/excitement is a strong signal
+- When rational analysis feels incomplete
+
+**When to question it:**
+- Novel domains with no experience
+- When fear might be masquerading as intuition
+- When excitement might be blinding you to risk
+- When others with experience see it differently
+
+**Questions:**
+- What does my gut say before any analysis?
+- Does this feel right in my body?
+- Am I energized or drained by this path?
+- What is my gut picking up that the analysis isn't?
+- If a friend described this decision, what would I tell them?
+
+**Red Flag:** Dismissing intuition entirely OR using intuition to avoid rigorous thinking. The goal is integration.
+
+**Divergence Protocol:**
+When intuition and analysis disagree:
+- This is data, not a problem
+- Explore: What is the gut sensing?
+- Options: Trust intuition (document why), trust analysis (document override), dig deeper, or sleep on it
+
+---
+
 ## Framework Selection Guide
 
-| Decision Type | Primary Framework | Secondary |
-|--------------|-------------------|-----------|
-| Should I start X? | Regret Minimization | Asymmetric Bets |
-| How much to invest? | Opportunity Cost | Reversibility |
-| Will this work? | Inversion | Second-Order Effects |
-| Ship now or later? | Speed vs Quality | Reversibility |
-| Big bet or small test? | Asymmetric Bets | Reversibility |
-| Why isn't this working? | Second-Order Effects | Inversion |
+| Decision Type | Primary Framework | Secondary | Also Consider |
+|--------------|-------------------|-----------|---------------|
+| Should I start X? | Regret Minimization | Asymmetric Bets | Intuition |
+| How much to invest? | Opportunity Cost | Reversibility | |
+| Will this work? | Inversion | Second-Order Effects | |
+| Ship now or later? | Speed vs Quality | Reversibility | |
+| Big bet or small test? | Asymmetric Bets | Reversibility | Intuition |
+| Why isn't this working? | Second-Order Effects | Inversion | |
+| Gut says yes, analysis says no | Intuition | [Relevant rational framework] | |
+| Analysis says yes, gut says no | Intuition | [Relevant rational framework] | |
+
+**Note:** Intuition is always captured at the start and checked after synthesis. It's not selected like other frameworks—it's woven throughout.
 
 ---
 

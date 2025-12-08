@@ -6,6 +6,46 @@ This plugin transforms decision-making from isolated events into a self-reinforc
 
 ---
 
+## Operational Rules
+
+**These rules apply to ALL interactions with this system:**
+
+### 1. Verify Date Before Creating Documents
+Before creating any document with a date in the filename or content, verify today's actual date. Do not assume or guess.
+
+### 2. Write Frequently
+When running any multi-phase workflow (decisions, ingestion, sessions):
+- Write to the document after EVERY phase
+- Never batch writes until the end
+- If a crash occurs, the document should have all progress up to that point
+- Treat documents as running logs, not final artifacts
+
+### 3. Interactive Over One-Shot
+Decision-making and analysis should be dialogues:
+- Ask clarifying questions before concluding
+- Confirm analysis at each step before moving on
+- Give the user opportunity to augment, correct, or redirect
+
+### 4. Check Review Queue at Session Start
+At the start of any session (`/tactical-session`, `/strategic-review`, etc.):
+1. Check `docs/hypotheses/REVIEW_QUEUE.md`
+2. Surface any overdue or due-this-week items
+3. Ask if user wants to address them first
+
+### 5. Value Calibration Compounds
+When checking value alignment:
+- Ask user to confirm or correct readings
+- Write their rationale as an example back to `skills/business-values/SKILL.md`
+- Flag drift if current reading differs from past calibrations
+
+### 6. Intuition Matters
+Don't rely solely on rational frameworks:
+- Capture gut feel, excitement, and energy at the start
+- Check if rational conclusions align with intuition
+- Explore divergence as data, not a problem
+
+---
+
 ## Core Resources
 
 **Always load these for any decision or session:**
