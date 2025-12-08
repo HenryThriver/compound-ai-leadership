@@ -2,158 +2,109 @@
 
 > Each business decision should compound institutional wisdom—not deplete it.
 
-This plugin transforms decision-making from isolated events into a self-reinforcing knowledge system. Every meeting, every decision, every piece of content consumed becomes fuel for better future decisions.
-
-## Philosophy
-
-### The Compounding Principle
-Traditional business operations leak wisdom. Decisions happen in meetings, rationale lives in someone's head, lessons learned evaporate. This system captures, structures, and compounds that wisdom.
-
-**The feedback loop:**
-```
-INGEST (content) → KNOWLEDGE BASE → RUN (meetings) → DECISIONS → RETROSPECTIVES → INGEST
-```
-
-### Core Values
-These aren't aspirational—they're operational. Every decision gets reviewed against them.
-
-1. **Add value to customers in every interaction** - Not neutral. Better.
-2. **Do not make the same mistake twice** - First occurrence: learn. Second: systemic failure.
-3. **The best support is no support needed** - Design away the question.
-4. **Respect human time** - Meetings, messages, everything has a cost.
-5. **Invert enshittification** - Build trust in drops, never spend it cheaply.
-6. **Measure what matters** - Vanity metrics are noise. Find the signal.
-7. **Revenue proves value** - Customers pay for solutions to real problems.
+This plugin transforms decision-making from isolated events into a self-reinforcing knowledge system.
 
 ---
 
-## Architecture
+## Core Resources
 
-### Agents
+**Always load these for any decision or session:**
 
-#### Internal Agents (Org Chart Functions)
-Represent functional perspectives in your organization:
+| Resource | Location | Purpose |
+|----------|----------|---------|
+| Business Values | `skills/business-values/SKILL.md` | Operational principles - every decision aligns to these |
+| Decision Frameworks | `skills/decision-frameworks/SKILL.md` | Mental models for recurring decision types |
+| Key Learnings | `docs/learnings/README.md` | Mistakes we won't make twice |
+
+**Load as needed:**
+
+| Resource | Location | When |
+|----------|----------|------|
+| Tactical Checklists | `skills/tactical-checklists/` | Specific repeatable procedures |
+| Author Profiles | `skills/author-profiles/` | When consulting external mentors |
+| Past Decisions | `docs/decisions/` | When context from prior decisions matters |
+| Active Hypotheses | `docs/hypotheses/` | When validating experiments |
+
+---
+
+## Agents
+
+### Internal (Org Chart Functions)
+Located in `agents/internal/`. Represent functional perspectives:
+- `customer-success-oracle` - Retention, satisfaction, support patterns
 - `marketing-strategist` - Growth, positioning, messaging
 - `sales-advisor` - Revenue, customer acquisition, deal dynamics
-- `customer-success-oracle` - Retention, satisfaction, support patterns
 - `operations-optimizer` - Efficiency, process, scalability
 - `finance-guardian` - Unit economics, cash flow, investment decisions
 - `product-advocate` - User needs, feature prioritization, roadmap
 
-#### External Agents (Mentor Holograms)
-Psychographic models of thought leaders whose frameworks you've internalized:
-- Invoke for major decisions requiring outside perspective
+### External (Mentor Holograms)
+Located in `agents/external/`. Psychographic models of thought leaders.
 - Built from ingested content (books, interviews, letters)
-- Each has distinct decision frameworks and red flags
+- Invoke for major decisions requiring outside perspective
+- Use `mentor-template.md` to create new mentors
 
-#### Analysis Agents
-- `metrics-interrogator` - Finds the signal in the noise
-- `hypothesis-validator` - Tests assumptions against evidence
-- `blind-spot-detector` - Surfaces what you're not seeing
-
-### Commands
-
-#### Meetings (`/tactical-session`, `/strategic-review`)
-Structured decision sessions that:
-1. Pull relevant context from knowledge base
-2. Invoke appropriate internal agents
-3. Surface decision against core values
-4. Optionally consult external mentors
-5. Document decisions with full reasoning chain
-
-#### Ingestion (`/ingest`)
-When you consume content:
-1. Extract key ideas, frameworks, examples
-2. Profile the author (style, worldview, biases)
-3. Distribute learnings across PKM:
-   - New values or refinements
-   - Tactical checklists
-   - Agent persona updates
-   - Big ideas by function
-
-#### Decision Capture (`/compound-decision`)
-When you make a decision:
-1. Crystallize the what and why
-2. Extract the hypothesis being tested
-3. Define success metrics
-4. Log tradeoffs explicitly
-5. Run past relevant mentors
-6. Store in searchable decision log
-
-### Skills
-
-#### `business-values`
-The canonical source of operational principles with examples and anti-patterns.
-
-#### `decision-frameworks`
-Mental models for recurring decision types:
-- Reversible vs irreversible (Type 1/Type 2)
-- Regret minimization
-- Second-order effects
-
-#### `tactical-checklists`
-Repeatable procedures for recurring situations:
-- Customer inquiry response
-- Pricing change review
-- Hiring decisions
-
-#### `author-profiles`
-Structured models of ingested thought leaders, enabling mentor agent creation.
+### Analysis
+Located in `agents/analysis/`. Cross-functional analysis:
+- `metrics-interrogator` - Signal vs noise
+- `hypothesis-validator` - Test assumptions
+- `blind-spot-detector` - Surface what you're missing
 
 ---
 
-## Workflows
+## Commands
 
-### Daily: Tactical Sessions
-For working sessions (customer inquiries, operational decisions):
-```
-/tactical-session [context]
-```
-Spawns relevant internal agents, surfaces applicable checklists, ensures alignment with values.
-
-### Weekly: Strategic Review
-For bigger picture thinking:
-```
-/strategic-review
-```
-Reviews active hypotheses, validates metrics, consults external mentors on major decisions.
-
-### On Content: Ingestion
-When you read/watch/listen to something valuable:
-```
-/ingest [content or URL]
-```
-Extracts and distributes learnings across the system.
-
-### On Decision: Compound
-When you make a decision worth documenting:
-```
-/compound-decision [context]
-```
-Captures full reasoning chain for future reference.
-
-### Monthly: Retrospective
-Review hypotheses, validate/invalidate, update knowledge base:
-```
-/retrospective
-```
+| Command | Location | Purpose |
+|---------|----------|---------|
+| `/tactical-session` | `commands/meetings/` | Structured working sessions |
+| `/strategic-review` | `commands/meetings/` | Big picture reviews with mentors |
+| `/ingest` | `commands/ingestion/` | Process content into knowledge base |
+| `/compound-decision` | `commands/workflows/` | Document decisions while fresh |
+| `/retrospective` | `commands/workflows/` | Validate hypotheses, update learnings |
 
 ---
 
-## The Meta-Product
+## The Feedback Loop
 
-This system is itself a product in development. Building it in public:
-- Each decision becomes a case study
-- Each solved annoyance becomes a potential micro-product
-- The newsletter documents the journey
-- Subscribers get access to the tools as they mature
+```
+INGEST (content) → KNOWLEDGE BASE → RUN (meetings) → DECISIONS → RETROSPECTIVES
+     ↑                                                                    ↓
+     └────────────────────────────────────────────────────────────────────┘
+```
 
-**The thesis:** AI-augmented leadership compounds faster than traditional approaches. This project proves it by example.
+Every piece flows back into the system. The goal: compound wisdom, not deplete it.
 
 ---
 
-## Key Learnings
+## Working With This System
 
-<!-- This section grows as we learn. Each entry is a mistake we won't make twice. -->
+### Before Any Decision
+1. Load `skills/business-values/SKILL.md`
+2. Check `docs/decisions/` for related prior decisions
+3. Identify which frameworks from `skills/decision-frameworks/SKILL.md` apply
 
-*None yet. We're just getting started.*
+### During Meetings/Sessions
+1. Spawn relevant internal agents
+2. Surface applicable tactical checklists
+3. For major decisions, consult 2-3 external mentors
+
+### After Decisions
+1. Run `/compound-decision` to capture reasoning
+2. Extract hypotheses to `docs/hypotheses/`
+3. Set review dates for validation
+
+### When Things Go Wrong
+1. Document in `docs/learnings/`
+2. Update relevant checklists or values
+3. The system should prevent repeat failures
+
+---
+
+## Meta-Product Notes
+
+This system is built in public. Building it generates content:
+- Decisions → case studies
+- Solved annoyances → micro-products
+- Journey → newsletter material
+
+The thesis: AI-augmented leadership compounds faster than traditional approaches.
