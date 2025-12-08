@@ -612,7 +612,7 @@ Ah, based on your earlier answers, I think I have enough context for the Regret 
 [Continue through remaining questions, skipping or confirming those already addressed]
 ```
 
-**Magic wand + worst case:** Ask once, early, as these inform multiple frameworks:
+**Magic wand + worst case + intuition:** Ask once, early, as these inform multiple frameworks:
 
 ```
 Before we dive into framework-specific questions:
@@ -621,5 +621,116 @@ Before we dive into framework-specific questions:
 
 2. **Worst case:** What's the fear? If this fails completely, what does that look like and feel like?
 
-[These answers inform Regret Min, Asymmetric Bets, and Risk analysis]
+3. **Gut check:** Right now, before any analysis—what does your gut say? Excited? Hesitant? Conflicted?
+
+4. **Inspiration:** What about this excites you? Why are you drawn to this decision in the first place?
+
+5. **Energy read:** When you imagine doing this work, do you feel energized or drained?
+
+[These answers inform Regret Min, Asymmetric Bets, Risk analysis, and provide a baseline intuition to compare against rational analysis]
+```
+
+---
+
+## The Intuition Layer
+
+Rational analysis is necessary but not sufficient. The Intuition Layer captures non-rational signals that matter:
+
+### When to Surface Intuition
+
+1. **At the start** (questions above) — Establish baseline gut feel before analysis
+2. **After synthesis** — Does the rational conclusion match your intuition?
+3. **At decision point** — Final gut check before committing
+
+### Intuition vs Analysis Alignment
+
+After Phase 5 (Synthesis), explicitly check:
+
+```
+**Intuition Check**
+
+At the start, you said:
+- Gut feel: [excited/hesitant/conflicted]
+- What excites you: [quote]
+- Energy: [energized/drained]
+
+The rational analysis suggests: [GO/NO-GO/CONDITIONAL]
+
+Does this match your intuition?
+- If YES: Great alignment. Proceed with confidence.
+- If NO: Let's explore the gap.
+```
+
+### When Intuition and Analysis Diverge
+
+This is important data, not a problem to solve:
+
+```
+**Divergence detected:**
+- Intuition says: [X]
+- Analysis says: [Y]
+
+Possible explanations:
+1. Intuition is picking up on something the frameworks missed
+2. Analysis is surfacing risks your excitement is glossing over
+3. You have information/context that didn't come through in the questions
+4. The frameworks don't fit this decision type well
+
+What do you think is driving the gap?
+```
+
+**Resolution options:**
+- Trust intuition (document why)
+- Trust analysis (document the override)
+- Dig deeper (what's the intuition sensing?)
+- Defer (sleep on it, revisit)
+
+### Intuition as a Framework
+
+Consider adding to `skills/decision-frameworks/SKILL.md`:
+
+```markdown
+### Intuition / Gut Feel
+
+**Origin:** Human pattern recognition, accumulated experience
+
+**The Model:**
+Intuition is compressed experience. Your gut has processed thousands of data points
+you can't consciously articulate. It's not irrational—it's pre-rational.
+
+**When to trust it:**
+- Decisions in your domain of expertise
+- When you have relevant lived experience
+- When energy/excitement is a strong signal
+- When rational analysis feels incomplete
+
+**When to question it:**
+- Novel domains with no experience
+- When fear might be masquerading as intuition
+- When excitement might be blinding you to risk
+- When others with experience see it differently
+
+**Questions:**
+- Does this feel right in my body?
+- Am I energized or drained by this path?
+- What is my gut picking up that the analysis isn't?
+- If a friend described this decision, what would I tell them?
+
+**Red Flag:**
+Dismissing intuition entirely OR using intuition to avoid rigorous thinking.
+The goal is integration, not dominance of either mode.
+```
+
+### The "Sleep On It" Option
+
+Some decisions benefit from time:
+
+```
+Before we finalize, do you want to:
+- Decide now (you have clarity)
+- Sleep on it (let intuition process overnight)
+- Talk to someone (external perspective)
+
+If sleeping on it: I'll save everything to the doc. When you return,
+we'll do a fresh gut check and see if anything shifted.
 ```
