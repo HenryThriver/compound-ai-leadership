@@ -32,7 +32,7 @@ This queue tracks when hypotheses are due for review. Check at the start of any 
 
 | Hypothesis | Review Date | Decision | Status |
 |------------|-------------|----------|--------|
-| *None yet* | | | |
+| [Annual Review Product Launch](../decisions/product/2025-12-08-annual-review-product.md) | 2025-01-15 | [Decision](../decisions/product/2025-12-08-annual-review-product.md) | Pending |
 
 ---
 
