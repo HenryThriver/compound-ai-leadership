@@ -48,7 +48,18 @@ Don't rely solely on rational frameworks:
 
 ## Core Resources
 
-**Always load these for any decision or session:**
+### Foundational (Who I Am)
+
+These define the person making decisions—load first to ground everything else:
+
+| Resource | Location | Purpose |
+|----------|----------|---------|
+| Personal Values | `skills/personal-values/SKILL.md` | Deep philosophy of what I value - cascades into all else |
+| Personal Qualities | `skills/personal-qualities/SKILL.md` | How I want to show up in the world |
+
+### Operational (How I Work)
+
+These translate personal values into business context:
 
 | Resource | Location | Purpose |
 |----------|----------|---------|
@@ -62,6 +73,7 @@ Don't rely solely on rational frameworks:
 |----------|----------|------|
 | Tactical Checklists | `skills/tactical-checklists/` | Specific repeatable procedures |
 | Author Profiles | `skills/author-profiles/` | When consulting external mentors |
+| LinkedIn Voice | `skills/linkedin-voice/SKILL.md` | When drafting LinkedIn posts |
 | Past Decisions | `docs/decisions/` | When context from prior decisions matters |
 | Active Hypotheses | `docs/hypotheses/` | When validating experiments |
 
@@ -77,6 +89,8 @@ Located in `agents/internal/`. Represent functional perspectives:
 - `operations-optimizer` - Efficiency, process, scalability
 - `finance-guardian` - Unit economics, cash flow, investment decisions
 - `product-advocate` - User needs, feature prioritization, roadmap
+
+**All agents embody personal values and qualities.** They are extensions of my psyche—functional AND kind, precise, clear, and aligned with what I value. An agent can be purely analytical while still being compassionate in how it surfaces hard truths.
 
 ### External (Mentor Holograms)
 Located in `agents/external/`. Psychographic models of thought leaders.
@@ -101,6 +115,9 @@ Located in `agents/analysis/`. Cross-functional analysis:
 | `/ingest` | `commands/ingestion/` | Process content into knowledge base |
 | `/compound-decision` | `commands/workflows/` | Document decisions while fresh |
 | `/retrospective` | `commands/workflows/` | Validate hypotheses, update learnings |
+| `/analyze-voice` | `commands/workflows/` | Seed LinkedIn voice by analyzing posts |
+| `/draft-post` | `commands/workflows/` | Draft LinkedIn post with validation |
+| `/review-post-image` | `commands/workflows/` | Validate post images for LinkedIn specs |
 
 ---
 
@@ -119,9 +136,12 @@ Every piece flows back into the system. The goal: compound wisdom, not deplete i
 ## Working With This System
 
 ### Before Any Decision
-1. Load `skills/business-values/SKILL.md`
+1. Load `skills/business-values/SKILL.md` (operational principles)
 2. Check `docs/decisions/` for related prior decisions
 3. Identify which frameworks from `skills/decision-frameworks/SKILL.md` apply
+4. If something feels misaligned, surface it—don't hard-stop
+
+Note: Personal values are embodied, not checked per-decision. They surface in periodic reviews.
 
 ### During Meetings/Sessions
 1. Spawn relevant internal agents
@@ -133,10 +153,33 @@ Every piece flows back into the system. The goal: compound wisdom, not deplete i
 2. Extract hypotheses to `docs/hypotheses/`
 3. Set review dates for validation
 
+### When Communicating Publicly
+1. Load `skills/linkedin-voice/SKILL.md` (voice and style)
+2. Embody personal qualities—don't reference them explicitly
+3. Show, don't tell. Live the values; don't announce them.
+
 ### When Things Go Wrong
 1. Document in `docs/learnings/`
 2. Update relevant checklists or values
 3. The system should prevent repeat failures
+
+### Periodic Reviews (Values & Qualities Check)
+Values and qualities are embodied daily but reviewed periodically:
+
+**Weekly Review:**
+- Scan decision logs and communications from the week
+- Gut-check: Did I live my values? Which qualities showed up?
+- Surface misalignments for reflection (not judgment)
+
+**Monthly Review:**
+- Notice patterns and drift
+- Ask: Are my stated values still my actual values?
+- Update `skills/personal-values/SKILL.md` or `skills/personal-qualities/SKILL.md` if needed
+
+**When Misalignment Surfaces:**
+- It's data, not failure
+- Either reconsider the behavior OR reconsider the value
+- Document the tension and resolution in decision logs
 
 ---
 
