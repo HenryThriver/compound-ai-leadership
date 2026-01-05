@@ -1,0 +1,1 @@
+../../../commands/workflows/draft-post.md

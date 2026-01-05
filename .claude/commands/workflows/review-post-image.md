@@ -1,0 +1,1 @@
+../../../commands/workflows/review-post-image.md
