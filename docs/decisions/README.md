@@ -24,7 +24,8 @@ decisions/
 ├── hiring/           # Team, contractors, roles
 ├── strategy/         # Business model, market, partnerships
 ├── operations/       # Process, tools, systems
-└── communication/    # Messaging, support, content
+├── communication/    # Messaging, support, content
+└── personal/         # Life decisions, programs, relationships
 ```
 
 ---
@@ -59,6 +60,9 @@ When facing a new decision:
 ## Decision Index
 
 *Populate through `/compound-decision` workflow*
+
+### Personal
+- [2026-01-05] [Apply to REALITY iTrek Israel — AI/Tech Cohort](personal/2026-01-05-reality-eyetrek-israel-application.md) - GO
 
 <!--
 ### Pricing
