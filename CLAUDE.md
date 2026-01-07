@@ -29,8 +29,10 @@ Decision-making and analysis should be dialogues:
 ### 4. Check Review Queue at Session Start
 At the start of any session (`/tactical-session`, `/strategic-review`, etc.):
 1. Check `docs/hypotheses/REVIEW_QUEUE.md`
-2. Surface any overdue or due-this-week items
-3. Ask if user wants to address them first
+2. Check `docs/job-search/NEXT_ACTIONS.md` for relationship/job search tasks
+3. Check `docs/relationships/loops/open.md` for due loops
+4. Surface any overdue or due-this-week items
+5. Ask if user wants to address them first
 
 ### 5. Value Calibration Compounds
 When checking value alignment:
@@ -76,6 +78,11 @@ These translate personal values into business context:
 | LinkedIn Voice | `skills/linkedin-voice/SKILL.md` | When drafting LinkedIn posts |
 | Past Decisions | `docs/decisions/` | When context from prior decisions matters |
 | Active Hypotheses | `docs/hypotheses/` | When validating experiments |
+| Relationship Building | `skills/relationship-building/SKILL.md` | When working on networking/connections |
+| Job Search Actions | `docs/job-search/NEXT_ACTIONS.md` | **Check at session start** - active tasks |
+| Career Thesis | `docs/job-search/career-thesis.md` | When evaluating opportunities |
+| Company Scorecard | `docs/job-search/company-scorecard.md` | When researching target companies |
+| Open Loops | `docs/relationships/loops/open.md` | POGs, Asks, Intros to follow up on |
 
 ---
 
