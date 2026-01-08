@@ -173,8 +173,13 @@ From `docs/relationships/loops/open.md`:
 
 **Friday Jan 10:**
 - Brooke lunch (come prepared!)
-- Research sprint on VoiceAI companies
-- Follow up with Moin/Nikhil on intros
+- **Morning session:**
+  1. Build company evaluation framework/worldview
+  2. Research VoiceAI companies - identify CRO/VP Sales/RevOps at each target company
+  3. Scrape + build baseball cards for key execs at target companies
+  4. Pull LinkedIn contacts → find SF event invites (Ronak's criteria)
+  5. Reply to Moin/Nikhil with specific intro requests
+- **Ronak Gandhi** - Structify founder, SF event host - profile scraped ✓
 
 **Principle:** "Here's a link" is noise. "Here's why this matters to *you*" is a POG.
 

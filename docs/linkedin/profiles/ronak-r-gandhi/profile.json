@@ -1,0 +1,716 @@
+{
+  "id": 723387964,
+  "urn": "ACoAACseBjwB6BinkwHy1TRGk7QOYv5u9bEDbP4",
+  "username": "ronak-r-gandhi",
+  "firstName": "Ronak",
+  "lastName": "Gandhi",
+  "isCreator": true,
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQHEcbzqoXlvFA/profile-displayphoto-shrink_400_400/B4EZW0b.O0GwAk-/0/1742488986861?e=1769644800&v=beta&t=OyNtIy2bn6-FS_U2lGbCr6QR8gMlZ8AMfT1Z_xXqN10",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHEcbzqoXlvFA/profile-displayphoto-shrink_200_200/B4EZW0b.O0GwAc-/0/1742488986857?e=1769644800&v=beta&t=5wvLp4ezQBvDzahFtXv5x1HqMt-YcdkGvGc3bSlD8Jg",
+      "width": 199,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHEcbzqoXlvFA/profile-displayphoto-shrink_800_800/B4EZW0b.O0GwAg-/0/1742488986857?e=1769644800&v=beta&t=No0KQI_eoMIKoQREVCFCAdJhP81Y5RKTetBuWzx8HHM",
+      "width": 388,
+      "height": 388
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHEcbzqoXlvFA/profile-displayphoto-shrink_100_100/B4EZW0b.O0GwAY-/0/1742488986857?e=1769644800&v=beta&t=P1UkjyBHO3-2xMUtsdTvm5tisyhcsxIpWhEz866S6Xs",
+      "width": 99,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHEcbzqoXlvFA/profile-displayphoto-shrink_400_400/B4EZW0b.O0GwAk-/0/1742488986861?e=1769644800&v=beta&t=OyNtIy2bn6-FS_U2lGbCr6QR8gMlZ8AMfT1Z_xXqN10",
+      "width": 388,
+      "height": 388
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/D4E16AQF7FPl5uZEn6g/profile-displaybackgroundimage-shrink_350_1400/B4EZaGoul_GYAY-/0/1746015546813?e=1769644800&v=beta&t=8neMqV84G1cw87gGlj-pxJRCXlGABwqmf5UmtWW6oPo"
+    },
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D4E16AQF7FPl5uZEn6g/profile-displaybackgroundimage-shrink_200_800/B4EZaGoul_GYAU-/0/1746015546813?e=1769644800&v=beta&t=GItTVu54yJiB_4SOksTpC94XwuFlqoLOkKZCK_o-IdQ"
+    }
+  ],
+  "summary": "Building @ Structify. We're making a world where anyone (yes, even your parents) can be a top-caliber data scientist.\n\nOutside of work, you can find me writing, exploring the East Coast, mentoring students, and testing recipes.",
+  "headline": "Founder @ Structify",
+  "geo": {
+    "country": "United States",
+    "city": "Brooklyn, New York",
+    "full": "Brooklyn, New York, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 5,
+        "day": 0
+      },
+      "fieldOfStudy": "Humanities",
+      "degree": "Bachelor's degree",
+      "grade": "cum laude, distinction in the major",
+      "schoolName": "Yale University",
+      "description": "Awards: Fulbright Creative Arts Award Semifinalist, Humanity in Action Fellowship, Yale Public Service Grant, Yale Dramatic Association BIPOC Theatremaker Fellowship, Richard U. Light Fellowship (language study in East Asia)",
+      "activities": "Curling Team, Yale Herald, Yale Record, Morse College",
+      "url": "https://www.linkedin.com/school/yale-university/",
+      "schoolId": "15248569",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_200_200/company-logo_200_200/0/1631385636084?e=1769644800&v=beta&t=OQQik8P-vBAe6FX-QjKCP-jNs4jcsDjhl3jSLkxwgk0",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_100_100/company-logo_100_100/0/1631385636084?e=1769644800&v=beta&t=JHTKuXAUb1iUJggGIsLol18FE08hzyPZiiAOxCpKoQk",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_400_400/company-logo_400_400/0/1631385636084?e=1769644800&v=beta&t=cGPSconfYEat9EqwkzUtj56XShwzqO4-JsdgXOwDjqY",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "High School Diploma",
+      "grade": "",
+      "schoolName": "Trinity Valley School",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/trinity-valley-school/",
+      "schoolId": "283498",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGQcGEjPx7quQ/company-logo_200_200/company-logo_200_200/0/1630354271746/trinity_valley_school_logo?e=1769644800&v=beta&t=uZaTcb8BJbQUB_IxPB9JRSNYIFsMC9mp-vi1HXYS5OA",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGQcGEjPx7quQ/company-logo_100_100/company-logo_100_100/0/1630354271746/trinity_valley_school_logo?e=1769644800&v=beta&t=VMogzF4SKvGxGwYnZLsXM5EK9949IDPgp3zK0YWBbAA",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGQcGEjPx7quQ/company-logo_400_400/company-logo_400_400/0/1630354271746/trinity_valley_school_logo?e=1769644800&v=beta&t=Z5IGCBwYcW1iTS0uFaW1lwIzchWTJOo9e8iUbTPBwkg",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 98727642,
+      "companyName": "Structify",
+      "companyUsername": "structifyai",
+      "companyURL": "https://www.linkedin.com/company/structifyai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHp-TiEb1f2eA/company-logo_200_200/B4EZaGo46JHEAM-/0/1746015588361/structifyai_logo?e=1769644800&v=beta&t=XFJHy9W03GhO25xOvPtqzMQirUsFnTfz5oWr-guZ1ik",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Structify"
+      },
+      "location": "Brooklyn, New York, United States",
+      "locationType": "",
+      "description": "Your AI Data Team: do your messy data work in plain English",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18617159,
+      "companyName": "Cold Tea Collective",
+      "companyUsername": "coldteacollective",
+      "companyURL": "https://www.linkedin.com/company/coldteacollective/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFSh2nXZ0k6Yw/company-logo_400_400/company-logo_400_400/0/1630602286834/coldteacollective_logo?e=1769644800&v=beta&t=Ryg0gmhEFmcnfTVxz4lQe1KnKon5C7W4I3KhMG9-LPI",
+      "companyIndustry": "Marketing & Advertising",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Contributing Writer & Columnist",
+      "multiLocaleTitle": {
+        "en_US": "Contributing Writer & Columnist"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Cold Tea Collective"
+      },
+      "location": "Remote",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2022,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19321,
+      "companyName": "United Talent Agency",
+      "companyUsername": "unitedtalent",
+      "companyURL": "https://www.linkedin.com/company/unitedtalent/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEcA2Prw_Raiw/company-logo_400_400/company-logo_400_400/0/1689105704003/unitedtalent_logo?e=1769644800&v=beta&t=QXhozHrpov_jWKaScQoz5xKi79g-87lp4lkhMAg5LAE",
+      "companyIndustry": "Entertainment",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "\"Data Guy\"",
+      "multiLocaleTitle": {
+        "en_US": "\"Data Guy\""
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "United Talent Agency"
+      },
+      "location": "New York, New York, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10520437,
+      "companyName": "Men4Choice",
+      "companyUsername": "men4choice",
+      "companyURL": "https://www.linkedin.com/company/men4choice/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOECB30ZoipQ/company-logo_100_100/B4EZuVRm8gHoAU-/0/1767735980310/men4choice_logo?e=1769644800&v=beta&t=9Os_UHyiAN4Nj_nHPpkXuEwZk6FAWBEqEmhJS0PlIF0",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "2 - 10",
+      "title": "GOTV Coordinator",
+      "multiLocaleTitle": {
+        "en_US": "GOTV Coordinator"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Men4Choice"
+      },
+      "location": "Remote",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 79039265,
+      "companyName": "Yale Asian American Cultural Center",
+      "companyUsername": "yaleaacc",
+      "companyURL": "https://www.linkedin.com/company/yaleaacc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFmjCIjRC54_w/company-logo_400_400/company-logo_400_400/0/1644437679011?e=1769644800&v=beta&t=fSC654z1nIYzFVv6WFKTq_eUhpFw_5Hv7otw0szZFT0",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Head Peer Liaison",
+      "multiLocaleTitle": {
+        "en_US": "Co-Head Peer Liaison"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Yale Asian American Cultural Center"
+      },
+      "location": "New Haven, Connecticut, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 79039265,
+      "companyName": "Yale Asian American Cultural Center",
+      "companyUsername": "yaleaacc",
+      "companyURL": "https://www.linkedin.com/company/yaleaacc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFmjCIjRC54_w/company-logo_400_400/company-logo_400_400/0/1644437679011?e=1769644800&v=beta&t=fSC654z1nIYzFVv6WFKTq_eUhpFw_5Hv7otw0szZFT0",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Peer Liaison",
+      "multiLocaleTitle": {
+        "en_US": "Peer Liaison"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Yale Asian American Cultural Center"
+      },
+      "location": "New Haven, Connecticut, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2020,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Gawsy Gear",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Founder",
+      "multiLocaleTitle": {
+        "en_US": "Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Gawsy Gear"
+      },
+      "location": "Dallas-Fort Worth Metroplex",
+      "locationType": "",
+      "description": "Built a subscription service for refurbished sports gear for multikid families. Think StitchFix but for athletic (growing) kids.",
+      "employmentType": "Self-employed",
+      "start": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 98727642,
+      "companyName": "Structify",
+      "companyUsername": "structifyai",
+      "companyURL": "https://www.linkedin.com/company/structifyai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHp-TiEb1f2eA/company-logo_200_200/B4EZaGo46JHEAM-/0/1746015588361/structifyai_logo?e=1769644800&v=beta&t=XFJHy9W03GhO25xOvPtqzMQirUsFnTfz5oWr-guZ1ik",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Structify"
+      },
+      "location": "Brooklyn, New York, United States",
+      "locationType": "",
+      "description": "Your AI Data Team: do your messy data work in plain English",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18617159,
+      "companyName": "Cold Tea Collective",
+      "companyUsername": "coldteacollective",
+      "companyURL": "https://www.linkedin.com/company/coldteacollective/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFSh2nXZ0k6Yw/company-logo_400_400/company-logo_400_400/0/1630602286834/coldteacollective_logo?e=1769644800&v=beta&t=Ryg0gmhEFmcnfTVxz4lQe1KnKon5C7W4I3KhMG9-LPI",
+      "companyIndustry": "Marketing & Advertising",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Contributing Writer & Columnist",
+      "multiLocaleTitle": {
+        "en_US": "Contributing Writer & Columnist"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Cold Tea Collective"
+      },
+      "location": "Remote",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2022,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19321,
+      "companyName": "United Talent Agency",
+      "companyUsername": "unitedtalent",
+      "companyURL": "https://www.linkedin.com/company/unitedtalent/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEcA2Prw_Raiw/company-logo_400_400/company-logo_400_400/0/1689105704003/unitedtalent_logo?e=1769644800&v=beta&t=QXhozHrpov_jWKaScQoz5xKi79g-87lp4lkhMAg5LAE",
+      "companyIndustry": "Entertainment",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "\"Data Guy\"",
+      "multiLocaleTitle": {
+        "en_US": "\"Data Guy\""
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "United Talent Agency"
+      },
+      "location": "New York, New York, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10520437,
+      "companyName": "Men4Choice",
+      "companyUsername": "men4choice",
+      "companyURL": "https://www.linkedin.com/company/men4choice/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOECB30ZoipQ/company-logo_100_100/B4EZuVRm8gHoAU-/0/1767735980310/men4choice_logo?e=1769644800&v=beta&t=9Os_UHyiAN4Nj_nHPpkXuEwZk6FAWBEqEmhJS0PlIF0",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "2 - 10",
+      "title": "GOTV Coordinator",
+      "multiLocaleTitle": {
+        "en_US": "GOTV Coordinator"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Men4Choice"
+      },
+      "location": "Remote",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 79039265,
+      "companyName": "Yale Asian American Cultural Center",
+      "companyUsername": "yaleaacc",
+      "companyURL": "https://www.linkedin.com/company/yaleaacc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFmjCIjRC54_w/company-logo_400_400/company-logo_400_400/0/1644437679011?e=1769644800&v=beta&t=fSC654z1nIYzFVv6WFKTq_eUhpFw_5Hv7otw0szZFT0",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Head Peer Liaison",
+      "multiLocaleTitle": {
+        "en_US": "Co-Head Peer Liaison"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Yale Asian American Cultural Center"
+      },
+      "location": "New Haven, Connecticut, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 79039265,
+      "companyName": "Yale Asian American Cultural Center",
+      "companyUsername": "yaleaacc",
+      "companyURL": "https://www.linkedin.com/company/yaleaacc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFmjCIjRC54_w/company-logo_400_400/company-logo_400_400/0/1644437679011?e=1769644800&v=beta&t=fSC654z1nIYzFVv6WFKTq_eUhpFw_5Hv7otw0szZFT0",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Peer Liaison",
+      "multiLocaleTitle": {
+        "en_US": "Peer Liaison"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Yale Asian American Cultural Center"
+      },
+      "location": "New Haven, Connecticut, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2020,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Gawsy Gear",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Founder",
+      "multiLocaleTitle": {
+        "en_US": "Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Gawsy Gear"
+      },
+      "location": "Dallas-Fort Worth Metroplex",
+      "locationType": "",
+      "description": "Built a subscription service for refurbished sports gear for multikid families. Think StitchFix but for athletic (growing) kids.",
+      "employmentType": "Self-employed",
+      "start": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Startup Development",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Client Relations",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Sales",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Script Coverage",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Policy Analysis",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Social Entrepreneurship",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Creative Writing",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Cooking",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Computer Literacy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Public Speaking",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Japanese",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Chinese",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Coding Experience",
+      "passedSkillAssessment": false
+    }
+  ],
+  "projects": {},
+  "publications": [
+    {
+      "publishedOn": {
+        "year": 2023,
+        "month": 8,
+        "day": 11
+      },
+      "name": "Love in Taipei: Escaping to the Homeland",
+      "publisher": "Cold Tea Collective",
+      "url": "https://coldteacollective.com/love-in-taipei-escaping-to-the-homeland/"
+    },
+    {
+      "publishedOn": {
+        "year": 2023,
+        "month": 7,
+        "day": 17
+      },
+      "name": "Keep RRR-evolting: Return the Oscar for Naatu Naatu",
+      "publisher": "Cold Tea Collective",
+      "url": "https://coldteacollective.com/naatu-naatu-rrr-oscars/"
+    },
+    {
+      "publishedOn": {
+        "year": 2022,
+        "month": 11,
+        "day": 30
+      },
+      "name": "Imagining a National Museum of Asian Pacific American History and Culture",
+      "publisher": "Washington City Paper",
+      "url": "https://washingtoncitypaper.com/article/579957/imagining-a-national-museum-of-asian-pacific-american-history-and-culture/"
+    },
+    {
+      "publishedOn": {
+        "year": 2022,
+        "month": 8,
+        "day": 12
+      },
+      "name": "Thai Restaurateur Expands to Crown",
+      "publisher": "New Haven Independent",
+      "url": "https://www.newhavenindependent.org/article/thai_restaurateur_expands_to_crown"
+    },
+    {
+      "publishedOn": {
+        "year": 2022,
+        "month": 4,
+        "day": 17
+      },
+      "name": "The Batman: Why so Villainous",
+      "publisher": "Yale Herald",
+      "url": "https://yale-herald.com/2022/04/17/the-batman-why-so-villainous/"
+    }
+  ],
+  "volunteering": [
+    {
+      "title": "Volunteer",
+      "start": {
+        "year": 2020,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 12,
+        "day": 0
+      },
+      "companyName": "South Asian American Digital Archive",
+      "CompanyId": "",
+      "companyUrl": "",
+      "companyLogo": ""
+    },
+    {
+      "title": "Volunteer",
+      "start": {
+        "year": 2021,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 8,
+        "day": 0
+      },
+      "companyName": "Asian/Pacific/American Institute",
+      "CompanyId": "",
+      "companyUrl": "",
+      "companyLogo": ""
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Ronak"
+  },
+  "multiLocaleLastName": {
+    "en": "Gandhi"
+  },
+  "multiLocaleHeadline": {
+    "en": "Founder @ Structify"
+  },
+  "multiLocaleSummary": {
+    "en": "Building @ Structify. We're making a world where anyone (yes, even your parents) can be a top-caliber data scientist.\n\nOutside of work, you can find me writing, exploring the East Coast, mentoring students, and testing recipes."
+  }
+}
