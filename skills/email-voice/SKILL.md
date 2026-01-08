@@ -217,14 +217,17 @@ When in doubt, err slightly more formal. You can always warm up; hard to walk ba
 
 ## Pre-Draft Checklist
 
-Before drafting, pull the contact profile(s) and verify:
+Before drafting, pull the contact profile(s) and review:
 
-- [ ] **Last contact date** — Don't guess; check the file
-- [ ] **Context of last interaction** — What did you discuss?
+- [ ] **Full interaction history** — All logged interactions, not just the most recent
 - [ ] **Open loops** — Anything you owe them or they owe you?
 - [ ] **Relationship depth (RQ)** — Calibrate tone accordingly
 
-This prevents errors (like saying "Monday" when it was Tuesday) and grounds the email in actual history.
+**Philosophy:** Load ALL interactions since you started logging. If it ever becomes too much context, that's a great problem to have — address it then. Until then, more history = better grounding.
+
+This prevents errors (like saying "Monday" when it was Tuesday) and ensures continuity across the relationship arc.
+
+**Note:** This principle applies to ALL channels (email, LinkedIn DM, text, etc.) — not just email. When communicating with someone, have the full relationship context loaded.
 
 ---
 
