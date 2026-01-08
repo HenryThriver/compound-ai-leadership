@@ -92,7 +92,7 @@ See `sent/LOG.md` and `received/LOG.md` for full logs.
 ## Statistics
 
 - **Shareable content:** 4
-- **POGs sent:** 0
+- **POGs sent:** 1
 - **POGs received:** 0
 - **Reciprocity index:** —
 

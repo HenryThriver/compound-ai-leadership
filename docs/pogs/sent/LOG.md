@@ -12,7 +12,7 @@ Content you've shared with others.
 
 | Date | Content | Sent To | Context | Response |
 |------|---------|---------|---------|----------|
-| | | | | |
+| 2026-01-08 | NFX Voice AI + Adam Gross GTM 3.0 | Moin Nadeem, Nikhil Murthy | Follow-up from lunch; wedge strategy, FDE insight, value prop tension, Enterprise Mirage | Pending |
 
 ---
 
@@ -24,8 +24,8 @@ Content you've shared with others.
 
 ## Statistics
 
-- **Total sent:** 0
-- **This month:** 0
+- **Total sent:** 1
+- **This month:** 1
 - **Most shared content:** —
 - **Best response rate:** —
 

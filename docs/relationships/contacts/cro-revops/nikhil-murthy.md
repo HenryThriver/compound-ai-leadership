@@ -11,7 +11,8 @@ Co-founder @ Phonic (Voice AI)
 | **Role** | Co-founder |
 | **How We Met** | Vendor relationship via CloudTrucks |
 | **LinkedIn** | https://linkedin.com/in/nikhil-murthy/ |
-| **Last Contact** | 2026-01-06 |
+| **Email** | murthynikhil@live.com |
+| **Last Contact** | 2026-01-08 |
 
 ## Personal Notes
 

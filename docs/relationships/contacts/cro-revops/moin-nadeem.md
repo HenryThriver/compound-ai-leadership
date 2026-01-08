@@ -11,7 +11,8 @@ Co-founder @ Phonic (Voice AI)
 | **Role** | Co-founder |
 | **How We Met** | Vendor relationship via CloudTrucks |
 | **LinkedIn** | https://www.linkedin.com/in/moin-nadeem/ |
-| **Last Contact** | 2026-01-06 |
+| **Email** | moinnadeem@moinnadeem.com |
+| **Last Contact** | 2026-01-08 |
 
 ## Personal Notes
 
