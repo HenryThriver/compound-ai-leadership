@@ -28,7 +28,7 @@ Co-founder @ Phonic (Voice AI)
 
 ## Relationship Notes
 
-**2026-01-06 - Lunch @ ROOH (SF) with Moin**
+**2026-01-07 - Lunch @ ROOH (SF) with Moin**
 - Candid conversation about their fundraise, GTM plans, Voice AI industry
 - They're focused on core infrastructure before scaling GTM (sensible)
 - Starting with AE hire, leadership later

@@ -215,6 +215,19 @@ When in doubt, err slightly more formal. You can always warm up; hard to walk ba
 
 ---
 
+## Pre-Draft Checklist
+
+Before drafting, pull the contact profile(s) and verify:
+
+- [ ] **Last contact date** — Don't guess; check the file
+- [ ] **Context of last interaction** — What did you discuss?
+- [ ] **Open loops** — Anything you owe them or they owe you?
+- [ ] **Relationship depth (RQ)** — Calibrate tone accordingly
+
+This prevents errors (like saying "Monday" when it was Tuesday) and grounds the email in actual history.
+
+---
+
 ## Quality Checklist
 
 Before sending important emails:
