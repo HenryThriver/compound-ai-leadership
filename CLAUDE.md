@@ -84,6 +84,24 @@ These translate personal values into business context:
 | Company Scorecard | `docs/job-search/company-scorecard.md` | When researching target companies |
 | Open Loops | `docs/relationships/loops/open.md` | POGs, Asks, Intros to follow up on |
 
+### Knowledge Compounding (Content → Wisdom)
+
+Two stables of accumulated knowledge, built from consumed content:
+
+| Resource | Location | Purpose |
+|----------|----------|---------|
+| **Big Idea** | `docs/content/BIG_IDEA.md` | Philosophy behind knowledge compounding |
+| **Content Library** | `docs/content/` | All consumed content with notes |
+| **Functional Areas** | `skills/functional/` | Domain expertise (marketing, product, voice-ai, etc.) |
+| **Thinker Avatars** | `skills/thinkers/` | Individual worldviews (Paul Graham, Reid Hoffman, etc.) |
+| **POG Index** | `docs/pogs/INDEX.md` | Shareable content with your angle |
+| **Content Ingestion** | `skills/content-ingestion/SKILL.md` | Workflow for processing content |
+
+**Templates for consistency:**
+- `skills/thinkers/_TEMPLATE/` — Structure for every thinker profile
+- `skills/functional/_TEMPLATE/` — Structure for every functional area
+- `docs/content/_TEMPLATE.md` — Structure for every content file
+
 ---
 
 ## Agents
@@ -99,11 +117,13 @@ Located in `agents/internal/`. Represent functional perspectives:
 
 **All agents embody personal values and qualities.** They are extensions of my psyche—functional AND kind, precise, clear, and aligned with what I value. An agent can be purely analytical while still being compassionate in how it surfaces hard truths.
 
-### External (Mentor Holograms)
-Located in `agents/external/`. Psychographic models of thought leaders.
-- Built from ingested content (books, interviews, letters)
-- Invoke for major decisions requiring outside perspective
-- Use `mentor-template.md` to create new mentors
+### External (Thinker Avatars)
+Located in `skills/thinkers/`. Deep profiles of thought leaders built from their content.
+- Each thinker has: PROFILE.md (worldview), CANON.md (content consumed), INSIGHTS.md (ideas)
+- Built incrementally through content ingestion workflow
+- Depth score reflects confidence in simulation
+- Invoke for perspective, advice, or debate
+- See `skills/thinkers/_TEMPLATE/` for structure
 
 ### Analysis
 Located in `agents/analysis/`. Cross-functional analysis:
@@ -119,7 +139,7 @@ Located in `agents/analysis/`. Cross-functional analysis:
 |---------|----------|---------|
 | `/tactical-session` | `commands/meetings/` | Structured working sessions |
 | `/strategic-review` | `commands/meetings/` | Big picture reviews with mentors |
-| `/ingest` | `commands/ingestion/` | Process content into knowledge base |
+| `/ingest-content` | `skills/content-ingestion/SKILL.md` | Process content → functional areas + thinkers + POGs |
 | `/compound-decision` | `commands/workflows/` | Document decisions while fresh |
 | `/retrospective` | `commands/workflows/` | Validate hypotheses, update learnings |
 | `/analyze-voice` | `commands/workflows/` | Seed LinkedIn voice by analyzing posts |
