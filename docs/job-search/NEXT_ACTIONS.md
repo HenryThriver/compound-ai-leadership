@@ -98,6 +98,13 @@ From `docs/relationships/loops/open.md`:
 - [x] Skill documentation: `skills/linkedin-scraper/SKILL.md` ✓
 - [ ] Set up post monitoring workflow (weekly pulls for POG matching)
 
+### Gmail Integration
+- [ ] Set up Gmail API access (OAuth)
+- [ ] Script to fetch email threads by contact
+- [ ] Extract signal from email exchanges for baseball cards
+- [ ] Map email addresses to contact profiles
+- [ ] Private sphere data (higher confidence than LinkedIn public sphere)
+
 ### Readwise Integration
 - [x] API connected and tested ✓
 - [x] `get-highlights.sh` script working ✓
