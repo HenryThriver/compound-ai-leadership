@@ -154,7 +154,7 @@ From `docs/relationships/loops/open.md`:
 
 - [ ] Finish reading Ignite
 - [ ] Write book review with questions (promised to Joseph)
-- [ ] Scrape LinkedIn profiles: Coach K, Vini, Lesley, Joseph
+- [x] Scrape LinkedIn profiles: Coach K, Vini, Lesley, Joseph ✓ (batch scraped all 11 contacts)
 - [ ] Prepare for reading group participation
 
 ### Profiles
@@ -164,10 +164,11 @@ From `docs/relationships/loops/open.md`:
 
 ## Session Notes
 
-**Thursday Jan 9 (Today):**
+**Thursday Jan 9:**
 - [x] LinkedIn scraping workflow complete ✓
 - [x] Brooke Hopkins profile + posts scraped ✓
 - [x] Baseball card synthesized through Connection Surface Schema ✓
+- [x] Batch scraped all 11 contacts (profile + posts + baseball card synthesis) ✓
 - [ ] Final prep: voice AI questions + Phonic company list
 
 **Friday Jan 10:**
@@ -192,6 +193,11 @@ From `docs/relationships/loops/open.md`:
 - [x] Create Connection Surface Schema for relationship signal extraction
 - [x] Scrape Brooke Hopkins profile + 50 posts
 - [x] Synthesize Brooke's baseball card through Connection Surface Schema
+- [x] **Batch scrape all 11 contacts** - profiles + posts + baseball card synthesis:
+  - Moin Nadeem, Nikhil Murthy (Phonic)
+  - Coach K, Vini Galera, Lesley Carstens, Joseph Phillips
+  - Katie Chatterton, Jak Utley, Kim McGoldrick
+  - Jeremy Klammer, Michael Salmon
 
 ## Completed (2026-01-06)
 
