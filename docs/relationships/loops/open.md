@@ -8,6 +8,7 @@ Active POGs, Asks, and Intros that need follow-through.
 
 | Date | From | Intro To | Context | Status | Next Action | Due |
 |------|------|----------|---------|--------|-------------|-----|
+| 2026-01-08 | Michael Salmon | His partner (AI/GTM) | LI reconnection - partner has been tracking AI, building business together, wants to connect | Queued | Wait for Michael to facilitate | TBD |
 | 2026-01-06 | Moin/Nikhil (Phonic) | VoiceAI founders in their network | Lunch @ ROOH - they offered to connect me with interesting founders | Queued | Follow up to activate | 2026-01-13 |
 
 ## Intros I Offered
