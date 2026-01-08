@@ -1,0 +1,568 @@
+{
+  "id": 352307472,
+  "urn": "ACoAABT_yRABlfmpjqxtT6fQWWp2kB6bbaRPy5k",
+  "username": "bnhop",
+  "firstName": "Brooke",
+  "lastName": "Hopkins",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHxJ938dEclBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725358695719?e=1769644800&v=beta&t=9KfzJ8EStouo5n1Kwgl2Qot1dAbeUN_EhPP1nK2nOFw",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQHxJ938dEclBQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725358695768?e=1769644800&v=beta&t=I2eIS0vNuZ-j_h19lOT7x4RapF1fhyYhf2MsMi0lsiQ",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQHxJ938dEclBQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725358695768?e=1769644800&v=beta&t=ATdmQCJckGeLD9vNbJQiK3b0JP8oDD4n00kyTifySpg",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQHxJ938dEclBQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725358695768?e=1769644800&v=beta&t=0yUiQbVgfYz2kHq5uWGU9dPthqOGU3rn7m2F0r3rMvo",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQHxJ938dEclBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725358695719?e=1769644800&v=beta&t=9KfzJ8EStouo5n1Kwgl2Qot1dAbeUN_EhPP1nK2nOFw",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 199,
+      "url": "https://media.licdn.com/dms/image/v2/D4D16AQGXaxM0579YiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725363981638?e=1769644800&v=beta&t=GaxTsV4LfIdx7laHoLBozz3omwa9S8MrUsJ86oeHnR4"
+    },
+    {
+      "width": 1400,
+      "height": 349,
+      "url": "https://media.licdn.com/dms/image/v2/D4D16AQGXaxM0579YiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725363981638?e=1769644800&v=beta&t=ZpYVKH9nfwnWB5JTQ1YTBFHxoEueDi5z5GD-q5TQQbI"
+    }
+  ],
+  "summary": "Building simulation for voice and chat agents. Previously led evaluation job infra at Waymo.",
+  "headline": "Founder @ Coval | ex-Waymo",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco Bay Area",
+    "full": "San Francisco Bay Area",
+    "countryCode": "us"
+  },
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Slovak",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science, Mathematics",
+      "degree": "Bachelor of Science (BS)",
+      "grade": "",
+      "schoolName": "New York University Abu Dhabi",
+      "description": "2.1% acceptance rate with students from 120+ countries and full scholarship",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/new-york-university-abu-dhabi/",
+      "schoolId": "977016",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEr7NDNythPxw/company-logo_200_200/company-logo_200_200/0/1631314170855?e=1769644800&v=beta&t=o-W8JRyu2ZAdkO0dfrsatkWZXfCE5wk1H2EYKTpY-2k",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEr7NDNythPxw/company-logo_100_100/company-logo_100_100/0/1631314170855?e=1769644800&v=beta&t=jHR9uxZdQGoyIRGgaGzUz7rgKiJXkCqBXsi2ySQvHww",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEr7NDNythPxw/company-logo_400_400/company-logo_400_400/0/1631314170855?e=1769644800&v=beta&t=YxQJ4eMNbGhYMTyJ2UqeVDguT19pX_BfTcR65p-zMB4",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 104128953,
+      "companyName": "Coval (YC S24)",
+      "companyUsername": "covaldev",
+      "companyURL": "https://www.linkedin.com/company/covaldev/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEXATAnEAicqw/company-logo_400_400/company-logo_400_400/0/1738967065183/covaldev_logo?e=1769644800&v=beta&t=rQMoNEUstt7skpxdiMb77o2COgt8ntCgui7--6Ko3hs",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Founder",
+      "multiLocaleTitle": {
+        "en_US": "Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Coval (YC S24)"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "✦ Simulation & evaluation platform for AI agents, starting with voice and chat assistants 💬 🤖",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 17900793,
+      "companyName": "Waymo",
+      "companyUsername": "waymo",
+      "companyURL": "https://www.linkedin.com/company/waymo/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH7oNKotSNJzg/company-logo_400_400/B56ZsEdpviIcAg-/0/1765306440935/waymo_logo?e=1769644800&v=beta&t=W1GOQR2prfDZMvLyDroJn68RWLeajkgJ2b9JzMUopHU",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Tech Lead, Senior Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Tech Lead, Senior Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Waymo"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "✦ Simulation & evaluation for self driving cars: Tech lead for eval launch infra",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1441,
+      "companyName": "Google",
+      "companyUsername": "google",
+      "companyURL": "https://www.linkedin.com/company/google/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1769644800&v=beta&t=lCXsYIMUN2aVzDPKqhVMRFKQ8rFSGKjsWeTytrKfnIQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Google"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "✦ Cloud",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2018,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 1,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1441,
+      "companyName": "Google",
+      "companyUsername": "google",
+      "companyURL": "https://www.linkedin.com/company/google/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1769644800&v=beta&t=lCXsYIMUN2aVzDPKqhVMRFKQ8rFSGKjsWeTytrKfnIQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Google"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "✦ Google Voice AI Assistant",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2017,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1156836,
+      "companyName": "ART+COM",
+      "companyUsername": "art-com",
+      "companyURL": "https://www.linkedin.com/company/art-com/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFVpBqP876v6g/company-logo_400_400/company-logo_400_400/0/1672911384351/art_com_logo?e=1769644800&v=beta&t=UhSrFGzGVgg4ldmdilu-UeT1LLzYyvi2_pqbQNjsqE4",
+      "companyIndustry": "Design",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "ART+COM"
+      },
+      "location": "Berlin, Germany",
+      "locationType": "",
+      "description": "✦ Tech x Art",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 104128953,
+      "companyName": "Coval (YC S24)",
+      "companyUsername": "covaldev",
+      "companyURL": "https://www.linkedin.com/company/covaldev/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEXATAnEAicqw/company-logo_400_400/company-logo_400_400/0/1738967065183/covaldev_logo?e=1769644800&v=beta&t=rQMoNEUstt7skpxdiMb77o2COgt8ntCgui7--6Ko3hs",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Founder",
+      "multiLocaleTitle": {
+        "en_US": "Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Coval (YC S24)"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "✦ Simulation & evaluation platform for AI agents, starting with voice and chat assistants 💬 🤖",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 17900793,
+      "companyName": "Waymo",
+      "companyUsername": "waymo",
+      "companyURL": "https://www.linkedin.com/company/waymo/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH7oNKotSNJzg/company-logo_400_400/B56ZsEdpviIcAg-/0/1765306440935/waymo_logo?e=1769644800&v=beta&t=W1GOQR2prfDZMvLyDroJn68RWLeajkgJ2b9JzMUopHU",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Tech Lead, Senior Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Tech Lead, Senior Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Waymo"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "✦ Simulation & evaluation for self driving cars: Tech lead for eval launch infra",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1441,
+      "companyName": "Google",
+      "companyUsername": "google",
+      "companyURL": "https://www.linkedin.com/company/google/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1769644800&v=beta&t=lCXsYIMUN2aVzDPKqhVMRFKQ8rFSGKjsWeTytrKfnIQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Google"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "✦ Cloud",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2018,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 1,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1441,
+      "companyName": "Google",
+      "companyUsername": "google",
+      "companyURL": "https://www.linkedin.com/company/google/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1769644800&v=beta&t=lCXsYIMUN2aVzDPKqhVMRFKQ8rFSGKjsWeTytrKfnIQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Google"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "✦ Google Voice AI Assistant",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2017,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1156836,
+      "companyName": "ART+COM",
+      "companyUsername": "art-com",
+      "companyURL": "https://www.linkedin.com/company/art-com/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFVpBqP876v6g/company-logo_400_400/company-logo_400_400/0/1672911384351/art_com_logo?e=1769644800&v=beta&t=UhSrFGzGVgg4ldmdilu-UeT1LLzYyvi2_pqbQNjsqE4",
+      "companyIndustry": "Design",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "ART+COM"
+      },
+      "location": "Berlin, Germany",
+      "locationType": "",
+      "description": "✦ Tech x Art",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 14
+    },
+    {
+      "name": "Public Speaking",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 23
+    },
+    {
+      "name": "Interpersonal Skills",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 11
+    },
+    {
+      "name": "Rapid Prototyping",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Programming",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "C++",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "Java",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 12
+    },
+    {
+      "name": "JavaScript",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "C",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    },
+    {
+      "name": "Python",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "HTML",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "CSS",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Android",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Node.js",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "MySQL",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Ruby on Rails",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Pandas",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Processing",
+      "passedSkillAssessment": false
+    }
+  ],
+  "honors": [
+    {
+      "title": "President's Service Award",
+      "description": "",
+      "issuer": "New York University, New York",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2018,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "title": "President's Service Award",
+      "description": "",
+      "issuer": "New York University",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2017,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "title": "Anita Borg Scholar",
+      "description": "",
+      "issuer": "Anti Borg Foundation",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2016,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "title": "Adobe Women in STEM Scholarship ",
+      "description": "",
+      "issuer": "Adobe Systems",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2016,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Brooke"
+  },
+  "multiLocaleLastName": {
+    "en": "Hopkins"
+  },
+  "multiLocaleHeadline": {
+    "en": "Founder @ Coval | ex-Waymo"
+  },
+  "multiLocaleSummary": {
+    "en": "Building simulation for voice and chat agents. Previously led evaluation job infra at Waymo."
+  }
+}

@@ -1,6 +1,6 @@
 # Job Search: Next Actions
 
-**Start every session here.** Updated: 2026-01-06
+**Start every session here.** Updated: 2026-01-08
 
 ---
 
@@ -8,9 +8,9 @@
 
 | Priority | What | Due | Time Needed |
 |----------|------|-----|-------------|
-| **NOW** | Send GTM 3.0 + NFX POGs to Moin/Nikhil | Wed Jan 8 | 30 min |
-| **URGENT** | Prep for Brooke Hopkins lunch | Fri Jan 10 | 1 hr |
-| **URGENT** | Set up LinkedIn scraping workflow | Thu Jan 9 | 1 hr |
+| **DONE** | ~~Send GTM 3.0 + NFX POGs to Moin/Nikhil~~ | Wed Jan 8 | ✓ |
+| **DONE** | ~~Set up LinkedIn scraping workflow~~ | Thu Jan 9 | ✓ |
+| **MOSTLY DONE** | Prep for Brooke Hopkins lunch | Fri Jan 10 | 15 min left |
 | **THIS WEEK** | Research 6 VoiceAI companies | Fri Jan 10 | 2-3 hrs |
 | **THIS WEEK** | Follow up with Moin/Nikhil on intros | Fri Jan 10 | 15 min |
 | **THIS WEEK** | Capture 2 networking dinners | After events | 15 min each |
@@ -21,35 +21,29 @@
 
 ## 1. Time-Sensitive Actions
 
-### POGs to Send (Due: Wed Jan 8)
+### POGs Sent (Wed Jan 8) ✓
 
-**Ready to send - just needs your message:**
+- [x] **GTM 3.0 (Adam Gross)** to Moin/Nikhil - SENT
+- [x] **NFX Voice AI article** to Moin/Nikhil - SENT
 
-- [ ] **GTM 3.0 (Adam Gross)** to Moin/Nikhil
-  - Heavybit video: https://www.heavybit.com/library/video/self-serve-go-to-market
-  - SaaStr review: https://www.saastr.com/the-journey-from-freemium-to-plg-to-slg-key-learnings-from-dropbox-salesforce-and-vimeo/
-  - Angle: Their GTM build-out Q2/Q3
-
-- [ ] **NFX Voice AI article** to Moin/Nikhil
-  - Link: https://www.nfx.com/post/voice-ai-is-working
-  - **26 Readwise highlights ready** - run `./utils/readwise/get-highlights.sh "voice-ai"`
-  - Key highlights for them: wedge strategy, voice as product vs wedge, GTM expansion paths
-  - Angle: Connect to their fundraise + platform expansion
-
-### Brooke Hopkins Lunch Prep (Fri Jan 10)
+### Brooke Hopkins Lunch Prep (Fri Jan 10) - ALMOST READY
 
 **Who:** Founder of Coval (voice AI evals), SF voice AI scene connector
 **Goal:** Deep dive on voice AI landscape, companies to watch
 
-**Prep needed:**
-- [ ] Scrape her LinkedIn profile
-- [ ] Pull her recent LinkedIn posts (what's top of mind?)
-- [ ] Research Coval - what exactly do they do?
-- [ ] Prepare questions about voice AI landscape
-- [ ] Get her take on: assorthealth, arini, fleetworks, netic, sierra, decagon
-- [ ] Ask about other companies/people she'd recommend
+**Prep completed:**
+- [x] Scrape her LinkedIn profile ✓
+- [x] Pull her recent LinkedIn posts (50 posts) ✓
+- [x] Research Coval - simulation & eval for AI agents ✓
+- [x] Synthesize through Connection Surface Schema ✓
+- [x] Generate conversation starters from her posts ✓
 
-**Profile:** `docs/relationships/contacts/cro-revops/brooke-hopkins.md`
+**Still need:**
+- [ ] Prepare specific questions about voice AI landscape
+- [ ] Review companies from Phonic list - get her perspective on: assorthealth, arini, fleetworks, netic, sierra, decagon
+
+**Profile:** `docs/relationships/contacts/cro-revops/brooke-hopkins.md` (fully updated)
+**Raw data:** `docs/linkedin/profiles/bnhop/`
 
 ### Upcoming Events to Capture
 
@@ -95,10 +89,14 @@ From `docs/relationships/loops/open.md`:
 
 ## 4. System & Workflow Build-Out (Backlog)
 
-### LinkedIn Integration
-- [ ] Import LinkedIn API workflow from BC Labs/CultivateHQ
-- [ ] Set up profile scraping skill (quarterly cadence)
-- [ ] Set up post monitoring skill (weekly pulls for POG matching)
+### LinkedIn Integration ✓
+- [x] Set up LinkedIn scraping skill with RapidAPI (UltraAPIs) ✓
+- [x] Profile scraping script: `./utils/linkedin/fetch-profile.sh` ✓
+- [x] Posts scraping script: `./utils/linkedin/fetch-posts.sh` ✓
+- [x] Post + comments script: `./utils/linkedin/fetch-post-comments.sh` ✓
+- [x] Connection Surface Schema for extraction: `skills/relationship-building/CONNECTION_SURFACE_SCHEMA.md` ✓
+- [x] Skill documentation: `skills/linkedin-scraper/SKILL.md` ✓
+- [ ] Set up post monitoring workflow (weekly pulls for POG matching)
 
 ### Readwise Integration
 - [x] API connected and tested ✓
@@ -166,16 +164,13 @@ From `docs/relationships/loops/open.md`:
 
 ## Session Notes
 
-**Tomorrow (Tue):** Send POGs to Moin/Nikhil
-- GTM 3.0: Link + brief context
-- NFX: Link + Readwise highlights + commentary
+**Thursday Jan 9 (Today):**
+- [x] LinkedIn scraping workflow complete ✓
+- [x] Brooke Hopkins profile + posts scraped ✓
+- [x] Baseball card synthesized through Connection Surface Schema ✓
+- [ ] Final prep: voice AI questions + Phonic company list
 
-**Wed/Thu:** LinkedIn scraping workflow + Brooke prep
-- Need LinkedIn data before Friday lunch
-- Scrape: Brooke, Moin, Nikhil, Coach K
-- Research Coval
-
-**Friday:**
+**Friday Jan 10:**
 - Brooke lunch (come prepared!)
 - Research sprint on VoiceAI companies
 - Follow up with Moin/Nikhil on intros
@@ -189,6 +184,14 @@ From `docs/relationships/loops/open.md`:
 - Readwise highlights: `./utils/readwise/get-highlights.sh "search term"`
 
 ---
+
+## Completed (2026-01-08)
+
+- [x] Send GTM 3.0 + NFX POGs to Moin/Nikhil
+- [x] Set up LinkedIn scraping workflow (3 scripts + skill doc)
+- [x] Create Connection Surface Schema for relationship signal extraction
+- [x] Scrape Brooke Hopkins profile + 50 posts
+- [x] Synthesize Brooke's baseball card through Connection Surface Schema
 
 ## Completed (2026-01-06)
 

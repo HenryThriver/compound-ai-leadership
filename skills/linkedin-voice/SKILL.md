@@ -59,6 +59,7 @@ What makes your posts sound like you:
 5. **Mix of peer + authority** — sometimes learning alongside, sometimes teaching from experience
 6. **Establish credibility, then surprise** — acknowledge expertise before revealing you were still impressed. "Even though I know X, I was still Y." Makes discoveries more credible.
 7. **Punchy parentheticals** — use parentheticals when they add texture or credibility without breaking flow. Keep them short.
+8. **Ground credibility in specifics** — avoid vague qualifiers ("at this level," "really impressive"). Use concrete signals ("working with industry leaders," "used by 50+ companies"). Specificity cuts through LinkedIn's vapid vapor talk.
 
 **Hook types in your quiver:**
 - **Direct observation** — "I've found that..." (positions you as authority/power user)
@@ -67,6 +68,8 @@ What makes your posts sound like you:
 - **Provocative claim** — but natural-sounding, not stilted. Like an interesting conversation, not a hook.
 
 **Aspiration: More playfulness.** You come across too serious. Levity is welcome.
+
+**Aspiration: Don't undersell enthusiasm.** Warmth and genuine excitement are on-brand. "Quite illuminating" is fine; "quite illuminating and fascinating!" is better when you actually feel it.
 
 **Principle: Never tell people what they will think or feel.** Frame benefits through your experience, not prescriptive "you'll feel X."
 
@@ -135,6 +138,8 @@ Before publishing, every post must pass:
 - **Length:** ~900-1500 chars typical; short commentary posts (1-3 lines) are a valid mode
 - **Hook style:** Natural conversation openers. Lead with the insight, not the source.
 - **Structure:** Pick ONE formatting device per post (bold headers OR bullets OR numbered list — not all three)
+- **Bullets vs prose:** Use bullets for frameworks and multi-part concepts (scannable). Use prose for narratives and reflections.
+- **Tagging:** Tag people and companies when you mention them — increases reach and shows proper attribution.
 
 **Experiment to try:** Zero formatting. Just prose. Like Mollick. See if it feels more authentic — like you actually wrote it. Test for a few posts.
 
@@ -154,6 +159,7 @@ Patterns adopted from creators you study:
 
 | Date | Change | Why |
 |------|--------|-----|
+| 2026-01-08 | Added voice marker #8, formatting guidance, enthusiasm aspiration | WBD Growth Architecture post: "Ground credibility in specifics" (avoid vague qualifiers), bullets for frameworks, tagging guidance, don't undersell warmth. |
 | 2026-01-05 | Added Grounding in Personal Qualities, Quality Dials, qualities check | Connected voice to personal values/qualities framework. Embedded rather than overlaid—qualities are the water the voice swims in. |
 | 2025-12-23 | Added voice markers #6 and #7 | Sabba repost drafting: "Establish credibility, then surprise" and "Punchy parentheticals" patterns identified. |
 | 2025-12-15 | Full voice profile built | /analyze-voice session: 50 own posts + Mollick analysis. Established AI for Thriving brand, voice markers, anti-patterns, constitutional checklist. |
