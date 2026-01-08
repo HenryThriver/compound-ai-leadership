@@ -1,0 +1,378 @@
+{
+  "id": 66459158,
+  "urn": "ACoAAAP2FhYBiX7guTUV4v0aK4soEWckzjmAdXQ",
+  "username": "jeremy-klammer",
+  "firstName": "Jeremy",
+  "lastName": "Klammer",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQF6QeNnWXo0bg/profile-displayphoto-scale_400_400/B56ZlVeyZ7G4Ag-/0/1758075758717?e=1769644800&v=beta&t=VnJr8tznKm00EINy0mS78M7KfRpLevQfesrx_xlzIhQ",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQF6QeNnWXo0bg/profile-displayphoto-scale_200_200/B56ZlVeyZ7G4AY-/0/1758075758717?e=1769644800&v=beta&t=ncmA7AbbE2qpxqFm4XZ2mD-DKsXubjkHC15DtHg7pJg",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQF6QeNnWXo0bg/profile-displayphoto-crop_800_800/B56ZlVeyZ7G4AI-/0/1758075758635?e=1769644800&v=beta&t=k3HNv8_SIkzOnfNZElNnJ_ijn8VIO7M0OHLmHTSCF2M",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQF6QeNnWXo0bg/profile-displayphoto-scale_100_100/B56ZlVeyZ7G4Ac-/0/1758075758717?e=1769644800&v=beta&t=Fl0_ip64uV3P-zKy9s2w8_dF3fj-BcNVg-LgVleFZbQ",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQF6QeNnWXo0bg/profile-displayphoto-scale_400_400/B56ZlVeyZ7G4Ag-/0/1758075758717?e=1769644800&v=beta&t=VnJr8tznKm00EINy0mS78M7KfRpLevQfesrx_xlzIhQ",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "summary": "Engineer turned product builder with experience across aerospace, SaaS startups, and compliance in highly regulated industries. My career has spanned testing flight computers, founding and scaling a startup , and leading building-level energy compliance projects.\n\nAt the core, I solve hard problems with a mix of technical rigor, systems thinking, and customer focus, whether that’s getting a spacecraft ready for launch, streamlining complex compliance processes, or building products that customers actually use.\n\nOutside of work, I’m passionate about books, art, and big adventures in the mountains. Always happy to connect on ideas or swap book recommendations. 📚\n\nhttps://docs.google.com/spreadsheets/d/1iNrI6ygVkSxsNQTz-Y7MwlQy3YPuQa6aHJCq93WF67A/edit?usp=drive_web&ouid=115268707801472986049",
+  "headline": "Product & Systems Engineer | SaaS, Compliance, & Aerospace | Building Data-Driven Tools that Simplify Complex Workflows",
+  "geo": {
+    "country": "United States",
+    "city": "Denver, Colorado",
+    "full": "Denver, Colorado, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2011,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 5,
+        "day": 0
+      },
+      "fieldOfStudy": "Aerospace Engineering",
+      "degree": "Master of Science - MS",
+      "grade": "",
+      "schoolName": "University of Colorado Boulder",
+      "description": "Graduate capstone project as Systems Engineer for the Hyperion UAV, an international collaboration between CU Boulder, University of Sydney, and University of Stuttgart funded in part by Boeing. Focused on GNC and systems integration, coordinating across global teams in a “follow-the-sun” development model. Gained hands-on experience with prototype integration, interface testing, and flight readiness activities.",
+      "activities": "CU-SEDS - Students for the Exploration and Development of Space\nTau Beta Pi - National Engineering Honor Society\nSigma Gamma Tau - National Aerospace Engineering Honor Society \nEngineering Fellows - Tutoring, mentoring, and professional development for peers\nUniversity of Colorado Engineering Council (UCEC) - Elected student government representative\nTutor at Dal Ward Athletic Center - Tutored dozens of student-athletes \nCU Triathlon Club - Trained and competed alongside official CU team",
+      "url": "https://www.linkedin.com/school/cuboulder/",
+      "schoolId": "3771",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_200_200/company-logo_200_200/0/1631322902142?e=1769644800&v=beta&t=IHJHzhL8k6SZZr-2jdUUCWB4ZBzPaJyMeaiLGdRFEwk",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_100_100/company-logo_100_100/0/1631322902142?e=1769644800&v=beta&t=EnEqHs-_5_5wIASRYEuZ57eYAza_ug_w32v9tqy0_e0",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_400_400/company-logo_400_400/0/1631322902142?e=1769644800&v=beta&t=9Oh_Hr2XfxPUcZiHIZSs3YUxt9ihxnnUNDoJeQTDMVE",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2007,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2011,
+        "month": 5,
+        "day": 0
+      },
+      "fieldOfStudy": "Aerospace Engineering",
+      "degree": "Bachelor of Science - BS",
+      "grade": "",
+      "schoolName": "University of Colorado Boulder",
+      "description": "Focused on systems engineering and applied problem-solving while making the most of my college experience. Served as President of CU-SEDS, hosting Bill Nye the Science Guy as keynote speaker, and was active in Sigma Gamma Tau, Tau Beta Pi, Engineering Fellows, and the University of Colorado Engineering Council. Tutored student-athletes at the Dal Ward Athletic Center. Found balance through athletics and competed alongside the CU Triathlon Club. These experiences built both my technical foundation and a strong set of leadership and collaboration skills.",
+      "activities": "CU-SEDS - Students for the Exploration and Development of Space\nTau Beta Pi - National Engineering Honor Society\nSigma Gamma Tau - National Aerospace Engineering Honor Society\nEngineering Fellows - Tutoring, mentoring, and professional development for peers\nUniversity of Colorado Engineering Council (UCEC) - Elected student government representative\nTutor at Dal Ward Athletic Center - Tutored dozens of student-athletes \nCU Triathlon Club - Trained and competed alongside official CU team",
+      "url": "https://www.linkedin.com/school/cuboulder/",
+      "schoolId": "3771",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_200_200/company-logo_200_200/0/1631322902142?e=1769644800&v=beta&t=IHJHzhL8k6SZZr-2jdUUCWB4ZBzPaJyMeaiLGdRFEwk",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_100_100/company-logo_100_100/0/1631322902142?e=1769644800&v=beta&t=EnEqHs-_5_5wIASRYEuZ57eYAza_ug_w32v9tqy0_e0",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_400_400/company-logo_400_400/0/1631322902142?e=1769644800&v=beta&t=9Oh_Hr2XfxPUcZiHIZSs3YUxt9ihxnnUNDoJeQTDMVE",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 79566585,
+      "companyName": "Thompson Engineering Inc",
+      "companyUsername": "thompson-engineering-inc",
+      "companyURL": "https://www.linkedin.com/company/thompson-engineering-inc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFddIPIUTx1Zg/company-logo_400_400/company-logo_400_400/0/1688586200200/thompson_engineering_inc_logo?e=1769644800&v=beta&t=MuIr3M0Q-o0G6DZ_NP6l8ZJF6hUda-psyYiob2zHNMM",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Energy Compliance Lead and Project Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Energy Compliance Lead and Project Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Thompson Engineering Inc"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Provide engineering design for commercial and industrial buildings while leading the firm’s new Energy Compliance division. Translate complex city and state energy regulations into actionable roadmaps for building owners, helping them stay compliant while reducing operating costs.\n\n- Conduct building and equipment assessments to identify energy use at a granular level, producing actionable compliance reports that save clients time, avoid fines, and lower long-term energy costs\n- Deliver engineering solutions such as equipment specifications and design updates to ensure regulatory compliance and improve efficiency\n- Prioritize recommendations based on client budgets, operational realities, and compliance requirements, focusing only on high-impact measures\n- Built and scaled the firm’s Energy Compliance practice into a new revenue stream, developing customer relationships and securing projects through direct business development",
+      "employmentType": "Contract",
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 91730573,
+      "companyName": "rodo fitness",
+      "companyUsername": "rodo-fitness",
+      "companyURL": "https://www.linkedin.com/company/rodo-fitness/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0f50PXpf9dg/company-logo_400_400/company-logo_400_400/0/1737996618209/rodo_fitness_logo?e=1769644800&v=beta&t=6_LQslI29k-jZJTAeIbeIewrPp5aKngN5MFR7Rc022w",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "2 - 10",
+      "title": "CRO | Strategy & Growth Lead",
+      "multiLocaleTitle": {
+        "en_US": "CRO | Strategy & Growth Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "rodo fitness"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Early-stage fitness startup focused on innovative physical therapy and fitness tools. Oversaw revenue strategy, partnerships, and customer acquisition to drive business growth.\n\n- Built go-to-market strategy including pricing, partnerships, and sales channels\n- Led early fundraising conversations\n- Developed customer feedback loops to refine product-market fit and expand adoption\n- Created scalable playbooks for B2B sales and strategic partnership",
+      "employmentType": "Self-employed",
+      "start": {
+        "year": 2022,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 22312195,
+      "companyName": "GreenScreens",
+      "companyUsername": "greenscreenstv",
+      "companyURL": "https://www.linkedin.com/company/greenscreenstv/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHHkrKo_fOmaw/company-logo_400_400/company-logo_400_400/0/1630643351541/greenscreenstv_logo?e=1769644800&v=beta&t=lEK95dPRR2RcVGNAiUSmfDdgnvsge5TCo4-yk4peZqM",
+      "companyIndustry": "Marketing & Advertising",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Founder & Chief Product Officer",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder & Chief Product Officer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "GreenScreens"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Founded and led development of a retail SaaS platform integrating with 21 point-of-sale systems across 350+ retail locations in the U.S. and Canada. Oversaw product strategy, customer discovery, and cross-functional execution to deliver intuitive, compliant retail tools.\n\nFounded and scaled the company from concept to $600K ARR with 1,500+ in-store screens\n- Owned product roadmap, defining features through customer research and market analysis\n- Built and standardized integrations with 21 POS systems, ensuring accurate and compliant inventory data\n- Launched Pulse, a tablet-based analytics tool providing real-time operational insights to retail staff\n- Embedded compliance awareness into design, enabling retailers to catch discrepancies and maintain jurisdictional standards",
+      "employmentType": "Self-employed",
+      "start": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1319,
+      "companyName": "Lockheed Martin",
+      "companyUsername": "lockheed-martin",
+      "companyURL": "https://www.linkedin.com/company/lockheed-martin/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHF1YKEZdN4LA/company-logo_400_400/company-logo_400_400/0/1668532986109/lockheed_martin_logo?e=1769644800&v=beta&t=kxCFteyuyAZPlKb3TP4U3SDnidkYCbboQEwXV6qBuIM",
+      "companyIndustry": "Defense & Space",
+      "companyStaffCountRange": "10001+",
+      "title": "System Engineer",
+      "multiLocaleTitle": {
+        "en_US": "System Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Lockheed Martin"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Supported NASA, DoD, and commercial space clients as a systems engineer under active Secret clearance. Worked across missile defense and human spaceflight programs, managing requirements, interface testing, and systems integration.\n\nKey Contributions\n- Validated requirements and coordinated cross-functional teams to deliver projects on time and within budget.\n- Tested flight-ready hardware, including fast-tracked PXI flight computers and Orion Environmental Control & Life Support System interfaces.\n- Contributed to NASA Orion program’s life support development, ensuring reliability for long-duration missions.\n- Co-authored a winning $60M proposal for a new Alaska launch facility, expanding company capabilities.\n- Collaborated with diverse stakeholders including U.S. Military, NASA, and private space launch partners.\n- Honored with early career recognition awards for technical leadership and client engagement.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2012,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 79566585,
+      "companyName": "Thompson Engineering Inc",
+      "companyUsername": "thompson-engineering-inc",
+      "companyURL": "https://www.linkedin.com/company/thompson-engineering-inc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFddIPIUTx1Zg/company-logo_400_400/company-logo_400_400/0/1688586200200/thompson_engineering_inc_logo?e=1769644800&v=beta&t=MuIr3M0Q-o0G6DZ_NP6l8ZJF6hUda-psyYiob2zHNMM",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Energy Compliance Lead and Project Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Energy Compliance Lead and Project Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Thompson Engineering Inc"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Provide engineering design for commercial and industrial buildings while leading the firm’s new Energy Compliance division. Translate complex city and state energy regulations into actionable roadmaps for building owners, helping them stay compliant while reducing operating costs.\n\n- Conduct building and equipment assessments to identify energy use at a granular level, producing actionable compliance reports that save clients time, avoid fines, and lower long-term energy costs\n- Deliver engineering solutions such as equipment specifications and design updates to ensure regulatory compliance and improve efficiency\n- Prioritize recommendations based on client budgets, operational realities, and compliance requirements, focusing only on high-impact measures\n- Built and scaled the firm’s Energy Compliance practice into a new revenue stream, developing customer relationships and securing projects through direct business development",
+      "employmentType": "Contract",
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 91730573,
+      "companyName": "rodo fitness",
+      "companyUsername": "rodo-fitness",
+      "companyURL": "https://www.linkedin.com/company/rodo-fitness/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0f50PXpf9dg/company-logo_400_400/company-logo_400_400/0/1737996618209/rodo_fitness_logo?e=1769644800&v=beta&t=6_LQslI29k-jZJTAeIbeIewrPp5aKngN5MFR7Rc022w",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "2 - 10",
+      "title": "CRO | Strategy & Growth Lead",
+      "multiLocaleTitle": {
+        "en_US": "CRO | Strategy & Growth Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "rodo fitness"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Early-stage fitness startup focused on innovative physical therapy and fitness tools. Oversaw revenue strategy, partnerships, and customer acquisition to drive business growth.\n\n- Built go-to-market strategy including pricing, partnerships, and sales channels\n- Led early fundraising conversations\n- Developed customer feedback loops to refine product-market fit and expand adoption\n- Created scalable playbooks for B2B sales and strategic partnership",
+      "employmentType": "Self-employed",
+      "start": {
+        "year": 2022,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 22312195,
+      "companyName": "GreenScreens",
+      "companyUsername": "greenscreenstv",
+      "companyURL": "https://www.linkedin.com/company/greenscreenstv/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHHkrKo_fOmaw/company-logo_400_400/company-logo_400_400/0/1630643351541/greenscreenstv_logo?e=1769644800&v=beta&t=lEK95dPRR2RcVGNAiUSmfDdgnvsge5TCo4-yk4peZqM",
+      "companyIndustry": "Marketing & Advertising",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Founder & Chief Product Officer",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder & Chief Product Officer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "GreenScreens"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Founded and led development of a retail SaaS platform integrating with 21 point-of-sale systems across 350+ retail locations in the U.S. and Canada. Oversaw product strategy, customer discovery, and cross-functional execution to deliver intuitive, compliant retail tools.\n\nFounded and scaled the company from concept to $600K ARR with 1,500+ in-store screens\n- Owned product roadmap, defining features through customer research and market analysis\n- Built and standardized integrations with 21 POS systems, ensuring accurate and compliant inventory data\n- Launched Pulse, a tablet-based analytics tool providing real-time operational insights to retail staff\n- Embedded compliance awareness into design, enabling retailers to catch discrepancies and maintain jurisdictional standards",
+      "employmentType": "Self-employed",
+      "start": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1319,
+      "companyName": "Lockheed Martin",
+      "companyUsername": "lockheed-martin",
+      "companyURL": "https://www.linkedin.com/company/lockheed-martin/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHF1YKEZdN4LA/company-logo_400_400/company-logo_400_400/0/1668532986109/lockheed_martin_logo?e=1769644800&v=beta&t=kxCFteyuyAZPlKb3TP4U3SDnidkYCbboQEwXV6qBuIM",
+      "companyIndustry": "Defense & Space",
+      "companyStaffCountRange": "10001+",
+      "title": "System Engineer",
+      "multiLocaleTitle": {
+        "en_US": "System Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Lockheed Martin"
+      },
+      "location": "Denver, Colorado, United States",
+      "locationType": "",
+      "description": "Supported NASA, DoD, and commercial space clients as a systems engineer under active Secret clearance. Worked across missile defense and human spaceflight programs, managing requirements, interface testing, and systems integration.\n\nKey Contributions\n- Validated requirements and coordinated cross-functional teams to deliver projects on time and within budget.\n- Tested flight-ready hardware, including fast-tracked PXI flight computers and Orion Environmental Control & Life Support System interfaces.\n- Contributed to NASA Orion program’s life support development, ensuring reliability for long-duration missions.\n- Co-authored a winning $60M proposal for a new Alaska launch facility, expanding company capabilities.\n- Collaborated with diverse stakeholders including U.S. Military, NASA, and private space launch partners.\n- Honored with early career recognition awards for technical leadership and client engagement.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2012,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Jeremy"
+  },
+  "multiLocaleLastName": {
+    "en": "Klammer"
+  },
+  "multiLocaleHeadline": {
+    "en": "Product & Systems Engineer | SaaS, Compliance, & Aerospace | Building Data-Driven Tools that Simplify Complex Workflows"
+  },
+  "multiLocaleSummary": {
+    "en": "Engineer turned product builder with experience across aerospace, SaaS startups, and compliance in highly regulated industries. My career has spanned testing flight computers, founding and scaling a startup , and leading building-level energy compliance projects.\n\nAt the core, I solve hard problems with a mix of technical rigor, systems thinking, and customer focus, whether that’s getting a spacecraft ready for launch, streamlining complex compliance processes, or building products that customers actually use.\n\nOutside of work, I’m passionate about books, art, and big adventures in the mountains. Always happy to connect on ideas or swap book recommendations. 📚\n\nhttps://docs.google.com/spreadsheets/d/1iNrI6ygVkSxsNQTz-Y7MwlQy3YPuQa6aHJCq93WF67A/edit?usp=drive_web&ouid=115268707801472986049"
+  }
+}

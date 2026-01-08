@@ -1,0 +1,827 @@
+{
+  "id": 26651467,
+  "urn": "ACoAAAGWq0sBC3oDs5cFo6SUtlrSXb7suowojcA",
+  "username": "michaelcsalmon",
+  "firstName": "Michael",
+  "lastName": "Salmon",
+  "isPremium": true,
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/C5616AQGag5RI4ZmfTw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1655491987942?e=1769644800&v=beta&t=tshM8nVTieHTYOosDvteu-ch83z5kbzb_xGzFyb1vgk"
+    },
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/C5616AQGag5RI4ZmfTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1655491987942?e=1769644800&v=beta&t=YelBm9aXvS8Kn2z_CYvFf-dS9uHsnOWbawHNBws0Bjg"
+    }
+  ],
+  "summary": "Product and growth operator with 20+ years building, scaling, and exiting physical and digital products. I’ve taken companies from low seven figures to $7M+ revenue, led GTM, manufacturing, IP, licensing, and built teams that execute under pressure. I thrive in high-ambiguity, high-growth environments and I’m usually brought in when things need to move fast, scale cleanly, and actually ship.\n\nDiscover. Design. Create. Inspire.",
+  "headline": "Product innovation and strategy",
+  "geo": {
+    "country": "United States",
+    "city": "Bend, Oregon",
+    "full": "Bend, Oregon, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2001,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2005,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Design",
+      "degree": "BFA",
+      "grade": "",
+      "schoolName": "University of South Carolina",
+      "description": "Furthered my knowledge and passion for design.",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/uofsc/",
+      "schoolId": "166670",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQEJ_-N9MBGihQ/company-logo_200_200/company-logo_200_200/0/1666789286458/uofsc_logo?e=1769644800&v=beta&t=KOnw7lKhk5eAcfQYpszUw_pv7SHCWSk4Nqr_-AFDaus",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQEJ_-N9MBGihQ/company-logo_100_100/company-logo_100_100/0/1666789286458/uofsc_logo?e=1769644800&v=beta&t=98IJfiTrPwbE0P43N9Ql1B6u8BKnAdXixo_DI2nk4iI",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQEJ_-N9MBGihQ/company-logo_400_400/company-logo_400_400/0/1666789286458/uofsc_logo?e=1769644800&v=beta&t=m_aPplarky9fmQCPKWVL1OTTEZ7Dqk86LZtU7fBjanA",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 105669267,
+      "companyName": "VYE",
+      "companyUsername": "vyemist",
+      "companyURL": "https://www.linkedin.com/company/vyemist/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEULk-jMrCNFw/company-logo_200_200/B56ZnE11xyI4AM-/0/1759944072599/vyenicotinemist_logo?e=1769644800&v=beta&t=VJrfOgX2KERqm3yeEPkfg2iFX0m6Pd0BTEj7cOddmeU",
+      "companyIndustry": "Consumer Goods",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "VYE"
+      },
+      "location": "Bend, Oregon, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Studio Salmon",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Product design and mfg consulting",
+      "multiLocaleTitle": {
+        "en_US": "Product design and mfg consulting"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Studio Salmon"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2002,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 71470438,
+      "companyName": "Puffin Drinkwear",
+      "companyUsername": "puffindrinkwear",
+      "companyURL": "https://www.linkedin.com/company/puffindrinkwear/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEsU4173eNkPA/company-logo_400_400/company-logo_400_400/0/1656634272580/puffin_drinkwear_logo?e=1769644800&v=beta&t=XdHd4bR9knth9EnN_h0rfm_-rmf0DPaU4GyYPy7Czek",
+      "companyIndustry": "Consumer Goods",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Director of Product",
+      "multiLocaleTitle": {
+        "en_US": "Director of Product"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Puffin Drinkwear"
+      },
+      "location": "Bend, Oregon, United States",
+      "locationType": "",
+      "description": "Consumer goods company that brings fun to any gathering with kitschy drinkware \n\n- Leading product innovation and development that has resulted in revenue growth from $1.2m to $7.5m in 2.5 yrs. Landing Inc 5000 #132 and #12 in the US for consumer products.\n\n- Overhauled v1 product line by improving overall product features and quality, relaunching the full brand with 100+ new skus during a global pandemic.\n\n- GTM lead, responsible for the end-to-end product development cycle and cross department collaboration on key milestones from concept through commercialization. \n\n- Ideated and executed in house product customization engine, resulting in partnerships from professional sports organizations to global brands, adding $250k in revenue year one.\n\n- Developed and launched brands first licensing programs along with new category product expansion strategy.\n\n- Oversaw patent filing and management, receiving 1 utility and 11 design patents, protecting our IP in domestic and international markets",
+      "employmentType": "Permanent Full-time",
+      "start": {
+        "year": 2020,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3695825,
+      "companyName": "Wiivv",
+      "companyUsername": "fitmyfoot",
+      "companyURL": "https://www.linkedin.com/company/fitmyfoot/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Manager, Special Programs",
+      "multiLocaleTitle": {
+        "en_US": "Manager, Special Programs"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Wiivv"
+      },
+      "location": "Vancouver, Canada Area",
+      "locationType": "",
+      "description": "Technology company transforming footwear, apparel, and wearables for every human body. Wiivv Insoles and Sandals are created uniquely for each person, based on measurements taken from the award-winning Wiivv mobile app.\n\n- Managed and scaled Wiivv’s R&D manufacturing facility and resources to handle at scale production capacity for Wiivv and partners.\n\n- Reduced production time by 60%, creating and applying patented manufacturing methodologies for scaling. This was achieved through overall part reduction, finishing processes and a proprietary 3D graphic printing process.\n  \n- Secured $3.5m government funding to build an Advanced R&D facility in Vancouver through BC’s Business Scale up Program.\n\n- Led product strategy on bringing to market Dr. Scholl’s 3D, a white-labeled Wiivv Insoles product for Dr. Scholl’s, Wiivv’s largest strategic partner. Dr. Scholl’s 3D earned the highest comfort scores from consumers in Dr. Scholl’s history.\n\n- Led design, development, and execution for Wiivv’s Lululemon Seawheeze experience in 2017 - 2019 which brought-to-life the possibility of in-store 3D scanning and custom footwear creation.",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3695825,
+      "companyName": "Wiivv",
+      "companyUsername": "fitmyfoot",
+      "companyURL": "https://www.linkedin.com/company/fitmyfoot/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Senior Product Designer & Developer",
+      "multiLocaleTitle": {
+        "en_US": "Senior Product Designer & Developer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Wiivv"
+      },
+      "location": "Vancouver, British Columbia, Canada",
+      "locationType": "",
+      "description": "- Invented, designed, and co-engineered patented and award-winning Wiivv Custom Fit Sandals. 2019 Golden A’Design Award in Footwear for Wiivv Custom Fit Sandal\n\n- Responsible for concept through to commercialization of all Wiivv hardware products and customer experiences. \n\n- Developed instore 3D scan solutions for strategic partner growth in new sales channels.",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3695825,
+      "companyName": "Wiivv Wearables Company",
+      "companyUsername": "fitmyfoot",
+      "companyURL": "https://www.linkedin.com/company/fitmyfoot/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Product Design Manager",
+      "multiLocaleTitle": {
+        "en_US": "Product Design Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Wiivv Wearables Company"
+      },
+      "location": "Greater San Diego Area",
+      "locationType": "",
+      "description": "- #6 employee at the early-stage technology startup, I worked with leadership to develop the initial experience, design, and execution across digital and physical products.\n\n- Managed Wiivv’s first generation iOS mobile app, website, and marketing materials.",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "MakerPlace",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MakerPlace"
+      },
+      "location": "1022 West Morena Blvd. Suite H San Diego, CA 92110",
+      "locationType": "",
+      "description": "Southern California’s largest and most comprehensive makerspace. Offering a wide variety of tools and training programs to help students, hobbyists, entrepreneurs, and professionals learn physical product design, development, and ultimately achieve their project goals. \n\n- I was integral in building all aspects of the businessl; from build out to marketing strategies and partnerships.\n\n- Doubled paying memberships YOY,  growing to 600+ members and over $2M in recurring annual revenue.\n\n- Staffed and managed all makerspace educators, curating programming for Makerplace.\n\n- Staffed and managed customer service team, with a 60%+ MoM member retention rate.",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Soul Ryde, Inc",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Owner/Designer/Fabricator",
+      "multiLocaleTitle": {
+        "en_US": "Co-Owner/Designer/Fabricator"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Soul Ryde, Inc"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Providing clients with unique and innovative product solutions, leveraging advanced manufacturing techniques. \n\n- Grew the company to over $1M annual revenue with 70% gross profit margin.\n\n- Specialization and profit forward mindset led to an acquisition of the company in 2015.\n\n- SRI became a go-to design and build firm for fortune 500 companies, US military branches, action sports industry companies, architects, and designers.\n\n- Pioneered large-scale advanced manufacturing techniques for laser cut custom grip tape in the skateboard industry\n\n- Developed new method to bulk process laser-cut bathing suit fabric panels for industry leading swimwear companies.",
+      "employmentType": "",
+      "start": {
+        "year": 2005,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 2,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 105669267,
+      "companyName": "VYE",
+      "companyUsername": "vyemist",
+      "companyURL": "https://www.linkedin.com/company/vyemist/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEULk-jMrCNFw/company-logo_200_200/B56ZnE11xyI4AM-/0/1759944072599/vyenicotinemist_logo?e=1769644800&v=beta&t=VJrfOgX2KERqm3yeEPkfg2iFX0m6Pd0BTEj7cOddmeU",
+      "companyIndustry": "Consumer Goods",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "VYE"
+      },
+      "location": "Bend, Oregon, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Studio Salmon",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Product design and mfg consulting",
+      "multiLocaleTitle": {
+        "en_US": "Product design and mfg consulting"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Studio Salmon"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2002,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 71470438,
+      "companyName": "Puffin Drinkwear",
+      "companyUsername": "puffindrinkwear",
+      "companyURL": "https://www.linkedin.com/company/puffindrinkwear/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEsU4173eNkPA/company-logo_400_400/company-logo_400_400/0/1656634272580/puffin_drinkwear_logo?e=1769644800&v=beta&t=XdHd4bR9knth9EnN_h0rfm_-rmf0DPaU4GyYPy7Czek",
+      "companyIndustry": "Consumer Goods",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Director of Product",
+      "multiLocaleTitle": {
+        "en_US": "Director of Product"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Puffin Drinkwear"
+      },
+      "location": "Bend, Oregon, United States",
+      "locationType": "",
+      "description": "Consumer goods company that brings fun to any gathering with kitschy drinkware \n\n- Leading product innovation and development that has resulted in revenue growth from $1.2m to $7.5m in 2.5 yrs. Landing Inc 5000 #132 and #12 in the US for consumer products.\n\n- Overhauled v1 product line by improving overall product features and quality, relaunching the full brand with 100+ new skus during a global pandemic.\n\n- GTM lead, responsible for the end-to-end product development cycle and cross department collaboration on key milestones from concept through commercialization. \n\n- Ideated and executed in house product customization engine, resulting in partnerships from professional sports organizations to global brands, adding $250k in revenue year one.\n\n- Developed and launched brands first licensing programs along with new category product expansion strategy.\n\n- Oversaw patent filing and management, receiving 1 utility and 11 design patents, protecting our IP in domestic and international markets",
+      "employmentType": "Permanent Full-time",
+      "start": {
+        "year": 2020,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3695825,
+      "companyName": "Wiivv",
+      "companyUsername": "fitmyfoot",
+      "companyURL": "https://www.linkedin.com/company/fitmyfoot/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Manager, Special Programs",
+      "multiLocaleTitle": {
+        "en_US": "Manager, Special Programs"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Wiivv"
+      },
+      "location": "Vancouver, Canada Area",
+      "locationType": "",
+      "description": "Technology company transforming footwear, apparel, and wearables for every human body. Wiivv Insoles and Sandals are created uniquely for each person, based on measurements taken from the award-winning Wiivv mobile app.\n\n- Managed and scaled Wiivv’s R&D manufacturing facility and resources to handle at scale production capacity for Wiivv and partners.\n\n- Reduced production time by 60%, creating and applying patented manufacturing methodologies for scaling. This was achieved through overall part reduction, finishing processes and a proprietary 3D graphic printing process.\n  \n- Secured $3.5m government funding to build an Advanced R&D facility in Vancouver through BC’s Business Scale up Program.\n\n- Led product strategy on bringing to market Dr. Scholl’s 3D, a white-labeled Wiivv Insoles product for Dr. Scholl’s, Wiivv’s largest strategic partner. Dr. Scholl’s 3D earned the highest comfort scores from consumers in Dr. Scholl’s history.\n\n- Led design, development, and execution for Wiivv’s Lululemon Seawheeze experience in 2017 - 2019 which brought-to-life the possibility of in-store 3D scanning and custom footwear creation.",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3695825,
+      "companyName": "Wiivv",
+      "companyUsername": "fitmyfoot",
+      "companyURL": "https://www.linkedin.com/company/fitmyfoot/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Senior Product Designer & Developer",
+      "multiLocaleTitle": {
+        "en_US": "Senior Product Designer & Developer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Wiivv"
+      },
+      "location": "Vancouver, British Columbia, Canada",
+      "locationType": "",
+      "description": "- Invented, designed, and co-engineered patented and award-winning Wiivv Custom Fit Sandals. 2019 Golden A’Design Award in Footwear for Wiivv Custom Fit Sandal\n\n- Responsible for concept through to commercialization of all Wiivv hardware products and customer experiences. \n\n- Developed instore 3D scan solutions for strategic partner growth in new sales channels.",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3695825,
+      "companyName": "Wiivv Wearables Company",
+      "companyUsername": "fitmyfoot",
+      "companyURL": "https://www.linkedin.com/company/fitmyfoot/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Product Design Manager",
+      "multiLocaleTitle": {
+        "en_US": "Product Design Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Wiivv Wearables Company"
+      },
+      "location": "Greater San Diego Area",
+      "locationType": "",
+      "description": "- #6 employee at the early-stage technology startup, I worked with leadership to develop the initial experience, design, and execution across digital and physical products.\n\n- Managed Wiivv’s first generation iOS mobile app, website, and marketing materials.",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "MakerPlace",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MakerPlace"
+      },
+      "location": "1022 West Morena Blvd. Suite H San Diego, CA 92110",
+      "locationType": "",
+      "description": "Southern California’s largest and most comprehensive makerspace. Offering a wide variety of tools and training programs to help students, hobbyists, entrepreneurs, and professionals learn physical product design, development, and ultimately achieve their project goals. \n\n- I was integral in building all aspects of the businessl; from build out to marketing strategies and partnerships.\n\n- Doubled paying memberships YOY,  growing to 600+ members and over $2M in recurring annual revenue.\n\n- Staffed and managed all makerspace educators, curating programming for Makerplace.\n\n- Staffed and managed customer service team, with a 60%+ MoM member retention rate.",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Soul Ryde, Inc",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Owner/Designer/Fabricator",
+      "multiLocaleTitle": {
+        "en_US": "Co-Owner/Designer/Fabricator"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Soul Ryde, Inc"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Providing clients with unique and innovative product solutions, leveraging advanced manufacturing techniques. \n\n- Grew the company to over $1M annual revenue with 70% gross profit margin.\n\n- Specialization and profit forward mindset led to an acquisition of the company in 2015.\n\n- SRI became a go-to design and build firm for fortune 500 companies, US military branches, action sports industry companies, architects, and designers.\n\n- Pioneered large-scale advanced manufacturing techniques for laser cut custom grip tape in the skateboard industry\n\n- Developed new method to bulk process laser-cut bathing suit fabric panels for industry leading swimwear companies.",
+      "employmentType": "",
+      "start": {
+        "year": 2005,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 2,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Go-to-Market Strategy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Line Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Lifecycle Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Lines",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Innovation",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "High Performance Teams",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Creative Strategy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Innovation Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Strategic Planning",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Sales",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Account Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Customer Service",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "New Business Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Relationship Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Development Strategy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Request for Proposal (RFP)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Brand Licensing",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Business Relationship Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Growth Strategies",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Business Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "User Experience (UX)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Research and Development (R&D)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Project Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Design",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 18
+    },
+    {
+      "name": "Creative Direction",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 12
+    },
+    {
+      "name": "Product Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Rapid Prototyping",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Design for Manufacturing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Graphic Design",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 52
+    },
+    {
+      "name": "Art Direction",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    },
+    {
+      "name": "3D Modeling",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "3D Printing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "User Experience Design (UED)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Branding & Identity",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 5
+    },
+    {
+      "name": "Corporate Identity",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Illustration",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Interior Design",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Custom Furniture",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Adobe Creative Suite",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 15
+    },
+    {
+      "name": "Illustrator",
+      "passedSkillAssessment": true,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Prototyping",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Visual Communication",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Laser Engraving",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Laser Cutting",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "CNC manufacturing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Contract Manufacturing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Design Consulting",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    }
+  ],
+  "honors": [
+    {
+      "title": "Inc 5000 rank 132 , 12 in Product, 1 in Oregon",
+      "description": "",
+      "issuer": "Inc magazine",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQEsU4173eNkPA/company-logo_400_400/company-logo_400_400/0/1656634272580/puffin_drinkwear_logo?e=1769644800&v=beta&t=XdHd4bR9knth9EnN_h0rfm_-rmf0DPaU4GyYPy7Czek",
+      "issuedOn": {
+        "year": 2023,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "title": "iF Design Award for Wiivv Custom Fit Sandal",
+      "description": "Nearly 8 out of 10 Americans experience foot pain, often as a result of wearing wrong-sized shoes. Yet bespoke footwear remains beyond the budgets of most people. Enter the internet and the revolutionary technology of 3D printing, and hey presto, made-to-measure footwear is now available to a mass market. Vancouver-based Wiivv Wearables begin the process with an award-winning smartphone app, which gathers the customer's data and then generates a biomechanically optimized design. This is then 3D printed, assembled, and shipped to the customer within 14 days. Over 12 million data points were used to create the Wiivv Fit algorithm, and Wiivv’s proprietary technologies have reduced the cost of 3D printing by 98.5%. The footbed is 100% closed loop recyclable.",
+      "issuer": "iF International Forum Design GmbH ",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "issuedOn": {
+        "year": 2020,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "title": "Golden A' Design Award in Footwear for Wiivv Custom Fit Sandal",
+      "description": "In a world where millions of products and designs launch each year, the A' Design Award is meant to highlight the world's best designs and well-designed products. \n\nTo win the Golden A’ Design Award, a product must have demonstrated “an excellent design that helps people achieve more, by empowering people through added functionality, performance, reliability and interaction.”\n\nThe Wiivv Custom Sandal was a shoo-in (pun always intended). With 90% of customers reporting that Wiivvs decrease their foot pain, we have truly exceeded in creating a product that empowers people to move and live their best.\n\nThe A' Design Award and Competition is the worlds' largest design competition awarding the best designs, design concepts and products & services. The jury that picks the winners in each category is made up of internationally influential press members, established designers, leading academics and prominent entrepreneurs.",
+      "issuer": " International Design Academy",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEtkDcOEeSXsg/company-logo_200_200/B4EZmHqwrzHcAI-/0/1758917758053/fitmyfoot_logo?e=1769644800&v=beta&t=XVqZuN-im0E-Lw9H0KNPceW22I761khDecAKTRwn8wQ",
+      "issuedOn": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Michael"
+  },
+  "multiLocaleLastName": {
+    "en": "Salmon"
+  },
+  "multiLocaleHeadline": {
+    "en": "Product innovation and strategy"
+  },
+  "multiLocaleSummary": {
+    "en": "Product and growth operator with 20+ years building, scaling, and exiting physical and digital products. I’ve taken companies from low seven figures to $7M+ revenue, led GTM, manufacturing, IP, licensing, and built teams that execute under pressure. I thrive in high-ambiguity, high-growth environments and I’m usually brought in when things need to move fast, scale cleanly, and actually ship.\n\nDiscover. Design. Create. Inspire."
+  }
+}

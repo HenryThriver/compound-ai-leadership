@@ -1,0 +1,629 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "isBrandPartnership": false,
+      "text": "Open source voice AI meetup on Wednesday ...\n\nJoin us (in person or via livestream) for the monthly SF Voice AI meetup this upcoming Wednesday. The theme is using open source/weights models for conversational voice agents.\n\nI'm moderating a panel featuring:\n - Charles Frye (Modal)\n - Pavankumar Reddy M (Mistral)\n - Nikhil Murthy (Phonic)\n - Kunal Dhawan (NVIDIA)\n\nWe'll also show some new voice AI tech crossover 🔥 from Modal and Pipecat!\n\nhttps://lu.ma/u3hzaj71",
+      "totalReactionCount": 44,
+      "likeCount": 37,
+      "appreciationCount": 1,
+      "empathyCount": 2,
+      "praiseCount": 4,
+      "commentsCount": 3,
+      "repostsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7356592623064657921/",
+      "shareUrl": "https://www.linkedin.com/posts/kwkramer_voice-ai-builders-meetup-luma-activity-7354943294981750785-koS0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFiXd2oBnMTIbDc-DcCgLFpKh9cuxse63Ng",
+      "postedAt": "5mo",
+      "postedDate": "2025-07-31 07:52:40.22 +0000 UTC",
+      "postedDateTimestamp": 1753948360220,
+      "reposted": true,
+      "urn": "7356592623064657921",
+      "shareUrn": "7354943293987721218",
+      "author": {
+        "id": 70734,
+        "firstName": "Kwindla Hultman",
+        "lastName": "Kramer",
+        "headline": "CEO @ Daily | Helping developers build realtime voice, video, and AI & maintaining Pipecat — the most widely used voice & multimodal AI framework. Y Combinator Top Company",
+        "username": "kwkramer",
+        "url": "https://www.linkedin.com/in/kwkramer",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGkWBj215NriA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516164358953?e=1769644800&v=beta&t=pKwe7-zNCbsGI5Yrb0hKo_QKGv0NkDd_W1NjjgJuqes"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGkWBj215NriA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516164358859?e=1769644800&v=beta&t=lKLWUneBhcqNyiNmWFAa3wDZLwS-VdnJA48h3uA8lOE"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGkWBj215NriA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516164358908?e=1769644800&v=beta&t=IhVYIv2QkqhPRNADLMdeFOj79wkJ87A-W-roBW9h1Jc"
+          },
+          {
+            "width": 450,
+            "height": 450,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGkWBj215NriA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516164358906?e=1769644800&v=beta&t=z61Hpib2Mltixmq2QfI2DYTDy6JlJr07-5jqYr7z3bU"
+          }
+        ],
+        "urn": "ACoAAAABFE4BOuHSJNejBob2ColIy-4m4fBvU70"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "article",
+      "article": {
+        "title": "Voice AI Builders Meetup · Luma",
+        "subtitle": "lu.ma",
+        "link": "https://lu.ma/u3hzaj71",
+        "image": [
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEgET3wpN5DYA/articleshare-shrink_800/B56ZhdleCtH0AI-/0/1767048846575?e=1768521600&v=beta&t=58H-iKu81lMsS7TpJMiys-E6Ru3QiX_3IoWJCr8nyzs"
+          },
+          {
+            "width": 480,
+            "height": 480,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEgET3wpN5DYA/articleshare-shrink_480/B56ZhdleCtH0Ao-/0/1767048846575?e=1768521600&v=beta&t=sEiRpRBkSO_LWgpNsOfuER1MBDbVCIe_bg0Dv8mik9w"
+          },
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEgET3wpN5DYA/articleshare-shrink_1280_800/B56ZhdleCtH0AQ-/0/1767048846575?e=1768521600&v=beta&t=R_E8OmWbx0KydN2jhH9Uc3de7LHLshsvK7izVdiRfjc"
+          },
+          {
+            "width": 160,
+            "height": 160,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEgET3wpN5DYA/articleshare-shrink_160/B56ZhdleCtH0Ak-/0/1767048846562?e=1768521600&v=beta&t=YrHF_ge4gO0o4rK4RNdacL0dVJ17l5IaZoQUgfkFslk"
+          }
+        ],
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Charles",
+          "lastName": "Frye",
+          "urn": "ACoAABmH9ZYBKpsOg7fiUcjlzRTkAH-jEuJUYZ8",
+          "publicIdentifier": "charles-frye-38654abb"
+        },
+        {
+          "firstName": "Pavankumar Reddy",
+          "lastName": "M",
+          "urn": "ACoAAAXzQRoBXin6ukxEFSLdm3kJ-V3tW9XX2oE",
+          "publicIdentifier": "mupavan"
+        },
+        {
+          "firstName": "Nikhil",
+          "lastName": "Murthy",
+          "urn": "ACoAABdCazwBIf4v6X3o3xumttq5vpa9UTIhBX8",
+          "publicIdentifier": "nikhil-murthy"
+        },
+        {
+          "firstName": "Kunal",
+          "lastName": "Dhawan",
+          "urn": "ACoAAB9TKysBWcp4kkHa9IvvrlLbv0IKMvHyZxw",
+          "publicIdentifier": "kunaldhawan10"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "🚨 Spotlight on Arun 🚨\n\nMeet Arun, MIT grad, IOI 🥈 medalist, CS & Linguistics double major\n\n❓ What led Arun to Phonic? Arun did a lot of audio research during his M.Eng & really liked the vision\n\n❤️ Favorite part of Phonic? Being able to work on a variety of things with high velocity & really take ownership\n\n🔥 Best part of Phonic culture? A friendly and open team & being able to take responsibility over decisions",
+      "totalReactionCount": 59,
+      "likeCount": 47,
+      "empathyCount": 9,
+      "praiseCount": 3,
+      "repostsCount": 4,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7346237844232818691/",
+      "shareUrl": "https://www.linkedin.com/posts/phonic-co_spotlight-on-arun-meet-arun-mit-grad-ugcPost-7346237478204317696-0iaJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFiXd2oBnMTIbDc-DcCgLFpKh9cuxse63Ng",
+      "postedAt": "6mo",
+      "postedDate": "2025-07-02 18:06:28.564 +0000 UTC",
+      "postedDateTimestamp": 1751479588564,
+      "reposted": true,
+      "urn": "7346237844232818691",
+      "shareUrn": "urn:li:ugcPost:7346237478204317696",
+      "author": {},
+      "image": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_160/B56ZfMUDh7GQAg-/0/1751479499275?e=1769644800&v=beta&t=rj-Pf3rNxHQEylKOEbs-XaJtjufuGn2jDtd7yu4Jux8",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_480/B56ZfMUDh7GQAc-/0/1751479499275?e=1769644800&v=beta&t=QCbVG0wz-A_dvWN71OCy91rJF-aQBHlaE8TthZjhrUc",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_2048_1536/B56ZfMUDh7GQAs-/0/1751479499344?e=1769644800&v=beta&t=PwVfnxpZFVF8IeGvEVVG1jghvQ4lQ1oRX2Xu9MsswfA",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_1280/B56ZfMUDh7GQAo-/0/1751479499275?e=1769644800&v=beta&t=_-SaqQ3NDnigfkebWTY3QaEDJMI_nfEVpfP36wxGpX8",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_20/B56ZfMUDh7GQA0-/0/1751479499252?e=1769644800&v=beta&t=Aws7D9TdV9MLPRyZB_CK3RQwBbwyDIN7mHhN8dBIcvg",
+          "width": 20,
+          "height": 15
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_800/B56ZfMUDh7GQAk-/0/1751479499252?e=1769644800&v=beta&t=YRYzzk5m2wZo2NB4hAH0m3axwsyvlbvtQIB1pXGTNrQ",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_2048_1536/B56ZfMUDi8H8Ao-/0/1751479500740?e=1769644800&v=beta&t=o7LC4Wtt-j2HVHFHh1i_GCdQ3UdkAiWxN7IeZTd8NYg",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_1280/B56ZfMUDi8H8Ak-/0/1751479499661?e=1769644800&v=beta&t=Gau-uHIfKcJnfrGTpV-_qdBVoFXhPeiPLjz9D0jalWU",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_480/B56ZfMUDi8H8AY-/0/1751479499661?e=1769644800&v=beta&t=VCx-OqXlWLNpf4dnn6EYJAfpBO8_VNbDXkeBMVLNI-o",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_20/B56ZfMUDi8H8Aw-/0/1751479499693?e=1769644800&v=beta&t=bgphearQvWZwE0nzovy11JphysDE3vKRiZYID7R2ZYo",
+          "width": 20,
+          "height": 15
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_800/B56ZfMUDi8H8Ag-/0/1751479499661?e=1769644800&v=beta&t=UOwUzI51FuQoacw_2UbN4RIrkLjLWekd80D86qJ3va8",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_160/B56ZfMUDi8H8Ac-/0/1751479499693?e=1769644800&v=beta&t=4sfwPXA8lK4wjA_xiyxeSSAGO66v0tRDUGWAEXn0q3g",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_160/B56ZfMUDizH8Ao-/0/1751479499697?e=1769644800&v=beta&t=Ilfh9SVUVlwAEgj_0NdTKEL_yBRkXKBN5DnddljwkaI",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_2048_1536/B56ZfMUDizH8A0-/0/1751479499742?e=1769644800&v=beta&t=nJFVWhsTP4eGrp34Q2mOJICPaPxSCnmEXYCXRPVSnQQ",
+          "width": 2040,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_480/B56ZfMUDizH8Ak-/0/1751479499697?e=1769644800&v=beta&t=8yl1DmV5PnGyu4iSvyGD-GoYTmb0u9WwOay5aVI2hQs",
+          "width": 480,
+          "height": 361
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_1280/B56ZfMUDizH8Aw-/0/1751479499697?e=1769644800&v=beta&t=If3ZWxbo-dwrjgm_jgkKv8lCHO2fX5-ELJfcdJqqwhk",
+          "width": 1280,
+          "height": 963
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_20/B56ZfMUDizH8A8-/0/1751479499613?e=1769644800&v=beta&t=gCYZNmeQiRXSqVtiB6IhAYMeuOqN6awRqpX3cB_ybCY",
+          "width": 20,
+          "height": 15
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_800/B56ZfMUDizH8As-/0/1751479499613?e=1769644800&v=beta&t=JDJnzIn05gYiFOx6fTpeeil_gtQ9w2IcfrmC9CyN9E0",
+          "width": 800,
+          "height": 602
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_2048_1536/B56ZfMUDjBHEAo-/0/1751479499627?e=1769644800&v=beta&t=6gBpBUJm5_nY7a-EOiW3lx3T3EsAQ6SZbGPkDatKDXM",
+          "width": 1156,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_160/B56ZfMUDjBHEAc-/0/1751479499673?e=1769644800&v=beta&t=cca4FBplL1jpkv6BVBd-Bol-YyfSQTabZEgtUoad9Mk",
+          "width": 160,
+          "height": 212
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_20/B56ZfMUDjBHEAw-/0/1751479499673?e=1769644800&v=beta&t=peJuQG6eSPCLsEKAlZB0XXeq6_yIrbSCC8QvGxicfvE",
+          "width": 20,
+          "height": 26
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_800/B56ZfMUDjBHEAg-/0/1751479499673?e=1769644800&v=beta&t=ygcLRJetEgO7k7dBGC9crZRNLmlT9VV-cMhYhjW0pwI",
+          "width": 800,
+          "height": 1062
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_480/B56ZfMUDjBHEAY-/0/1751479499629?e=1769644800&v=beta&t=ES8k2YI91fw3zbDOjqKYMtQ60uLA2i-wQ9c__3C_4RI",
+          "width": 480,
+          "height": 637
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_1280/B56ZfMUDjBHEAk-/0/1751479499629?e=1769644800&v=beta&t=nWiBasFFMYmizUJsXH8m3Qyb5w3Kj3KfjfnKtMQkCF8",
+          "width": 1280,
+          "height": 1700
+        }
+      ],
+      "images": [
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_160/B56ZfMUDh7GQAg-/0/1751479499275?e=1769644800&v=beta&t=rj-Pf3rNxHQEylKOEbs-XaJtjufuGn2jDtd7yu4Jux8",
+            "width": 160,
+            "height": 120
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_480/B56ZfMUDh7GQAc-/0/1751479499275?e=1769644800&v=beta&t=QCbVG0wz-A_dvWN71OCy91rJF-aQBHlaE8TthZjhrUc",
+            "width": 480,
+            "height": 360
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_2048_1536/B56ZfMUDh7GQAs-/0/1751479499344?e=1769644800&v=beta&t=PwVfnxpZFVF8IeGvEVVG1jghvQ4lQ1oRX2Xu9MsswfA",
+            "width": 1600,
+            "height": 1200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_1280/B56ZfMUDh7GQAo-/0/1751479499275?e=1769644800&v=beta&t=_-SaqQ3NDnigfkebWTY3QaEDJMI_nfEVpfP36wxGpX8",
+            "width": 1280,
+            "height": 960
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_20/B56ZfMUDh7GQA0-/0/1751479499252?e=1769644800&v=beta&t=Aws7D9TdV9MLPRyZB_CK3RQwBbwyDIN7mHhN8dBIcvg",
+            "width": 20,
+            "height": 15
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF2yxqTvp_O4Q/feedshare-shrink_800/B56ZfMUDh7GQAk-/0/1751479499252?e=1769644800&v=beta&t=YRYzzk5m2wZo2NB4hAH0m3axwsyvlbvtQIB1pXGTNrQ",
+            "width": 800,
+            "height": 600
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_2048_1536/B56ZfMUDi8H8Ao-/0/1751479500740?e=1769644800&v=beta&t=o7LC4Wtt-j2HVHFHh1i_GCdQ3UdkAiWxN7IeZTd8NYg",
+            "width": 2048,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_1280/B56ZfMUDi8H8Ak-/0/1751479499661?e=1769644800&v=beta&t=Gau-uHIfKcJnfrGTpV-_qdBVoFXhPeiPLjz9D0jalWU",
+            "width": 1280,
+            "height": 960
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_480/B56ZfMUDi8H8AY-/0/1751479499661?e=1769644800&v=beta&t=VCx-OqXlWLNpf4dnn6EYJAfpBO8_VNbDXkeBMVLNI-o",
+            "width": 480,
+            "height": 360
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_20/B56ZfMUDi8H8Aw-/0/1751479499693?e=1769644800&v=beta&t=bgphearQvWZwE0nzovy11JphysDE3vKRiZYID7R2ZYo",
+            "width": 20,
+            "height": 15
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_800/B56ZfMUDi8H8Ag-/0/1751479499661?e=1769644800&v=beta&t=UOwUzI51FuQoacw_2UbN4RIrkLjLWekd80D86qJ3va8",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGFLx0_8vAIhA/feedshare-shrink_160/B56ZfMUDi8H8Ac-/0/1751479499693?e=1769644800&v=beta&t=4sfwPXA8lK4wjA_xiyxeSSAGO66v0tRDUGWAEXn0q3g",
+            "width": 160,
+            "height": 120
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_160/B56ZfMUDizH8Ao-/0/1751479499697?e=1769644800&v=beta&t=Ilfh9SVUVlwAEgj_0NdTKEL_yBRkXKBN5DnddljwkaI",
+            "width": 160,
+            "height": 120
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_2048_1536/B56ZfMUDizH8A0-/0/1751479499742?e=1769644800&v=beta&t=nJFVWhsTP4eGrp34Q2mOJICPaPxSCnmEXYCXRPVSnQQ",
+            "width": 2040,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_480/B56ZfMUDizH8Ak-/0/1751479499697?e=1769644800&v=beta&t=8yl1DmV5PnGyu4iSvyGD-GoYTmb0u9WwOay5aVI2hQs",
+            "width": 480,
+            "height": 361
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_1280/B56ZfMUDizH8Aw-/0/1751479499697?e=1769644800&v=beta&t=If3ZWxbo-dwrjgm_jgkKv8lCHO2fX5-ELJfcdJqqwhk",
+            "width": 1280,
+            "height": 963
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_20/B56ZfMUDizH8A8-/0/1751479499613?e=1769644800&v=beta&t=gCYZNmeQiRXSqVtiB6IhAYMeuOqN6awRqpX3cB_ybCY",
+            "width": 20,
+            "height": 15
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE-3f9KltjJ4g/feedshare-shrink_800/B56ZfMUDizH8As-/0/1751479499613?e=1769644800&v=beta&t=JDJnzIn05gYiFOx6fTpeeil_gtQ9w2IcfrmC9CyN9E0",
+            "width": 800,
+            "height": 602
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_2048_1536/B56ZfMUDjBHEAo-/0/1751479499627?e=1769644800&v=beta&t=6gBpBUJm5_nY7a-EOiW3lx3T3EsAQ6SZbGPkDatKDXM",
+            "width": 1156,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_160/B56ZfMUDjBHEAc-/0/1751479499673?e=1769644800&v=beta&t=cca4FBplL1jpkv6BVBd-Bol-YyfSQTabZEgtUoad9Mk",
+            "width": 160,
+            "height": 212
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_20/B56ZfMUDjBHEAw-/0/1751479499673?e=1769644800&v=beta&t=peJuQG6eSPCLsEKAlZB0XXeq6_yIrbSCC8QvGxicfvE",
+            "width": 20,
+            "height": 26
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_800/B56ZfMUDjBHEAg-/0/1751479499673?e=1769644800&v=beta&t=ygcLRJetEgO7k7dBGC9crZRNLmlT9VV-cMhYhjW0pwI",
+            "width": 800,
+            "height": 1062
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_480/B56ZfMUDjBHEAY-/0/1751479499629?e=1769644800&v=beta&t=ES8k2YI91fw3zbDOjqKYMtQ60uLA2i-wQ9c__3C_4RI",
+            "width": 480,
+            "height": 637
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF-c6ICHIzYmw/feedshare-shrink_1280/B56ZfMUDjBHEAk-/0/1751479499629?e=1769644800&v=beta&t=nWiBasFFMYmizUJsXH8m3Qyb5w3Kj3KfjfnKtMQkCF8",
+            "width": 1280,
+            "height": 1700
+          }
+        ]
+      ],
+      "company": {
+        "name": "Phonic",
+        "url": "https://www.linkedin.com/company/phonic-co/",
+        "urn": "urn:li:fsd_company:89770562",
+        "username": "phonic-co",
+        "companyLogo": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_100_100/B56ZXzODdLGsAQ-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=YyaD5_iGnALKTDzzY_yd_tYSWJ6oUR7VacbX0SGSCr0"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_400_400/B56ZXzODdLGsAY-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=NhHhdbjTqDln_BDF9Io7IXvaSt-A5o7o9Zg2lrjyhJg"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_200_200/B56ZXzODdLGsAI-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=B6qdkpwVvPh24jMoAJx8JiuOP5myLoEJosYLPQWt-iM"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "image",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Why shouldn't speaking with a AI be as seamless and as reliable as speaking to a human?\n\nMeet Phonic, the next-generation speech-to-speech platform solving exactly this problem.\n\nWe’ve all gotten stuck speaking on the phone to an AI that doesn’t understand you.\n\nAt Phonic, we’ve rethought the whole stack from model training to voice evals to compound systems for reliability.\n\n⚡ We trained our own audio foundation models, letting us focus on reliability during both training and post-training. These models are conversational and exhibit exceptionally low latencies, replying to speech within 300ms of the user sending it. See some conversations attached below!\n\n💡 Phonic learns and improves with every call. The platform imitates successful calls, determined by rigorous automatic evaluations, improving success rates over time. As a result, users can spend less time encoding edge cases, since the Phonic platform will do it for them.\n\n🪢 Compound models outside of the main voice model asynchronously guide conversational state towards goals, enabling users to tackle longer, more complex calls that are currently out of their reach.\n\nWe’re fortunate to be funded by Grace Isford and Brandon Reeves at Lux Capital and angel investors including:\n- Clem Delangue 🤗 from Hugging Face\n- Amjad Masad from Replit\n- Qasar Younis from Applied Intuition\n- Erik Bernhardsson from Modal\n- Michele Catasta from Replit\n- Douwe Kiela from Contextual AI\n\nInterested in learning more?\nRead about our vision here: https://lnkd.in/g-UJv-as \n\nCheck out TechCrunch's feature of us: https://lnkd.in/dysutxNz\n\nIf this future resonates with you, either as a customer or as an engineer, sign up for a chat here: https://lnkd.in/gmZKDCba! We’re excited to bring reliability to voice agents.",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7313660247108112406/",
+        "shareUrl": "https://www.linkedin.com/posts/phonic-co_why-shouldnt-speaking-with-a-ai-be-as-seamless-activity-7313660247108112406-Mwjl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFiXd2oBnMTIbDc-DcCgLFpKh9cuxse63Ng",
+        "postedDate": "2025-04-03 20:34:44.147 +0000 UTC",
+        "postedDateTimestamp": 1743712484147,
+        "urn": "7313660247108112406",
+        "author": {},
+        "video": [
+          {
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQEKNFoVKs_OdA/mp4-720p-30fp-crf28/B56ZX9XOGZGsBk-/0/1743712480538?e=1768521600&v=beta&t=rnKhv-FOoqwi8qUj6RZb_JA9wE9AvsVn0D6cFI6mf5U",
+            "poster": "https://media.licdn.com/dms/image/v2/D5605AQEKNFoVKs_OdA/videocover-low/B56ZX9XOGZGsCQ-/0/1743712478670?e=1768521600&v=beta&t=y_O9xFhx3VejPlsajoiqNRXMcA2k8zKYdacwuJ0DroE",
+            "duration": 18833,
+            "thumbnails": null,
+            "video": null
+          }
+        ],
+        "company": {
+          "name": "Phonic",
+          "url": "https://www.linkedin.com/company/phonic-co/",
+          "urn": "urn:li:fsd_company:89770562",
+          "username": "phonic-co",
+          "companyLogo": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_100_100/B56ZXzODdLGsAQ-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=YyaD5_iGnALKTDzzY_yd_tYSWJ6oUR7VacbX0SGSCr0"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_400_400/B56ZXzODdLGsAY-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=NhHhdbjTqDln_BDF9Io7IXvaSt-A5o7o9Zg2lrjyhJg"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_200_200/B56ZXzODdLGsAI-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=B6qdkpwVvPh24jMoAJx8JiuOP5myLoEJosYLPQWt-iM"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "linkedInVideo",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Reliability is one of the most underrated issues in voice AI (so many calls veer off track, app devs often play whack-a-mole with edge cases).\n\nSo excited to unveil Phonic, a true labor of love from our team. We're building audio foundation models and a next-gen speech-to-speech platform addressing reliability at its core.\n\nRead more here: https://lnkd.in/gE-7u-sp",
+      "totalReactionCount": 90,
+      "likeCount": 64,
+      "appreciationCount": 2,
+      "empathyCount": 12,
+      "praiseCount": 12,
+      "commentsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7313671360717758464/",
+      "shareUrl": "https://www.linkedin.com/posts/nikhil-murthy_why-shouldnt-speaking-with-a-ai-be-as-seamless-activity-7313671360717758464-3CxW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFiXd2oBnMTIbDc-DcCgLFpKh9cuxse63Ng",
+      "postedAt": "9mo",
+      "postedDate": "2025-04-03 21:18:53.838 +0000 UTC",
+      "postedDateTimestamp": 1743715133838,
+      "reposted": true,
+      "urn": "7313671360717758464",
+      "shareUrn": "urn:li:ugcPost:7313671360013078528",
+      "author": {
+        "id": 390228796,
+        "firstName": "Nikhil",
+        "lastName": "Murthy",
+        "headline": "Co-Founder @ Phonic | MIT CS",
+        "username": "nikhil-murthy",
+        "url": "https://www.linkedin.com/in/nikhil-murthy",
+        "profilePictures": [
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_400_400/B56ZX9hiudGUAg-/0/1743715183900?e=1769644800&v=beta&t=mlS40Zpn50JGMtgwu5LVhpP_DRCwvS9ctVH7TXnWjG8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_100_100/B56ZX9hiudGUAU-/0/1743715183900?e=1769644800&v=beta&t=rTej9uMCGtpuwEHZgV0M-kL7hmsaJxoWBtXuma-avZk"
+          },
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_800_800/B56ZX9hiudGUAc-/0/1743715183900?e=1769644800&v=beta&t=LR66jzlXX-LhFoB3hAxQqnIdsEGGo1mPDoOAGaxznPQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_200_200/B56ZX9hiudGUAY-/0/1743715183885?e=1769644800&v=beta&t=Z9n82Fe7YPL0k00bQRucbZrYR0NpxYGnDzDyRf7jETA"
+          }
+        ],
+        "urn": "ACoAABdCazwBIf4v6X3o3xumttq5vpa9UTIhBX8"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "We raised a big funding round! Excited to accelerate our research at the cutting edge of ML + computational chemistry",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7099414335646498818/",
+        "shareUrl": "https://www.linkedin.com/posts/ben-sklaroff-18b93061_genesis-therapeutics-closes-oversubscribed-activity-7099414335646498818-G7ZL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFiXd2oBnMTIbDc-DcCgLFpKh9cuxse63Ng",
+        "postedDate": "2023-08-21 15:37:58.358 +0000 UTC",
+        "postedDateTimestamp": 1692632278358,
+        "urn": "7099414335646498818",
+        "author": {
+          "firstName": "Ben",
+          "lastName": "Sklaroff",
+          "headline": "Ex-Businessperson",
+          "username": "ben-sklaroff-18b93061",
+          "url": "https://www.linkedin.com/in/ben-sklaroff-18b93061",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4E03AQEyN7GD-XU4Vg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1574052789902?e=1769644800&v=beta&t=MM6S6SClz1w-u-ZikAk0pvU_gNkRJVK_X13kd_URreI"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4E03AQEyN7GD-XU4Vg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1574052789848?e=1769644800&v=beta&t=2V5lm22S2nf-kB1zLBwBcXpv_jzw95puBMDK8gJqQJE"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4E03AQEyN7GD-XU4Vg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1574052789938?e=1769644800&v=beta&t=gYwvkTO2eqeANX4b_cb0MZVrb8s00pl07TJ8x-5J3tE"
+            },
+            {
+              "width": 500,
+              "height": 500,
+              "url": "https://media.licdn.com/dms/image/v2/C4E03AQEyN7GD-XU4Vg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1574052789986?e=1769644800&v=beta&t=nhypQXVAPu1WU2aziswU1BS5o050K5JQEaeRc8utRbY"
+            }
+          ]
+        },
+        "company": {},
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "article",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "",
+      "totalReactionCount": 22,
+      "likeCount": 17,
+      "empathyCount": 1,
+      "praiseCount": 4,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7099488425237499904/",
+      "shareUrl": "https://www.linkedin.com/posts/nikhil-murthy_genesis-therapeutics-closes-oversubscribed-activity-7099488425237499904-9oQC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFiXd2oBnMTIbDc-DcCgLFpKh9cuxse63Ng",
+      "postedAt": "2yr",
+      "postedDate": "2023-08-21 20:32:22.693 +0000 UTC",
+      "postedDateTimestamp": 1692649942693,
+      "reposted": true,
+      "urn": "7099488425237499904",
+      "shareUrn": "7099488424851623936",
+      "author": {
+        "id": 390228796,
+        "firstName": "Nikhil",
+        "lastName": "Murthy",
+        "headline": "Co-Founder @ Phonic | MIT CS",
+        "username": "nikhil-murthy",
+        "url": "https://www.linkedin.com/in/nikhil-murthy",
+        "profilePictures": [
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_400_400/B56ZX9hiudGUAg-/0/1743715183900?e=1769644800&v=beta&t=mlS40Zpn50JGMtgwu5LVhpP_DRCwvS9ctVH7TXnWjG8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_100_100/B56ZX9hiudGUAU-/0/1743715183900?e=1769644800&v=beta&t=rTej9uMCGtpuwEHZgV0M-kL7hmsaJxoWBtXuma-avZk"
+          },
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_800_800/B56ZX9hiudGUAc-/0/1743715183900?e=1769644800&v=beta&t=LR66jzlXX-LhFoB3hAxQqnIdsEGGo1mPDoOAGaxznPQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_200_200/B56ZX9hiudGUAY-/0/1743715183885?e=1769644800&v=beta&t=Z9n82Fe7YPL0k00bQRucbZrYR0NpxYGnDzDyRf7jETA"
+          }
+        ],
+        "urn": "ACoAABdCazwBIf4v6X3o3xumttq5vpa9UTIhBX8"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    }
+  ],
+  "paginationToken": "dXJuOmxpOmFjdGl2aXR5OjcwOTk0ODg0MjUyMzc0OTk5MDQtMTY5MjY0OTk0MjY3Nw=="
+}

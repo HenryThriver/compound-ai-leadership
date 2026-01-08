@@ -1,0 +1,704 @@
+{
+  "id": 478382270,
+  "urn": "ACoAAByDiL4Boeth89uErFdlQtv5UfiRQHSbyfY",
+  "username": "moin-nadeem",
+  "firstName": "Moin",
+  "lastName": "Nadeem",
+  "isPremium": true,
+  "summary": "Building Phonic. DM me if you're looking for your next role!",
+  "headline": "Co-Founder @ Phonic (hiring!) | MIT BS ’20, MEng ’21",
+  "geo": {
+    "country": "United States",
+    "city": "San Mateo, California",
+    "full": "San Mateo, California, United States",
+    "countryCode": "us"
+  },
+  "languages": [
+    {
+      "name": "Arabic",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Urdu",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science",
+      "degree": "Doctor of Philosophy - PhD",
+      "grade": "",
+      "schoolName": "Stanford University",
+      "description": "On leave of absence",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/stanford-university/",
+      "schoolId": "1792",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=sqXBAbm3aQG_xr5k34yWdYXNcXUSv6IExQGhZ1fVEDg",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=Ofgp-53u91vhwisHtY3jC8KEbFk11zeFtZUFdyt83YE",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=Llzs98i6BxOnAdFcd7qBlpaa7EmxuuAfpokqHcO1BX8",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2020,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science",
+      "degree": "Master's degree",
+      "grade": "",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "",
+      "activities": "Researching neural text generation",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2016,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science, Data Science and Statistics",
+      "degree": "Bachelor's degree",
+      "grade": "",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "",
+      "activities": "AI@MIT, TechX + HackMIT (Director of Developer Operations), StartLabs, Muslim Student Association Exec",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 89770562,
+      "companyName": "Phonic",
+      "companyUsername": "phonic-co",
+      "companyURL": "https://www.linkedin.com/company/phonic-co/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_200_200/B56ZXzODdLGsAI-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=B6qdkpwVvPh24jMoAJx8JiuOP5myLoEJosYLPQWt-iM",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Phonic"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Voice AI Agents that sound and feel like you're talking to a real human\n\nLooking for your next role? DM me, we're hiring!",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "LLM Startups",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Consultant",
+      "multiLocaleTitle": {
+        "en_US": "Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "LLM Startups"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "Consulted for Replicate and Contextual to help them built better price/performance inference systems. Learned a lot.",
+      "employmentType": "Contract",
+      "start": {
+        "year": 2023,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1792,
+      "companyName": "Stanford University",
+      "companyUsername": "stanford-university",
+      "companyURL": "https://www.linkedin.com/school/stanford-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=Llzs98i6BxOnAdFcd7qBlpaa7EmxuuAfpokqHcO1BX8",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "10001+",
+      "title": "Doctoral Student",
+      "multiLocaleTitle": {
+        "en_US": "Doctoral Student"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Stanford University"
+      },
+      "location": "Stanford, California, United States",
+      "locationType": "",
+      "description": "Did research on turning prompts into websites.\n\nOn a leave of absence.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 76223497,
+      "companyName": "MosaicML",
+      "companyUsername": "mosaicresearch",
+      "companyURL": "https://www.linkedin.com/company/mosaicresearch/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEyoqXK21J84Q/company-logo_400_400/company-logo_400_400/0/1710961544456/mosaicml_logo?e=1769644800&v=beta&t=py4J8ljjlK3aQahadKIMY5L-Afg677fm_K6eheRPQ7A",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "5001 - 10000",
+      "title": "Machine Learning Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Machine Learning Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MosaicML"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Joined as the 8th employee, started the NLP team, and was responsible for onboarding the first Fortune 500 customer. Left to start a PhD at Stanford.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 8060229,
+      "companyName": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "companyUsername": "mit-csail",
+      "companyURL": "https://www.linkedin.com/company/mit-csail/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGRPOLADdMtg/company-logo_400_400/company-logo_400_400/0/1640006078259/mit_csail_logo?e=1769644800&v=beta&t=6T_eW_v5u3kOfgUAEyppG_sf5PaWWHZnK9LZrN4Jx_4",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Research Assistant",
+      "multiLocaleTitle": {
+        "en_US": "Research Assistant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)"
+      },
+      "location": "Cambridge, Massachusetts, United States",
+      "locationType": "",
+      "description": "The Spoken Language Systems Group. Studied autoregressive language generation, proposed better autoregressive sampling algorithms, and wrote a master's thesis on factuality in language models.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 3,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 89770562,
+      "companyName": "Phonic",
+      "companyUsername": "phonic-co",
+      "companyURL": "https://www.linkedin.com/company/phonic-co/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_200_200/B56ZXzODdLGsAI-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=B6qdkpwVvPh24jMoAJx8JiuOP5myLoEJosYLPQWt-iM",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Phonic"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Voice AI Agents that sound and feel like you're talking to a real human\n\nLooking for your next role? DM me, we're hiring!",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "LLM Startups",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Consultant",
+      "multiLocaleTitle": {
+        "en_US": "Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "LLM Startups"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "Consulted for Replicate and Contextual to help them built better price/performance inference systems. Learned a lot.",
+      "employmentType": "Contract",
+      "start": {
+        "year": 2023,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1792,
+      "companyName": "Stanford University",
+      "companyUsername": "stanford-university",
+      "companyURL": "https://www.linkedin.com/school/stanford-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=Llzs98i6BxOnAdFcd7qBlpaa7EmxuuAfpokqHcO1BX8",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "10001+",
+      "title": "Doctoral Student",
+      "multiLocaleTitle": {
+        "en_US": "Doctoral Student"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Stanford University"
+      },
+      "location": "Stanford, California, United States",
+      "locationType": "",
+      "description": "Did research on turning prompts into websites.\n\nOn a leave of absence.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 76223497,
+      "companyName": "MosaicML",
+      "companyUsername": "mosaicresearch",
+      "companyURL": "https://www.linkedin.com/company/mosaicresearch/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEyoqXK21J84Q/company-logo_400_400/company-logo_400_400/0/1710961544456/mosaicml_logo?e=1769644800&v=beta&t=py4J8ljjlK3aQahadKIMY5L-Afg677fm_K6eheRPQ7A",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "5001 - 10000",
+      "title": "Machine Learning Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Machine Learning Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MosaicML"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Joined as the 8th employee, started the NLP team, and was responsible for onboarding the first Fortune 500 customer. Left to start a PhD at Stanford.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 8060229,
+      "companyName": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "companyUsername": "mit-csail",
+      "companyURL": "https://www.linkedin.com/company/mit-csail/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGRPOLADdMtg/company-logo_400_400/company-logo_400_400/0/1640006078259/mit_csail_logo?e=1769644800&v=beta&t=6T_eW_v5u3kOfgUAEyppG_sf5PaWWHZnK9LZrN4Jx_4",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Research Assistant",
+      "multiLocaleTitle": {
+        "en_US": "Research Assistant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)"
+      },
+      "location": "Cambridge, Massachusetts, United States",
+      "locationType": "",
+      "description": "The Spoken Language Systems Group. Studied autoregressive language generation, proposed better autoregressive sampling algorithms, and wrote a master's thesis on factuality in language models.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 3,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Science",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 13
+    },
+    {
+      "name": "Java",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 11
+    },
+    {
+      "name": "JavaScript",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "PHP",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "MySQL",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Data Science",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Spanish",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Apache",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Servers",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Android Development",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Machine Learning",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Public Speaking",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Volunteering",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Artificial Intelligence",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Social Media",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Node.js",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "MongoDB",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Software Development",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "Microsoft Excel",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Microsoft Office",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Customer Service",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Microsoft Word",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "PowerPoint",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Project Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Viral Marketing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Android",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Web Development",
+      "passedSkillAssessment": false
+    }
+  ],
+  "honors": [
+    {
+      "title": "Natural Language Processing/Understanding Innovation",
+      "description": "The NLP innovation for 2021 Award from VentureBeat was for my published work on AI fairness.",
+      "issuer": "VentureBeat",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2020,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "title": "Outstanding Undergraduate Research",
+      "description": "",
+      "issuer": "MIT",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGRPOLADdMtg/company-logo_400_400/company-logo_400_400/0/1640006078259/mit_csail_logo?e=1769644800&v=beta&t=6T_eW_v5u3kOfgUAEyppG_sf5PaWWHZnK9LZrN4Jx_4",
+      "issuedOn": {
+        "year": 2019,
+        "month": 5,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {
+    "total": 1,
+    "items": [
+      {
+        "title": "Tracking & Analyzing over 200,000 steps at MIT",
+        "description": "",
+        "start": {
+          "year": 2017,
+          "month": 5,
+          "day": 0
+        },
+        "end": {
+          "year": 2017,
+          "month": 5,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAAByDiL4Boeth89uErFdlQtv5UfiRQHSbyfY",
+            "username": "moin-nadeem",
+            "fullName": "Moin Nadeem",
+            "firstName": "Moin",
+            "lastName": "Nadeem",
+            "profilePicture": null,
+            "headline": "Co-Founder @ Phonic (hiring!) | MIT BS ’20, MEng ’21",
+            "url": "https://www.linkedin.com/in/moin-nadeem"
+          }
+        ]
+      }
+    ]
+  },
+  "publications": [
+    {
+      "publishedOn": {
+        "year": 2023,
+        "month": 7,
+        "day": 16
+      },
+      "name": "MosaicBERT: How to Train BERT with a Lunch Money Budget",
+      "publisher": "Workshop on Efficient Systems for Foundation Models @ ICML2023",
+      "url": "https://openreview.net/forum?id=WH1S0gonzR"
+    },
+    {
+      "publishedOn": {
+        "year": 2020,
+        "month": 9,
+        "day": 15
+      },
+      "name": "A systematic characterization of sampling algorithms for open-ended language generation",
+      "publisher": "AACL",
+      "url": "https://arxiv.org/abs/2009.07243"
+    },
+    {
+      "publishedOn": {
+        "year": 2020,
+        "month": 4,
+        "day": 20
+      },
+      "name": "StereoSet: Measuring stereotypical bias in pretrained language models",
+      "publisher": "NAACL",
+      "url": "https://arxiv.org/abs/2004.09456"
+    },
+    {
+      "publishedOn": {
+        "year": 1998,
+        "month": 6,
+        "day": 4
+      },
+      "name": "FAKTA: An Automatic End-to-End Fact Checking System",
+      "publisher": "NAACL",
+      "url": "https://www.aclweb.org/anthology/N19-4014/"
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Moin"
+  },
+  "multiLocaleLastName": {
+    "en": "Nadeem"
+  },
+  "multiLocaleHeadline": {
+    "en": "Co-Founder @ Phonic (hiring!) | MIT BS ’20, MEng ’21"
+  },
+  "multiLocaleSummary": {
+    "en": "Building Phonic. DM me if you're looking for your next role!"
+  }
+}

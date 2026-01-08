@@ -1,0 +1,540 @@
+{
+  "id": 390228796,
+  "urn": "ACoAABdCazwBIf4v6X3o3xumttq5vpa9UTIhBX8",
+  "username": "nikhil-murthy",
+  "firstName": "Nikhil",
+  "lastName": "Murthy",
+  "isPremium": false,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_200_200/B56ZX9hiudGUAY-/0/1743715183885?e=1769644800&v=beta&t=Z9n82Fe7YPL0k00bQRucbZrYR0NpxYGnDzDyRf7jETA",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_400_400/B56ZX9hiudGUAg-/0/1743715183900?e=1769644800&v=beta&t=mlS40Zpn50JGMtgwu5LVhpP_DRCwvS9ctVH7TXnWjG8",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_100_100/B56ZX9hiudGUAU-/0/1743715183900?e=1769644800&v=beta&t=rTej9uMCGtpuwEHZgV0M-kL7hmsaJxoWBtXuma-avZk",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_800_800/B56ZX9hiudGUAc-/0/1743715183900?e=1769644800&v=beta&t=LR66jzlXX-LhFoB3hAxQqnIdsEGGo1mPDoOAGaxznPQ",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGME3tlrpFBfg/profile-displayphoto-shrink_200_200/B56ZX9hiudGUAY-/0/1743715183885?e=1769644800&v=beta&t=Z9n82Fe7YPL0k00bQRucbZrYR0NpxYGnDzDyRf7jETA",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQGubu7g6Fp0gw/profile-displaybackgroundimage-shrink_350_1400/B56ZX9h7mXHQAc-/0/1743715285921?e=1769644800&v=beta&t=DVNbku-ssWPTGlZIhHmY0Aqfi3VQ-kuTOWN4sXxQ9nI"
+    },
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQGubu7g6Fp0gw/profile-displaybackgroundimage-shrink_200_800/B56ZX9h7mXHQAY-/0/1743715285921?e=1769644800&v=beta&t=xpciQk-jq-wSIeF-kiaIcwYH3ymNEZCoTqoVlqlW52A"
+    }
+  ],
+  "headline": "Co-Founder @ Phonic | MIT CS",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2020,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science",
+      "degree": "Master of Engineering - MEng",
+      "grade": "",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science",
+      "degree": "Bachelor of Science - SB",
+      "grade": "5.0/5.0",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "Graduated in 2.5 years (BS) + 1 year (MEng)\nPresident of MIT Machine Intelligence Community (MIC)",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "High School ",
+      "grade": "",
+      "schoolName": "Catlin Gabel School",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    }
+  ],
+  "position": [
+    {
+      "companyId": 89770562,
+      "companyName": "Phonic",
+      "companyUsername": "phonic-co",
+      "companyURL": "https://www.linkedin.com/company/phonic-co/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_200_200/B56ZXzODdLGsAI-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=B6qdkpwVvPh24jMoAJx8JiuOP5myLoEJosYLPQWt-iM",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Phonic"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19055514,
+      "companyName": "Genesis Therapeutics",
+      "companyUsername": "genesis-molecular-ai",
+      "companyURL": "https://www.linkedin.com/company/genesis-molecular-ai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH-joCDV--N1A/company-logo_100_100/B56ZosHu45JkAQ-/0/1761676816224/genesis_molecular_ai_logo?e=1769644800&v=beta&t=trIF21a8YNPwa-6414da06ijpTIkeDN5jm0OkKhpkUU",
+      "companyIndustry": "Biotechnology",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Principal ML Research Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Principal ML Research Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Genesis Therapeutics"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led foundation model team. SOTA diffusion models for structure prediction.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3608,
+      "companyName": "NVIDIA",
+      "companyUsername": "nvidia",
+      "companyURL": "https://www.linkedin.com/company/nvidia/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_400_400/company-logo_400_400/0/1724881581208/nvidia_logo?e=1769644800&v=beta&t=5OdMxF9vD8s6BaHY1Mv4KW7MonnpFyq6GRpRHqyZfZE",
+      "companyIndustry": "Computer Hardware",
+      "companyStaffCountRange": "10001+",
+      "title": "Deep Learning Research Intern",
+      "multiLocaleTitle": {
+        "en_US": "Deep Learning Research Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "NVIDIA"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1009,
+      "companyName": "IBM",
+      "companyUsername": "ibm",
+      "companyURL": "https://www.linkedin.com/company/ibm/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1769644800&v=beta&t=V-cIrxt6hopRD8Ff3Ne-1cqePH2m2WdMcQ6gdUVCTW8",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "10001+",
+      "title": "Deep Learning Research Intern",
+      "multiLocaleTitle": {
+        "en_US": "Deep Learning Research Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "IBM"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1053,
+      "companyName": "Intel Corporation",
+      "companyUsername": "intel-corporation",
+      "companyURL": "https://www.linkedin.com/company/intel-corporation/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1769644800&v=beta&t=vp-AubF5Thf1EIyhoWL6hlxfYRglbiVZju9vP61z4oM",
+      "companyIndustry": "Semiconductors",
+      "companyStaffCountRange": "10001+",
+      "title": "Machine Learning Systems Intern, AI Products Group",
+      "multiLocaleTitle": {
+        "en_US": "Machine Learning Systems Intern, AI Products Group"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Intel Corporation"
+      },
+      "location": "Hillsboro, Oregon",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2453129,
+      "companyName": "Coursera",
+      "companyUsername": "coursera",
+      "companyURL": "https://www.linkedin.com/company/coursera/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1769644800&v=beta&t=X7MuREc6xUT0QMSOpqDlcEaNmW9NZh4G_QrDnrf0PDw",
+      "companyIndustry": "E-learning",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Coursera Instructor",
+      "multiLocaleTitle": {
+        "en_US": "Coursera Instructor"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Coursera"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Designed and taught “A Practical Introduction to Deep Learning” Coursera course, along with Dr. Andres Rodriguez and Dr. Hanlin Tang",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 3,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 89770562,
+      "companyName": "Phonic",
+      "companyUsername": "phonic-co",
+      "companyURL": "https://www.linkedin.com/company/phonic-co/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHmVvVTfIDpsQ/company-logo_200_200/B56ZXzODdLGsAI-/0/1743542302843/phonic_co_logo?e=1769644800&v=beta&t=B6qdkpwVvPh24jMoAJx8JiuOP5myLoEJosYLPQWt-iM",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Phonic"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19055514,
+      "companyName": "Genesis Therapeutics",
+      "companyUsername": "genesis-molecular-ai",
+      "companyURL": "https://www.linkedin.com/company/genesis-molecular-ai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH-joCDV--N1A/company-logo_100_100/B56ZosHu45JkAQ-/0/1761676816224/genesis_molecular_ai_logo?e=1769644800&v=beta&t=trIF21a8YNPwa-6414da06ijpTIkeDN5jm0OkKhpkUU",
+      "companyIndustry": "Biotechnology",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Principal ML Research Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Principal ML Research Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Genesis Therapeutics"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led foundation model team. SOTA diffusion models for structure prediction.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3608,
+      "companyName": "NVIDIA",
+      "companyUsername": "nvidia",
+      "companyURL": "https://www.linkedin.com/company/nvidia/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_400_400/company-logo_400_400/0/1724881581208/nvidia_logo?e=1769644800&v=beta&t=5OdMxF9vD8s6BaHY1Mv4KW7MonnpFyq6GRpRHqyZfZE",
+      "companyIndustry": "Computer Hardware",
+      "companyStaffCountRange": "10001+",
+      "title": "Deep Learning Research Intern",
+      "multiLocaleTitle": {
+        "en_US": "Deep Learning Research Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "NVIDIA"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1009,
+      "companyName": "IBM",
+      "companyUsername": "ibm",
+      "companyURL": "https://www.linkedin.com/company/ibm/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1769644800&v=beta&t=V-cIrxt6hopRD8Ff3Ne-1cqePH2m2WdMcQ6gdUVCTW8",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "10001+",
+      "title": "Deep Learning Research Intern",
+      "multiLocaleTitle": {
+        "en_US": "Deep Learning Research Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "IBM"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1053,
+      "companyName": "Intel Corporation",
+      "companyUsername": "intel-corporation",
+      "companyURL": "https://www.linkedin.com/company/intel-corporation/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_400_400/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1769644800&v=beta&t=vp-AubF5Thf1EIyhoWL6hlxfYRglbiVZju9vP61z4oM",
+      "companyIndustry": "Semiconductors",
+      "companyStaffCountRange": "10001+",
+      "title": "Machine Learning Systems Intern, AI Products Group",
+      "multiLocaleTitle": {
+        "en_US": "Machine Learning Systems Intern, AI Products Group"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Intel Corporation"
+      },
+      "location": "Hillsboro, Oregon",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2453129,
+      "companyName": "Coursera",
+      "companyUsername": "coursera",
+      "companyURL": "https://www.linkedin.com/company/coursera/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1769644800&v=beta&t=X7MuREc6xUT0QMSOpqDlcEaNmW9NZh4G_QrDnrf0PDw",
+      "companyIndustry": "E-learning",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Coursera Instructor",
+      "multiLocaleTitle": {
+        "en_US": "Coursera Instructor"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Coursera"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Designed and taught “A Practical Introduction to Deep Learning” Coursera course, along with Dr. Andres Rodriguez and Dr. Hanlin Tang",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 3,
+        "day": 0
+      }
+    }
+  ],
+  "honors": [
+    {
+      "title": " 2017 U.S. Presidential Scholar",
+      "description": "One of 161 outstanding American high school seniors who have demonstrated outstanding academic achievement, artistic excellence, leadership, citizenship, service, and contribution to school and community. Honored at the U.S. Presidential Scholars Program’s National Recognition\nProgram in Washington D.C. ",
+      "issuer": "United States Department of Education",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2017,
+        "month": 5,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Nikhil"
+  },
+  "multiLocaleLastName": {
+    "en": "Murthy"
+  },
+  "multiLocaleHeadline": {
+    "en": "Co-Founder @ Phonic | MIT CS"
+  }
+}

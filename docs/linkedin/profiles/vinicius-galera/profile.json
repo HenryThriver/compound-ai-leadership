@@ -1,0 +1,2043 @@
+{
+  "id": 128945307,
+  "urn": "ACoAAAevjJsBoS1l1oEQSMn67yUrOldDTrBTocY",
+  "username": "vinicius-galera",
+  "firstName": "Vinicius",
+  "lastName": "Galera",
+  "isCreator": true,
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQEFm92wiW1JgA/profile-displayphoto-shrink_400_400/B4DZOON9kMHQAg-/0/1733257846006?e=1769644800&v=beta&t=-1nfEUIcRA1FAueiu8Q2fdBhlt0m26K-DRZgXtYFlCw",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQEFm92wiW1JgA/profile-displayphoto-shrink_200_200/B4DZOON9kMHQAY-/0/1733257846033?e=1769644800&v=beta&t=KUt2-q7MvOmM2syP1s0hSGLo9ONq-gyjv5Awcr16TwE",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQEFm92wiW1JgA/profile-displayphoto-shrink_800_800/B4DZOON9kMHQAc-/0/1733257846033?e=1769644800&v=beta&t=dV35ziXICRJLcOl53E6ZbygIwWa0gGM8J9Ix9nbTg4k",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQEFm92wiW1JgA/profile-displayphoto-shrink_100_100/B4DZOON9kMHQAU-/0/1733257846033?e=1769644800&v=beta&t=M3eSAOcE0ty_lEtc1fBcNxQ2criCa5ZPGuvp-7VM8ZE",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQEFm92wiW1JgA/profile-displayphoto-shrink_400_400/B4DZOON9kMHQAg-/0/1733257846006?e=1769644800&v=beta&t=-1nfEUIcRA1FAueiu8Q2fdBhlt0m26K-DRZgXtYFlCw",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D4D16AQHCM8wbPbLkaQ/profile-displaybackgroundimage-shrink_200_800/B4DZjnuNu.H4AY-/0/1756234309908?e=1769644800&v=beta&t=IlOY16Tb4dc4eRAR5qQlrk72HFD6GQJpZ9oweSARY14"
+    },
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/D4D16AQHCM8wbPbLkaQ/profile-displaybackgroundimage-shrink_350_1400/B4DZjnuNu.H4Ac-/0/1756234309908?e=1769644800&v=beta&t=cWfTfGiNq5sbw3RY1GzbtDZT-0rpHHoJc8IOZuPDCsk"
+    }
+  ],
+  "summary": "I’m a global business innovation leader with over 16 years of experience driving growth at the intersection of AI, machine learning, and emerging technologies. Currently, I serve as VP of GTM engineering and leading the team of Forward Deployed Engineers &amp; Labs.Previously, I helped scale the AI and consulting practice at Formula.Monks to more than 150 people across four continents, achieving 12x growth and pioneering go-to-market strategies for AI in media, entertainment, gaming, and sports. My career also includes nearly eight years at Integration Consulting, where I delivered 30+ strategy, operations, and go-to-market projects for global companies such as Ambev, Johnson &amp; Johnson, Kellogg’s, and BRF, as well as advisory work with Mandalah, Impact Hub, and others.I hold three master’s degrees in AI/ML from Oxford University, Imperial College London, and the Hebrew University of Jerusalem, and I mentor the next generation of leaders through the Oxford Artificial Intelligence Society. Passionate about blending strategy, technology, and execution, I focus on building innovative solutions that create measurable impact.",
+  "headline": "AI and Machine Learning Expert | VP of GTM Engineer & Forward Deployed Engineer | 3x AI and ML Masters (Oxford, Imperial College, Hebrew Univ.) | Chief Revenue Officer & FDE",
+  "geo": {
+    "country": "United Kingdom",
+    "city": "London, England",
+    "full": "London, England, United Kingdom",
+    "countryCode": "gb"
+  },
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "German",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "Portuguese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 2024,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Artificial Intelligence",
+      "degree": "Executive Master in Artificial Intelligence for Business",
+      "grade": "",
+      "schoolName": "Saïd Business School, University of Oxford",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/oxfordsbs/",
+      "schoolId": "4476",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOpZQ4TKBuSA/company-logo_200_200/company-logo_200_200/0/1719824395450/oxfordsbs_logo?e=1769644800&v=beta&t=YS0LGN5GPXmgaXnhTo_wDE_AMSJFA55kHMipIDfrQZg",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOpZQ4TKBuSA/company-logo_100_100/company-logo_100_100/0/1719824395450/oxfordsbs_logo?e=1769644800&v=beta&t=llJFOQKurzDeEvTTtsx8e_fvw3flbbYbgtH9u3BKH5A",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOpZQ4TKBuSA/company-logo_400_400/company-logo_400_400/0/1719824395450/oxfordsbs_logo?e=1769644800&v=beta&t=Omo4HrblVgx1uMUKJhSYP8Ut0j7km-FzuyifaKC_lVg",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2024,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 9,
+        "day": 0
+      },
+      "fieldOfStudy": "Artificial Intelligence",
+      "degree": "Master's in Machine Learning and Artificial Intelligence",
+      "grade": "",
+      "schoolName": "Imperial College Business School",
+      "description": "Foundation to Advanced Learning: Progressed from understanding foundational concepts of ML and AI to exploring their advanced applications across industries. This included hands-on experiences with real-life data science projects, learning about effective ML methods, and delving into cutting-edge AI topics.\n\nInteractive Learning Experience: Benefited from Imperial College's faculty insights and industry expert guidance, complemented by interactive activities and practical exercises. This approach solidified my understanding and application of ML and AI concepts to real datasets.\n\nPractical Application: The programme culminated in a capstone project that mimicked a real-life ML competition, allowing me to apply and optimize predictive models. This hands-on experience was invaluable in demonstrating the practical implications of my learning",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/imperial-business-school/",
+      "schoolId": "2661479",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE3AUmnnxnKSg/company-logo_400_400/B4EZfv3Io8HgAo-/0/1752075897789/imperial_business_school_logo?e=1769644800&v=beta&t=pHYly6bphDR54NlcC49A9SAygyKAkF6OPS3HiVKjIFw",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE3AUmnnxnKSg/company-logo_100_100/B4EZfv3Io8HgAg-/0/1752075897789/imperial_business_school_logo?e=1769644800&v=beta&t=CEnX__anBBDLjrMISSP9GM3hG1G1_2k--aVUNDPesy4",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE3AUmnnxnKSg/company-logo_200_200/B4EZfv3Io8HgAY-/0/1752075897789/imperial_business_school_logo?e=1769644800&v=beta&t=xX9nQJVrCceQlxquJixVqsWKfMnDm2pqSs7kNTt6RzA",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Artificial Intelligence",
+      "degree": "Emerging Technology and Machine Learning innovation Program",
+      "grade": "",
+      "schoolName": "The Hebrew University",
+      "description": "study of emerging tech - AI, Machine Learning, Computer Vision, Cyber Security, Bioengineering",
+      "activities": "AI, Cyber Security, Bioengineering, Machine Learning, Entrepreneurship,Futurism,Computer Vision",
+      "url": "https://www.linkedin.com/school/hebrew-university/",
+      "schoolId": "3153",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFY5c8wtAIu9A/company-logo_200_200/B4DZokZCzdIkAM-/0/1761547136738/hebrew_university_logo?e=1769644800&v=beta&t=NPWVyyyKiZAM8xhcDeVWOLOCAxaIw7lN7o4K0uJm3mE",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFY5c8wtAIu9A/company-logo_100_100/B4DZokZCzdIkAU-/0/1761547136738/hebrew_university_logo?e=1769644800&v=beta&t=f7jFi5A3u-TP3ORvb7O3UL_iK32bzLqRrJvOwgThpec",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFY5c8wtAIu9A/company-logo_400_400/B4DZokZCzdIkAc-/0/1761547136738/hebrew_university_logo?e=1769644800&v=beta&t=ZX5t9Ale7VLWsSe598EoqcrVzLA187w7LEqRGC1yfkE",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2018,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 12,
+        "day": 0
+      },
+      "fieldOfStudy": "Design",
+      "degree": "Pós Graduação em Design Estrategico e Inovação",
+      "grade": "",
+      "schoolName": "Istituto Europeo di Design - IED São Paulo",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/iedbrasil/",
+      "schoolId": "3845141",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEVT1jywpoqyg/company-logo_400_400/B4DZqSrU0_JEAY-/0/1763397423014/iedbrasil_logo?e=1769644800&v=beta&t=vyf92fXu7z3i4CFXMyZPbPU1Z1LagUKkksbnRP6HeII",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEVT1jywpoqyg/company-logo_200_200/B4DZqSrU0_JEAI-/0/1763397423014/iedbrasil_logo?e=1769644800&v=beta&t=YWym1-dztfke6wWdISzKjd_56ysLIvpVGZzBFHvyi4Y",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEVT1jywpoqyg/company-logo_100_100/B4DZqSrU0_JEAQ-/0/1763397423014/iedbrasil_logo?e=1769644800&v=beta&t=xkiLgsBeBTtFMG0RarMKEUho7Md3Sfjcc6KPh4aKMjg",
+          "width": 100,
+          "height": 100
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 2,
+        "day": 0
+      },
+      "fieldOfStudy": "Digital product",
+      "degree": "Product Management & Growth",
+      "grade": "",
+      "schoolName": "Reforge",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/reforge-edu/",
+      "schoolId": "86825829",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEYPmyZ8x5eXQ/company-logo_200_200/company-logo_200_200/0/1691841213752/reforge_edu_logo?e=1769644800&v=beta&t=jlNYBWiPypZ_LyhGimgjcbVr6_wkmvueJBtajsW-9BM",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEYPmyZ8x5eXQ/company-logo_100_100/company-logo_100_100/0/1691841213752/reforge_edu_logo?e=1769644800&v=beta&t=oGhEr14rBPhnvRrLT74x4apRhlDDlCGZLnQXEdBX6fQ",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEYPmyZ8x5eXQ/company-logo_400_400/company-logo_400_400/0/1691841213752/reforge_edu_logo?e=1769644800&v=beta&t=i_RPoz0xPbYr49Bp2rKLQkQ0s-kuIE1O0b7WOIjxBEA",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2018,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      },
+      "fieldOfStudy": "Organizational Leadership",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Seth Godin's altMBA",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/altmba/",
+      "schoolId": "10003521",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGb9fzZLubDBw/company-logo_200_200/company-logo_200_200/0/1689219864265/altmba_logo?e=1769644800&v=beta&t=mwrlu0Zi6-Ft24W3fwWYFPqPGgWYZQspvGQ4zlcxNDw",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGb9fzZLubDBw/company-logo_100_100/company-logo_100_100/0/1689219864266/altmba_logo?e=1769644800&v=beta&t=Ow645OxHHw3X5mA4gr9MBRjcnTzugQT5vEfe35k9mfM",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGb9fzZLubDBw/company-logo_400_400/company-logo_400_400/0/1689219864266/altmba_logo?e=1769644800&v=beta&t=cwdTSLjknreY5699N1CCvSYwJoF4PVvupLw3FfJzSCU",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Content Curatorship",
+      "degree": "Content Curator",
+      "grade": "",
+      "schoolName": "Inesplorato",
+      "description": "",
+      "activities": "Concepts on Content Curatorship and how to focus what we don't know we don't know.",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Facilitação e Design",
+      "degree": "Especialização em Facilitação de Design",
+      "grade": "",
+      "schoolName": "Echos Desirable Futures Lab",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/echos-desirablefutureslab/",
+      "schoolId": "10513122",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQG7KbS3AKhljw/company-logo_200_200/company-logo_200_200/0/1657303733008/echos_innovation_lab_logo?e=1769644800&v=beta&t=efDx1Cbh71gIa86jhlktG0oey_l3t4MOsRN400GsK24",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQG7KbS3AKhljw/company-logo_100_100/company-logo_100_100/0/1657303733008/echos_innovation_lab_logo?e=1769644800&v=beta&t=6FTpuS9NVzngd6fpzM7GvwVrclJuCu6LcrPcs7Sm998",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQG7KbS3AKhljw/company-logo_400_400/company-logo_400_400/0/1657303733008/echos_innovation_lab_logo?e=1769644800&v=beta&t=K6v6EeoYD_31fgC655IKdnawbjNvsFupC6YiowfKwdQ",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Futurism, Exponential Technologies, Entrepreneurship",
+      "degree": "Exponential Foundation Series",
+      "grade": "",
+      "schoolName": "Singularity University",
+      "description": "9 week course on exponential technologies and futurism.\n(Exponential Mindset, Futurism, Bioengineering, Bigdata, Nanotech, AI, Robotics)",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Storytelling",
+      "degree": "Storytelling",
+      "grade": "",
+      "schoolName": "Pixar (online)",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Creativity",
+      "degree": "Reaprendizagem Criativa",
+      "grade": "",
+      "schoolName": "Keep Learning School",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/keeplearningschool/",
+      "schoolId": "16270642",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFXQF3yqUWuTA/company-logo_200_200/company-logo_200_200/0/1631357560558/keeplearningschool_logo?e=1769644800&v=beta&t=tT2yphoVw65qQcYflYtv0MjB6H-2N_pLdp1wi2JwCj8",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFXQF3yqUWuTA/company-logo_100_100/company-logo_100_100/0/1631357560558/keeplearningschool_logo?e=1769644800&v=beta&t=X5AUoTpIHUcEuTzIu9COP72Kmv8R_RVRhd2zFXoHJmo",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFXQF3yqUWuTA/company-logo_400_400/company-logo_400_400/0/1631357560558/keeplearningschool_logo?e=1769644800&v=beta&t=sqzbPDkMVBVPFjNGW4JU1dSyWrT-uWjve-e-OWHPsE4",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "futurism",
+      "degree": "Friends of Tomorrow",
+      "grade": "",
+      "schoolName": "Aeroli.to",
+      "description": "",
+      "activities": "Online course on futurism, exponential technologies and future of work",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Marketing",
+      "degree": "Marketing Strategy",
+      "grade": "",
+      "schoolName": "Seth Godin Marketing Seminar",
+      "description": "Identifying the change you aim to make\nReaching the people you seek to change\nClarifying the promise you are willing to make\nDeveloping an empathic posture\nPositioning yourself\nOutlining personas\nUnderstanding status roles\nResearching the market effectively\nPricing your service\nBuilding your brand\nEarning permission to market\nTelling stories that resonate and spread\nCreating your modern marketing plan",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "Mobilize - strategies to transform and influence workshop",
+      "grade": "",
+      "schoolName": "Escola de Design Thinking + Together School",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "Design Thinking",
+      "grade": "",
+      "schoolName": "Escola de Design Thinking",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2008,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Manufacturing Engineering",
+      "degree": "Bachelor",
+      "grade": "",
+      "schoolName": "Escola de Engenharia Maua",
+      "description": "Graduated with honors as the best conclusion project of Class of 2012",
+      "activities": "Mauá Jr., Semana de Engenharia Mauá",
+      "url": "https://www.linkedin.com/school/escola-de-engenharia-mau%C3%A1/",
+      "schoolId": "15104780",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 1997,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2007,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "High School",
+      "degree": "High School",
+      "grade": "",
+      "schoolName": "Colégio Móbile",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Education",
+      "degree": "Habilidades Socioemocionais para Educadores",
+      "grade": "",
+      "schoolName": "Ministrado por Tonia Casarin",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Imperial College Business School",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/imperial-business-school/",
+      "schoolId": "2661479",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE3AUmnnxnKSg/company-logo_400_400/B4EZfv3Io8HgAo-/0/1752075897789/imperial_business_school_logo?e=1769644800&v=beta&t=pHYly6bphDR54NlcC49A9SAygyKAkF6OPS3HiVKjIFw",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE3AUmnnxnKSg/company-logo_100_100/B4EZfv3Io8HgAg-/0/1752075897789/imperial_business_school_logo?e=1769644800&v=beta&t=CEnX__anBBDLjrMISSP9GM3hG1G1_2k--aVUNDPesy4",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE3AUmnnxnKSg/company-logo_200_200/B4EZfv3Io8HgAY-/0/1752075897789/imperial_business_school_logo?e=1769644800&v=beta&t=xX9nQJVrCceQlxquJixVqsWKfMnDm2pqSs7kNTt6RzA",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 738478,
+      "companyName": "FCamara",
+      "companyUsername": "grupofcamara",
+      "companyURL": "https://www.linkedin.com/company/grupofcamara/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzMzmY-T_F1g/company-logo_400_400/company-logo_400_400/0/1670441718552/grupofcamara_logo?e=1769644800&v=beta&t=xnFILKmpB_JdiaQ2mSE5N6DUYPPkNsXRGSDyN9_6Tgk",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Global VP of GTM Engineering, Forward Deployed Engineers & Labs (Chief Revenue Officer)",
+      "multiLocaleTitle": {
+        "pt_BR": "Global VP of GTM Engineering, Forward Deployed Engineers & Labs (Chief Revenue Officer)"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "FCamara"
+      },
+      "location": "London Area, United Kingdom",
+      "locationType": "",
+      "description": "- Structuring the GTM Engineering to develop offers and build a revenue factory\n\n- Managing the labs team and forward deployed engineers team, creating AI products and accelerators to provide faster impact to clients around sales, efficiency and innovation\n\n- responsible for managing the p&l of commerce, growth, monetization and consulting",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 738478,
+      "companyName": "Grupo FCamara",
+      "companyUsername": "grupofcamara",
+      "companyURL": "https://www.linkedin.com/company/grupofcamara/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzMzmY-T_F1g/company-logo_400_400/company-logo_400_400/0/1670441718552/grupofcamara_logo?e=1769644800&v=beta&t=xnFILKmpB_JdiaQ2mSE5N6DUYPPkNsXRGSDyN9_6Tgk",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Sr Director of Sales Boost & Value Creation",
+      "multiLocaleTitle": {
+        "pt_BR": "Sr Director of Sales Boost & Value Creation"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Grupo FCamara"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 101649602,
+      "companyName": "Lovable",
+      "companyUsername": "lovable-dev",
+      "companyURL": "https://www.linkedin.com/company/lovable-dev/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQG6Pv34cWmbZw/company-logo_200_200/B4EZfRRwffHIAM-/0/1751562783258/lovable_dev_logo?e=1769644800&v=beta&t=_CBO0VIbrEPvK_ka9JlpA4mIu_wcK5zual04aYCSw-Y",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Generative AI Engineer @Shipped Acceleration Program",
+      "multiLocaleTitle": {
+        "pt_BR": "Generative AI Engineer @Shipped Acceleration Program"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Lovable"
+      },
+      "location": "Europa, Oriente Médio e África",
+      "locationType": "",
+      "description": "selected for the 1st lovable shipped program to develop an AI Chief of Staff Saas Platform",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 11132034,
+      "companyName": "Oxford Artificial Intelligence Society",
+      "companyUsername": "oxai",
+      "companyURL": "https://www.linkedin.com/company/oxai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGocgXPqHAQFg/company-logo_400_400/company-logo_400_400/0/1631324653111?e=1769644800&v=beta&t=C8JoVAldoVl5fDYmk4RXMYuk3LZFY9fU9b0q8K0AhVA",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Oxford AI Mentor",
+      "multiLocaleTitle": {
+        "pt_BR": "Oxford AI Mentor"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Oxford Artificial Intelligence Society"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "As an Oxford AI Mentor at the Oxford Artificial Intelligence Society, I had the privilege of guiding and supporting the future leaders of the AI industry. I worked closely with talented individuals to help them refine their business ideas and navigate their career paths, fostering a community of innovation and growth within the society.",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2025,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 935805,
+      "companyName": "Mandalah",
+      "companyUsername": "mandalah",
+      "companyURL": "https://www.linkedin.com/company/mandalah/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEW6_NNbsYBPw/company-logo_400_400/B4DZgUIznZHsAg-/0/1752684510395/mandalah_logo?e=1769644800&v=beta&t=DPzyxF7RLHMK5vUD7qTQPs49z4Ed6WIVoklDNNvd5vM",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "11 - 50",
+      "title": "External Sr. Data Innovation Expert",
+      "multiLocaleTitle": {
+        "pt_BR": "External Sr. Data Innovation Expert"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Mandalah"
+      },
+      "location": "São Paulo e Região",
+      "locationType": "",
+      "description": "Joined Mandalah to bring data driven perspective to the conscious innovation and purpose industry.\n\nhelped different projects on the data driven approach for decisioning and on providing simulations of the solutions\r\n\n- Develop a 360 degrees mapping of the Covid-19 impact in 8 different territories\n\r\n- Radical Candor Methodology for a big telecom company, involving 22 leaders .\r\n\n- Development of a Pitch Deck and Strategy for a Holding of Impact Startups.\r\n\n- Development of a Go-to-Market and Strategic Roadmap for a Fire Prevention in Forest Startup.\r\n\n- Development of a Carbon Net Zero Strategy for Mandalah",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 15865871,
+      "companyName": "Link School",
+      "companyUsername": "link-school",
+      "companyURL": "https://www.linkedin.com/school/link-school/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEjaoGnDwI61w/company-logo_400_400/company-logo_400_400/0/1709648213620/link_school_logo?e=1769644800&v=beta&t=EYCTwBUDX0z25wfcUitRBi3wtf1StNHsEmHvvrFDISw",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Professor of GTM Engineering",
+      "multiLocaleTitle": {
+        "pt_BR": "Professor of GTM Engineering"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Link School"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2025,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 90431434,
+      "companyName": "Formula.Monks",
+      "companyUsername": "monkstechservices",
+      "companyURL": "https://www.linkedin.com/company/monkstechservices/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEGrQrtoqLA2g/company-logo_100_100/B4EZXtsR0UGYAU-/0/1743449562697/monkstechservices_logo?e=1769644800&v=beta&t=NMrXrOJVnk2Lz8ZqgD4qkV9amNIU6kQgBLlWTjqtbNs",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Global VP AI solutions and GTM Engineering",
+      "multiLocaleTitle": {
+        "pt_BR": "Global VP AI solutions and GTM Engineering"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Formula.Monks"
+      },
+      "location": "Global",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 90431434,
+      "companyName": "Formula.Monks",
+      "companyUsername": "monkstechservices",
+      "companyURL": "https://www.linkedin.com/company/monkstechservices/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEGrQrtoqLA2g/company-logo_100_100/B4EZXtsR0UGYAU-/0/1743449562697/monkstechservices_logo?e=1769644800&v=beta&t=NMrXrOJVnk2Lz8ZqgD4qkV9amNIU6kQgBLlWTjqtbNs",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Global Sr. Director of Consulting (Go to market & AI Innovation)",
+      "multiLocaleTitle": {
+        "pt_BR": "Global Sr. Director of Consulting (Go to market & AI Innovation)"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Formula.Monks"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Responsible for the Global Go-to-Market & innovation of the consulting practice achieving with the goal of launching new services:\r\n\n- Exponential Growth and Impact: Achieved 12x growth since inception, with a 20x increase in company impact.\n\n- New methodologies Innovation: leading globally the construction of the Strategic Industries area (Media,Entertainment, Sports and Gaming)\n\n- AI innovation: leading globally the gtm of AI services and the implementation for clients\n\r\n- High Project Implementation Rate: Successfully implemented 83% of projects, demonstrating strong commitment\r\nand execution.\n\n- Global Expansion: Established a global consulting team of over 150 members and enhanced project integration across the globe\r\n\n- Team Expansion and Innovation: Expanded the team with a hacker mentality, fostering a culture of rapid prototyping and innovation.\r\n\n- Strategic DEI Initiatives: Accelerated diversity, equity, and inclusion discussions, integrating them into the core strategy for 2024 and beyond.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10823396,
+      "companyName": "Impact Hub São Paulo",
+      "companyUsername": "impact-hub-são-paulo",
+      "companyURL": "https://www.linkedin.com/company/impact-hub-s%C3%A3o-paulo/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQELyf6y3afgcQ/company-logo_400_400/B4DZZD4MY6GkAc-/0/1744895529124/impact_hub_so_paulo_logo?e=1769644800&v=beta&t=B7hU6qNvp2oAsJM6LP1jfvTMnRrRS2hOq_P1fP1nq-Y",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Startup Mentor",
+      "multiLocaleTitle": {
+        "pt_BR": "Startup Mentor"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Impact Hub São Paulo"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "mentor of startup in the 2.5 ecosystem",
+      "employmentType": "Freelance",
+      "start": {
+        "year": 2020,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 9322180,
+      "companyName": "PLAY Intellectual Capital",
+      "companyUsername": "play-intelectual-capital",
+      "companyURL": "https://www.linkedin.com/company/play-intelectual-capital/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHFzQI9xtzccw/company-logo_400_400/company-logo_400_400/0/1657923557575/play_intelectual_capital_logo?e=1769644800&v=beta&t=slVRfeJinqUaS_SOLEsIMN0CGBKz7EXVGaD9cQ02VZI",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "11 - 50",
+      "title": "GTM growth Consultant",
+      "multiLocaleTitle": {
+        "pt_BR": "GTM growth Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "PLAY Intellectual Capital"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "delivered an OKR strategy for a big mobility company in Brazil that wanted to create new services",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 26999009,
+      "companyName": "WAKE Insights",
+      "companyUsername": "wake-insights",
+      "companyURL": "https://www.linkedin.com/company/wake-insights/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQErBPYXn6RtXA/company-logo_400_400/company-logo_400_400/0/1631324811728?e=1769644800&v=beta&t=MGXuWEDElb8dBEHfTqUP-bqOyWn-1ql6_80LNdpndoI",
+      "companyIndustry": "Design",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Data Insights Consultant",
+      "multiLocaleTitle": {
+        "pt_BR": "Data Insights Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "WAKE Insights"
+      },
+      "location": "São Paulo e Região, Brasil",
+      "locationType": "",
+      "description": "delivered a project to evaluate the micomobility market Globally\n\nhelped data collection of 1st party and 2nd party to develop a data driven strategy",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2019,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 254729,
+      "companyName": "Integration Consulting",
+      "companyUsername": "integration-consulting",
+      "companyURL": "https://www.linkedin.com/company/integration-consulting/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQGJsYHY5HeJNA/company-logo_400_400/company-logo_400_400/0/1631369968023?e=1769644800&v=beta&t=SZJPylv1EF5oeyUy4FyJzPtcmwHj25lEMATWQOQ6UpM",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Consultant - business modeling & simulation (Go to Market and Operations)",
+      "multiLocaleTitle": {
+        "pt_BR": "Consultant - business modeling & simulation (Go to Market and Operations)"
+      },
+      "multiLocaleCompanyName": {
+        "pt_BR": "Integration Consulting"
+      },
+      "location": "São Paulo Area, Brazil",
+      "locationType": "",
+      "description": "- Development of consulting projects for large companies, focused on simulating and forecasting the future in the areas of supply chain strategy and operations, market scan, entry strategy, strategic planning, go-to-market and implementation.\n\n- Business Model simulation for supply chain and sales, using ML and Statistics techniques and softwares\n\r\n- Development of more than 30 projects, having led more than 20 projects on a daily basis in more than 10 industries (Consumer Goods, Startups, Education, Retail, etc.).\r\n\n- Track record of 75% of implemented recommendations\r\n\n- Go to Market Strategy Development for large companies such as Ambev, Johnson & Johnson, Kelloggs, Bimbo (Pulmann), Boehringer, Duratex Group, thinking about the recommendation and implementation of projects.\r\n\n- Development of operations strategy projects (logistics, S&OP, Procurement, Customer Service) in large companies such as Ambev, Johnson & Johnson, Bosch, Ri Happy, Centaur, Netshoes, Makro, Gafisa, BRF",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2012,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 11,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 738478,
+      "companyName": "FCamara",
+      "companyUsername": "grupofcamara",
+      "companyURL": "https://www.linkedin.com/company/grupofcamara",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzMzmY-T_F1g/company-logo_400_400/company-logo_400_400/0/1670441718552/grupofcamara_logo?e=1769644800&v=beta&t=xnFILKmpB_JdiaQ2mSE5N6DUYPPkNsXRGSDyN9_6Tgk",
+      "companyIndustry": "Information Technology and Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Global VP of GTM Engineering, Forward Deployed Engineers & Labs (Chief Revenue Officer)",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "London Area, United Kingdom",
+      "locationType": "",
+      "description": "- Structuring the GTM Engineering to develop offers and build a revenue factory\n\n- Managing the labs team and forward deployed engineers team, creating AI products and accelerators to provide faster impact to clients around sales, efficiency and innovation\n\n- responsible for managing the p&l of commerce, growth, monetization and consulting",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 738478,
+      "companyName": "Grupo FCamara",
+      "companyUsername": "grupofcamara",
+      "companyURL": "https://www.linkedin.com/company/grupofcamara",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzMzmY-T_F1g/company-logo_400_400/company-logo_400_400/0/1670441718552/grupofcamara_logo?e=1769644800&v=beta&t=xnFILKmpB_JdiaQ2mSE5N6DUYPPkNsXRGSDyN9_6Tgk",
+      "companyIndustry": "Information Technology and Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Sr Director of Sales Boost & Value Creation",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2024,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 101649602,
+      "companyName": "Lovable",
+      "companyUsername": "lovable-dev",
+      "companyURL": "https://www.linkedin.com/company/lovable-dev",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQG6Pv34cWmbZw/company-logo_200_200/B4EZfRRwffHIAM-/0/1751562783258/lovable_dev_logo?e=1769644800&v=beta&t=_CBO0VIbrEPvK_ka9JlpA4mIu_wcK5zual04aYCSw-Y",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Generative AI Engineer @Shipped Acceleration Program",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "Europa, Oriente Médio e África",
+      "locationType": "",
+      "description": "selected for the 1st lovable shipped program to develop an AI Chief of Staff Saas Platform",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 11132034,
+      "companyName": "Oxford Artificial Intelligence Society",
+      "companyUsername": "oxai",
+      "companyURL": "https://www.linkedin.com/company/oxai",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGocgXPqHAQFg/company-logo_400_400/company-logo_400_400/0/1631324653111?e=1769644800&v=beta&t=C8JoVAldoVl5fDYmk4RXMYuk3LZFY9fU9b0q8K0AhVA",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Oxford AI Mentor",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "",
+      "locationType": "",
+      "description": "As an Oxford AI Mentor at the Oxford Artificial Intelligence Society, I had the privilege of guiding and supporting the future leaders of the AI industry. I worked closely with talented individuals to help them refine their business ideas and navigate their career paths, fostering a community of innovation and growth within the society.",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 935805,
+      "companyName": "Mandalah",
+      "companyUsername": "mandalah",
+      "companyURL": "https://www.linkedin.com/company/mandalah",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEW6_NNbsYBPw/company-logo_400_400/B4DZgUIznZHsAg-/0/1752684510395/mandalah_logo?e=1769644800&v=beta&t=DPzyxF7RLHMK5vUD7qTQPs49z4Ed6WIVoklDNNvd5vM",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "11 - 50",
+      "title": "External Sr. Data Innovation Expert",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "São Paulo e Região",
+      "locationType": "",
+      "description": "Joined Mandalah to bring data driven perspective to the conscious innovation and purpose industry.\n\nhelped different projects on the data driven approach for decisioning and on providing simulations of the solutions\r\n\n- Develop a 360 degrees mapping of the Covid-19 impact in 8 different territories\n\r\n- Radical Candor Methodology for a big telecom company, involving 22 leaders .\r\n\n- Development of a Pitch Deck and Strategy for a Holding of Impact Startups.\r\n\n- Development of a Go-to-Market and Strategic Roadmap for a Fire Prevention in Forest Startup.\r\n\n- Development of a Carbon Net Zero Strategy for Mandalah",
+      "employmentType": "",
+      "start": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 15865871,
+      "companyName": "Link School",
+      "companyUsername": "link-school",
+      "companyURL": "https://www.linkedin.com/company/link-school",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEjaoGnDwI61w/company-logo_400_400/company-logo_400_400/0/1709648213620/link_school_logo?e=1769644800&v=beta&t=EYCTwBUDX0z25wfcUitRBi3wtf1StNHsEmHvvrFDISw",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Professor of GTM Engineering",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 90431434,
+      "companyName": "Formula.Monks",
+      "companyUsername": "monkstechservices",
+      "companyURL": "https://www.linkedin.com/company/monkstechservices",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEGrQrtoqLA2g/company-logo_100_100/B4EZXtsR0UGYAU-/0/1743449562697/monkstechservices_logo?e=1769644800&v=beta&t=NMrXrOJVnk2Lz8ZqgD4qkV9amNIU6kQgBLlWTjqtbNs",
+      "companyIndustry": "Information Technology and Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Global VP AI solutions and GTM Engineering",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "Global",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2024,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 90431434,
+      "companyName": "Formula.Monks",
+      "companyUsername": "monkstechservices",
+      "companyURL": "https://www.linkedin.com/company/monkstechservices",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEGrQrtoqLA2g/company-logo_100_100/B4EZXtsR0UGYAU-/0/1743449562697/monkstechservices_logo?e=1769644800&v=beta&t=NMrXrOJVnk2Lz8ZqgD4qkV9amNIU6kQgBLlWTjqtbNs",
+      "companyIndustry": "Information Technology and Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Global Sr. Director of Consulting (Go to market & AI Innovation)",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "",
+      "locationType": "",
+      "description": "Responsible for the Global Go-to-Market & innovation of the consulting practice achieving with the goal of launching new services:\r\n\n- Exponential Growth and Impact: Achieved 12x growth since inception, with a 20x increase in company impact.\n\n- New methodologies Innovation: leading globally the construction of the Strategic Industries area (Media,Entertainment, Sports and Gaming)\n\n- AI innovation: leading globally the gtm of AI services and the implementation for clients\n\r\n- High Project Implementation Rate: Successfully implemented 83% of projects, demonstrating strong commitment\r\nand execution.\n\n- Global Expansion: Established a global consulting team of over 150 members and enhanced project integration across the globe\r\n\n- Team Expansion and Innovation: Expanded the team with a hacker mentality, fostering a culture of rapid prototyping and innovation.\r\n\n- Strategic DEI Initiatives: Accelerated diversity, equity, and inclusion discussions, integrating them into the core strategy for 2024 and beyond.",
+      "employmentType": "",
+      "start": {
+        "year": 2020,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10823396,
+      "companyName": "Impact Hub São Paulo",
+      "companyUsername": "impact-hub-são-paulo",
+      "companyURL": "https://www.linkedin.com/company/impact-hub-são-paulo",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQELyf6y3afgcQ/company-logo_400_400/B4DZZD4MY6GkAc-/0/1744895529124/impact_hub_so_paulo_logo?e=1769644800&v=beta&t=B7hU6qNvp2oAsJM6LP1jfvTMnRrRS2hOq_P1fP1nq-Y",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Startup Mentor",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "",
+      "locationType": "",
+      "description": "mentor of startup in the 2.5 ecosystem",
+      "employmentType": "",
+      "start": {
+        "year": 2020,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 9322180,
+      "companyName": "PLAY Intellectual Capital",
+      "companyUsername": "play-intelectual-capital",
+      "companyURL": "https://www.linkedin.com/company/play-intelectual-capital",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHFzQI9xtzccw/company-logo_400_400/company-logo_400_400/0/1657923557575/play_intelectual_capital_logo?e=1769644800&v=beta&t=slVRfeJinqUaS_SOLEsIMN0CGBKz7EXVGaD9cQ02VZI",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "11 - 50",
+      "title": "GTM growth Consultant",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "",
+      "locationType": "",
+      "description": "delivered an OKR strategy for a big mobility company in Brazil that wanted to create new services",
+      "employmentType": "",
+      "start": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 26999009,
+      "companyName": "WAKE Insights",
+      "companyUsername": "wake-insights",
+      "companyURL": "https://www.linkedin.com/company/wake-insights",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQErBPYXn6RtXA/company-logo_400_400/company-logo_400_400/0/1631324811728?e=1769644800&v=beta&t=MGXuWEDElb8dBEHfTqUP-bqOyWn-1ql6_80LNdpndoI",
+      "companyIndustry": "Design",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Data Insights Consultant",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "São Paulo e Região, Brasil",
+      "locationType": "",
+      "description": "delivered a project to evaluate the micomobility market Globally\n\nhelped data collection of 1st party and 2nd party to develop a data driven strategy",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 254729,
+      "companyName": "Integration Consulting",
+      "companyUsername": "integration-consulting",
+      "companyURL": "https://www.linkedin.com/company/integration-consulting",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQGJsYHY5HeJNA/company-logo_400_400/company-logo_400_400/0/1631369968023?e=1769644800&v=beta&t=SZJPylv1EF5oeyUy4FyJzPtcmwHj25lEMATWQOQ6UpM",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Consultant - business modeling & simulation (Go to Market and Operations)",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "São Paulo Area, Brazil",
+      "locationType": "",
+      "description": "- Development of consulting projects for large companies, focused on simulating and forecasting the future in the areas of supply chain strategy and operations, market scan, entry strategy, strategic planning, go-to-market and implementation.\n\n- Business Model simulation for supply chain and sales, using ML and Statistics techniques and softwares\n\r\n- Development of more than 30 projects, having led more than 20 projects on a daily basis in more than 10 industries (Consumer Goods, Startups, Education, Retail, etc.).\r\n\n- Track record of 75% of implemented recommendations\r\n\n- Go to Market Strategy Development for large companies such as Ambev, Johnson & Johnson, Kelloggs, Bimbo (Pulmann), Boehringer, Duratex Group, thinking about the recommendation and implementation of projects.\r\n\n- Development of operations strategy projects (logistics, S&OP, Procurement, Customer Service) in large companies such as Ambev, Johnson & Johnson, Bosch, Ri Happy, Centaur, Netshoes, Makro, Gafisa, BRF",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 4506,
+      "companyName": "Frost & Sullivan",
+      "companyUsername": "frostandsullivan",
+      "companyURL": "https://www.linkedin.com/company/frostandsullivan",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFgE74ZUdfz6Q/company-logo_400_400/company-logo_400_400/0/1683644089545/frostandsullivan_logo?e=1769644800&v=beta&t=y2JGti7ZFQ2Nlc-AiDiaurBABL77wQ3jF_bwo17Kc34",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Data Research Consultant at Frost & Sullivan",
+      "multiLocaleTitle": null,
+      "multiLocaleCompanyName": null,
+      "location": "São Paulo Area, Brazil",
+      "locationType": "",
+      "description": "Defining data strategy and capture to provide Market Analysis - regarding its trends, growth opportunities, drivers and restrains. \nfocused on 1st party and 2nd party data, report writing, presentations in english and portuguese, contact with clients and companies, project management - scope and proposal support",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Chief Revenue Officer",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "vibe coding",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "IA Prompting",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "lovable",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Agentes de IA",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Go to market",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Revenue & Profit Growth",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Sales Growth",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "GTM Engineering",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Coaching & Mentoring",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Generative AI",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Vendas",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Gestão de vendas",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Growth Hacking",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Estratégias de crescimento",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Marketing de start-up",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Inovação aberta",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Start-ups em fase inicial",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Startup enxuta",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Mentoria",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Startups",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Desenvolvimento de start-ups",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Investimentos em start-ups",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Metodologia OKR",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Mídia & Entretenimento",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Esportes",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "games",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Branding",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Sustentabilidade",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Cultura organizacional",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "IA generativa",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Ferramentas de inteligência artificial generativa",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Coaching",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Coaching executivo",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Coaching de negócios",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Desenvolvimento de liderança",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Visão computacional",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Cybersecurity",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Machine Learning",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Go-to-Market Strategy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Emerging Technologies",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Business Innovation",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "B2B Marketing Strategy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Business Communications",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "business process modeling",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Emotional Intelligence",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Virtualização",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "technology",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Gestão de inovação",
+      "passedSkillAssessment": false
+    }
+  ],
+  "courses": [
+    {
+      "name": "Learn how to invest in the stock market",
+      "number": "3"
+    },
+    {
+      "name": "Manufacturing Engineering",
+      "number": "1"
+    },
+    {
+      "name": "Project Management",
+      "number": "2"
+    },
+    {
+      "name": "Stainless Steel",
+      "number": "4"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Leadership Coaching Program",
+      "start": {
+        "year": 2024,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "Wayfynder",
+      "company": {
+        "name": "Wayfynder",
+        "universalName": "wayfynder",
+        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF9NUqc7Sy9xw/company-logo_200_200/company-logo_200_200/0/1690319454601/wayfynder_logo?e=1769644800&v=beta&t=vBevFW5hSSm7twF2sSxcyt4Y4BzU_0ZyjrI4YQb8RFo",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Accelerate.Monks Certification",
+      "start": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "Media.Monks",
+      "company": {
+        "name": "Monks",
+        "universalName": "monks",
+        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEI-gxFLQF3nQ/company-logo_200_200/company-logo_200_200/0/1721303718951/mediamonks_logo?e=1769644800&v=beta&t=alNM0F8Je_zHxDvBKYRuzCl1KlK9QwkZuAJFbCccNtM",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Product Leadership",
+      "start": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "Reforge",
+      "company": {
+        "name": "Reforge",
+        "universalName": "reforge",
+        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHd3SClF9ISwA/company-logo_100_100/B56ZuVZeV5KwAQ-/0/1767738042002/reforge_logo?e=1769644800&v=beta&t=Kpnxg2Aexhx3t82H5nzZ6LFjFvILSHO4EJ_uMkh3J6g",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Mesa Method",
+      "start": {
+        "year": 2022,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "MESA",
+      "company": {
+        "name": "MESA",
+        "universalName": "mesa-do",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHqkE3QNx4WUA/company-logo_200_200/company-logo_200_200/0/1630569494163/mesacadeira_logo?e=1769644800&v=beta&t=jVwFhYPpJROFuH0hiCQMKVkEim3W3yHTUVWL2l0Py_A",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "LIDERANDO COMO FUTURISTA: A GESTÃO NA COMPLEXIDADE DIGITAL",
+      "start": {
+        "year": 2021,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "Aerolito",
+      "company": {
+        "name": "Aerolito",
+        "universalName": "aerolito",
+        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGECBpVWrH-5w/company-logo_200_200/company-logo_200_200/0/1708364739206/aerolito_logo?e=1769644800&v=beta&t=SXuJXCDJElzkDEEw9Nr6Xe3_XwjJOuUIqpzwT1NtfTo",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Creativity at Work: A Short Course from Seth Godin",
+      "start": {
+        "year": 2021,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "LinkedIn",
+      "company": {
+        "name": "LinkedIn",
+        "universalName": "linkedin",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1769644800&v=beta&t=JSEo-HgPr2Ud2ytPz19nLGy_v6T6Kuqa9zs16awLj1k",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Digital Strategy",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "LinkedIn",
+      "company": {
+        "name": "LinkedIn",
+        "universalName": "linkedin",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1769644800&v=beta&t=JSEo-HgPr2Ud2ytPz19nLGy_v6T6Kuqa9zs16awLj1k",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Como Evitar o Assédio no Trabalho",
+      "start": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "LinkedIn",
+      "company": {
+        "name": "LinkedIn",
+        "universalName": "linkedin",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1769644800&v=beta&t=JSEo-HgPr2Ud2ytPz19nLGy_v6T6Kuqa9zs16awLj1k",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "FUTUROS",
+      "start": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "Aerolito",
+      "company": {
+        "name": "Aerolito",
+        "universalName": "aerolito",
+        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGECBpVWrH-5w/company-logo_200_200/company-logo_200_200/0/1708364739206/aerolito_logo?e=1769644800&v=beta&t=SXuJXCDJElzkDEEw9Nr6Xe3_XwjJOuUIqpzwT1NtfTo",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Growth Marketing Foundations",
+      "start": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "LinkedIn",
+      "company": {
+        "name": "LinkedIn",
+        "universalName": "linkedin",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1769644800&v=beta&t=JSEo-HgPr2Ud2ytPz19nLGy_v6T6Kuqa9zs16awLj1k",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Communicating about Culturally Sensitive Issues",
+      "start": {
+        "year": 2021,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "LinkedIn",
+      "company": {
+        "name": "LinkedIn",
+        "universalName": "linkedin",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1769644800&v=beta&t=JSEo-HgPr2Ud2ytPz19nLGy_v6T6Kuqa9zs16awLj1k",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    },
+    {
+      "name": "Unconscious Bias",
+      "start": {
+        "year": 2021,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "LinkedIn",
+      "company": {
+        "name": "LinkedIn",
+        "universalName": "linkedin",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1769644800&v=beta&t=JSEo-HgPr2Ud2ytPz19nLGy_v6T6Kuqa9zs16awLj1k",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    }
+  ],
+  "honors": [
+    {
+      "title": "What Futures - Global Leaderboard ",
+      "description": "Helped the International Federation of Red Cross and Red Crescent Societies collect input for the Strategy 2030 development process, by practicing future scenarios that could shape our society and the  actions of Red Cross Red Crescent. \nThe scenario was presented at the General Assembly and for Strategy 2030 in Turkey. ",
+      "issuer": "Red Cross Red Crescent ",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "title": "Best Graduation Project Class of 2012",
+      "description": "Honors for the best graduation project of the year - class of 2012. \nThe project established a holistic view of the reclycling process for post use plastic considering triple bottom line approach (economical, environmental and social).",
+      "issuer": "Escola de Engenharia Mauá",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2012,
+        "month": 12,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "publications": [
+    {
+      "publishedOn": {
+        "year": 2012,
+        "month": 12,
+        "day": 1
+      },
+      "name": "Technical, Economic and Financial Assessment of Adding Value to the Polyethylene Discarded after the Domestic Usage",
+      "publisher": "Escola de Engenharia Mauá",
+      "url": ""
+    }
+  ],
+  "volunteering": [
+    {
+      "title": "Innovation Consultant",
+      "start": {
+        "year": 2018,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 12,
+        "day": 0
+      },
+      "companyName": "International Federation of Red Cross and Red Crescent Societies - IFRC",
+      "CompanyId": "12149",
+      "companyUrl": "https://www.linkedin.com/company/12149",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGCt609_BFv_Q/company-logo_400_400/company-logo_400_400/0/1630630991538/ifrc_logo?e=1769644800&v=beta&t=Hp2KoAnq2tp8kBuypI8xpVlHgMCqNTWIlP8p5taNEao"
+    },
+    {
+      "title": "Innovation Consultant",
+      "start": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 10,
+        "day": 0
+      },
+      "companyName": "International Federation of Red Cross and Red Crescent Societies - IFRC",
+      "CompanyId": "12149",
+      "companyUrl": "https://www.linkedin.com/company/12149",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGCt609_BFv_Q/company-logo_400_400/company-logo_400_400/0/1630630991538/ifrc_logo?e=1769644800&v=beta&t=Hp2KoAnq2tp8kBuypI8xpVlHgMCqNTWIlP8p5taNEao"
+    },
+    {
+      "title": "Book Reviewer",
+      "start": {
+        "year": 2019,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "companyName": "Think Clearly",
+      "CompanyId": "",
+      "companyUrl": "",
+      "companyLogo": ""
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "BR",
+      "language": "pt"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "pt": "Vinicius"
+  },
+  "multiLocaleLastName": {
+    "pt": "Galera"
+  },
+  "multiLocaleHeadline": {
+    "pt": "AI and Machine Learning Expert | VP of GTM Engineer & Forward Deployed Engineer | 3x AI and ML Masters (Oxford, Imperial College, Hebrew Univ.) | Chief Revenue Officer & FDE"
+  },
+  "multiLocaleSummary": {
+    "pt": "I’m a global business innovation leader with over 16 years of experience driving growth at the intersection of AI, machine learning, and emerging technologies. Currently, I serve as VP of GTM engineering and leading the team of Forward Deployed Engineers &amp; Labs.Previously, I helped scale the AI and consulting practice at Formula.Monks to more than 150 people across four continents, achieving 12x growth and pioneering go-to-market strategies for AI in media, entertainment, gaming, and sports. My career also includes nearly eight years at Integration Consulting, where I delivered 30+ strategy, operations, and go-to-market projects for global companies such as Ambev, Johnson &amp; Johnson, Kellogg’s, and BRF, as well as advisory work with Mandalah, Impact Hub, and others.I hold three master’s degrees in AI/ML from Oxford University, Imperial College London, and the Hebrew University of Jerusalem, and I mentor the next generation of leaders through the Oxford Artificial Intelligence Society. Passionate about blending strategy, technology, and execution, I focus on building innovative solutions that create measurable impact."
+  }
+}
