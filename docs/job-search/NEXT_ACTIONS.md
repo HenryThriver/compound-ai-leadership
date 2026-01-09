@@ -14,6 +14,8 @@
 | **THIS WEEK** | Research 6 VoiceAI companies | Fri Jan 10 | 2-3 hrs |
 | **THIS WEEK** | Follow up with Moin/Nikhil on intros | Fri Jan 10 | 15 min |
 | **THIS WEEK** | Capture 2 networking dinners | After events | 15 min each |
+| **THIS WEEK** | Follow up with Eli (Replicant, via cousin Paul) | Fri Jan 10 | 15 min |
+| **NEXT WEEK** | Rekindle RevOps contacts from last job search | Mon-Tue Jan 13-14 | 1-2 hrs |
 | **FEBRUARY** | Coach K outreach (Ignite reading groups) | Feb 2026 | TBD |
 | **BACKLOG** | System improvements | Ongoing | Various |
 
@@ -189,6 +191,11 @@ From `docs/relationships/loops/open.md`:
   6. Pull LinkedIn contacts → find SF event invites (Ronak's criteria from email)
   7. Reply to Moin/Nikhil with specific intro requests
 - **Ronak Gandhi** - Structify founder, SF event host - profile scraped ✓
+- **Eli (Replicant)** - intro via cousin Paul, follow up
+
+**Next week (Mon-Tue Jan 13-14):**
+- Rekindle RevOps contacts from last job search
+- Pull list of prior outreach, re-engage with warm message
 
 **Principle:** "Here's a link" is noise. "Here's why this matters to *you*" is a POG.
 
