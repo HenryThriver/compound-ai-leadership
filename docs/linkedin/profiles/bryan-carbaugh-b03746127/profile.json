@@ -1,0 +1,653 @@
+{
+  "id": 524383923,
+  "urn": "ACoAAB9BdrMBPD5GIfB-GkwmI_L-Bq5K0XLswyQ",
+  "username": "bryan-carbaugh-b03746127",
+  "firstName": "Bryan",
+  "lastName": "Carbaugh",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731452722369?e=1769644800&v=beta&t=bgZltkJsfm0PgckM-XchGJ9MI7cNacFVrtOA52BERQg",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731452722345?e=1769644800&v=beta&t=_HQ4KAKi1tdO9M6JILipqPkIFeRQmfU-Zv3_Uq9IClw",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731452722345?e=1769644800&v=beta&t=Ud_9ecMcH2PpEB0qgClZtGX08-lEyIuxcpNNzNlhgJw",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731452722345?e=1769644800&v=beta&t=5UwKZorRXlI_eVRNcJM-89QtQHaouWEwxNcgI5uRFGg",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731452722369?e=1769644800&v=beta&t=bgZltkJsfm0PgckM-XchGJ9MI7cNacFVrtOA52BERQg",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 1128,
+      "height": 282,
+      "url": "https://media.licdn.com/dms/image/v2/D4E16AQFWDGvmgnKQng/profile-displaybackgroundimage-shrink_350_1400/B4EZhmRkjaGYAY-/0/1754062539417?e=1769644800&v=beta&t=LUQW50IshwQWVaM_zghi3CZ8u8nykiQS4jfzVdEnUGI"
+    },
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D4E16AQFWDGvmgnKQng/profile-displaybackgroundimage-shrink_200_800/B4EZhmRkjaGYAU-/0/1754062539417?e=1769644800&v=beta&t=p7tt9FK4_FVdq4VQaDHTfzk_i4QBzBS0rpRDJ9booZE"
+    }
+  ],
+  "summary": "As the Head of Growth at Arini, I bring together our deep functional domain knowledge and industry-best AI native engineers for dental enterprises, practices, and teams as they transform their operations with advanced AI.\n\nFrom our flagship AI Receptionist that handles 10,000+ calls daily to our forward-deployed teams and systems, we're on a mission to deliver practical, scalable AI solutions for the dental industry.",
+  "headline": "Head of Growth @ Arini",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Electrical Engineering & Computer Science",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Founding Team, Head of Growth",
+      "multiLocaleTitle": {
+        "en_US": "Founding Team, Head of Growth"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 162479,
+      "companyName": "Apple",
+      "companyUsername": "apple",
+      "companyURL": "https://www.linkedin.com/company/apple/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1769644800&v=beta&t=6H3qcL2zbLrOQGe2L1-pAFIomeHjQXb-OsJKnb1kaKc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "10001+",
+      "title": "Engineering Program Manager",
+      "multiLocaleTitle": {
+        "en_US": "Engineering Program Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Apple"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 30846,
+      "companyName": "SpaceX",
+      "companyUsername": "spacex",
+      "companyURL": "https://www.linkedin.com/company/spacex/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_400_400/company-logo_400_400/0/1630604387686/spacex_logo?e=1769644800&v=beta&t=UYi4PtSv1UF4sJeUKhzsgx9I70PurdKMyyTgK-oZnvQ",
+      "companyIndustry": "Aviation & Aerospace",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Starlink Manufacturing Test Automation Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Starlink Manufacturing Test Automation Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "SpaceX"
+      },
+      "location": "Hawthorne, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2021,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 162479,
+      "companyName": "Apple",
+      "companyUsername": "apple",
+      "companyURL": "https://www.linkedin.com/company/apple/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1769644800&v=beta&t=6H3qcL2zbLrOQGe2L1-pAFIomeHjQXb-OsJKnb1kaKc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "10001+",
+      "title": "Engineering Program Manager Intern",
+      "multiLocaleTitle": {
+        "en_US": "Engineering Program Manager Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Apple"
+      },
+      "location": "Cupertino, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1382,
+      "companyName": "Goldman Sachs",
+      "companyUsername": "goldman-sachs",
+      "companyURL": "https://www.linkedin.com/company/goldman-sachs/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_400_400/company-logo_400_400/0/1722506756452/goldman_sachs_logo?e=1769644800&v=beta&t=W63EmqBvAWm94QPNdPS5Wag267zF6k0hUuA_5SY_EOA",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "10001+",
+      "title": "Securities Summer Analyst",
+      "multiLocaleTitle": {
+        "en_US": "Securities Summer Analyst"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Goldman Sachs"
+      },
+      "location": "Hong Kong, Hong Kong SAR",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 15564,
+      "companyName": "Tesla",
+      "companyUsername": "tesla-motors",
+      "companyURL": "https://www.linkedin.com/company/tesla-motors/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_400_400/company-logo_400_400/0/1630576446368/tesla_motors_logo?e=1769644800&v=beta&t=HS3Nq8oK-uBezNx8Psqlna5-q1TguRBH-cO7Rn6wPYs",
+      "companyIndustry": "Automotive",
+      "companyStaffCountRange": "10001+",
+      "title": "Electronic Design Intern",
+      "multiLocaleTitle": {
+        "en_US": "Electronic Design Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Tesla"
+      },
+      "location": "Palo Alto, California",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 162479,
+      "companyName": "Apple",
+      "companyUsername": "apple",
+      "companyURL": "https://www.linkedin.com/company/apple/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1769644800&v=beta&t=6H3qcL2zbLrOQGe2L1-pAFIomeHjQXb-OsJKnb1kaKc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Apple"
+      },
+      "location": "Cupertino, CA",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3710351,
+      "companyName": "WeissBeerger Beverage Analytics",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Software Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "WeissBeerger Beverage Analytics"
+      },
+      "location": "Tel Aviv, Israel",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 46326,
+      "companyName": "City of Newport Beach",
+      "companyUsername": "cityofnewportbeach",
+      "companyURL": "https://www.linkedin.com/company/cityofnewportbeach/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH0vALHQjWc2Q/company-logo_400_400/company-logo_400_400/0/1678216470600/cityofnewportbeach_logo?e=1769644800&v=beta&t=rk4l-bkL0Ut0utfgpu8s7og7CpNE7MtF3qFWXv58z3k",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Lifeguard",
+      "multiLocaleTitle": {
+        "en_US": "Lifeguard"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "City of Newport Beach"
+      },
+      "location": "Newport Beach, CA",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Founding Team, Head of Growth",
+      "multiLocaleTitle": {
+        "en_US": "Founding Team, Head of Growth"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 162479,
+      "companyName": "Apple",
+      "companyUsername": "apple",
+      "companyURL": "https://www.linkedin.com/company/apple/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1769644800&v=beta&t=6H3qcL2zbLrOQGe2L1-pAFIomeHjQXb-OsJKnb1kaKc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "10001+",
+      "title": "Engineering Program Manager",
+      "multiLocaleTitle": {
+        "en_US": "Engineering Program Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Apple"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 30846,
+      "companyName": "SpaceX",
+      "companyUsername": "spacex",
+      "companyURL": "https://www.linkedin.com/company/spacex/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_400_400/company-logo_400_400/0/1630604387686/spacex_logo?e=1769644800&v=beta&t=UYi4PtSv1UF4sJeUKhzsgx9I70PurdKMyyTgK-oZnvQ",
+      "companyIndustry": "Aviation & Aerospace",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Starlink Manufacturing Test Automation Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Starlink Manufacturing Test Automation Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "SpaceX"
+      },
+      "location": "Hawthorne, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2021,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 162479,
+      "companyName": "Apple",
+      "companyUsername": "apple",
+      "companyURL": "https://www.linkedin.com/company/apple/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1769644800&v=beta&t=6H3qcL2zbLrOQGe2L1-pAFIomeHjQXb-OsJKnb1kaKc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "10001+",
+      "title": "Engineering Program Manager Intern",
+      "multiLocaleTitle": {
+        "en_US": "Engineering Program Manager Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Apple"
+      },
+      "location": "Cupertino, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1382,
+      "companyName": "Goldman Sachs",
+      "companyUsername": "goldman-sachs",
+      "companyURL": "https://www.linkedin.com/company/goldman-sachs/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_400_400/company-logo_400_400/0/1722506756452/goldman_sachs_logo?e=1769644800&v=beta&t=W63EmqBvAWm94QPNdPS5Wag267zF6k0hUuA_5SY_EOA",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "10001+",
+      "title": "Securities Summer Analyst",
+      "multiLocaleTitle": {
+        "en_US": "Securities Summer Analyst"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Goldman Sachs"
+      },
+      "location": "Hong Kong, Hong Kong SAR",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 15564,
+      "companyName": "Tesla",
+      "companyUsername": "tesla-motors",
+      "companyURL": "https://www.linkedin.com/company/tesla-motors/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_400_400/company-logo_400_400/0/1630576446368/tesla_motors_logo?e=1769644800&v=beta&t=HS3Nq8oK-uBezNx8Psqlna5-q1TguRBH-cO7Rn6wPYs",
+      "companyIndustry": "Automotive",
+      "companyStaffCountRange": "10001+",
+      "title": "Electronic Design Intern",
+      "multiLocaleTitle": {
+        "en_US": "Electronic Design Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Tesla"
+      },
+      "location": "Palo Alto, California",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 162479,
+      "companyName": "Apple",
+      "companyUsername": "apple",
+      "companyURL": "https://www.linkedin.com/company/apple/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1769644800&v=beta&t=6H3qcL2zbLrOQGe2L1-pAFIomeHjQXb-OsJKnb1kaKc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Apple"
+      },
+      "location": "Cupertino, CA",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3710351,
+      "companyName": "WeissBeerger Beverage Analytics",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Software Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "WeissBeerger Beverage Analytics"
+      },
+      "location": "Tel Aviv, Israel",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 46326,
+      "companyName": "City of Newport Beach",
+      "companyUsername": "cityofnewportbeach",
+      "companyURL": "https://www.linkedin.com/company/cityofnewportbeach/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH0vALHQjWc2Q/company-logo_400_400/company-logo_400_400/0/1678216470600/cityofnewportbeach_logo?e=1769644800&v=beta&t=rk4l-bkL0Ut0utfgpu8s7og7CpNE7MtF3qFWXv58z3k",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Lifeguard",
+      "multiLocaleTitle": {
+        "en_US": "Lifeguard"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "City of Newport Beach"
+      },
+      "location": "Newport Beach, CA",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Bryan"
+  },
+  "multiLocaleLastName": {
+    "en": "Carbaugh"
+  },
+  "multiLocaleHeadline": {
+    "en": "Head of Growth @ Arini"
+  },
+  "multiLocaleSummary": {
+    "en": "As the Head of Growth at Arini, I bring together our deep functional domain knowledge and industry-best AI native engineers for dental enterprises, practices, and teams as they transform their operations with advanced AI.\n\nFrom our flagship AI Receptionist that handles 10,000+ calls daily to our forward-deployed teams and systems, we're on a mission to deliver practical, scalable AI solutions for the dental industry."
+  }
+}

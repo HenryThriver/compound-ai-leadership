@@ -1,0 +1,524 @@
+{
+  "id": 510519007,
+  "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE",
+  "username": "ramirustom",
+  "firstName": "Rami",
+  "lastName": "Rustom",
+  "isPremium": false,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk",
+      "width": 533,
+      "height": 533
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 799,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D4D16AQEVDdkkTiLViw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1708548733002?e=1769644800&v=beta&t=ie6XAKASSm84h8WVGIzj9LJfazgdanPvHzOwVViWXvM"
+    },
+    {
+      "width": 1179,
+      "height": 295,
+      "url": "https://media.licdn.com/dms/image/v2/D4D16AQEVDdkkTiLViw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708548733002?e=1769644800&v=beta&t=gwUxnMbLM38nHs-5cmAdlH8Oi1jin9tydiiHvXbVmzs"
+    }
+  ],
+  "summary": "Building the AI receptionist for dentists. Book a demo at www.arini.ai",
+  "headline": "Co-founder at Arini (YC W24) | MIT",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2016,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science and Engineering",
+      "degree": "Bachelor of Science (B.S.)",
+      "grade": "",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini (YC W24)",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini (YC W24)"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19046193,
+      "companyName": "Threads",
+      "companyUsername": "threadsgroupinc",
+      "companyURL": "https://www.linkedin.com/company/threadsgroupinc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEsLKMpRBap7A/company-logo_400_400/company-logo_400_400/0/1697564251864/threadsgroupinc_logo?e=1769644800&v=beta&t=sQ1ue39r7v7nwatNpTXvsugqdOZFx4jt4u0KrUwwS0A",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Threads"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18746462,
+      "companyName": "Mosaic Building Group, Inc.",
+      "companyUsername": "mosaicbuilders",
+      "companyURL": "https://www.linkedin.com/company/mosaicbuilders/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH1LGgCRJPgtA/company-logo_400_400/company-logo_400_400/0/1660661086719/mosaicbuilders_logo?e=1769644800&v=beta&t=aSjYSqxYJktlOGEmSuGEgUn4IvxNUM0u8of9ymZCyKA",
+      "companyIndustry": "Construction",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Mosaic Building Group, Inc."
+      },
+      "location": "San Francisco, California, États-Unis",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1499,
+      "companyName": "MIT Media Lab",
+      "companyUsername": "mit-media-lab",
+      "companyURL": "https://www.linkedin.com/company/mit-media-lab/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHIYphGLb5lCg/company-logo_100_100/B56ZWLSwY9HsAU-/0/1741798705090/mit_media_lab_logo?e=1769644800&v=beta&t=yioTFWV4txMKNpNEl9ruOrP-2NQK8dnSSIID0PL2vpc",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Media Lab"
+      },
+      "location": "Cambrdige, MA",
+      "locationType": "",
+      "description": "Researcher at City Science Group, MIT Media Lab",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "MIT Self Assembly Lab",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Self Assembly Lab"
+      },
+      "location": "Cambridge, Massachusetts, États-Unis",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Fikra 3al Mashi",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "CEO",
+      "multiLocaleTitle": {
+        "en_US": "CEO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Fikra 3al Mashi"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "fikra3almashi.org",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 1,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini (YC W24)",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini (YC W24)"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19046193,
+      "companyName": "Threads",
+      "companyUsername": "threadsgroupinc",
+      "companyURL": "https://www.linkedin.com/company/threadsgroupinc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEsLKMpRBap7A/company-logo_400_400/company-logo_400_400/0/1697564251864/threadsgroupinc_logo?e=1769644800&v=beta&t=sQ1ue39r7v7nwatNpTXvsugqdOZFx4jt4u0KrUwwS0A",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Threads"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18746462,
+      "companyName": "Mosaic Building Group, Inc.",
+      "companyUsername": "mosaicbuilders",
+      "companyURL": "https://www.linkedin.com/company/mosaicbuilders/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH1LGgCRJPgtA/company-logo_400_400/company-logo_400_400/0/1660661086719/mosaicbuilders_logo?e=1769644800&v=beta&t=aSjYSqxYJktlOGEmSuGEgUn4IvxNUM0u8of9ymZCyKA",
+      "companyIndustry": "Construction",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Mosaic Building Group, Inc."
+      },
+      "location": "San Francisco, California, États-Unis",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1499,
+      "companyName": "MIT Media Lab",
+      "companyUsername": "mit-media-lab",
+      "companyURL": "https://www.linkedin.com/company/mit-media-lab/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHIYphGLb5lCg/company-logo_100_100/B56ZWLSwY9HsAU-/0/1741798705090/mit_media_lab_logo?e=1769644800&v=beta&t=yioTFWV4txMKNpNEl9ruOrP-2NQK8dnSSIID0PL2vpc",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Media Lab"
+      },
+      "location": "Cambrdige, MA",
+      "locationType": "",
+      "description": "Researcher at City Science Group, MIT Media Lab",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "MIT Self Assembly Lab",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Self Assembly Lab"
+      },
+      "location": "Cambridge, Massachusetts, États-Unis",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Fikra 3al Mashi",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "CEO",
+      "multiLocaleTitle": {
+        "en_US": "CEO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Fikra 3al Mashi"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "fikra3almashi.org",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 1,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Machine Learning",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Project Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Fabrication",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Design",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Architecture",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Adobe Photoshop",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Parametric Design",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Algorithmic Design",
+      "passedSkillAssessment": false
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Rami"
+  },
+  "multiLocaleLastName": {
+    "en": "Rustom"
+  },
+  "multiLocaleHeadline": {
+    "en": "Co-founder at Arini (YC W24) | MIT"
+  },
+  "multiLocaleSummary": {
+    "en": "Building the AI receptionist for dentists. Book a demo at www.arini.ai"
+  }
+}

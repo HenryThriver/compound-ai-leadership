@@ -128,6 +128,16 @@ Two-phase evaluation: **Screen** (pre-conversation) → **Evaluate** (interview 
 3. **Perfectionism Paralysis** - Delaying until perfect infrastructure (rare)
 4. **Scope Creep & Complexity Accumulation** - Initial wins → rapid expansion → complexity outpaces capability
 
+#### Killer Interview Question (via Jaco)
+> "If [specific segment in your market] increased their conversion rate by 37%, how long would it take for senior leadership to know that?"
+
+**Follow-ups if they say "real-time":**
+- What's the mechanic? How does information bubble up the chain?
+- What gets actioned at the back end?
+- Who sees it first, and what do they do with it?
+
+*Tests: Data infrastructure maturity, feedback loops, operational discipline.*
+
 ### 6. Culture (Weight: MEDIUM)
 *Experimentation, data-driven, C-suite partnership?*
 

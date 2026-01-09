@@ -1,0 +1,486 @@
+{
+  "id": 448589119,
+  "urn": "ACoAABq87T8B3t5zYk32V4qTr6LNUubhNnPmY2Y",
+  "username": "felipe-radovitzky",
+  "firstName": "Felipe",
+  "lastName": "Radovitzky",
+  "isCreator": true,
+  "isPremium": false,
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQEkZ5QIPtMwiQ/profile-displaybackgroundimage-shrink_200_800/B56Zrlk3IAHAAU-/0/1764788237109?e=1769644800&v=beta&t=TBOQYtl9BLB9-D_zsqMSemM9L3hgnGylCbsS1il3tXs"
+    },
+    {
+      "width": 1128,
+      "height": 282,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQEkZ5QIPtMwiQ/profile-displaybackgroundimage-shrink_350_1400/B56Zrlk3IAHAAY-/0/1764788237109?e=1769644800&v=beta&t=P0LOoitLoznoluWvhjPiC_mY3PP-1YcNdcsly-N3gpI"
+    }
+  ],
+  "summary": "Operator obsessed with early-stage growth. Leading top of funnel at the next big AI startup in dental.\n\nI'm a technologist by training with a Mechanical Engineering degree from MIT. Ex-founder of a consumer hardware startup, where we built an integrated hardware product from 0->1 to transform sleep for menopausal women suffering from night sweats. Led GTM, supply chain operations, and UX, and co-led product development from early prototypes to a manufactured device shipped to hundreds of users.\n\n Before that I worked on imaging and deep learning systems for the US Air Force at Lincoln Labs.",
+  "headline": "Growth at Arini | ex-founder, MIT",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Mechanical Engineering, Robotics",
+      "degree": "Bachelor’s Degree",
+      "grade": "",
+      "schoolName": "Massachusetts Institute of Technology",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/mit/",
+      "schoolId": "1503",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1769644800&v=beta&t=aUlKaglz2MRprbf5cTIBgRBoDIRA7ML6qw5-c1rP6Hs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1769644800&v=beta&t=JxBAmwsioEt51E86OQzJZWX60aPGc2-zj35vg5fyd6U",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_400_400/company-logo_400_400/0/1689799729035/mit_logo?e=1769644800&v=beta&t=enCdFNJq3m9xfYhYzfRJ5GGokT7kHrKuy0NLHX5JHOs",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "High School Diploma",
+      "grade": "",
+      "schoolName": "International School of Boston",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/international-school-of-boston/",
+      "schoolId": "449436",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C510BAQGZHspteOjr7A/company-logo_200_200/company-logo_200_200/0/1631370189432?e=1769644800&v=beta&t=xsk51Be6h7yo-LN75hYonkst3gy3k5KKv-c6kdBhuhE",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C510BAQGZHspteOjr7A/company-logo_100_100/company-logo_100_100/0/1631370189432?e=1769644800&v=beta&t=WbPhrQu-YvtvjO0_OPjfVbaFe2W34OcPkWAY5URjKW0",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C510BAQGZHspteOjr7A/company-logo_400_400/company-logo_400_400/0/1631370189432?e=1769644800&v=beta&t=7OnaeiWJRwuQlfaAe1CGEkvNFq30Szv72G7N5M_Iatw",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Growth",
+      "multiLocaleTitle": {
+        "en_US": "Growth"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 66708279,
+      "companyName": "Amira",
+      "companyUsername": "amirahealthcare",
+      "companyURL": "https://www.linkedin.com/company/amirahealthcare/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEfCxp8VxTEUQ/company-logo_400_400/company-logo_400_400/0/1694478758992/amirahealthcare_logo?e=1769644800&v=beta&t=43pREj1Rmyjp959omfEYYhnqg0KB4jKT3wJiJJ3O1ww",
+      "companyIndustry": "Retail",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder & COO",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder & COO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Amira"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Solving sleep for menopausal women\nBacked by Supermoon Capital and E14 Fund",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1504,
+      "companyName": "MIT Lincoln Laboratory",
+      "companyUsername": "mit-lincoln-laboratory",
+      "companyURL": "https://www.linkedin.com/company/mit-lincoln-laboratory/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHR5nOz4M9gEA/company-logo_400_400/company-logo_400_400/0/1630573009235/mit_lincoln_laboratory_logo?e=1769644800&v=beta&t=JFwKqwD4iXQXv2E01BfPVLc0rKdh2VMtlptLPOZW82I",
+      "companyIndustry": "Defense & Space",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Technical Staff",
+      "multiLocaleTitle": {
+        "en_US": "Technical Staff"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Lincoln Laboratory"
+      },
+      "location": "Lexington, Massachusetts, United States",
+      "locationType": "",
+      "description": "Developed imaging systems and perception models to track airborne targets for the US Air Force.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 67942123,
+      "companyName": "MIT AeroAstro",
+      "companyUsername": "mit-aero-astro",
+      "companyURL": "https://www.linkedin.com/company/mit-aero-astro/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGVj3pQXthquQ/company-logo_400_400/company-logo_400_400/0/1680795311072/mit_aero_astro_logo?e=1769644800&v=beta&t=zcc_NT8h6vK3zXixd5HHjR3sxR8ulkTZbay7edq1y2Y",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Undergraduate Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Undergraduate Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT AeroAstro"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Developed computer vision algorithms for real-time prediction of pedestrian behavior.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2019,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3018810,
+      "companyName": "Keecker",
+      "companyUsername": "keecker",
+      "companyURL": "https://www.linkedin.com/company/keecker/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHHhYcGsaD4Rg/company-logo_400_400/company-logo_400_400/0/1631306221794?e=1769644800&v=beta&t=4QhgUzkSgQs84zyiINt6eiUkRhfPF8SW2AABavSt7Tc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Mechanical Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Mechanical Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Keecker"
+      },
+      "location": "Paris, Île-de-France, France",
+      "locationType": "",
+      "description": "Designed a wheel that solved a critical reliability issue and improved obstacle performance.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2018,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Growth",
+      "multiLocaleTitle": {
+        "en_US": "Growth"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 66708279,
+      "companyName": "Amira",
+      "companyUsername": "amirahealthcare",
+      "companyURL": "https://www.linkedin.com/company/amirahealthcare/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEfCxp8VxTEUQ/company-logo_400_400/company-logo_400_400/0/1694478758992/amirahealthcare_logo?e=1769644800&v=beta&t=43pREj1Rmyjp959omfEYYhnqg0KB4jKT3wJiJJ3O1ww",
+      "companyIndustry": "Retail",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Co-Founder & COO",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder & COO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Amira"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Solving sleep for menopausal women\nBacked by Supermoon Capital and E14 Fund",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1504,
+      "companyName": "MIT Lincoln Laboratory",
+      "companyUsername": "mit-lincoln-laboratory",
+      "companyURL": "https://www.linkedin.com/company/mit-lincoln-laboratory/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHR5nOz4M9gEA/company-logo_400_400/company-logo_400_400/0/1630573009235/mit_lincoln_laboratory_logo?e=1769644800&v=beta&t=JFwKqwD4iXQXv2E01BfPVLc0rKdh2VMtlptLPOZW82I",
+      "companyIndustry": "Defense & Space",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Technical Staff",
+      "multiLocaleTitle": {
+        "en_US": "Technical Staff"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT Lincoln Laboratory"
+      },
+      "location": "Lexington, Massachusetts, United States",
+      "locationType": "",
+      "description": "Developed imaging systems and perception models to track airborne targets for the US Air Force.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 67942123,
+      "companyName": "MIT AeroAstro",
+      "companyUsername": "mit-aero-astro",
+      "companyURL": "https://www.linkedin.com/company/mit-aero-astro/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGVj3pQXthquQ/company-logo_400_400/company-logo_400_400/0/1680795311072/mit_aero_astro_logo?e=1769644800&v=beta&t=zcc_NT8h6vK3zXixd5HHjR3sxR8ulkTZbay7edq1y2Y",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Undergraduate Researcher",
+      "multiLocaleTitle": {
+        "en_US": "Undergraduate Researcher"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "MIT AeroAstro"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Developed computer vision algorithms for real-time prediction of pedestrian behavior.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2019,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3018810,
+      "companyName": "Keecker",
+      "companyUsername": "keecker",
+      "companyURL": "https://www.linkedin.com/company/keecker/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHHhYcGsaD4Rg/company-logo_400_400/company-logo_400_400/0/1631306221794?e=1769644800&v=beta&t=4QhgUzkSgQs84zyiINt6eiUkRhfPF8SW2AABavSt7Tc",
+      "companyIndustry": "Consumer Electronics",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Mechanical Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Mechanical Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Keecker"
+      },
+      "location": "Paris, Île-de-France, France",
+      "locationType": "",
+      "description": "Designed a wheel that solved a critical reliability issue and improved obstacle performance.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2018,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python (Programming Language)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "SolidWorks",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "Python",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    },
+    {
+      "name": "C++",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "Linux",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 5
+    }
+  ],
+  "honors": [
+    {
+      "title": "Forbes 30 Under 30 Consumer Tech, 2024",
+      "description": "",
+      "issuer": "Forbes",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQEfCxp8VxTEUQ/company-logo_400_400/company-logo_400_400/0/1694478758992/amirahealthcare_logo?e=1769644800&v=beta&t=43pREj1Rmyjp959omfEYYhnqg0KB4jKT3wJiJJ3O1ww",
+      "issuedOn": {
+        "year": 2024,
+        "month": 9,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Felipe"
+  },
+  "multiLocaleLastName": {
+    "en": "Radovitzky"
+  },
+  "multiLocaleHeadline": {
+    "en": "Growth at Arini | ex-founder, MIT"
+  },
+  "multiLocaleSummary": {
+    "en": "Operator obsessed with early-stage growth. Leading top of funnel at the next big AI startup in dental.\n\nI'm a technologist by training with a Mechanical Engineering degree from MIT. Ex-founder of a consumer hardware startup, where we built an integrated hardware product from 0->1 to transform sleep for menopausal women suffering from night sweats. Led GTM, supply chain operations, and UX, and co-led product development from early prototypes to a manufactured device shipped to hundreds of users.\n\n Before that I worked on imaging and deep learning systems for the US Air Force at Lincoln Labs."
+  }
+}

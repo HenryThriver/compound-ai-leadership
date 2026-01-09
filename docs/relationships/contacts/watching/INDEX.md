@@ -32,7 +32,26 @@ People and companies to monitor for industry intel and opportunity signals.
 - *(Add more as discovered)*
 
 ### Dental/Healthcare Voice AI
-- *(Arini team - to be added)*
+
+#### Arini (YC W24)
+*Watch list - Seed stage but building commercial team fast. Could become interesting with Series A.*
+
+| Name | Role | LinkedIn | Posts | Signal Value |
+|------|------|----------|-------|--------------|
+| **Abdul Jamjoom** | CEO (Co-founder) | abduljamjoom | 25 | Company direction, DSO strategy |
+| **Rami Rustom** | Co-founder | ramirustom | 22 | Technical direction, product |
+| **Eric Johnson** | CCO | eric-johnson-atx | 25 | **Commercial strategy, hiring signals** |
+| **Bryan Carbaugh** | Head of Growth | bryan-carbaugh-b03746127 | 1 | Growth strategy |
+| **Felipe Radovitzky** | Growth (ex-founder, MIT) | felipe-radovitzky | 50 | Growth tactics, startup insights |
+| **Tanner Wright** | Customer Success | tanner-wright-84225a7a | 20 | CS hiring, implementation |
+
+**Last scraped:** 2026-01-10
+
+**Recent signals from posts:**
+- Eric Johnson posting about deploying across Snow Orthodontics (SoCal)
+- Tanner Wright hiring SDR and Implementation Specialist
+- Felipe Radovitzky recently joined from own startup (Amira)
+- Active at DEO Tech Summit (dental industry events)
 
 ### Logistics Voice AI
 - *(Fleetworks team - to be added)*
@@ -49,8 +68,13 @@ People and companies to monitor for industry intel and opportunity signals.
 
 ### Weekly Refresh
 ```bash
-# Run every Monday
+# Run every Monday - Assort Health
 for user in jonxwang gregrattray maura-osullivan sarina-kaur-pattar andrewlindbloom alex-huber-41632a118; do
+  ./utils/linkedin/fetch-posts.sh "$user"
+done
+
+# Arini
+for user in abduljamjoom ramirustom eric-johnson-atx bryan-carbaugh-b03746127 felipe-radovitzky tanner-wright-84225a7a; do
   ./utils/linkedin/fetch-posts.sh "$user"
 done
 ```

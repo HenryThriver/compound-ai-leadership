@@ -1,0 +1,3471 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "isBrandPartnership": false,
+      "text": "A short video to express our heartfelt thanks to all our customers, partners, sponsors, and investors for making our first year at Invenio Techs SAS truly matter. These are just a few highlights from 2025… and we can’t wait to shape many more stories with you in 2026. 🙌\n\nNelson Vanegas Christian Regnier\nMatthias van der Vlies \n\nWith special thanks to Didier Anderouard and the EXCELCAR team 🤍",
+      "totalReactionCount": 72,
+      "likeCount": 44,
+      "appreciationCount": 3,
+      "empathyCount": 12,
+      "praiseCount": 13,
+      "commentsCount": 26,
+      "repostsCount": 8,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7409700247339335680/",
+      "shareUrl": "https://www.linkedin.com/posts/bassemrustom_a-short-video-to-express-our-heartfelt-thanks-ugcPost-7409557758041272320-pBVk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "2w",
+      "postedDate": "2025-12-24 21:03:24.539 +0000 UTC",
+      "postedDateTimestamp": 1766610204539,
+      "reposted": true,
+      "urn": "7409700247339335680",
+      "shareUrn": "urn:li:ugcPost:7409557758041272320",
+      "author": {
+        "id": 4638944,
+        "firstName": "Bassem",
+        "lastName": "Rustom",
+        "headline": "Telecommunications Industry Executive",
+        "username": "bassemrustom",
+        "url": "https://www.linkedin.com/in/bassemrustom",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHd4nUTnwyAHw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722887884972?e=1769644800&v=beta&t=wbOVWVjo2FYM6OSJAI9nfBN7LVxmCFUMM9Sv8zOwA2I"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHd4nUTnwyAHw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722887884972?e=1769644800&v=beta&t=yei6oTT4q2-KC2pkg_KopI8Vp-n8S4L13W_rSsd79ig"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHd4nUTnwyAHw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722887884972?e=1769644800&v=beta&t=QwFjttUHvysjRdb6XhTfq6iNa5RrkYwvRzEY7BEnz-U"
+          },
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHd4nUTnwyAHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722887885009?e=1769644800&v=beta&t=r6vn59llCwcU7dnpEeRms47cIiH9sVutJLFSA3H9e7I"
+          }
+        ],
+        "urn": "ACoAAABGyOABeSie2NpcdL12i39y5aNXG9BE2zw"
+      },
+      "video": [
+        {
+          "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQH_IbdSFYzSzQ/mp4-720p-30fp-crf28/B4EZtQNjZZHcCI-/0/1766577327252?e=1768586400&v=beta&t=lJQJnbuzcyBPJhHcIRDjUByRyapqSaUG-aAoBAkk1Is",
+          "poster": "https://media.licdn.com/dms/image/v2/D4E05AQH_IbdSFYzSzQ/videocover-low/B4EZtQNjZZHcBQ-/0/1766577305154?e=1768586400&v=beta&t=Q4Q5X4zF42yH3I2sw9iuQU3r2tlfo99FuSGncl_WNuc",
+          "duration": 200666,
+          "thumbnails": null,
+          "video": null
+        }
+      ],
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "linkedInVideo",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Nelson",
+          "lastName": "Vanegas",
+          "urn": "ACoAAABh5eIB7VX_GvFZZ5UJwH9NZpLJA309YJI",
+          "publicIdentifier": "vanegasnelson"
+        },
+        {
+          "firstName": "Christian",
+          "lastName": "Regnier",
+          "urn": "ACoAAAhJFVkBx6ePuqi9VyyYB1xjU5VpKoA8P3Q",
+          "publicIdentifier": "christian-regnier"
+        },
+        {
+          "firstName": "Matthias",
+          "lastName": "van der Vlies",
+          "urn": "ACoAAAFcs8YBudr9tumpXy1lf4GK6lya_fwtLjg",
+          "publicIdentifier": "mvdvlies"
+        },
+        {
+          "firstName": "Didier",
+          "lastName": "Anderouard",
+          "urn": "ACoAAAQvArkBIrCr4QWd_QeLcFlymQwSgwwtbEQ",
+          "publicIdentifier": "didieranderouard"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 105086565,
+          "name": "Invenio Techs SAS",
+          "publicIdentifier": "inveniotechs",
+          "url": "https://www.linkedin.com/company/inveniotechs/"
+        },
+        {
+          "id": 10816712,
+          "name": "EXCELCAR",
+          "publicIdentifier": "excelcarlab",
+          "url": "https://www.linkedin.com/company/excelcarlab/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "🚀 We’re thrilled to welcome Sheel Patel to the Arini team!\n\nAnother talented MIT graduate, Sheel joins us to help drive engineering and growth at Arini. With experience at Tesla, Capital One, and multiple startups of his own, Sheel brings a rare blend of technical depth and entrepreneurial drive that will help take Arini to the next level.\n\nWe’re moving fast, our roadmap is more ambitious than ever, and we’re shipping at full speed. If building the future of AI for dental practices sounds exciting, come join us!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7342963977787768834/",
+        "shareUrl": "https://www.linkedin.com/posts/ariniai_were-thrilled-to-welcome-sheel-patel-activity-7342963977787768834-yiJQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2025-06-23 17:17:17.978 +0000 UTC",
+        "postedDateTimestamp": 1750699037978,
+        "urn": "7342963977787768834",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_160/B4EZedy08lGcAc-/0/1750699036877?e=1769644800&v=beta&t=ln3OTCQ4Oj9_bw1CjBehNRepRohKSmF_zSYtR3U8WPQ",
+            "width": 160,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_480/B4EZedy08lGcAY-/0/1750699036877?e=1769644800&v=beta&t=4KeaqonCwUW0slJz_eV0if1A4EoLQlBdpJ_KLpjLhwQ",
+            "width": 480,
+            "height": 600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_800/B4EZedy08lGcAg-/0/1750699036877?e=1769644800&v=beta&t=Sy-wtH77Aa3r6Fjsh5TkLovU1j06um-8_B6yQxic4OE",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_20/B4EZedy08lGcAw-/0/1750699037085?e=1769644800&v=beta&t=CGa-KuVpb8XuOn9Xf51dU25mvA0trXEoqLGdK4PE-8Q",
+            "width": 20,
+            "height": 25
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_1280/B4EZedy08lGcAk-/0/1750699037085?e=1769644800&v=beta&t=mSU4PsXkdaZtHf5MET6FJJoGUKAI6VN74Ii_xX5XnRo",
+            "width": 1080,
+            "height": 1350
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_2048_1536/B4EZedy08lGcAo-/0/1750699036957?e=1769644800&v=beta&t=8OSOi1xFAcKQTESyDkAaWcNAOWO1XMGJFvFNtIjLSNw",
+            "width": 1080,
+            "height": 1350
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_160/B4EZedy08lGcAc-/0/1750699036877?e=1769644800&v=beta&t=ln3OTCQ4Oj9_bw1CjBehNRepRohKSmF_zSYtR3U8WPQ",
+              "width": 160,
+              "height": 200
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_480/B4EZedy08lGcAY-/0/1750699036877?e=1769644800&v=beta&t=4KeaqonCwUW0slJz_eV0if1A4EoLQlBdpJ_KLpjLhwQ",
+              "width": 480,
+              "height": 600
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_800/B4EZedy08lGcAg-/0/1750699036877?e=1769644800&v=beta&t=Sy-wtH77Aa3r6Fjsh5TkLovU1j06um-8_B6yQxic4OE",
+              "width": 800,
+              "height": 1000
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_20/B4EZedy08lGcAw-/0/1750699037085?e=1769644800&v=beta&t=CGa-KuVpb8XuOn9Xf51dU25mvA0trXEoqLGdK4PE-8Q",
+              "width": 20,
+              "height": 25
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_1280/B4EZedy08lGcAk-/0/1750699037085?e=1769644800&v=beta&t=mSU4PsXkdaZtHf5MET6FJJoGUKAI6VN74Ii_xX5XnRo",
+              "width": 1080,
+              "height": 1350
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqoOAd3ARdDg/feedshare-shrink_2048_1536/B4EZedy08lGcAo-/0/1750699036957?e=1769644800&v=beta&t=8OSOi1xFAcKQTESyDkAaWcNAOWO1XMGJFvFNtIjLSNw",
+              "width": 1080,
+              "height": 1350
+            }
+          ]
+        ],
+        "company": {
+          "name": "Arini",
+          "url": "https://www.linkedin.com/company/ariniai/",
+          "urn": "urn:li:fsd_company:100515888",
+          "username": "ariniai",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Incredibly excited to work with Sheel Patel. Been looking forward to working with him again ever since we started hacking together as freshman roommates at MIT. \n\nSheel raises the average on an already exceptional engineering team. If you're up for the challenge, DM me. We're hiring :)",
+      "totalReactionCount": 45,
+      "likeCount": 40,
+      "empathyCount": 5,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7342968395253850113/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_were-thrilled-to-welcome-sheel-patel-activity-7342968395253850113-8ORg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6mo",
+      "postedDate": "2025-06-23 17:34:51.184 +0000 UTC",
+      "postedDateTimestamp": 1750700091184,
+      "reposted": true,
+      "urn": "7342968395253850113",
+      "shareUrn": "7342968394402451456",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Sheel",
+          "lastName": "Patel",
+          "urn": "ACoAABCkQy4BawL7Eg7-8xYxn0AL5JbmBXGrQNA",
+          "publicIdentifier": "sheel3000"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "DEO: The Dentist Entrepreneur Organization 2025 Tech Summit was a dream! Highlights:\n\n•Our CTO Rami Rustom and Head of Growth Bryan Carbaugh kicked off the conference with an incredible workshop on the The Edge of Dentistry in AI hosted by DEO's iconic Emmet Scott.\n\n•We released our game-changing AI Workflows agent to completely revolutionize how patient confirmation and reactivation are done at dental practices and DSOs.\n\n•Demo'd our exciting new product features to longtime Arini customers and industry leaders like Mark Holifield, Kwane Watson and dozens of new customers alike.\n\nCouldn't be more grateful to Darin Acopan, Rachel Shipley and the rest of the DEO team for putting together such an unforgettable event. We're absolutely thrilled to see how the fastest-growing DSOs can't live without Arini :)\n\n#DentalAI #DSO #DentalInnovation #DSOGrowth #DentalLeadership \n#AIinDentistry",
+      "totalReactionCount": 68,
+      "likeCount": 49,
+      "empathyCount": 10,
+      "praiseCount": 9,
+      "commentsCount": 8,
+      "repostsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7341908916659789824/",
+      "shareUrl": "https://www.linkedin.com/posts/ariniai_dentalai-dso-dentalinnovation-ugcPost-7341146612385148928-btXi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6mo",
+      "postedDate": "2025-06-20 19:24:51.803 +0000 UTC",
+      "postedDateTimestamp": 1750447491803,
+      "reposted": true,
+      "urn": "7341908916659789824",
+      "shareUrn": "urn:li:ugcPost:7341146612385148928",
+      "author": {},
+      "image": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_1280/B4EZeD9665HgAk-/0/1750265740530?e=1769644800&v=beta&t=vXN_s1CMrd2vzAPIg3qhOJU93H8HSMslvwD30zS8JVY",
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_800/B4EZeD9665HgAg-/0/1750265740530?e=1769644800&v=beta&t=UG5KdeJi5oDSATr_Heo2bW5Kzqxqo8q9WPMVkzj_ZyQ",
+          "width": 800,
+          "height": 1067
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_20/B4EZeD9665HgAw-/0/1750265740530?e=1769644800&v=beta&t=jgOyiB5rTxQlh5jBtYczfg-a0-KNPV32xZrkaJMSvzs",
+          "width": 20,
+          "height": 27
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_480/B4EZeD9665HgAY-/0/1750265739867?e=1769644800&v=beta&t=Ec4bxZBzLIS89JhmQY2nGOxBBNcD-j74jlV5GYEKMZ0",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_160/B4EZeD9665HgAc-/0/1750265739867?e=1769644800&v=beta&t=PVOn2FRnNJRcCKRgzVQ_KjwLPh1snYtwSHHHplbywLE",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_2048_1536/B4EZeD9665HgAo-/0/1750265740706?e=1769644800&v=beta&t=1H_yH2XiZbFW-yoX--cM6j3AZWe8-djnIZNS7KItWNY",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_2048_1536/B4EZeD966AHsAs-/0/1750265742241?e=1769644800&v=beta&t=LTi11lh8piBJAn9f4dD3Y0NQkHAIL2QH9sHxV7nIyUw",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_480/B4EZeD966AHsAc-/0/1750265742617?e=1769644800&v=beta&t=wHlLDiAb5qZRYnOmKjvO7VcFQIHkVNSqDeeEDJ6DdGA",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_1280/B4EZeD966AHsAo-/0/1750265742617?e=1769644800&v=beta&t=BmAtqDpEv0fYUGzAxUQ1-0j4B4IpKC7Z9HvYL_yzrWk",
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_20/B4EZeD966AHsA0-/0/1750265742617?e=1769644800&v=beta&t=9UYyCP3DIxL8AWiJiysbOFMP5nX2125O9ggLYDu4cas",
+          "width": 20,
+          "height": 27
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_800/B4EZeD966AHsAk-/0/1750265742712?e=1769644800&v=beta&t=IqMB0eBHNIEUJDtkFyYPKdjjFRLaAj2A_-Mp3MB_3hg",
+          "width": 800,
+          "height": 1067
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_160/B4EZeD966AHsAg-/0/1750265742712?e=1769644800&v=beta&t=0Y_nrR6puEWPCPdtfvRqc9k6CQLPE4sPAc6BtBeBkpI",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_160/B4EZeD967CHYAg-/0/1750265739261?e=1769644800&v=beta&t=xme2bSTiWF1PKbHRRnzzgu_RO5VESP9TTru256NrLqU",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_800/B4EZeD967CHYAk-/0/1750265739261?e=1769644800&v=beta&t=ta7mNr1T-BMB8ZjtWn7dJYqFiZBFdo6VE7yLYFop8qU",
+          "width": 800,
+          "height": 1067
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_1280/B4EZeD967CHYAo-/0/1750265739261?e=1769644800&v=beta&t=xCSAvZTlQwaRN_3My5mGywCMme5tjFjhc_gsHspaR5E",
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_20/B4EZeD967CHYA0-/0/1750265738617?e=1769644800&v=beta&t=nNmRdXZWzuTCBgJiTkKh-ofMovqvnNra4Va1l7osY-U",
+          "width": 20,
+          "height": 27
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_480/B4EZeD967CHYAc-/0/1750265738618?e=1769644800&v=beta&t=VKaQqUKZH0wcjYgGljmzElA3uIRSmjDmhTHlb49Waoc",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_2048_1536/B4EZeD967CHYAs-/0/1750265739000?e=1769644800&v=beta&t=oBplX2DtzPxIdX63tM-_OPVVeyRmFMqBbjV2ymIJcPY",
+          "width": 1152,
+          "height": 1536
+        }
+      ],
+      "images": [
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_1280/B4EZeD9665HgAk-/0/1750265740530?e=1769644800&v=beta&t=vXN_s1CMrd2vzAPIg3qhOJU93H8HSMslvwD30zS8JVY",
+            "width": 1280,
+            "height": 1707
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_800/B4EZeD9665HgAg-/0/1750265740530?e=1769644800&v=beta&t=UG5KdeJi5oDSATr_Heo2bW5Kzqxqo8q9WPMVkzj_ZyQ",
+            "width": 800,
+            "height": 1067
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_20/B4EZeD9665HgAw-/0/1750265740530?e=1769644800&v=beta&t=jgOyiB5rTxQlh5jBtYczfg-a0-KNPV32xZrkaJMSvzs",
+            "width": 20,
+            "height": 27
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_480/B4EZeD9665HgAY-/0/1750265739867?e=1769644800&v=beta&t=Ec4bxZBzLIS89JhmQY2nGOxBBNcD-j74jlV5GYEKMZ0",
+            "width": 480,
+            "height": 640
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_160/B4EZeD9665HgAc-/0/1750265739867?e=1769644800&v=beta&t=PVOn2FRnNJRcCKRgzVQ_KjwLPh1snYtwSHHHplbywLE",
+            "width": 160,
+            "height": 213
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGyXkhOS-7KwQ/feedshare-shrink_2048_1536/B4EZeD9665HgAo-/0/1750265740706?e=1769644800&v=beta&t=1H_yH2XiZbFW-yoX--cM6j3AZWe8-djnIZNS7KItWNY",
+            "width": 1152,
+            "height": 1536
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_2048_1536/B4EZeD966AHsAs-/0/1750265742241?e=1769644800&v=beta&t=LTi11lh8piBJAn9f4dD3Y0NQkHAIL2QH9sHxV7nIyUw",
+            "width": 1152,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_480/B4EZeD966AHsAc-/0/1750265742617?e=1769644800&v=beta&t=wHlLDiAb5qZRYnOmKjvO7VcFQIHkVNSqDeeEDJ6DdGA",
+            "width": 480,
+            "height": 640
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_1280/B4EZeD966AHsAo-/0/1750265742617?e=1769644800&v=beta&t=BmAtqDpEv0fYUGzAxUQ1-0j4B4IpKC7Z9HvYL_yzrWk",
+            "width": 1280,
+            "height": 1707
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_20/B4EZeD966AHsA0-/0/1750265742617?e=1769644800&v=beta&t=9UYyCP3DIxL8AWiJiysbOFMP5nX2125O9ggLYDu4cas",
+            "width": 20,
+            "height": 27
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_800/B4EZeD966AHsAk-/0/1750265742712?e=1769644800&v=beta&t=IqMB0eBHNIEUJDtkFyYPKdjjFRLaAj2A_-Mp3MB_3hg",
+            "width": 800,
+            "height": 1067
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4lMPzm0A-wQ/feedshare-shrink_160/B4EZeD966AHsAg-/0/1750265742712?e=1769644800&v=beta&t=0Y_nrR6puEWPCPdtfvRqc9k6CQLPE4sPAc6BtBeBkpI",
+            "width": 160,
+            "height": 213
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_160/B4EZeD967CHYAg-/0/1750265739261?e=1769644800&v=beta&t=xme2bSTiWF1PKbHRRnzzgu_RO5VESP9TTru256NrLqU",
+            "width": 160,
+            "height": 213
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_800/B4EZeD967CHYAk-/0/1750265739261?e=1769644800&v=beta&t=ta7mNr1T-BMB8ZjtWn7dJYqFiZBFdo6VE7yLYFop8qU",
+            "width": 800,
+            "height": 1067
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_1280/B4EZeD967CHYAo-/0/1750265739261?e=1769644800&v=beta&t=xCSAvZTlQwaRN_3My5mGywCMme5tjFjhc_gsHspaR5E",
+            "width": 1280,
+            "height": 1707
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_20/B4EZeD967CHYA0-/0/1750265738617?e=1769644800&v=beta&t=nNmRdXZWzuTCBgJiTkKh-ofMovqvnNra4Va1l7osY-U",
+            "width": 20,
+            "height": 27
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_480/B4EZeD967CHYAc-/0/1750265738618?e=1769644800&v=beta&t=VKaQqUKZH0wcjYgGljmzElA3uIRSmjDmhTHlb49Waoc",
+            "width": 480,
+            "height": 640
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQH11uSJhQyV3w/feedshare-shrink_2048_1536/B4EZeD967CHYAs-/0/1750265739000?e=1769644800&v=beta&t=oBplX2DtzPxIdX63tM-_OPVVeyRmFMqBbjV2ymIJcPY",
+            "width": 1152,
+            "height": 1536
+          }
+        ]
+      ],
+      "company": {
+        "name": "Arini",
+        "url": "https://www.linkedin.com/company/ariniai/",
+        "urn": "urn:li:fsd_company:100515888",
+        "username": "ariniai",
+        "companyLogo": [
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "image",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Rami",
+          "lastName": "Rustom",
+          "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE",
+          "publicIdentifier": "ramirustom"
+        },
+        {
+          "firstName": "Bryan",
+          "lastName": "Carbaugh",
+          "urn": "ACoAAB9BdrMBPD5GIfB-GkwmI_L-Bq5K0XLswyQ",
+          "publicIdentifier": "bryan-carbaugh-b03746127"
+        },
+        {
+          "firstName": "Emmet",
+          "lastName": "Scott",
+          "urn": "ACoAAACk6dUB1wpo5IhmKuyhAx-t5AkIxPYLkcE",
+          "publicIdentifier": "emmetscott"
+        },
+        {
+          "firstName": "Mark",
+          "lastName": "Holifield DMD",
+          "urn": "ACoAAAIhFnQBa6My9OlSWRK2xf73b-MdZtc6t24",
+          "publicIdentifier": "mark-holifield-dmd-b58b68b"
+        },
+        {
+          "firstName": "Kwane",
+          "lastName": "Watson",
+          "urn": "ACoAABAWXYEBEiKg4fZLO8jbVxsL3ex9R5nMt8E",
+          "publicIdentifier": "kwane-watson-99548076"
+        },
+        {
+          "firstName": "Darin",
+          "lastName": "Acopan",
+          "urn": "ACoAAACJE18BUiUSCMlNdUM_8jwps95AEQ-71OY",
+          "publicIdentifier": "acopan"
+        },
+        {
+          "firstName": "Rachel",
+          "lastName": "Shipley",
+          "urn": "ACoAABR4-F0BGkF8EQwvc2hPdVAVyNnUKw8RZro",
+          "publicIdentifier": "rachelshipley"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 22316635,
+          "name": "DEO: The Dentist Entrepreneur Organization",
+          "publicIdentifier": "deodentalgroup",
+          "url": "https://www.linkedin.com/company/deodentalgroup/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "We're 1 week out from the DEO: The Dentist Entrepreneur Organization 2025 summit and we couldn't be more excited to feature how Dr. Kwane Watson of Kare Mobile Inc.—one of our earliest mobile dentistry adopters—has leveraged Arini to transform the operations of his 7-location DSO!\n\nUsing Arini to make sure they never miss out on new patient revenue, Kare Mobile started with Arini in September of 2024 and quickly expanded to all 7 of their mobile clinic locations. Last month, we were thrilled to deliver these staggering numbers for Kare:\n\n• 146 New Patient Appointments Booked\n• 772 calls handled by Arini with a overall 92.6% resolution rate\n• $438,000 in new patient lifetime value 💰 \n\nWe can't wait to see you at DEO next week Dr. Watson!\n\n#DentalAI #DSO #DentalInnovation #DSOGrowth #DentalLeadership #AIinDentistry",
+      "totalReactionCount": 25,
+      "likeCount": 19,
+      "empathyCount": 4,
+      "praiseCount": 2,
+      "repostsCount": 4,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7336488803366293504/",
+      "shareUrl": "https://www.linkedin.com/posts/ariniai_dentalai-dso-dentalinnovation-activity-7336487089028390913-RVK3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "7mo",
+      "postedDate": "2025-06-05 20:27:16.093 +0000 UTC",
+      "postedDateTimestamp": 1749155236093,
+      "reposted": true,
+      "urn": "7336488803366293504",
+      "shareUrn": "7336487087308787713",
+      "author": {},
+      "image": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_1280/B4EZdBwITdH0Aw-/0/1749154826184?e=1769644800&v=beta&t=k3Dg_lbZ13_RtNtLA5kc-w_8x8iqYONKUEQZhBTVSoY",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_2048_1536/B4EZdBwITdH0A0-/0/1749154826209?e=1769644800&v=beta&t=7JnE8mmMr3EOhFVBb2MNKCK059nZ91jxD7iO6PhIZ4E",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_800/B4EZdBwITdH0As-/0/1749154826184?e=1769644800&v=beta&t=j59j-ej7IzqrkvlzRni2Q8JiBl3pmoSK9hrNGsxNub4",
+          "width": 800,
+          "height": 420
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_160/B4EZdBwITdH0Ao-/0/1749154826184?e=1769644800&v=beta&t=Lb_eEwiYZDkbjwahhSgAH3M6gEQf-nR62osibkhY5-I",
+          "width": 160,
+          "height": 84
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_20/B4EZdBwITdH0A8-/0/1749154826184?e=1769644800&v=beta&t=lPZeqTFEJTtujEn-FX9Q4G2FXoce4MrrMTqdSpUfISg",
+          "width": 20,
+          "height": 10
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_480/B4EZdBwITdH0Ak-/0/1749154826184?e=1769644800&v=beta&t=Iu8u6OIb7R-SZSjsm3swx03xTCUndcdic6Y6_ArJ_Rg",
+          "width": 480,
+          "height": 252
+        }
+      ],
+      "images": [
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_1280/B4EZdBwITdH0Aw-/0/1749154826184?e=1769644800&v=beta&t=k3Dg_lbZ13_RtNtLA5kc-w_8x8iqYONKUEQZhBTVSoY",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_2048_1536/B4EZdBwITdH0A0-/0/1749154826209?e=1769644800&v=beta&t=7JnE8mmMr3EOhFVBb2MNKCK059nZ91jxD7iO6PhIZ4E",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_800/B4EZdBwITdH0As-/0/1749154826184?e=1769644800&v=beta&t=j59j-ej7IzqrkvlzRni2Q8JiBl3pmoSK9hrNGsxNub4",
+            "width": 800,
+            "height": 420
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_160/B4EZdBwITdH0Ao-/0/1749154826184?e=1769644800&v=beta&t=Lb_eEwiYZDkbjwahhSgAH3M6gEQf-nR62osibkhY5-I",
+            "width": 160,
+            "height": 84
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_20/B4EZdBwITdH0A8-/0/1749154826184?e=1769644800&v=beta&t=lPZeqTFEJTtujEn-FX9Q4G2FXoce4MrrMTqdSpUfISg",
+            "width": 20,
+            "height": 10
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEPrejR0Ayn9g/feedshare-shrink_480/B4EZdBwITdH0Ak-/0/1749154826184?e=1769644800&v=beta&t=Iu8u6OIb7R-SZSjsm3swx03xTCUndcdic6Y6_ArJ_Rg",
+            "width": 480,
+            "height": 252
+          }
+        ]
+      ],
+      "company": {
+        "name": "Arini",
+        "url": "https://www.linkedin.com/company/ariniai/",
+        "urn": "urn:li:fsd_company:100515888",
+        "username": "ariniai",
+        "companyLogo": [
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "image",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Kwane",
+          "lastName": "Watson",
+          "urn": "ACoAABAWXYEBEiKg4fZLO8jbVxsL3ex9R5nMt8E",
+          "publicIdentifier": "kwane-watson-99548076"
+        },
+        {
+          "firstName": "Kwane",
+          "lastName": "Watson",
+          "urn": "ACoAABAWXYEBEiKg4fZLO8jbVxsL3ex9R5nMt8E",
+          "publicIdentifier": "kwane-watson-99548076"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 22316635,
+          "name": "DEO: The Dentist Entrepreneur Organization",
+          "publicIdentifier": "deodentalgroup",
+          "url": "https://www.linkedin.com/company/deodentalgroup/"
+        },
+        {
+          "id": 18771899,
+          "name": "Kare Mobile Inc.",
+          "publicIdentifier": "kare-mobile",
+          "url": "https://www.linkedin.com/company/kare-mobile/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "We’re back this week with another DEO: The Dentist Entrepreneur Organization dental group spotlight! This week we’re excited to feature Complete Dental Care of Jackson, Tennessee.\n\nComplete Dental—a 3-location group—rolled out Arini to their Jackson, TN location in September of last year and quickly expanded to all 3 locations. Since implementing Arini, Complete Dental has:\n\n•Run their administrative function with just 4 staff members versus 11 before Arini, all while continuing to increase production month-over-month\n\n•Leveraged Arini to handle over 4,000 patient calls per month",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7333941446007296001/",
+        "shareUrl": "https://www.linkedin.com/posts/ariniai_were-back-this-week-with-another-deo-the-activity-7333941446007296001-KVgT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2025-05-29 19:44:58.771 +0000 UTC",
+        "postedDateTimestamp": 1748547898771,
+        "urn": "7333941446007296001",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_160/B4EZcdk4P1HAAc-/0/1748547897265?e=1769644800&v=beta&t=ML646_hAZrnj9wR4evtvjHqNJgszs1AYF4jc82ru--w",
+            "width": 160,
+            "height": 84
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_2048_1536/B4EZcdk4P1HAAo-/0/1748547897334?e=1769644800&v=beta&t=JgtQOiXODi6q-bVts_YbrowzG5hVo8WPExjGd0h4n9o",
+            "width": 2048,
+            "height": 1075
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_1280/B4EZcdk4P1HAAk-/0/1748547897266?e=1769644800&v=beta&t=E_04cma69uOAskrL0XDpC2Gf86-tAxamFeOvfLj95ig",
+            "width": 1280,
+            "height": 672
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_480/B4EZcdk4P1HAAY-/0/1748547897266?e=1769644800&v=beta&t=DWz2I8865OLyZnCjdVeEPFjv89hlg1dGxkBgstYwH7c",
+            "width": 480,
+            "height": 252
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_20/B4EZcdk4P1HAAw-/0/1748547897222?e=1769644800&v=beta&t=-7Gc6rgA1wMUPyjmq8TAtV_98eXdKJ14UR1nMCpq1vE",
+            "width": 20,
+            "height": 10
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_800/B4EZcdk4P1HAAg-/0/1748547897222?e=1769644800&v=beta&t=Bqm2BqgQo8gm6fJYgd-fX2R4g61rBvcCg-h6zO65ISE",
+            "width": 800,
+            "height": 420
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_160/B4EZcdk4P1HAAc-/0/1748547897265?e=1769644800&v=beta&t=ML646_hAZrnj9wR4evtvjHqNJgszs1AYF4jc82ru--w",
+              "width": 160,
+              "height": 84
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_2048_1536/B4EZcdk4P1HAAo-/0/1748547897334?e=1769644800&v=beta&t=JgtQOiXODi6q-bVts_YbrowzG5hVo8WPExjGd0h4n9o",
+              "width": 2048,
+              "height": 1075
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_1280/B4EZcdk4P1HAAk-/0/1748547897266?e=1769644800&v=beta&t=E_04cma69uOAskrL0XDpC2Gf86-tAxamFeOvfLj95ig",
+              "width": 1280,
+              "height": 672
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_480/B4EZcdk4P1HAAY-/0/1748547897266?e=1769644800&v=beta&t=DWz2I8865OLyZnCjdVeEPFjv89hlg1dGxkBgstYwH7c",
+              "width": 480,
+              "height": 252
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_20/B4EZcdk4P1HAAw-/0/1748547897222?e=1769644800&v=beta&t=-7Gc6rgA1wMUPyjmq8TAtV_98eXdKJ14UR1nMCpq1vE",
+              "width": 20,
+              "height": 10
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHDy5qI1De5OA/feedshare-shrink_800/B4EZcdk4P1HAAg-/0/1748547897222?e=1769644800&v=beta&t=Bqm2BqgQo8gm6fJYgd-fX2R4g61rBvcCg-h6zO65ISE",
+              "width": 800,
+              "height": 420
+            }
+          ]
+        ],
+        "company": {
+          "name": "Arini",
+          "url": "https://www.linkedin.com/company/ariniai/",
+          "urn": "urn:li:fsd_company:100515888",
+          "username": "ariniai",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "😍 Love seeing DEO members like Complete Dental Care finding real traction with the right tools in place. Big thanks to our partners at Arini for supporting growth in such a meaningful way!",
+      "totalReactionCount": 10,
+      "likeCount": 6,
+      "empathyCount": 3,
+      "praiseCount": 1,
+      "commentsCount": 2,
+      "repostsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7335724904945745920/",
+      "shareUrl": "https://www.linkedin.com/posts/deodentalgroup_were-back-this-week-with-another-deo-the-activity-7333976365379043328-EydN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "7mo",
+      "postedDate": "2025-06-03 17:51:48.517 +0000 UTC",
+      "postedDateTimestamp": 1748973108517,
+      "reposted": true,
+      "urn": "7335724904945745920",
+      "shareUrn": "7333976364691206144",
+      "author": {},
+      "company": {
+        "name": "DEO: The Dentist Entrepreneur Organization",
+        "url": "https://www.linkedin.com/company/deodentalgroup/",
+        "urn": "urn:li:fsd_company:22316635",
+        "username": "deodentalgroup",
+        "companyLogo": [
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHy3-scNpE89A/company-logo_200_200/company-logo_200_200/0/1729119900010/deodentalgroup_logo?e=1769644800&v=beta&t=fUmmVu1bEs0-kv_TA-XVpTTSDmUk2l8X9hFhPl4RImE"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHy3-scNpE89A/company-logo_100_100/company-logo_100_100/0/1729119900010/deodentalgroup_logo?e=1769644800&v=beta&t=e4ulKil5Z0PdDHCWAeSlzuukHXNE8kWXvB4p9fXMArg"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHy3-scNpE89A/company-logo_400_400/company-logo_400_400/0/1729119900010/deodentalgroup_logo?e=1769644800&v=beta&t=flcU4AYhZhmZBbRSta6yGU-bL1d1rgxxPd1VZcbfPm4"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "“After you use it for a while, this is the way of the future.”\n\nOur CEO Abdulrahman Jamjoom was thrilled to catch up with the legendary Dr. Bob \"Dee\" Dokhanchi of Dentistry in General LLC for Season 1, Episode 14 of the DIG Official Podcast! \n\nDr. Dee met our co-founder and CTO Rami Rustom at the Chicago Dental Society 2025 Midwinter Meeting and was immediately blown away: \"These guys are innovators. Look at the amount of people they have.\"\n\n🎥 Watch the full video in the comments below.",
+      "totalReactionCount": 30,
+      "likeCount": 25,
+      "empathyCount": 2,
+      "praiseCount": 3,
+      "commentsCount": 1,
+      "repostsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7333487138597949440/",
+      "shareUrl": "https://www.linkedin.com/posts/ariniai_after-you-use-it-for-a-while-this-is-the-activity-7333133880142557188-9qRd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "7mo",
+      "postedDate": "2025-05-28 13:39:43.444 +0000 UTC",
+      "postedDateTimestamp": 1748439583444,
+      "reposted": true,
+      "urn": "7333487138597949440",
+      "shareUrn": "7333002338242093058",
+      "author": {},
+      "image": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_800/B4EZcQOw2lHIAo-/0/1748323997297?e=1769644800&v=beta&t=mjoqk0D9aB0OBOsVOhssHnswg5A80C6csK3y7udSj1I",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_1280/B4EZcQOw2lHIAs-/0/1748323997297?e=1769644800&v=beta&t=RNyU4ws-9hanVp-sdAEL625Lxcl-RGfb6gU2PlLuuP8",
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_20/B4EZcQOw2lHIA4-/0/1748323997297?e=1769644800&v=beta&t=rxSGBWEppR2fEXTCHCcuANm65GxugwHVHrgR2KczJ9U",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_2048_1536/B4EZcQOw2lHIAw-/0/1748323997281?e=1769644800&v=beta&t=CK6ecBL0xtk9GVVtempu3_WJGjEp8tS3F6z4x2-U9a8",
+          "width": 1536,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_480/B4EZcQOw2lHIAg-/0/1748323997244?e=1769644800&v=beta&t=wx7t6zaOXaOsO3XH8ehpTCVG8QEmylhal3oKDWIIxQE",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_160/B4EZcQOw2lHIAk-/0/1748323997244?e=1769644800&v=beta&t=-D00fBZW18qk8z3EM6pbAdaOr8ujfa3YZJTLavADE8E",
+          "width": 160,
+          "height": 160
+        }
+      ],
+      "images": [
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_800/B4EZcQOw2lHIAo-/0/1748323997297?e=1769644800&v=beta&t=mjoqk0D9aB0OBOsVOhssHnswg5A80C6csK3y7udSj1I",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_1280/B4EZcQOw2lHIAs-/0/1748323997297?e=1769644800&v=beta&t=RNyU4ws-9hanVp-sdAEL625Lxcl-RGfb6gU2PlLuuP8",
+            "width": 1280,
+            "height": 1280
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_20/B4EZcQOw2lHIA4-/0/1748323997297?e=1769644800&v=beta&t=rxSGBWEppR2fEXTCHCcuANm65GxugwHVHrgR2KczJ9U",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_2048_1536/B4EZcQOw2lHIAw-/0/1748323997281?e=1769644800&v=beta&t=CK6ecBL0xtk9GVVtempu3_WJGjEp8tS3F6z4x2-U9a8",
+            "width": 1536,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_480/B4EZcQOw2lHIAg-/0/1748323997244?e=1769644800&v=beta&t=wx7t6zaOXaOsO3XH8ehpTCVG8QEmylhal3oKDWIIxQE",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHfSIqPK5EA_Q/feedshare-shrink_160/B4EZcQOw2lHIAk-/0/1748323997244?e=1769644800&v=beta&t=-D00fBZW18qk8z3EM6pbAdaOr8ujfa3YZJTLavADE8E",
+            "width": 160,
+            "height": 160
+          }
+        ]
+      ],
+      "company": {
+        "name": "Arini",
+        "url": "https://www.linkedin.com/company/ariniai/",
+        "urn": "urn:li:fsd_company:100515888",
+        "username": "ariniai",
+        "companyLogo": [
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "image",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Abdul",
+          "lastName": "Jamjoom",
+          "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+          "publicIdentifier": "abduljamjoom"
+        },
+        {
+          "firstName": "Bob \"Dee\"",
+          "lastName": "Dokhanchi",
+          "urn": "ACoAACQdomgB1dhUYZEgL_1cXHGkk8lBn_mOLEs",
+          "publicIdentifier": "bob-dee-dokhanchi-2b4b0914a"
+        },
+        {
+          "firstName": "Rami",
+          "lastName": "Rustom",
+          "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE",
+          "publicIdentifier": "ramirustom"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 90731141,
+          "name": "Dentistry in General LLC",
+          "publicIdentifier": "dentistry-in-general",
+          "url": "https://www.linkedin.com/company/dentistry-in-general/"
+        },
+        {
+          "id": 2209019,
+          "name": "Chicago Dental Society",
+          "publicIdentifier": "chicago-dental-society",
+          "url": "https://www.linkedin.com/company/chicago-dental-society/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "We couldn't be more excited to welcome Tanner Wright to lead Arini's Customer Success Team! \n\nTanner brings over a decade of experience building world-class CX teams from the ground up at some of the fastest-growing companies in dental.\n\nHe joins us as we continue to rapidly expand our team and ship the best AI products at the fastest pace in the industry. In other words, we're hiring :)",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7331341322856910865/",
+        "shareUrl": "https://www.linkedin.com/posts/ariniai_we-couldnt-be-more-excited-to-welcome-tanner-activity-7331341322856910865-4Z66?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2025-05-22 15:33:01.104 +0000 UTC",
+        "postedDateTimestamp": 1747927981104,
+        "urn": "7331341322856910865",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_800/B4EZb1xAZxGQAg-/0/1747879987416?e=1769644800&v=beta&t=W6xWbA80rn6_iNoubrzvb0LYI7huxFGaZGwyMkBjfy4",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_20/B4EZb1xAZxGQAw-/0/1747879987416?e=1769644800&v=beta&t=6Jif9RmurY7NfhdjGQed4hlfsK_XssEvxrzIJX9qnL0",
+            "width": 20,
+            "height": 25
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_160/B4EZb1xAZxGQAc-/0/1747879987416?e=1769644800&v=beta&t=HikTjbMpZNGQ_uGHaf-5gKHrFmcgREBe-lCVMndxrxU",
+            "width": 160,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_2048_1536/B4EZb1xAZxGQAo-/0/1747879987548?e=1769644800&v=beta&t=0-Jkr3UKHQuZJ_ng45c7oRcPdI-vqm4JcPGUbfI_UH0",
+            "width": 1228,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_480/B4EZb1xAZxGQAY-/0/1747879987434?e=1769644800&v=beta&t=uQx3KdeTXvbt7-InmrHnxX3WD2NUOMnoC81NfFjN8Y0",
+            "width": 480,
+            "height": 600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_1280/B4EZb1xAZxGQAk-/0/1747879987434?e=1769644800&v=beta&t=NU7le5vHZ1EsnBsfx0KejePNP0OjJox5DC-PjVwM5dk",
+            "width": 1280,
+            "height": 1600
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_800/B4EZb1xAZxGQAg-/0/1747879987416?e=1769644800&v=beta&t=W6xWbA80rn6_iNoubrzvb0LYI7huxFGaZGwyMkBjfy4",
+              "width": 800,
+              "height": 1000
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_20/B4EZb1xAZxGQAw-/0/1747879987416?e=1769644800&v=beta&t=6Jif9RmurY7NfhdjGQed4hlfsK_XssEvxrzIJX9qnL0",
+              "width": 20,
+              "height": 25
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_160/B4EZb1xAZxGQAc-/0/1747879987416?e=1769644800&v=beta&t=HikTjbMpZNGQ_uGHaf-5gKHrFmcgREBe-lCVMndxrxU",
+              "width": 160,
+              "height": 200
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_2048_1536/B4EZb1xAZxGQAo-/0/1747879987548?e=1769644800&v=beta&t=0-Jkr3UKHQuZJ_ng45c7oRcPdI-vqm4JcPGUbfI_UH0",
+              "width": 1228,
+              "height": 1536
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_480/B4EZb1xAZxGQAY-/0/1747879987434?e=1769644800&v=beta&t=uQx3KdeTXvbt7-InmrHnxX3WD2NUOMnoC81NfFjN8Y0",
+              "width": 480,
+              "height": 600
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCdmXCdBpQvw/feedshare-shrink_1280/B4EZb1xAZxGQAk-/0/1747879987434?e=1769644800&v=beta&t=NU7le5vHZ1EsnBsfx0KejePNP0OjJox5DC-PjVwM5dk",
+              "width": 1280,
+              "height": 1600
+            }
+          ]
+        ],
+        "company": {
+          "name": "Arini",
+          "url": "https://www.linkedin.com/company/ariniai/",
+          "urn": "urn:li:fsd_company:100515888",
+          "username": "ariniai",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Pumped to be working with a legend in the dental space, Tanner Wright.\n\nAlso, we're hiring. DMs are open :)",
+      "totalReactionCount": 24,
+      "likeCount": 20,
+      "empathyCount": 4,
+      "commentsCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7331425031392067586/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_we-couldnt-be-more-excited-to-welcome-tanner-activity-7331425031392067586-stn4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "7mo",
+      "postedDate": "2025-05-22 21:05:38.774 +0000 UTC",
+      "postedDateTimestamp": 1747947938774,
+      "reposted": true,
+      "urn": "7331425031392067586",
+      "shareUrn": "7331425030083444736",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Tanner",
+          "lastName": "Wright",
+          "urn": "ACoAABDEVTIBUE06hAt--0PwvhRttvS26XMqe48",
+          "publicIdentifier": "tanner-wright-84225a7a"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Counting down to DEO: The Dentist Entrepreneur Organization 2025 summit in Phoenix June 12-14! We’re excited to be hosting a workshop on “The Edge of AI in Dentistry” featuring our CTO Rami Rustom and Growth Lead Bryan Carbaugh on June 12th.\n\nLeading up to the conference we’ll be sharing how standout DEO dental groups have leveraged Arini to turbocharge their practice revenue and front desk operations. This week, we’re excited to feature Normandy Lake Dentistry Partners.\n\nNormandy Dentistry started with Arini last August in one office and has since expanded to all four locations. Dr. Lee and his team have leveraged Arini to capture over $26,000 per month of new patient revenue from otherwise would-have-been missed calls! 💸\n\nDanya, partnering with you has been something to smile about. Here's to many more!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7330600697475837953/",
+        "shareUrl": "https://www.linkedin.com/posts/ariniai_counting-down-to-deo-the-dentist-entrepreneur-activity-7330600697475837953-1c-3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2025-05-20 14:30:02.253 +0000 UTC",
+        "postedDateTimestamp": 1747751402253,
+        "urn": "7330600697475837953",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_160/B4EZbl8XR4HMAc-/0/1747614530259?e=1769644800&v=beta&t=edXGIFm9XQoHO7mNo-9R8hWyoHA6fpvUd_hPXlf6m7Y",
+            "width": 160,
+            "height": 84
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_2048_1536/B4EZbl8XR4HMAo-/0/1747614530374?e=1769644800&v=beta&t=_RV9IaTFvsMr_DADCgQ71x3Y6niqGH7gVV2L5ZkBXjs",
+            "width": 2048,
+            "height": 1075
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_1280/B4EZbl8XR4HMAk-/0/1747614530259?e=1769644800&v=beta&t=kq7hbMNHdzg-KCBwMnh-CNFpvZ1eDN64AVHXuGfGKV0",
+            "width": 1280,
+            "height": 672
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_480/B4EZbl8XR4HMAY-/0/1747614530259?e=1769644800&v=beta&t=8vjEMAM_IYq4NM66Aqe0sMVpBHOfXfy9JadHpl8zxoU",
+            "width": 480,
+            "height": 252
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_800/B4EZbl8XR4HMAg-/0/1747614530261?e=1769644800&v=beta&t=3kdfjoyPo-ky8U2lAvgTksZrHa8qIOBRKl8J8AbUCPU",
+            "width": 800,
+            "height": 420
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_20/B4EZbl8XR4HMAw-/0/1747614530261?e=1769644800&v=beta&t=r7rzBb8JOTChBj49nXS1wZU8_R3fJUJELSSO3eQa108",
+            "width": 20,
+            "height": 10
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_160/B4EZbl8XR4HMAc-/0/1747614530259?e=1769644800&v=beta&t=edXGIFm9XQoHO7mNo-9R8hWyoHA6fpvUd_hPXlf6m7Y",
+              "width": 160,
+              "height": 84
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_2048_1536/B4EZbl8XR4HMAo-/0/1747614530374?e=1769644800&v=beta&t=_RV9IaTFvsMr_DADCgQ71x3Y6niqGH7gVV2L5ZkBXjs",
+              "width": 2048,
+              "height": 1075
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_1280/B4EZbl8XR4HMAk-/0/1747614530259?e=1769644800&v=beta&t=kq7hbMNHdzg-KCBwMnh-CNFpvZ1eDN64AVHXuGfGKV0",
+              "width": 1280,
+              "height": 672
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_480/B4EZbl8XR4HMAY-/0/1747614530259?e=1769644800&v=beta&t=8vjEMAM_IYq4NM66Aqe0sMVpBHOfXfy9JadHpl8zxoU",
+              "width": 480,
+              "height": 252
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_800/B4EZbl8XR4HMAg-/0/1747614530261?e=1769644800&v=beta&t=3kdfjoyPo-ky8U2lAvgTksZrHa8qIOBRKl8J8AbUCPU",
+              "width": 800,
+              "height": 420
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQE4UdYa2jz-fA/feedshare-shrink_20/B4EZbl8XR4HMAw-/0/1747614530261?e=1769644800&v=beta&t=r7rzBb8JOTChBj49nXS1wZU8_R3fJUJELSSO3eQa108",
+              "width": 20,
+              "height": 10
+            }
+          ]
+        ],
+        "company": {
+          "name": "Arini",
+          "url": "https://www.linkedin.com/company/ariniai/",
+          "urn": "urn:li:fsd_company:100515888",
+          "username": "ariniai",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Excited to see many of our partners, customers, and friends at DEO: The Dentist Entrepreneur Organization on June 12th. Gonna be releasing some crazy new features we've been working. Stay tuned 👀",
+      "totalReactionCount": 21,
+      "likeCount": 17,
+      "praiseCount": 4,
+      "commentsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7330740597999198208/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_counting-down-to-deo-the-dentist-entrepreneur-activity-7330740597999198208-ZYbH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "7mo",
+      "postedDate": "2025-05-20 23:45:57.137 +0000 UTC",
+      "postedDateTimestamp": 1747784757137,
+      "reposted": true,
+      "urn": "7330740597999198208",
+      "shareUrn": "7330740597252587520",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 22316635,
+          "name": "DEO: The Dentist Entrepreneur Organization",
+          "publicIdentifier": "deodentalgroup",
+          "url": "https://www.linkedin.com/company/deodentalgroup/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "🎉 Arini partners with Cartesia to revolutionize dental practices! 🦷🚀\n\nArini is transforming dental care with their innovative AI receptionist that answers calls 24/7, schedules appointments, and boosts revenue for dental practices.\n\nWe're honored to be their main voice provider, powering patient interactions that recover thousands in revenue per call.\n\nHere's why Arini chose Cartesia:\n⚡️ Ultra-low latency — Sub-90ms response time keeps patients engaged.\n🔊 Realistic voices — Lifelike speech reduces hang-ups.\n🔒 HIPAA compliant — Secure handling of patient data.\n🌐 Multilingual support — Serving English and Spanish speakers.\n👩‍💻 Developer-friendly — Smooth and efficient API integration.\n\nWe're excited to support Abdulrahman Jamjoom and the exceptional Arini (YC W24) team in their mission to transform dental practice management.\n\nRead the full story here 👇\n\nhttps://lnkd.in/gHSw2TEe",
+      "totalReactionCount": 70,
+      "likeCount": 50,
+      "empathyCount": 10,
+      "praiseCount": 10,
+      "commentsCount": 1,
+      "repostsCount": 6,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7254218951402930176/",
+      "shareUrl": "https://www.linkedin.com/posts/cartesia-ai_arini-partners-with-cartesia-to-empower-dental-activity-7254201644010127360-ORT3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "1yr",
+      "postedDate": "2024-10-21 19:56:14.885 +0000 UTC",
+      "postedDateTimestamp": 1729540574885,
+      "reposted": true,
+      "urn": "7254218951402930176",
+      "shareUrn": "7254201643162841088",
+      "author": {},
+      "company": {
+        "name": "Cartesia",
+        "url": "https://www.linkedin.com/company/cartesia-ai/",
+        "urn": "urn:li:fsd_company:99079767",
+        "username": "cartesia-ai",
+        "companyLogo": [
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEYxrrQKOvUtg/company-logo_200_200/company-logo_200_200/0/1722541301435/cartesia_ai_logo?e=1769644800&v=beta&t=oXkZMxlP9Ov5KXPty73CoQSHcVaPzp_QR8NcWC17Cxc"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEYxrrQKOvUtg/company-logo_100_100/company-logo_100_100/0/1722541301435/cartesia_ai_logo?e=1769644800&v=beta&t=yNd1FCarQCULq3QnJiYQmAmA_BguoYT9anR0xpNLMk0"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEYxrrQKOvUtg/company-logo_400_400/company-logo_400_400/0/1722541301435/cartesia_ai_logo?e=1769644800&v=beta&t=aHR8cM9I6Usz4VEm83ktIIFxKeUdDMoXZFp_oXKZhDg"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "article",
+      "article": {
+        "title": "Arini Partners with Cartesia to Empower Dental Practices and Bolster Revenue",
+        "subtitle": "cartesia.ai",
+        "link": "https://cartesia.ai/blog/arini",
+        "image": [
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHmkH_MtJ4e8Q/articleshare-shrink_800/articleshare-shrink_800/0/1729535378571?e=1768586400&v=beta&t=Uk0SaAuB84NPS4OxR6wHYFivXIqNxgEyqc9SWr4V6ak"
+          },
+          {
+            "width": 1280,
+            "height": 1280,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHmkH_MtJ4e8Q/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1729535378571?e=1768586400&v=beta&t=vaTx8r_nCmSsyvI0foMdk0GjbO8sgG8ghWgB48E-KUI"
+          },
+          {
+            "width": 160,
+            "height": 160,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHmkH_MtJ4e8Q/articleshare-shrink_160/articleshare-shrink_160/0/1729535378571?e=1768586400&v=beta&t=aoj8CPA4niB9-OdxKy4Q73cgX9lA5fpgImnpuGx1t6s"
+          },
+          {
+            "width": 480,
+            "height": 480,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHmkH_MtJ4e8Q/articleshare-shrink_480/articleshare-shrink_480/0/1729535378571?e=1768586400&v=beta&t=4qvAbsTY7F2yO8YeIeuYRrK-HmzcTdS7KzHpW6b3cxM"
+          }
+        ],
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Abdul",
+          "lastName": "Jamjoom",
+          "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+          "publicIdentifier": "abduljamjoom"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "Had an incredible kick-off at DEO: The Dentist Entrepreneur Organization last night! Met some amazing industry leaders: Darin Acopan, Clint Berry, and Louis Chan. Onboarded incredible dental groups and linked-up with some of our beloved practices.\n\nVisit us at booth #55",
+      "totalReactionCount": 61,
+      "likeCount": 50,
+      "empathyCount": 8,
+      "praiseCount": 3,
+      "commentsCount": 1,
+      "repostsCount": 4,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7207457357017042944/",
+      "shareUrl": "https://www.linkedin.com/posts/ariniai_had-an-incredible-kick-off-at-deo-the-dentist-ugcPost-7207361582761205761-UuLb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "1yr",
+      "postedDate": "2024-06-14 19:02:21.995 +0000 UTC",
+      "postedDateTimestamp": 1718391741995,
+      "reposted": true,
+      "urn": "7207457357017042944",
+      "shareUrn": "urn:li:ugcPost:7207361582761205761",
+      "author": {},
+      "image": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718368906069?e=1769644800&v=beta&t=0H52WGGnn1svG-nqRnygdNZTgM6CiFm6Ev2PNOnNY4s",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_20/feedshare-shrink_20/0/1718368905840?e=1769644800&v=beta&t=ij5q7f-bhe0e2E3mUa326Su87FVtRQRyDgSuMjRJtiA",
+          "width": 20,
+          "height": 15
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_1280/feedshare-shrink_1280/0/1718368905840?e=1769644800&v=beta&t=dtffzf9dI5cVT6Ob8w0ugKEDW9SCeszyQaR_71tcGHs",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_480/feedshare-shrink_480/0/1718368905840?e=1769644800&v=beta&t=37u6mgtbThjJtg-5YRQ5vmwHTHKtvfFH42XstzTp28U",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_160/feedshare-shrink_160/0/1718368905898?e=1769644800&v=beta&t=fFHHg3Q-AGp3wStCSrHTPAAvYU-fLzVP7_dDxdKzj2I",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_800/feedshare-shrink_800/0/1718368905898?e=1769644800&v=beta&t=HjCgcqOYg5vDF7OfttC42_cCJhZ1G4fC_uXMulEhPpk",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718368906317?e=1769644800&v=beta&t=3GEmXxugmOqxMYrFKjrkrhtCIQLRrUmsGUTUDniAHdQ",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_20/feedshare-shrink_20/0/1718368906134?e=1769644800&v=beta&t=ZH1FYvEoUN2WNYO34YmYXvIrF9vHUp7C-9fmkIVxD_Y",
+          "width": 20,
+          "height": 15
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_1280/feedshare-shrink_1280/0/1718368906134?e=1769644800&v=beta&t=mmDJwp5yrdTn9ky1Ql48nvltnNTFFqSx-t_tpt0LTag",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_480/feedshare-shrink_480/0/1718368906134?e=1769644800&v=beta&t=Sx_eIPEYFj7EtT8dP4_rdZD4VNkhpgmfklPfkr9bwo4",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_160/feedshare-shrink_160/0/1718368906053?e=1769644800&v=beta&t=K27etUeeiusOja8iSEplJtPMdtf6eysYI0dXEViSbSI",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_800/feedshare-shrink_800/0/1718368906053?e=1769644800&v=beta&t=K1ine3OYIgERSC6aLs6TQgni_eXfNGPqjp3Y3NPRH3A",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718368904473?e=1769644800&v=beta&t=2g_hKh8pdjpVd8wP19tEQVrxFwZjgxnc9nVx2EBkGZY",
+          "width": 1945,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_20/feedshare-shrink_20/0/1718368904275?e=1769644800&v=beta&t=gA9nlwLR-W5wNox1lzhKLIS0yQbDTzuATldIptJF-YQ",
+          "width": 20,
+          "height": 15
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_1280/feedshare-shrink_1280/0/1718368904275?e=1769644800&v=beta&t=pJKyLBDq7Yuk97otA-485GrYbHOODhExb0xnGNBxHPA",
+          "width": 1280,
+          "height": 1010
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_480/feedshare-shrink_480/0/1718368904275?e=1769644800&v=beta&t=34hqiXQ_LrWDxdedkqdEDQf1KVNjJIyf1xlLdTJnVKA",
+          "width": 480,
+          "height": 378
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_160/feedshare-shrink_160/0/1718368904319?e=1769644800&v=beta&t=qcwUKLN9PJo6blhhjUNzn8_ww0EjWjhn4fgIR7JIb-8",
+          "width": 160,
+          "height": 126
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_800/feedshare-shrink_800/0/1718368904319?e=1769644800&v=beta&t=eTINAn5FzoDu1MsDiaGAHoRsnu0AozKXFuE6Qel90j4",
+          "width": 800,
+          "height": 631
+        }
+      ],
+      "images": [
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718368906069?e=1769644800&v=beta&t=0H52WGGnn1svG-nqRnygdNZTgM6CiFm6Ev2PNOnNY4s",
+            "width": 2048,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_20/feedshare-shrink_20/0/1718368905840?e=1769644800&v=beta&t=ij5q7f-bhe0e2E3mUa326Su87FVtRQRyDgSuMjRJtiA",
+            "width": 20,
+            "height": 15
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_1280/feedshare-shrink_1280/0/1718368905840?e=1769644800&v=beta&t=dtffzf9dI5cVT6Ob8w0ugKEDW9SCeszyQaR_71tcGHs",
+            "width": 1280,
+            "height": 960
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_480/feedshare-shrink_480/0/1718368905840?e=1769644800&v=beta&t=37u6mgtbThjJtg-5YRQ5vmwHTHKtvfFH42XstzTp28U",
+            "width": 480,
+            "height": 360
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_160/feedshare-shrink_160/0/1718368905898?e=1769644800&v=beta&t=fFHHg3Q-AGp3wStCSrHTPAAvYU-fLzVP7_dDxdKzj2I",
+            "width": 160,
+            "height": 120
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeE5fpCrOzyg/feedshare-shrink_800/feedshare-shrink_800/0/1718368905898?e=1769644800&v=beta&t=HjCgcqOYg5vDF7OfttC42_cCJhZ1G4fC_uXMulEhPpk",
+            "width": 800,
+            "height": 600
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718368906317?e=1769644800&v=beta&t=3GEmXxugmOqxMYrFKjrkrhtCIQLRrUmsGUTUDniAHdQ",
+            "width": 2048,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_20/feedshare-shrink_20/0/1718368906134?e=1769644800&v=beta&t=ZH1FYvEoUN2WNYO34YmYXvIrF9vHUp7C-9fmkIVxD_Y",
+            "width": 20,
+            "height": 15
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_1280/feedshare-shrink_1280/0/1718368906134?e=1769644800&v=beta&t=mmDJwp5yrdTn9ky1Ql48nvltnNTFFqSx-t_tpt0LTag",
+            "width": 1280,
+            "height": 960
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_480/feedshare-shrink_480/0/1718368906134?e=1769644800&v=beta&t=Sx_eIPEYFj7EtT8dP4_rdZD4VNkhpgmfklPfkr9bwo4",
+            "width": 480,
+            "height": 360
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_160/feedshare-shrink_160/0/1718368906053?e=1769644800&v=beta&t=K27etUeeiusOja8iSEplJtPMdtf6eysYI0dXEViSbSI",
+            "width": 160,
+            "height": 120
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQF0a43c5RjcDw/feedshare-shrink_800/feedshare-shrink_800/0/1718368906053?e=1769644800&v=beta&t=K1ine3OYIgERSC6aLs6TQgni_eXfNGPqjp3Y3NPRH3A",
+            "width": 800,
+            "height": 600
+          }
+        ],
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718368904473?e=1769644800&v=beta&t=2g_hKh8pdjpVd8wP19tEQVrxFwZjgxnc9nVx2EBkGZY",
+            "width": 1945,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_20/feedshare-shrink_20/0/1718368904275?e=1769644800&v=beta&t=gA9nlwLR-W5wNox1lzhKLIS0yQbDTzuATldIptJF-YQ",
+            "width": 20,
+            "height": 15
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_1280/feedshare-shrink_1280/0/1718368904275?e=1769644800&v=beta&t=pJKyLBDq7Yuk97otA-485GrYbHOODhExb0xnGNBxHPA",
+            "width": 1280,
+            "height": 1010
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_480/feedshare-shrink_480/0/1718368904275?e=1769644800&v=beta&t=34hqiXQ_LrWDxdedkqdEDQf1KVNjJIyf1xlLdTJnVKA",
+            "width": 480,
+            "height": 378
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_160/feedshare-shrink_160/0/1718368904319?e=1769644800&v=beta&t=qcwUKLN9PJo6blhhjUNzn8_ww0EjWjhn4fgIR7JIb-8",
+            "width": 160,
+            "height": 126
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3zkgsBJjikg/feedshare-shrink_800/feedshare-shrink_800/0/1718368904319?e=1769644800&v=beta&t=eTINAn5FzoDu1MsDiaGAHoRsnu0AozKXFuE6Qel90j4",
+            "width": 800,
+            "height": 631
+          }
+        ]
+      ],
+      "company": {
+        "name": "Arini",
+        "url": "https://www.linkedin.com/company/ariniai/",
+        "urn": "urn:li:fsd_company:100515888",
+        "username": "ariniai",
+        "companyLogo": [
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+          }
+        ]
+      },
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "image",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Darin",
+          "lastName": "Acopan",
+          "urn": "ACoAAACJE18BUiUSCMlNdUM_8jwps95AEQ-71OY",
+          "publicIdentifier": "acopan"
+        },
+        {
+          "firstName": "Clint",
+          "lastName": "Berry",
+          "urn": "ACoAAAOGefoB-jXJeERvdxicukdph4EJBSkaqfM",
+          "publicIdentifier": "clintonberry"
+        },
+        {
+          "firstName": "Louis",
+          "lastName": "Chan",
+          "urn": "ACoAABHofaIBMF4DBiy8Ppk9v6cnBFBx5VYAZDo",
+          "publicIdentifier": "louiskchan"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 22316635,
+          "name": "DEO: The Dentist Entrepreneur Organization",
+          "publicIdentifier": "deodentalgroup",
+          "url": "https://www.linkedin.com/company/deodentalgroup/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Arini (YC W24) is an AI receptionist for dental clinics that answers phone calls, and schedules appointments. \n\nToday's dental front desks are often stretched too thin, spending most of their time on the phone, yet still missing 35% of calls. Missed calls = missed revenue. Arini answers 100% of calls, 24/7.\n\nFounders Abdulrahman Jamjoom and Rami Rustom met in high school in Jordan and co-founded a startup together two years ago. Computer science grads from Harvard and MIT respectively, they eventually worked together at Threads, an enterprise communication tool, where they led the AI team automating customer support, document feedback, notification triaging, and more.\n\nAfter going door-to-door to dentists, shadowing them, and directly observing the challenges they encountered, they learned that the front desk was a critical bottleneck in increasing bookings, despite dentists in the US spending $7 billion annually on front desk staffing.\n\nWith Arini, they're helping practices increase revenue by booking more appointments, while also helping them reduce their operating costs.\n\nLearn more at https://lnkd.in/gVQ65Ead and sign up for a demo at https://www.arini.ai.\n\nCongrats Abdul and Rami on the launch!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7171520013315588096/",
+        "shareUrl": "https://www.linkedin.com/posts/y-combinator_arini-yc-w24-is-an-ai-receptionist-for-activity-7171520013315588096-e9lW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2024-03-07 15:00:11.573 +0000 UTC",
+        "postedDateTimestamp": 1709823611573,
+        "urn": "7171520013315588096",
+        "author": {},
+        "video": [
+          {
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGO0jNKxMK_Ww/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1709798113174?e=1768586400&v=beta&t=CX0FLajTcSXXoyC3W-8AtKZzH6txHWM9mnU_X-zQJ6k",
+            "poster": "https://media.licdn.com/dms/image/v2/D5605AQGO0jNKxMK_Ww/videocover-high/videocover-high/0/1709798101944?e=1768586400&v=beta&t=o569kf7_2nS9FK9Wp5c1JsYrivkqAV0QZcoF_v4_RGM",
+            "duration": 139633,
+            "thumbnails": null,
+            "video": null
+          }
+        ],
+        "company": {
+          "name": "Y Combinator",
+          "url": "https://www.linkedin.com/school/y-combinator/",
+          "urn": "urn:li:fsd_company:167872",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_200_200/company-logo_200_200/0/1673555093250/y_combinator_logo?e=1769644800&v=beta&t=HiVJkdZl-knFwO2T7o9TjBXsLzDm-cfF55F8Bj661V0"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_100_100/company-logo_100_100/0/1673555093250/y_combinator_logo?e=1769644800&v=beta&t=cQdJtP2qKlmu8C3Sfm-FjuFDp9IHwjCyeqrkA3ULbpI"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1769644800&v=beta&t=yesjKTY_XhHcoeBvXa-3Iy_YaUjxKqFxtwKS3TMiiwA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "linkedInVideo",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Excited to share what I've been working on with Abdulrahman Jamjoom. Tell your dentist to sign up at https://arini.ai!",
+      "totalReactionCount": 116,
+      "likeCount": 91,
+      "empathyCount": 11,
+      "praiseCount": 14,
+      "commentsCount": 8,
+      "repostsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7171522327409516544/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_arini-yc-w24-is-an-ai-receptionist-for-activity-7171522327409516544-9Vka?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "1yr",
+      "postedDate": "2024-03-07 15:09:23.296 +0000 UTC",
+      "postedDateTimestamp": 1709824163296,
+      "reposted": true,
+      "urn": "7171522327409516544",
+      "shareUrn": "urn:li:ugcPost:7171522326528815105",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Abdul",
+          "lastName": "Jamjoom",
+          "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+          "publicIdentifier": "abduljamjoom"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Introducing Tailor, customizable AI stitched into threads. \n\nThe wave of consumer AI is some of the most magical tech we've tinkered with in some time. LLMs have made massive leaps in knowledge generation. With Threads being where teams communicate daily, we couldn't resist dreaming about the ways work will change moving forward.\n\nFor it to reach its potential, we knew it had to be so much more than putting a GPT endpoint in our various text boxes. We wanted to have the AI stitched into the fabric of Threads (🥁). \n\nAfter thinking through some new design paradigms, weeks of prompt writing, and working with early testers—we’re excited to share the first 4 T(ai)lor-enabled behaviors already being rolled out to active members on Threads.\n\nTo see them in action, check out our announcement thread at https://lnkd.in/gnUwkS9x or threads.com/ai. \n\nToo many people to tag but shout-out to Abdulrahman, Rami, and Mehdi for bringing this to life, Mark for his leadership in the space, Tim & Rosalee for the amazing brand direction, Christopher for the unbelievable new UI flows that really help Tailor fit in, and for the rest of the Threads team for helping us polish, iterate, and refine our thinking. \n\nThe only thing cooler than all of the AI developments happening right now are the team members I get to work with.",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7037150050350764032/",
+        "shareUrl": "https://www.linkedin.com/posts/rousseaukazi_introducing-tailor-customizable-ai-stitched-activity-7037150050350764032-QPY7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2023-03-02 20:01:55.929 +0000 UTC",
+        "postedDateTimestamp": 1677787315929,
+        "urn": "7037150050350764032",
+        "author": {
+          "firstName": "Rousseau",
+          "lastName": "Kazi",
+          "headline": "Product at Shopify",
+          "username": "rousseaukazi",
+          "url": "https://www.linkedin.com/in/rousseaukazi",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHJiSwb8qsQcg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730473903776?e=1769644800&v=beta&t=9vXESZHly_D3unNRpBaTQNvANLk3Mva9WLS1iVr6XXw"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHJiSwb8qsQcg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730473903776?e=1769644800&v=beta&t=mYCwbQvxBxxVAU3fBZqV1SOriSxHkC2ghDwWNeOEV48"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHJiSwb8qsQcg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730473903776?e=1769644800&v=beta&t=6T3DIuAc04mrkGJGEum71nIbSswwUer_8DdxM00Vuiw"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQHJiSwb8qsQcg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730473903778?e=1769644800&v=beta&t=Ou7SMBwjNzhp5qvvs9MtMQlQ0Dg273LegzmtRo2ZtIQ"
+            }
+          ]
+        },
+        "video": [
+          {
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGlQKwbPeb0JQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1677787308763?e=1768586400&v=beta&t=anY2ka-QeMca5BFeG5lQ-zBQs0ZFK133dnPKUJqsPB4",
+            "poster": "https://media.licdn.com/dms/image/v2/D5605AQGlQKwbPeb0JQ/videocover-high/videocover-high/0/1677787281557?e=1768586400&v=beta&t=HuFpW91WoxYnsgs6crsSL1uy5dC0dUGM-lBmx66FO-I",
+            "duration": 28533,
+            "thumbnails": null,
+            "video": null
+          }
+        ],
+        "company": {},
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "linkedInVideo",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "",
+      "totalReactionCount": 11,
+      "likeCount": 8,
+      "praiseCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7037152124635348992/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_introducing-tailor-customizable-ai-stitched-activity-7037152124635348992-zopb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "2yr",
+      "postedDate": "2023-03-02 20:10:10.477 +0000 UTC",
+      "postedDateTimestamp": 1677787810477,
+      "reposted": true,
+      "urn": "7037152124635348992",
+      "shareUrn": "urn:li:ugcPost:7037152124169805824",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Check MIT SciTech 2019 on Wamda ومضة !\nhttps://lnkd.in/eQ8G9NR\n\n#Inspire #IDEAte #Impact\n#SciTech2019",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6514704364177801216/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_mit-scitech-2019-activity-6514704364177801216-M9HW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-03-22 03:49:17.774 +0000 UTC",
+        "postedDateTimestamp": 1553226557774,
+        "urn": "6514704364177801216",
+        "author": {},
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "article",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Only 1 month left until the MIT SciTech Conference! \n\nYou can find tickets here: tinyurl.com/scitech-2019\n\nMessage me if you’re interested in a special promo code!",
+      "totalReactionCount": 10,
+      "likeCount": 10,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6514710956726112256/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_mit-scitech-2019-activity-6514710956726112256-rShM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-03-22 04:15:29.56 +0000 UTC",
+      "postedDateTimestamp": 1553228129560,
+      "reposted": true,
+      "urn": "6514710956726112256",
+      "shareUrn": "6514710956327657472",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 35474539,
+          "name": "MIT Arab Science and Technology Conference",
+          "publicIdentifier": "mitscitech",
+          "url": "https://www.linkedin.com/company/mitscitech/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Kalshi is a platform where people can bet on anything. The markets proposed can be on topics like “Will Brexit happen by the end of the month?” or “Will Lionel Messi be the top scorer in the league this year?”. Kalshi is not the regular sports book or casino: people do not bet against the house, they bet (or trade) against each other with the odds they agree to. The power of the platform resides in its ability to gauge the “wisdom of the crowds” on virtually any topic: in a way, it is a generalization of the stock market.\n\nWebsite: http://www.kalshi.com/\n\n#startups #ycombinator #investments #venturecapital #YC\n\nY Combinator Luana Lopes Lara Tarek Mansour\n\nSanjay Mehta Hershel Mehta, CPA\n\nMehta Ventures Family Office Investments",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6513550540457238528/",
+        "shareUrl": "https://www.linkedin.com/posts/vazzup_startups-ycombinator-investments-activity-6513550540457238528-8rkA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-03-18 23:24:24.762 +0000 UTC",
+        "postedDateTimestamp": 1552951464762,
+        "urn": "6513550540457238528",
+        "author": {
+          "firstName": "Vatsal",
+          "lastName": "Kanakiya",
+          "headline": "Independent Consultant",
+          "username": "vazzup",
+          "url": "https://www.linkedin.com/in/vazzup",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFuaBCvHOaoDw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718273131901?e=1769644800&v=beta&t=ILt0eevLtXqqzCFie8wAGG1ujhV6OsOyyZb7XVf6WZM"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFuaBCvHOaoDw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718269428889?e=1769644800&v=beta&t=8qfj3T1PcjlIA8MSIm5pZFbY3OQXM0KwZDh--B7jIMQ"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFuaBCvHOaoDw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718256053321?e=1769644800&v=beta&t=pgQ9GG_445-3kWxSVdfiCfKlIbBVm5K3gTq3MFsFPjo"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/D5603AQFuaBCvHOaoDw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718273160729?e=1769644800&v=beta&t=Qbmd0q4qM81-mZKu9C6W9EyJm_TxHKKG6qjKEuCnq6w"
+            }
+          ]
+        },
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_1280/feedshare-shrink_1280/0/1552951463807?e=1769644800&v=beta&t=oETQOX_oV4swtqxyGbgTjYG4smb1GsMZiHhAoGwnwVk",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_480/feedshare-shrink_480/0/1552951462685?e=1769644800&v=beta&t=t7l9GYKgx4wgtOZDMdh56ee-xkWM9uMXId4X7q7XDek",
+            "width": 480,
+            "height": 270
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_160/feedshare-shrink_160/0/1552951462966?e=1769644800&v=beta&t=t-4lM8lpngmFdoENbnIH-Ailt93-LkMmF0Pbr07n7_s",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_800/feedshare-shrink_800/0/1552951463671?e=1769644800&v=beta&t=4EZf0jJjX3KDRXzJsZoN1WZh9sjo816JvH0VCUw9O5o",
+            "width": 800,
+            "height": 450
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_8192/feedshare-shrink_8192/0/1552951462819?e=1769644800&v=beta&t=-3Muao5eTqfiL_wc1BXwzOvJW7dISCjNtT6pzO_fxq4",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_1280/feedshare-shrink_1280/0/1552951463807?e=1769644800&v=beta&t=oETQOX_oV4swtqxyGbgTjYG4smb1GsMZiHhAoGwnwVk",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_480/feedshare-shrink_480/0/1552951462685?e=1769644800&v=beta&t=t7l9GYKgx4wgtOZDMdh56ee-xkWM9uMXId4X7q7XDek",
+              "width": 480,
+              "height": 270
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_160/feedshare-shrink_160/0/1552951462966?e=1769644800&v=beta&t=t-4lM8lpngmFdoENbnIH-Ailt93-LkMmF0Pbr07n7_s",
+              "width": 160,
+              "height": 90
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_800/feedshare-shrink_800/0/1552951463671?e=1769644800&v=beta&t=4EZf0jJjX3KDRXzJsZoN1WZh9sjo816JvH0VCUw9O5o",
+              "width": 800,
+              "height": 450
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C5122AQGQlcbxoR6Jtg/feedshare-shrink_8192/feedshare-shrink_8192/0/1552951462819?e=1769644800&v=beta&t=-3Muao5eTqfiL_wc1BXwzOvJW7dISCjNtT6pzO_fxq4",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        ],
+        "company": {},
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Check out Kalshi’s pitch by Tarek Mansour!",
+      "totalReactionCount": 6,
+      "likeCount": 6,
+      "commentsCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6514647449599045632/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_startups-ycombinator-investments-activity-6514647449599045632-TNou?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-03-22 00:03:08.281 +0000 UTC",
+      "postedDateTimestamp": 1553212988281,
+      "reposted": true,
+      "urn": "6514647449599045632",
+      "shareUrn": "6514647449175416832",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Tarek",
+          "lastName": "Mansour",
+          "urn": "ACoAABQKUOsB6T0gk29fshkvpMSpcyQbdE_wJao",
+          "publicIdentifier": "mansourtarek"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "SciTech is the annual conference organized by the MIT Arab Student Organization to expose, and engage with, the growing technological and scientific innovation in the MENA region.\n\nThe conference will be hosted at the MIT Samberg Conference Center on April 19-21. You can find more information (book your tickets!) on our website: http://scitech.mit.edu\n\nStay tuned as we release this year's speakers every week!\n\n-----------------------------\n\nOla Doudin is cofounder of BitOasis, a bitcoin consumer wallet and instant exchange focused on cash-based emerging markets. BitOasis aims to change the way people transact and send money by making it easy and secure to use bitcoin. Ola is also co-founder of Yellow, a bitcoin payment processor, and currently serves as an advisor. She holds a BEng in Electronic Engineering from University of Birmingham and previously worked in IT Advisory for financial institutions at Ernst & Young London.\n\nBook your tickets now to hear Ola speak at SciTech 2019. See you in April!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6505885306342961152/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech-is-the-annual-conference-organized-activity-6505885306342961152-nx37?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-02-25 19:45:30.536 +0000 UTC",
+        "postedDateTimestamp": 1551123930536,
+        "urn": "6505885306342961152",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_1280/feedshare-shrink_1280/0/1551123928913?e=1769644800&v=beta&t=TFDATngByr83C4YOuChUgbPHF9vkO3VwjsR81WZuJrg",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_480/feedshare-shrink_480/0/1551123929726?e=1769644800&v=beta&t=TNXZJFvhwxIiCExo3oOBuTA1GrWRGTGIobcQefxCnIk",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_160/feedshare-shrink_160/0/1551123928839?e=1769644800&v=beta&t=gNyLwEC3QGsKqAX3LQH7r5z_dyE0AiJ2XwHe2fX-4LA",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_800/feedshare-shrink_800/0/1551123929229?e=1769644800&v=beta&t=A7d5fCWrNtcTLXL3h_EpDrKMWHJk2k6ArABdS3l3jgg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_8192/feedshare-shrink_8192/0/1551123928945?e=1769644800&v=beta&t=k5Kwpkbo_uiL4_sZny3eHLWwB1Ty1JZYuL6ctj5hPd4",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_1280/feedshare-shrink_1280/0/1551123928913?e=1769644800&v=beta&t=TFDATngByr83C4YOuChUgbPHF9vkO3VwjsR81WZuJrg",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_480/feedshare-shrink_480/0/1551123929726?e=1769644800&v=beta&t=TNXZJFvhwxIiCExo3oOBuTA1GrWRGTGIobcQefxCnIk",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_160/feedshare-shrink_160/0/1551123928839?e=1769644800&v=beta&t=gNyLwEC3QGsKqAX3LQH7r5z_dyE0AiJ2XwHe2fX-4LA",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_800/feedshare-shrink_800/0/1551123929229?e=1769644800&v=beta&t=A7d5fCWrNtcTLXL3h_EpDrKMWHJk2k6ArABdS3l3jgg",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQEZ_8lN9RQKvg/feedshare-shrink_8192/feedshare-shrink_8192/0/1551123928945?e=1769644800&v=beta&t=k5Kwpkbo_uiL4_sZny3eHLWwB1Ty1JZYuL6ctj5hPd4",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "#scitech2019\nMassachusetts Institute of Technology",
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6505900390318424065/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech-is-the-annual-conference-organized-activity-6505900390318424065-T7RM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-02-25 20:45:26.836 +0000 UTC",
+      "postedDateTimestamp": 1551127526836,
+      "reposted": true,
+      "urn": "6505900390318424065",
+      "shareUrn": "6505900389953523712",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 1503,
+          "name": "Massachusetts Institute of Technology",
+          "publicIdentifier": "https:www.linkedin.comschoolmit",
+          "url": "https://www.linkedin.com/school/mit/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "SciTech is the annual conference organized by the MIT Arab Student Organization to expose, and engage with, the growing technological and scientific innovation in the MENA region.\n\nThe conference will be hosted at the MIT Samberg Conference Center on April 19-21. You can find more information (book your tickets!) on our website: http://scitech.mit.edu\n\nStay tuned as we release this year's speakers every week!\n\n-----------------------------\n\nYazan B. has over 9 years of financial services experience at top management consultancies such as Oliver Wyman and Deloitte. In 2017, he founded Jibrel, a blockchain and smart contract development company aimed at leveraging distributed ledger technology to build the financial networks of the future.\n\nBook your tickets now to hear Yazan speak at SciTech 2019. See you in April!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6505885725655920640/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech-is-the-annual-conference-organized-activity-6505885725655920640-oif5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-02-25 19:47:10.508 +0000 UTC",
+        "postedDateTimestamp": 1551124030508,
+        "urn": "6505885725655920640",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_1280/feedshare-shrink_1280/0/1551124028965?e=1769644800&v=beta&t=7AJe3kbHS7Fgp_flC9MkgXeXldzfiJG4Ssklca5mnDs",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_480/feedshare-shrink_480/0/1551124029017?e=1769644800&v=beta&t=FksDDBlaw6GDmftWlAWviMDoLOVUgsbhHYysi3YEWEw",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_160/feedshare-shrink_160/0/1551124028930?e=1769644800&v=beta&t=bXKPia0qOBlC2sc1aSV-EbGJRCly9idxr1Hn27yJyTQ",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_800/feedshare-shrink_800/0/1551124029113?e=1769644800&v=beta&t=bT_Xq8xQTbCySzDtNwPMTdm_UKGHoXD-LAtonAVbPog",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_8192/feedshare-shrink_8192/0/1551124029084?e=1769644800&v=beta&t=15zh6enK6jPr2X2MkBG-vUK-AltM7DHpvNouMDRZLsQ",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_1280/feedshare-shrink_1280/0/1551124028965?e=1769644800&v=beta&t=7AJe3kbHS7Fgp_flC9MkgXeXldzfiJG4Ssklca5mnDs",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_480/feedshare-shrink_480/0/1551124029017?e=1769644800&v=beta&t=FksDDBlaw6GDmftWlAWviMDoLOVUgsbhHYysi3YEWEw",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_160/feedshare-shrink_160/0/1551124028930?e=1769644800&v=beta&t=bXKPia0qOBlC2sc1aSV-EbGJRCly9idxr1Hn27yJyTQ",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_800/feedshare-shrink_800/0/1551124029113?e=1769644800&v=beta&t=bT_Xq8xQTbCySzDtNwPMTdm_UKGHoXD-LAtonAVbPog",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQHeMv2TLleTzg/feedshare-shrink_8192/feedshare-shrink_8192/0/1551124029084?e=1769644800&v=beta&t=15zh6enK6jPr2X2MkBG-vUK-AltM7DHpvNouMDRZLsQ",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "#scitech2019\nMassachusetts Institute of Technology",
+      "totalReactionCount": 2,
+      "likeCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6505900310005895169/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech-is-the-annual-conference-organized-activity-6505900310005895169-tHc4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-02-25 20:45:07.688 +0000 UTC",
+      "postedDateTimestamp": 1551127507688,
+      "reposted": true,
+      "urn": "6505900310005895169",
+      "shareUrn": "6505900309515157504",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 1503,
+          "name": "Massachusetts Institute of Technology",
+          "publicIdentifier": "https:www.linkedin.comschoolmit",
+          "url": "https://www.linkedin.com/school/mit/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "SciTech is the annual conference organized by the MIT Arab Student Organization to expose, and engage with, the growing technological and scientific innovation in the MENA region.\n\nThe conference will be hosted at the MIT Samberg Conference Center on April 19-21. You can find more information (book your tickets!) on our website: http://scitech.mit.edu\n\nStay tuned as we release this year's speakers every week!\n\n-----------------------------\n\nKarim Elgendy is the founder and coordinator of Carboun, an advocacy initiative promoting sustainability in Middle Eastern cities with an online publication, the Carboun Journal. Karim’s project and research interests include developing sustainable, resilient, and smart cities, and assessing the role of policy, urban planning, building design, and urban mobility in reducing the impact of cities on resources and the environment. Over the past two decades he has helped create sustainable buildings and urban environments across four continents, and has advised design and engineering practices, management consultancies, and think tanks.\n\nBook your tickets now to hear Karim speak at SciTech 2019. See you in April!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6505886191882170368/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech-is-the-annual-conference-organized-activity-6505886191882170368-KrQF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-02-25 19:49:01.665 +0000 UTC",
+        "postedDateTimestamp": 1551124141665,
+        "urn": "6505886191882170368",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_1280/feedshare-shrink_1280/0/1551124140203?e=1769644800&v=beta&t=KSsMk9rZC-PR0hUV7nSqc43T0NVR9h6dgOHkyn2Zz5w",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_480/feedshare-shrink_480/0/1551124140099?e=1769644800&v=beta&t=auyIhf-KM-UeGjEu3AxJSnWDDaJon5l4fUt9WaT53fk",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_160/feedshare-shrink_160/0/1551124139932?e=1769644800&v=beta&t=_2bJVoYLtJTLwGTcgj3NYMT02kkg8FkztqXaLYjo2GQ",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_800/feedshare-shrink_800/0/1551124140317?e=1769644800&v=beta&t=xJwEHQsT0tsHNPrXTIvIW0n-ODZ-3UJP0HKel5Pn3F4",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_8192/feedshare-shrink_8192/0/1551124140092?e=1769644800&v=beta&t=I1YONT0LM1Xa9Jnj3O43jiZiqh0-LcDnYCU2Wg2iypk",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_1280/feedshare-shrink_1280/0/1551124140203?e=1769644800&v=beta&t=KSsMk9rZC-PR0hUV7nSqc43T0NVR9h6dgOHkyn2Zz5w",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_480/feedshare-shrink_480/0/1551124140099?e=1769644800&v=beta&t=auyIhf-KM-UeGjEu3AxJSnWDDaJon5l4fUt9WaT53fk",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_160/feedshare-shrink_160/0/1551124139932?e=1769644800&v=beta&t=_2bJVoYLtJTLwGTcgj3NYMT02kkg8FkztqXaLYjo2GQ",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_800/feedshare-shrink_800/0/1551124140317?e=1769644800&v=beta&t=xJwEHQsT0tsHNPrXTIvIW0n-ODZ-3UJP0HKel5Pn3F4",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGPb8Tuwrz-Ew/feedshare-shrink_8192/feedshare-shrink_8192/0/1551124140092?e=1769644800&v=beta&t=I1YONT0LM1Xa9Jnj3O43jiZiqh0-LcDnYCU2Wg2iypk",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "#scitech2019\nMassachusetts Institute of Technology",
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6505900224161083392/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech-is-the-annual-conference-organized-activity-6505900224161083392-Zggx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-02-25 20:44:47.221 +0000 UTC",
+      "postedDateTimestamp": 1551127487221,
+      "reposted": true,
+      "urn": "6505900224161083392",
+      "shareUrn": "6505900223854891008",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 1503,
+          "name": "Massachusetts Institute of Technology",
+          "publicIdentifier": "https:www.linkedin.comschoolmit",
+          "url": "https://www.linkedin.com/school/mit/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "For the first time ever, the MIT SciTech 2019 Conference is introducing the SciTech IDEAthon Competition!\n\nThe theme of this year's conference is \"Envisioning the Future: Cities of MENA,\" with a focus on the future of Energy, Infrastructure, and Innovation in cities across the MENA region.\n\nIf you are interested in solving problems in cities in the MENA region, then join the IDEAthon competition, and pitch your solution in front of our world-renowned judges for a chance to win!\nWe are looking for:\n- students\n- engineers\n- designers\n- innovators\nto join us in coming up with the boldest and most impactful ideas to change the cities of the MENA region.\n\nThe IDEAthon is part of the larger SciTech Conference - you can choose to participate in the conference, the IDEAthon, or both.\n\nTicket sales will begin soon! So stay tuned!\n\nFor questions, feel free to reach out to scitech@mit.edu\n#SciTech2019",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6496416502059720704/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech2019-activity-6496416502059720704-r3Ue?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-01-30 16:39:51.673 +0000 UTC",
+        "postedDateTimestamp": 1548866391673,
+        "urn": "6496416502059720704",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1548866390329?e=1769644800&v=beta&t=6zXK7jr6ZERF6U1N_CD4Ma4XXs844m_g6Z8qRBvJBhY",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_480/feedshare-shrink_480/0/1548866390374?e=1769644800&v=beta&t=PSEMmRXkt-qqqHlW0zkrt_Vs5y_s3vcpIVm-3vpmFAE",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_160/feedshare-shrink_160/0/1548866390141?e=1769644800&v=beta&t=iCK0tlrihcwfqzqU-x-_B49PhunpzrAuWzwNv8uCBLA",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_800/feedshare-shrink_800/0/1548866390683?e=1769644800&v=beta&t=kA_b-I_DwmCg1UiZKgEgoD7NjHeQVEBZkYUJHMrRzg4",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_8192/feedshare-shrink_8192/0/1548866390371?e=1769644800&v=beta&t=nTtBv3VDtMRe-k3tglIe7F4NwN-463GtTlj7e2RtFWI",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1548866390329?e=1769644800&v=beta&t=6zXK7jr6ZERF6U1N_CD4Ma4XXs844m_g6Z8qRBvJBhY",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_480/feedshare-shrink_480/0/1548866390374?e=1769644800&v=beta&t=PSEMmRXkt-qqqHlW0zkrt_Vs5y_s3vcpIVm-3vpmFAE",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_160/feedshare-shrink_160/0/1548866390141?e=1769644800&v=beta&t=iCK0tlrihcwfqzqU-x-_B49PhunpzrAuWzwNv8uCBLA",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_800/feedshare-shrink_800/0/1548866390683?e=1769644800&v=beta&t=kA_b-I_DwmCg1UiZKgEgoD7NjHeQVEBZkYUJHMrRzg4",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGY5wIMK6W48Q/feedshare-shrink_8192/feedshare-shrink_8192/0/1548866390371?e=1769644800&v=beta&t=nTtBv3VDtMRe-k3tglIe7F4NwN-463GtTlj7e2RtFWI",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "#scitech #MIT",
+      "totalReactionCount": 6,
+      "likeCount": 6,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6496449071954345984/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech2019-activity-6496449071954345984-8Kjt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-01-30 18:49:16.941 +0000 UTC",
+      "postedDateTimestamp": 1548874156941,
+      "reposted": true,
+      "urn": "6496449071954345984",
+      "shareUrn": "6496449071509753857",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "SciTech 2019 is looking for mentors!\n\nFor the first time ever, we will be introducing the SciTech IDEAthon: a competition, where participants team up, and pitch their solutions to problems related to this year's theme: “Envisioning the Future: Cities of MENA.”\n\nAttendees who choose to participate in the IDEAthon will be divided along each topic - Energy, Innovation, and Infrastructure - and will work in teams to present their ideas to our judges on the last day for the chance to win prizes.\n\nIf you have experience with:\n- startups\n- technology\n- innovation\nThen join us as a mentor, and help teams prepare and pitch their ideas!\n\nContact scitech@mit.edu if you are interested in mentoring.\n#SciTech2019",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6491768307677429760/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech2019-activity-6491768307677429760-PGIU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-01-17 20:49:35.773 +0000 UTC",
+        "postedDateTimestamp": 1547758175773,
+        "urn": "6491768307677429760",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1573478190754?e=1769644800&v=beta&t=P0l_lcNDghQSCNZ4EjYZuGqrc0D2sYo6M1I4YJKe1fA",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_20/feedshare-shrink_20/0/1573478190754?e=1769644800&v=beta&t=8tJTOqIQqaPvG9s1apyKAvjzEn-gstnw-_2HuA_6pXI",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_1280/feedshare-shrink_1280/0/1573478190754?e=1769644800&v=beta&t=3o0yS9KiDiYU9j3gWq3pxj6Hray3-UtWJ_ogF5s2QcA",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_480/feedshare-shrink_480/0/1573478190754?e=1769644800&v=beta&t=Brv5UBYj7ioLaNUl0OGK2-fX-ZU0Ui6_w0qPPgA6EIU",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_160/feedshare-shrink_160/0/1573478190754?e=1769644800&v=beta&t=DjsfVjBmNnGne75uEFmgil-ps5BwaivQ-uMeTM7XDOo",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_800/feedshare-shrink_800/0/1573478190754?e=1769644800&v=beta&t=7s4O74c95vGzYccX9isY9ditbEPqAcLe1ICh-spMkTg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_8192/feedshare-shrink_8192/0/1573478190754?e=1769644800&v=beta&t=qeTH-bUf8PsP9HQ34kyTzaEM_F5rlQulWoC4IJs_SWc",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1573478190754?e=1769644800&v=beta&t=P0l_lcNDghQSCNZ4EjYZuGqrc0D2sYo6M1I4YJKe1fA",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_20/feedshare-shrink_20/0/1573478190754?e=1769644800&v=beta&t=8tJTOqIQqaPvG9s1apyKAvjzEn-gstnw-_2HuA_6pXI",
+              "width": 20,
+              "height": 20
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_1280/feedshare-shrink_1280/0/1573478190754?e=1769644800&v=beta&t=3o0yS9KiDiYU9j3gWq3pxj6Hray3-UtWJ_ogF5s2QcA",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_480/feedshare-shrink_480/0/1573478190754?e=1769644800&v=beta&t=Brv5UBYj7ioLaNUl0OGK2-fX-ZU0Ui6_w0qPPgA6EIU",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_160/feedshare-shrink_160/0/1573478190754?e=1769644800&v=beta&t=DjsfVjBmNnGne75uEFmgil-ps5BwaivQ-uMeTM7XDOo",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_800/feedshare-shrink_800/0/1573478190754?e=1769644800&v=beta&t=7s4O74c95vGzYccX9isY9ditbEPqAcLe1ICh-spMkTg",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGoOpbrateWdg/feedshare-shrink_8192/feedshare-shrink_8192/0/1573478190754?e=1769644800&v=beta&t=qeTH-bUf8PsP9HQ34kyTzaEM_F5rlQulWoC4IJs_SWc",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "",
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6491775141465325568/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech2019-activity-6491775141465325568-jaGK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-01-17 21:16:45.075 +0000 UTC",
+      "postedDateTimestamp": 1547759805075,
+      "reposted": true,
+      "urn": "6491775141465325568",
+      "shareUrn": "6491775141230444544",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "SciTech 2019 is looking for exhibitors!\n\nIf you are looking to:\n- show off your work\n- demo your tech\n- recruit top talent\n- network with top innovators\n\nThen join the MIT SciTech 2019 Exhibition!\nThe SciTech Exhibition was launched last year, and it is a great opportunity to showcase the work your startup/company/lab/research group is doing to audiences from all over the world.\n\nThis year's theme is “Envisioning the Future: Cities of MENA,” and we're looking for exhibitioners within the topics of Energy, Innovation, and Infrastructure who are revolutionizing cities in the Middle East.\n\nThis year's Exhibition will also include a resume drop, opening the doors for all exhibitioners to talent from top universities, including MIT.\n\nA place at the exhibition is included for all our partner companies. If you are interested in becoming a partner, then contact: scitech-exec@mit.edu\n\nIf you are interested in joining the exhibition, then email scitech@mit.edu.\n\nSee you in April!\n#SciTech2019",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6491768183895138304/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech2019-activity-6491768183895138304-SadZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-01-17 20:49:06.261 +0000 UTC",
+        "postedDateTimestamp": 1547758146261,
+        "urn": "6491768183895138304",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1573882779911?e=1769644800&v=beta&t=F7j2GncvtiRVS-syJ7LGU-hMt8Vu78Z41pNQRYW9SG4",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_20/feedshare-shrink_20/0/1573882779911?e=1769644800&v=beta&t=5NDO0vxvU_jsuDZ1XhheioJ5HNTAppxwUZrzyjl5Yuw",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_1280/feedshare-shrink_1280/0/1573882779911?e=1769644800&v=beta&t=fUVAUSruguDuiCtzzFTKMrU2lDbLDJgGvThW7QhD-1E",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_480/feedshare-shrink_480/0/1573882779911?e=1769644800&v=beta&t=fbGxYLHwAD-btPFx8yyZErc-WeYIEAU1pXIuvzCyJ5s",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_160/feedshare-shrink_160/0/1573882779911?e=1769644800&v=beta&t=RRhcme0JSVAPovnJfvY-mb9xqkQjImgVGTSPFPuGDpk",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_800/feedshare-shrink_800/0/1573882779911?e=1769644800&v=beta&t=rj2dzJVLCZR-GKNU5ywIhmgUkGMJ1mCjWX4svGmBteQ",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_8192/feedshare-shrink_8192/0/1573882779911?e=1769644800&v=beta&t=6QRvWq2746Tc_k5CoJZM7CdNPWte0cCNarYTqLBect0",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1573882779911?e=1769644800&v=beta&t=F7j2GncvtiRVS-syJ7LGU-hMt8Vu78Z41pNQRYW9SG4",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_20/feedshare-shrink_20/0/1573882779911?e=1769644800&v=beta&t=5NDO0vxvU_jsuDZ1XhheioJ5HNTAppxwUZrzyjl5Yuw",
+              "width": 20,
+              "height": 20
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_1280/feedshare-shrink_1280/0/1573882779911?e=1769644800&v=beta&t=fUVAUSruguDuiCtzzFTKMrU2lDbLDJgGvThW7QhD-1E",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_480/feedshare-shrink_480/0/1573882779911?e=1769644800&v=beta&t=fbGxYLHwAD-btPFx8yyZErc-WeYIEAU1pXIuvzCyJ5s",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_160/feedshare-shrink_160/0/1573882779911?e=1769644800&v=beta&t=RRhcme0JSVAPovnJfvY-mb9xqkQjImgVGTSPFPuGDpk",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_800/feedshare-shrink_800/0/1573882779911?e=1769644800&v=beta&t=rj2dzJVLCZR-GKNU5ywIhmgUkGMJ1mCjWX4svGmBteQ",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQHOEEFhDoIbKA/feedshare-shrink_8192/feedshare-shrink_8192/0/1573882779911?e=1769644800&v=beta&t=6QRvWq2746Tc_k5CoJZM7CdNPWte0cCNarYTqLBect0",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "",
+      "totalReactionCount": 1,
+      "likeCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6491775119365537792/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech2019-activity-6491775119365537792-jBGJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-01-17 21:16:39.806 +0000 UTC",
+      "postedDateTimestamp": 1547759799806,
+      "reposted": true,
+      "urn": "6491775119365537792",
+      "shareUrn": "6491775119059349504",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "SciTech 2019 is looking for sponsors!\n\nWhether you are a startup or multinational corporation, the MIT SciTech 2019 Conference is looking for sponsors, partners, and media partners to help make this year's conference a success.\n\nThis year's theme is “Envisioning the Future: Cities of MENA.” Within the topics of Energy, Innovation, and Infrastructure, we'll be exploring the problems, perspectives, and potential solutions that will revolutionize the cities of the Middle East.\n\nFor the first time ever, we will also be introducing the SciTech IDEAthon - a competition, interleaved with the rest of the conference, where participants focus on pitching ideas and potential solutions within the theme. Attendees who choose to participate in the IDEAthon will be divided along each topic - Energy, Innovation, and Infrastructure - and will work in teams to present their ideas to our judges on the last day for the chance to win prizes.\n\nThere are many opportunities to get involved, and in any capacity, you are enabling these conversations, connections, and ideas - between MIT, and the Arab World.\n\nIf you are interested in becoming a partner, then contact: scitech-exec@mit.edu\n#SciTech2019",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6491767932811505664/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech2019-activity-6491767932811505664-h9nG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2019-01-17 20:48:06.398 +0000 UTC",
+        "postedDateTimestamp": 1547758086398,
+        "urn": "6491767932811505664",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1573505466030?e=1769644800&v=beta&t=KA__LeydJWBXEyE6WYwQApwPyp7Q_XEGyVb4S5ppnoQ",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_20/feedshare-shrink_20/0/1573505466030?e=1769644800&v=beta&t=5O9JnLg_-rEp6gQr3zWHvCJH8aGZqV9wzudtd49AenE",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_1280/feedshare-shrink_1280/0/1573505466030?e=1769644800&v=beta&t=5U5UqEB-hBQIIE1BAwKn_wMsiMP-pt8uKefw08Jiyis",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_480/feedshare-shrink_480/0/1573505466030?e=1769644800&v=beta&t=gAfiiRc1VPZobzUvxCaCHb_tTAIhhGT_bhn36CDlemI",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_160/feedshare-shrink_160/0/1573505466030?e=1769644800&v=beta&t=3cF3x_GQFlRgptgcW1o64shlr1MzyeFRTRxhJUK8c48",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_800/feedshare-shrink_800/0/1573505466030?e=1769644800&v=beta&t=GgLj01jPpcYjO0pqrRwrHjvTxCSy-Qt2RJSHhKcGWU0",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_8192/feedshare-shrink_8192/0/1573505466031?e=1769644800&v=beta&t=cdEcaqwb4tp_RpiQ-gd9iyNURuxPIkTWi02xYRZWTck",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1573505466030?e=1769644800&v=beta&t=KA__LeydJWBXEyE6WYwQApwPyp7Q_XEGyVb4S5ppnoQ",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_20/feedshare-shrink_20/0/1573505466030?e=1769644800&v=beta&t=5O9JnLg_-rEp6gQr3zWHvCJH8aGZqV9wzudtd49AenE",
+              "width": 20,
+              "height": 20
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_1280/feedshare-shrink_1280/0/1573505466030?e=1769644800&v=beta&t=5U5UqEB-hBQIIE1BAwKn_wMsiMP-pt8uKefw08Jiyis",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_480/feedshare-shrink_480/0/1573505466030?e=1769644800&v=beta&t=gAfiiRc1VPZobzUvxCaCHb_tTAIhhGT_bhn36CDlemI",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_160/feedshare-shrink_160/0/1573505466030?e=1769644800&v=beta&t=3cF3x_GQFlRgptgcW1o64shlr1MzyeFRTRxhJUK8c48",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_800/feedshare-shrink_800/0/1573505466030?e=1769644800&v=beta&t=GgLj01jPpcYjO0pqrRwrHjvTxCSy-Qt2RJSHhKcGWU0",
+              "width": 800,
+              "height": 800
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4D22AQGs7lEHztEUgA/feedshare-shrink_8192/feedshare-shrink_8192/0/1573505466031?e=1769644800&v=beta&t=cdEcaqwb4tp_RpiQ-gd9iyNURuxPIkTWi02xYRZWTck",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "",
+      "totalReactionCount": 5,
+      "likeCount": 5,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6491775098373050368/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech2019-activity-6491775098373050368-zmUl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "6yr",
+      "postedDate": "2019-01-17 21:16:34.801 +0000 UTC",
+      "postedDateTimestamp": 1547759794801,
+      "reposted": true,
+      "urn": "6491775098373050368",
+      "shareUrn": "6491775098045898752",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Hello everyone! SciTech is still a few months away, but we wanted to share the 3 topics that were chosen as part of our theme of “Envisioning the Future: Cities of MENA.”\n\nIn order to drive the talks, panel discussions, and our inaugural Ideathon, we chose 3 key themes which are crucial to the development of cities in the Middle East. These topics are Innovation, Infrastructure, and Energy. This year's conference will be held on April 20-21, 2019 in Cambridge, Massachusetts.\n\nStay tuned for more details by following this page and visiting our website!\nhttps://lnkd.in/e57e3mq\n\nIn the meantime, here is a recap from last year!\n#SciTech2019",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6477613790841098240/",
+        "shareUrl": "https://www.linkedin.com/posts/mitscitech_scitech2019-activity-6477613790841098240-KrPm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+        "postedDate": "2018-12-09 19:24:35.981 +0000 UTC",
+        "postedDateTimestamp": 1544383475981,
+        "urn": "6477613790841098240",
+        "author": {},
+        "video": [
+          {
+            "url": "https://dms.licdn.com/playlist/vid/v2/C4E05AQHoSHrF7TKNgA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1670374126715?e=1768586400&v=beta&t=bJrl9x9KamAHEfTaGLg7VhzYm-9n8Nj4LGEQWbeNDr4",
+            "poster": "https://media.licdn.com/dms/image/v2/C4E05AQHoSHrF7TKNgA/videocover-high/videocover-high/0/1670374114532?e=1768586400&v=beta&t=32yXjpFuBH4wjKgQb2PO152WXaxzvkoqDh73sSG3zOo",
+            "duration": 101633,
+            "thumbnails": null,
+            "video": null
+          }
+        ],
+        "company": {
+          "name": "MIT Arab Science and Technology Conference",
+          "url": "https://www.linkedin.com/company/mitscitech/",
+          "urn": "urn:li:fsd_company:35474539",
+          "username": "mitscitech",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_200_200/company-logo_200_200/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=X4Xfd8dKc4NbFvkTYmNv1Zpr1C22cETxCNU6WErVZIs"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_100_100/company-logo_100_100/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=mRfDb6fjfBog-2tZ_9Ivg2qPX5gMlm9wCXTKBiTW8gg"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGtYq3Vr2N3Xw/company-logo_400_400/company-logo_400_400/0/1630557268957/mitscitech_logo?e=1769644800&v=beta&t=YxH7nGdaowvU6jNHiw7CjM0tiW_415jIPbFTgIOIslA"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "linkedInVideo",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Get Excited for SCITECH 2019! Get in touch if you are interested in speaking or sponsoring. \n\nSpread the word!\n#SciTech2019",
+      "totalReactionCount": 10,
+      "likeCount": 10,
+      "commentsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6477614674006331392/",
+      "shareUrl": "https://www.linkedin.com/posts/ramirustom_scitech2019-activity-6477614674006331392-Fi-t?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlY8zUBEmzsZE0eBnIKgy0FAReGHaQsJvs",
+      "postedAt": "7yr",
+      "postedDate": "2018-12-09 19:28:06.544 +0000 UTC",
+      "postedDateTimestamp": 1544383686544,
+      "reposted": true,
+      "urn": "6477614674006331392",
+      "shareUrn": "urn:li:ugcPost:6477614673662406656",
+      "author": {
+        "id": 510519007,
+        "firstName": "Rami",
+        "lastName": "Rustom",
+        "headline": "Co-founder at Arini (YC W24) | MIT",
+        "username": "ramirustom",
+        "url": "https://www.linkedin.com/in/ramirustom",
+        "profilePictures": [
+          {
+            "width": 533,
+            "height": 533,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_800_800/B56Za7.f_yGkAc-/0/1746910445828?e=1769644800&v=beta&t=OuF_pCHCWeW3Ye24Qt8jy9jY74KaR7cxHOqYhtvkjkk"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_200_200/B56Za7.f_yGkAY-/0/1746910445828?e=1769644800&v=beta&t=3P72m2qE2YbRL1pYCG6oz3tEIpQ_pkjuMBDV8p2zFB8"
+          },
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_100_100/B56Za7.f_yGkAU-/0/1746910445828?e=1769644800&v=beta&t=zi-OazP7x9_zMZd6CzK9NN49HaDkjzF_XGwwkuSzw0c"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGieCwvntGvJA/profile-displayphoto-shrink_400_400/B56Za7.f_yGkAg-/0/1746910445824?e=1769644800&v=beta&t=KASMXa9JJh1Qgkm5qu7mt6vzzmAZnNeEDAkZxASymVU"
+          }
+        ],
+        "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    }
+  ],
+  "paginationToken": "dXJuOmxpOmFjdGl2aXR5OjY0Nzc2MTQ2NzQwMDYzMzEzOTItMTU0NDM4MzY4NjQ2NA=="
+}

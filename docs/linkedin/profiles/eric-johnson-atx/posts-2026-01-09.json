@@ -1,0 +1,2478 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "isBrandPartnership": false,
+      "text": "Excited to be deploying Arini across Snow Orthodontics locations in SoCal. Dr. Gib Snow is one of the nicest, most genuine guys in dentistry, and it’s an honor to partner with him and his team!\n\nAI + Ortho = the perfect alignment 😉",
+      "totalReactionCount": 70,
+      "likeCount": 60,
+      "empathyCount": 6,
+      "InterestCount": 1,
+      "praiseCount": 3,
+      "commentsCount": 5,
+      "repostsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7374847826654085121/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_excited-to-be-deploying-arini-across-snow-activity-7374847826654085121-ve33?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "3mo",
+      "postedDate": "2025-09-19 16:52:19.921 +0000 UTC",
+      "postedDateTimestamp": 1758300739921,
+      "urn": "7374847826654085121",
+      "shareUrn": "7374847825383387136",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "image": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_20/B56Zli49xwJwA0-/0/1758300738910?e=1769644800&v=beta&t=8lxdW2Zuw3uw-pqFWknc4cihWN80Kqs3c4pCOoRZttE",
+          "width": 20,
+          "height": 27
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_1280/B56Zli49xwJwAs-/0/1758300738910?e=1769644800&v=beta&t=6FYyj_almn-gnoOIrM9AGIDt_i89B_oOvFh8bclq8VA",
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_160/B56Zli49xwJwAc-/0/1758300738910?e=1769644800&v=beta&t=NKs4Y5mE8_cYh_GwB8DjT6NYiLa735GZLZJ9UCEY5iw",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_2048_1536/B56Zli49xwJwAw-/0/1758300738321?e=1769644800&v=beta&t=DZuJdHtpcN4-HbDjKJD3sWBqBDjOIVFFSKI652r7A6s",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_800/B56Zli49xwJwAg-/0/1758300738466?e=1769644800&v=beta&t=SeD6WxecUlfe336x9E1mDpMwanrnhP-Y4aSb6IEPWr8",
+          "width": 800,
+          "height": 1067
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_480/B56Zli49xwJwAY-/0/1758300738466?e=1769644800&v=beta&t=W2TuMBD9I4npFt1JaGgNoUR38hVwL1znsFcslu7J5_4",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "images": [
+        [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_20/B56Zli49xwJwA0-/0/1758300738910?e=1769644800&v=beta&t=8lxdW2Zuw3uw-pqFWknc4cihWN80Kqs3c4pCOoRZttE",
+            "width": 20,
+            "height": 27
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_1280/B56Zli49xwJwAs-/0/1758300738910?e=1769644800&v=beta&t=6FYyj_almn-gnoOIrM9AGIDt_i89B_oOvFh8bclq8VA",
+            "width": 1280,
+            "height": 1707
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_160/B56Zli49xwJwAc-/0/1758300738910?e=1769644800&v=beta&t=NKs4Y5mE8_cYh_GwB8DjT6NYiLa735GZLZJ9UCEY5iw",
+            "width": 160,
+            "height": 213
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_2048_1536/B56Zli49xwJwAw-/0/1758300738321?e=1769644800&v=beta&t=DZuJdHtpcN4-HbDjKJD3sWBqBDjOIVFFSKI652r7A6s",
+            "width": 1152,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_800/B56Zli49xwJwAg-/0/1758300738466?e=1769644800&v=beta&t=SeD6WxecUlfe336x9E1mDpMwanrnhP-Y4aSb6IEPWr8",
+            "width": 800,
+            "height": 1067
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHKZoyDKikeZA/feedshare-shrink_480/B56Zli49xwJwAY-/0/1758300738466?e=1769644800&v=beta&t=W2TuMBD9I4npFt1JaGgNoUR38hVwL1znsFcslu7J5_4",
+            "width": 480,
+            "height": 640
+          }
+        ]
+      ],
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "image",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Gib",
+          "lastName": "Snow",
+          "urn": "ACoAAAJSDGQBs4wjCzi0DwrnT0bawS4ITG94RZA",
+          "publicIdentifier": "gib-snow-a0405511"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        },
+        {
+          "id": 5764219,
+          "name": "Snow Orthodontics",
+          "publicIdentifier": "snow-orthodontics",
+          "url": "https://www.linkedin.com/company/snow-orthodontics/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "Remember the mid-90s when every business suddenly needed a website? That’s where Voice AI is—right now. \n\nThe phone is still your real front door, and your AI Receptionist will be your door greeter.\n\nWhat our custom AI Receptionists are doing today (no hype, just capability):\n\n📞 Answering calls 24/7 with natural, human-sounding conversations (over 15,000+ daily)\n\n🆕 Booking patient appointments directly in the PMS (~31 month/location)\n\n🎗️ Proactively handling patient follow-ups and re-care reminders\n\n🦷 Opportunity mining patient bases—reactivating overdue patients, recapturing unscheduled treatment, and filling last-minute openings\n\nVoice AI isn’t a “nice to have,” it’s the next website moment. Dental teams that adopt will capture more calls, appointments, and production.\n\nI’m happy to share how Arini is deploying AI Receptionists as an always-on front desk for DSOs and practices (and what to watch out for so it actually works in the real world). \n\nDM me for the playbook.",
+      "totalReactionCount": 49,
+      "likeCount": 44,
+      "empathyCount": 4,
+      "praiseCount": 1,
+      "commentsCount": 2,
+      "repostsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7371725631929147393/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_remember-the-mid-90s-when-every-business-activity-7371725631929147393-ju-X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "3mo",
+      "postedDate": "2025-09-11 02:05:50.691 +0000 UTC",
+      "postedDateTimestamp": 1757556350691,
+      "urn": "7371725631929147393",
+      "shareUrn": "7371725631090405376",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "Lately it feels like every legacy dental tech vendor is announcing their own “AI Receptionist” product. \n\nSounds great—until you talk to their pilot practices. The stories are the same: inconsistent accuracy, painful latency, broken scheduling, unhappy teams.\n\nMost folks underestimate how much engineering and feedback loops it takes to make Voice AI actually elevate patient experiences and deliver real ROI for practices (fill schedules, streamline front-desk operations, drive profitability). \n\nGetting Voice AI right in dentistry takes serious engineering muscle and deep dental domain knowledge. It’s not a prompt trick—it’s the production-grade plumbing like:\n\n🪪 Proving who’s on the line and staying HIPAA-compliant—with fallbacks, logging, and full audit trails\n\n💱 Coordinating appointment bookings, dynamic scheduling, payment details, and more while carrying context across steps and handoffs\n\n📞 Conversate in real-world chaos—accents, background noise, shared phones, multi-location routing—without brittle flows breaking\n\n📱 Customizing dynamic context so the dialog stays relevant as intent shifts\n\n☑️ Standing up QA: hardened evals, live monitoring, and humans-in-the-loop to catch issues fast\n\nThere’s a big gap between a flashy demo and a platform like Arini that reliably handles 10,000+ real patient conversations daily. That’s the bar.",
+      "totalReactionCount": 38,
+      "likeCount": 34,
+      "empathyCount": 3,
+      "praiseCount": 1,
+      "commentsCount": 8,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7367204265729122304/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_lately-it-feels-like-every-legacy-dental-activity-7367204265729122304-nrqI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "4mo",
+      "postedDate": "2025-08-29 14:39:32.986 +0000 UTC",
+      "postedDateTimestamp": 1756478372986,
+      "urn": "7367204265729122304",
+      "shareUrn": "7367204262906429440",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "We’ve been getting a lot of interest in our Forward-Deployed Engineers (FDE) approach for enterprise DSOs — and for good reason.\n\nFDEs are AI-native engineers embedded directly with your operations, finance, technology, revenue cycle, and patient experience teams. They don’t hand you a deck; they sit in the workflow, ship working systems, and own outcomes.\n\nWhy enterprise DSOs love this approach:\n\n⏰ Speed to value: weeks, not quarters. FDEs remove handoffs between strategy, operations, vendors, and IT.\n\n💱 Change management: train the team, measure adoption, iterate, sunset legacy tools. Real usage, real results.\n\n🚚 Enterprise-grade delivery: security, data governance, compliance, and reliability from day one.\n\n🤓 Talent: capable AI-native engineers are hard to find. These folks are mostly located in the Bay Area, work for companies like META & OpenAI, or are Founders of AI startups (shoutout to Abdul Jamjoom & Rami Rustom).\n\nSimply put, dental enterprises want to transform faster — without stalling their core operations. \n\nFor the first time in the history of dental tech, “David\" has an advantage on \"Goliath\" — but only if \"David\" has the best and brightest AI-native engineers deployed at scale.",
+      "totalReactionCount": 37,
+      "likeCount": 33,
+      "empathyCount": 2,
+      "InterestCount": 2,
+      "repostsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7361093200528228352/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_weve-been-getting-a-lot-of-interest-in-our-activity-7361093200528228352-wXgI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "4mo",
+      "postedDate": "2025-08-12 17:56:21.504 +0000 UTC",
+      "postedDateTimestamp": 1755021381504,
+      "urn": "7361093200528228352",
+      "shareUrn": "7361093198368137219",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Abdul",
+          "lastName": "Jamjoom",
+          "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+          "publicIdentifier": "abduljamjoom"
+        },
+        {
+          "firstName": "Rami",
+          "lastName": "Rustom",
+          "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE",
+          "publicIdentifier": "ramirustom"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "🚨 BIG NEWS 🚨 \n\nWe’re thrilled to announce that Eric Johnson has joined Arini as our Chief Commercial Officer!\n\nWith 10+ years of leadership experience in dental, including most recently as Founder of Membersy, there's nobody better suited for the job.\n\nThe fastest-growing DSOs are aware how mission-critical it is to move quickly on AI transformation. From data readiness, to operational workflows, to deploying AI agents — it gets harder everyday to stay ahead of the curve. \n\nDSO leaders want more than just an AI vendor — they want a trusted AI-native partner that can help plan, execute, and scale their AI strategy.\n\nEric's decision to join Arini underscores the strength of our vision and signals to the market that we're uniquely positioned to deliver AI at scale for dental enterprises, practices, and teams — now and for years to come.\n\nWelcome to the Arini team, Eric!\n\nRead more here: https://lnkd.in/gWE96WY7",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7353856690859003904/",
+        "shareUrl": "https://www.linkedin.com/posts/ariniai_big-news-were-thrilled-to-announce-activity-7353856690859003904-Umdp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2025-07-23 18:41:03.151 +0000 UTC",
+        "postedDateTimestamp": 1753296063151,
+        "urn": "7353856690859003904",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_2048_1536/B56Zg4lsDsH0As-/0/1753296061823?e=1769644800&v=beta&t=gNlukT0d8JlKQS5S_FcvKrc9ci2CWyDEJdkVzAe5n5I",
+            "width": 1228,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_480/B56Zg4lsDsH0Ac-/0/1753296061806?e=1769644800&v=beta&t=DcNDAUpuWh9NvlQ8RVYsYyQ7XuXC0hMWyJGUiXuNtN8",
+            "width": 480,
+            "height": 600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_1280/B56Zg4lsDsH0Ao-/0/1753296061806?e=1769644800&v=beta&t=7lGQfka6wV1N2Silz-AKENCHgc-UoO2rDZuHLX_HPu0",
+            "width": 1280,
+            "height": 1600
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_20/B56Zg4lsDsH0A0-/0/1753296061806?e=1769644800&v=beta&t=NzQqRpXSMViQ7J6rR5RTuG4uoviY9J5VLfBJhlhhMBU",
+            "width": 20,
+            "height": 25
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_800/B56Zg4lsDsH0Ak-/0/1753296061800?e=1769644800&v=beta&t=x6W1uVuxQMyeG_p9zs-GzMshYlnKeDGs9KBjIfM3Z7c",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_160/B56Zg4lsDsH0Ag-/0/1753296061800?e=1769644800&v=beta&t=1CnAzqMDxeu1fdnbM152Di43Jeb7MiLPoUYgp9FqFao",
+            "width": 160,
+            "height": 200
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_2048_1536/B56Zg4lsDsH0As-/0/1753296061823?e=1769644800&v=beta&t=gNlukT0d8JlKQS5S_FcvKrc9ci2CWyDEJdkVzAe5n5I",
+              "width": 1228,
+              "height": 1536
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_480/B56Zg4lsDsH0Ac-/0/1753296061806?e=1769644800&v=beta&t=DcNDAUpuWh9NvlQ8RVYsYyQ7XuXC0hMWyJGUiXuNtN8",
+              "width": 480,
+              "height": 600
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_1280/B56Zg4lsDsH0Ao-/0/1753296061806?e=1769644800&v=beta&t=7lGQfka6wV1N2Silz-AKENCHgc-UoO2rDZuHLX_HPu0",
+              "width": 1280,
+              "height": 1600
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_20/B56Zg4lsDsH0A0-/0/1753296061806?e=1769644800&v=beta&t=NzQqRpXSMViQ7J6rR5RTuG4uoviY9J5VLfBJhlhhMBU",
+              "width": 20,
+              "height": 25
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_800/B56Zg4lsDsH0Ak-/0/1753296061800?e=1769644800&v=beta&t=x6W1uVuxQMyeG_p9zs-GzMshYlnKeDGs9KBjIfM3Z7c",
+              "width": 800,
+              "height": 1000
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEbTMHTq9fwPg/feedshare-shrink_160/B56Zg4lsDsH0Ag-/0/1753296061800?e=1769644800&v=beta&t=1CnAzqMDxeu1fdnbM152Di43Jeb7MiLPoUYgp9FqFao",
+              "width": 160,
+              "height": 200
+            }
+          ]
+        ],
+        "company": {
+          "name": "Arini",
+          "url": "https://www.linkedin.com/company/ariniai/",
+          "urn": "urn:li:fsd_company:100515888",
+          "username": "ariniai",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_200_200/company-logo_200_200/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=AV-19FnZzEBe6pvetUFHby7ygQ7CDwRkaF3_LoVwkMU"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_100_100/company-logo_100_100/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=b7C8O15pbYhgIviFJEcS3e9ivWmpOwZnAjqm8-A49LU"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "With AI reshaping every corner of healthcare, I'm excited to join Arini as CCO to help lead our mission to bring impactful AI to dental enterprises.\n\nDSO leaders know they need get serious about AI, but don’t know where to start. They need a partner who can help them define their AI strategy, build AI-powered tools, and deploy them at scale.\n\nWe’re not here to resell generic software or dashboards; we’re here to co-create technical solutions with DSOs that drive real outcomes.\n\nArini is a full-service AI Transformation Partner specifically outfitted to serve the dental industry — think Palantir for DSOs, with the best AI-native engineers imbedded within your organization.\n\nAs CCO, I’ll be orchestrating across the full Arini ecosystem to help our clients plan and implement advanced AI infrastructure and technology.\n\n👉 Strategy & Consulting\n👉 Forward Deployed Engineers\n👉 Technology Deployment\n👉 AI Operating System\n\nIf you're DSO executive thinking about where AI fits into your roadmap — let’s connect.",
+      "totalReactionCount": 42,
+      "likeCount": 31,
+      "appreciationCount": 1,
+      "empathyCount": 4,
+      "praiseCount": 6,
+      "commentsCount": 15,
+      "repostsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7355637732758491141/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_big-news-were-thrilled-to-announce-activity-7355637732758491141-FKWr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5mo",
+      "postedDate": "2025-07-28 16:38:16.63 +0000 UTC",
+      "postedDateTimestamp": 1753720696630,
+      "reposted": true,
+      "urn": "7355637732758491141",
+      "shareUrn": "7355637732020244480",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "It's not often you come across a team combining deep industry insight with real product innovation — and doing it in a way that creates real-world impact.\n\nLet me explain...\n\nEarlier this year I was introduced me to a new way to invest in Single Family Rental (STR) real estate through a company called mogul.\n\nI checked out their website and was intrigued. So, I signed up and scheduled an onboarding call to activate my account.\n\nTo my surprise, mogul's CEO, Alex Blackwood, was the one who called.\n\nHe walked me through the platform, his background investing at Goldman Sachs in their real estate private equity group, and his vision to bring \"off-market\" income-producing deals — traditionally reserved for institutions and high-net-worth insiders — to main street.\n\nBoasting an 18% average IRR and 10% cash yield, I decided to invest in a handful of properties on the platform.\n\nFast forward to today, my properties are on pace to yield ~ 15%. 🚀 \n\nIn a macro economic climate marketed by inflation uncertainty, interest rate swings, and unpredictable stock performance — we're all seeking stability and cash flow. That's exactly what mogul brings to main street.\n\nSince that initial call with Alex, we've been in touch almost daily. \n\nPumped to say that as of today, I'm not only an investor in properties on the platform, but also the company itself. Excited to back mogul alongside Draper Associates, Draper B1, Ava Labs and other distinguished investors. \n\n#PropTech #VentureCapital #MogulTechnologies",
+      "totalReactionCount": 46,
+      "likeCount": 44,
+      "empathyCount": 1,
+      "praiseCount": 1,
+      "commentsCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7330971982156455937/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_mogul-real-estate-investment-club-real-activity-7330971982156455937-wVc3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "7mo",
+      "postedDate": "2025-05-21 15:05:23.419 +0000 UTC",
+      "postedDateTimestamp": 1747839923419,
+      "urn": "7330971982156455937",
+      "shareUrn": "7330971980923392004",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "article",
+      "article": {
+        "title": "Mogul: Real Estate Investment Club| Real Estate Crowdfunding | Micro Invest in Property",
+        "subtitle": "mogul.club",
+        "link": "https://www.mogul.club/",
+        "image": [
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGsZuTAOJRhJw/articleshare-shrink_800/articleshare-shrink_800/0/1730401846515?e=1768586400&v=beta&t=o4yqxlsZB8YUle0NQxP6bviyLcEegd1OtV9A6zADQxo"
+          },
+          {
+            "width": 1200,
+            "height": 1200,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGsZuTAOJRhJw/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1730401846515?e=1768586400&v=beta&t=WcduoeQTn-ayLgOavysJ88d5LedHBCo8_d0hsptw4MQ"
+          },
+          {
+            "width": 160,
+            "height": 160,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGsZuTAOJRhJw/articleshare-shrink_160/articleshare-shrink_160/0/1730401846515?e=1768586400&v=beta&t=7oOMSjNXzFW5RYnVhpkOC0R3jg7cjDl5Ww369xwAK0M"
+          },
+          {
+            "width": 480,
+            "height": 480,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGsZuTAOJRhJw/articleshare-shrink_480/articleshare-shrink_480/0/1730401846515?e=1768586400&v=beta&t=Gml73QboT44gSXFkNuzpwSWx6_OyhTG6ytT777J67hE"
+          }
+        ],
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Alex",
+          "lastName": "Blackwood",
+          "urn": "ACoAACERa00BXz9z4oIpRu3ICUQMnqg-UlxT3bk",
+          "publicIdentifier": "alex-blackwood-a3996a135"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 82821106,
+          "name": "mogul",
+          "publicIdentifier": "mogul-club",
+          "url": "https://www.linkedin.com/company/mogul-club/"
+        },
+        {
+          "id": 13465522,
+          "name": "Draper Associates",
+          "publicIdentifier": "draper-associates",
+          "url": "https://www.linkedin.com/company/draper-associates/"
+        },
+        {
+          "id": 1485238,
+          "name": "Draper B1",
+          "publicIdentifier": "draperb1",
+          "url": "https://www.linkedin.com/company/draperb1/"
+        },
+        {
+          "id": 65604679,
+          "name": "Ava Labs",
+          "publicIdentifier": "avalabsofficial",
+          "url": "https://www.linkedin.com/company/avalabsofficial/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Is your dental practice focusing on the right growth strategy? Discover why prioritizing same-store growth can lead to long-term success in our latest blog! \n\nRead it here: https://loom.ly/aQCPSDU\n\n#Kleer #Membersy #KleerandMembersy #DentalMembership #SubscriptionDentistry",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7239297937116139520/",
+        "shareUrl": "https://www.linkedin.com/posts/membersy_kleer-membersy-kleerandmembersy-activity-7239297937116139520-kag5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2024-09-10 15:45:27.86 +0000 UTC",
+        "postedDateTimestamp": 1725983127860,
+        "urn": "7239297937116139520",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_1280/image-shrink_1280/0/1725983121314?e=1768586400&v=beta&t=6VUL3fq5zw_0q9YThTELHnX5knIEs23ErIWL9_r8Xuw",
+            "width": 1280,
+            "height": 1280
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_480/image-shrink_480/0/1725983121314?e=1768586400&v=beta&t=xGvMOXnX6c5niv47Pw8kss3qr4QRqFmdOYQlWRZmhc8",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_160/image-shrink_160/0/1725983121280?e=1768586400&v=beta&t=0XikKSVkcQwijTVezATKd3QovcmlM2QXPIW1oBgn6BU",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_20/image-shrink_20/0/1725983121314?e=1768586400&v=beta&t=NNAq_R_2QDv03UQm6HHrI5E8SmOWXB5z2dPIu2T7HK0",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_800/image-shrink_800/0/1725983121280?e=1768586400&v=beta&t=bmjI5okLRm3aRqM-GLOExr1-gurJlzp_sZQ2CqF6PiA",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_1280/image-shrink_1280/0/1725983121314?e=1768586400&v=beta&t=6VUL3fq5zw_0q9YThTELHnX5knIEs23ErIWL9_r8Xuw",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_480/image-shrink_480/0/1725983121314?e=1768586400&v=beta&t=xGvMOXnX6c5niv47Pw8kss3qr4QRqFmdOYQlWRZmhc8",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_160/image-shrink_160/0/1725983121280?e=1768586400&v=beta&t=0XikKSVkcQwijTVezATKd3QovcmlM2QXPIW1oBgn6BU",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_20/image-shrink_20/0/1725983121314?e=1768586400&v=beta&t=NNAq_R_2QDv03UQm6HHrI5E8SmOWXB5z2dPIu2T7HK0",
+              "width": 20,
+              "height": 20
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D4E10AQHOS33PVEsgqg/image-shrink_800/image-shrink_800/0/1725983121280?e=1768586400&v=beta&t=bmjI5okLRm3aRqM-GLOExr1-gurJlzp_sZQ2CqF6PiA",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        ],
+        "company": {
+          "name": "Membersy",
+          "url": "https://www.linkedin.com/company/membersy/",
+          "urn": "urn:li:fsd_company:35628094",
+          "username": "membersy",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_200_200/company-logo_200_200/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=HHUuuMIdYIBX4oIvJxP7XxwVF6slInPGuzQqYEoJTTQ"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_100_100/company-logo_100_100/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=XSQHtkqoyGR_eCeND6r-oCOwGjPq5dHECmpiai4Cif4"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "\"Most dental practices have hundreds, if not thousands of uninsured and inactive patients who avoid care and treatment due to lack of access to dental coverage. Working to bridge the coverage gap through implementing a subscription-based membership plan is a huge opportunity for dental teams.\"",
+      "totalReactionCount": 24,
+      "likeCount": 24,
+      "commentsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7239315852326543360/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_kleer-membersy-kleerandmembersy-activity-7239315852326543360-H_VT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "1yr",
+      "postedDate": "2024-09-10 16:56:39.179 +0000 UTC",
+      "postedDateTimestamp": 1725987399179,
+      "reposted": true,
+      "urn": "7239315852326543360",
+      "shareUrn": "7239315851445739520",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "I'm thrilled to announce my appointment to the Board of Directors at SitePro Inc. I look forward to working with the board and management team to help further the company's mission of providing innovative remote monitoring software for critical infrastructure in the energy, agriculture, and public utilities markets.",
+      "totalReactionCount": 91,
+      "likeCount": 73,
+      "praiseCount": 18,
+      "commentsCount": 35,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7204182992896888834/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_im-thrilled-to-announce-my-appointment-to-activity-7204182992896888834-JqB5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "1yr",
+      "postedDate": "2024-06-05 18:11:12.754 +0000 UTC",
+      "postedDateTimestamp": 1717611072754,
+      "urn": "7204182992896888834",
+      "shareUrn": "urn:li:ugcPost:7204182992074788864",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {
+        "text": "Starting a New Position",
+        "image": "https://media.licdn.com/media/AAYQAQQSAAgAAQAAAAAAABgBrZ2daanMQJ-egBdqUfzcNg.gif"
+      },
+      "poll": {},
+      "contentType": "celebration",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 3749886,
+          "name": "SitePro Inc.",
+          "publicIdentifier": "siteproinc",
+          "url": "https://www.linkedin.com/company/siteproinc/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "Who a person is determines what will happen and what they can do. It’s true in sports. It’s true in politics. It’s true in business. No matter how talented a person is, how great the incentives, how great the system around them⎯in the end, character is everything. It can’t be hidden. It can’t be compensated for.\n\nValue character above all else.",
+      "totalReactionCount": 25,
+      "likeCount": 22,
+      "empathyCount": 2,
+      "praiseCount": 1,
+      "commentsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7191461511867830272/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_who-a-person-is-determines-what-will-happen-activity-7191461511867830272-IBCv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "1yr",
+      "postedDate": "2024-05-01 15:40:35.323 +0000 UTC",
+      "postedDateTimestamp": 1714578035323,
+      "urn": "7191461511867830272",
+      "shareUrn": "7191461511242899456",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "Beware of the assumption\nthat the way you work\nis the best way\nsimply because\nit's the way you've done it before.\n\n- Rick Rubin",
+      "totalReactionCount": 32,
+      "likeCount": 31,
+      "InterestCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7115714465509109761/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_beware-of-the-assumption-that-the-way-you-activity-7115714465509109761-QRIq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "2yr",
+      "postedDate": "2023-10-05 15:08:52.159 +0000 UTC",
+      "postedDateTimestamp": 1696518532159,
+      "urn": "7115714465509109761",
+      "shareUrn": "7115714465039347713",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "\"If you want to be liked first and respected later, you'll get neither, but if you strive to be respected first and hopefully liked, you'll get your respect.\"\n\nAaron Rodgers dropping #leadership gold in his interview with Erin Andrews.",
+      "totalReactionCount": 15,
+      "likeCount": 15,
+      "repostsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7107344909321347072/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_aaron-rodgers-and-erin-andrews-first-jets-activity-7107344909321347072-gjne?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "2yr",
+      "postedDate": "2023-09-12 12:51:14.465 +0000 UTC",
+      "postedDateTimestamp": 1694523074465,
+      "urn": "7107344909321347072",
+      "shareUrn": "7107344908566351873",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "article",
+      "article": {
+        "title": "Aaron Rodgers and Erin Andrews first Jets interview on FOX",
+        "subtitle": "youtube.com",
+        "link": "https://www.youtube.com/watch?v=B5-vksJUKco",
+        "image": [
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQFXvBVwJGgU_w/articleshare-shrink_800/articleshare-shrink_800/0/1711511126677?e=1768586400&v=beta&t=cTUcSLG-W4sB-b1KcfMJAP8qU3bMxNmOgt0OXRk1VDc"
+          },
+          {
+            "width": 1280,
+            "height": 1280,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQFXvBVwJGgU_w/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1711511126677?e=1768586400&v=beta&t=NjpJaS9tRpo0Xy9Lp3FnXc9F-Iwk_BqU5v0ER0-QTPc"
+          },
+          {
+            "width": 160,
+            "height": 160,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQFXvBVwJGgU_w/articleshare-shrink_160/articleshare-shrink_160/0/1711511126677?e=1768586400&v=beta&t=CSQR0Ls3fbs9ZfJH9h6GSeDdnKROEr79OJuvoRl621A"
+          },
+          {
+            "width": 480,
+            "height": 480,
+            "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQFXvBVwJGgU_w/articleshare-shrink_480/articleshare-shrink_480/0/1711511126677?e=1768586400&v=beta&t=rHB760IwQgXHHhClbUBasLY4zEVL4xuhR-eu8_7CH9U"
+          }
+        ],
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "We've come TSO far since our roots, and we have y'all to thank. Here's to Tso's bright future! We couldn't have done it without the love and support of all of y'all.🎉❤️ #atx #roundrocktx",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7074445809982832641/",
+        "shareUrl": "https://www.linkedin.com/posts/tso-chinese-takeout-delivery_atx-roundrocktx-activity-7074445809982832641-s2T_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2023-06-13 18:01:57.947 +0000 UTC",
+        "postedDateTimestamp": 1686679317947,
+        "urn": "7074445809982832641",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1686679305193?e=1769644800&v=beta&t=uZ1vpTjovkABBaLKpcRLv6p0IPAJaE99ktQ2N9ygMLM",
+            "width": 1536,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_20/feedshare-shrink_20/0/1686679305149?e=1769644800&v=beta&t=kA-44rtIxz4-9uVW1LmV8F28IqDDktTYc_ZdTMlXciY",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_1280/feedshare-shrink_1280/0/1686679305149?e=1769644800&v=beta&t=MHl3xGUHe8ye-QXnLVWVZKYtYvFglkFMwpu0fLhx5Ag",
+            "width": 1280,
+            "height": 1280
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_480/feedshare-shrink_480/0/1686679305149?e=1769644800&v=beta&t=neTGQzhgbPA9LIAMg0OBMNGBPnJjmJpMIcrT4mxV16A",
+            "width": 480,
+            "height": 479
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_160/feedshare-shrink_160/0/1686679305149?e=1769644800&v=beta&t=bmYx10mALksRD4zWDvCiO1hpbpHmjLVyAVZ_AHU1x3Y",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_800/feedshare-shrink_800/0/1686679305149?e=1769644800&v=beta&t=Zm3TtchvF9Tt_qWSDVH6iX_Rsv6NoUspv2xMCnuDSIs",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1686679316391?e=1769644800&v=beta&t=UloLwEAi8rwRAfq6xl8OMfYrOSKBmnG5UMNCHt22Wso",
+            "width": 1536,
+            "height": 1536
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_20/feedshare-shrink_20/0/1686679316401?e=1769644800&v=beta&t=VEFAplAlWVXGLmnMOknqSx5ZKaWtpYdvMGTXYkE9NiI",
+            "width": 20,
+            "height": 20
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_1280/feedshare-shrink_1280/0/1686679316401?e=1769644800&v=beta&t=SuGVsF0GDrfZHtnWkNVpBB-jCSmWoXVvxZbu2HMTQX0",
+            "width": 1280,
+            "height": 1280
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_480/feedshare-shrink_480/0/1686679316401?e=1769644800&v=beta&t=VvFPBeha9YKNzP2ngdwVshvlAuOOPZqM5kjIJlyU6gY",
+            "width": 480,
+            "height": 480
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_160/feedshare-shrink_160/0/1686679316401?e=1769644800&v=beta&t=qp0B3LLmnwhgkdoQjHopR93O97GBoeMpacJzKH9D4ac",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_800/feedshare-shrink_800/0/1686679316401?e=1769644800&v=beta&t=6SMO6TFisIPyaM9hWXMUNZqg0HWBfGnB4DpkEjma6RA",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1686679305193?e=1769644800&v=beta&t=uZ1vpTjovkABBaLKpcRLv6p0IPAJaE99ktQ2N9ygMLM",
+              "width": 1536,
+              "height": 1536
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_20/feedshare-shrink_20/0/1686679305149?e=1769644800&v=beta&t=kA-44rtIxz4-9uVW1LmV8F28IqDDktTYc_ZdTMlXciY",
+              "width": 20,
+              "height": 20
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_1280/feedshare-shrink_1280/0/1686679305149?e=1769644800&v=beta&t=MHl3xGUHe8ye-QXnLVWVZKYtYvFglkFMwpu0fLhx5Ag",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_480/feedshare-shrink_480/0/1686679305149?e=1769644800&v=beta&t=neTGQzhgbPA9LIAMg0OBMNGBPnJjmJpMIcrT4mxV16A",
+              "width": 480,
+              "height": 479
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_160/feedshare-shrink_160/0/1686679305149?e=1769644800&v=beta&t=bmYx10mALksRD4zWDvCiO1hpbpHmjLVyAVZ_AHU1x3Y",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQEhlJ4MyBlPFA/feedshare-shrink_800/feedshare-shrink_800/0/1686679305149?e=1769644800&v=beta&t=Zm3TtchvF9Tt_qWSDVH6iX_Rsv6NoUspv2xMCnuDSIs",
+              "width": 800,
+              "height": 800
+            }
+          ],
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1686679316391?e=1769644800&v=beta&t=UloLwEAi8rwRAfq6xl8OMfYrOSKBmnG5UMNCHt22Wso",
+              "width": 1536,
+              "height": 1536
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_20/feedshare-shrink_20/0/1686679316401?e=1769644800&v=beta&t=VEFAplAlWVXGLmnMOknqSx5ZKaWtpYdvMGTXYkE9NiI",
+              "width": 20,
+              "height": 20
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_1280/feedshare-shrink_1280/0/1686679316401?e=1769644800&v=beta&t=SuGVsF0GDrfZHtnWkNVpBB-jCSmWoXVvxZbu2HMTQX0",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_480/feedshare-shrink_480/0/1686679316401?e=1769644800&v=beta&t=VvFPBeha9YKNzP2ngdwVshvlAuOOPZqM5kjIJlyU6gY",
+              "width": 480,
+              "height": 480
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_160/feedshare-shrink_160/0/1686679316401?e=1769644800&v=beta&t=qp0B3LLmnwhgkdoQjHopR93O97GBoeMpacJzKH9D4ac",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/D5622AQHFuKLI7y2Mnw/feedshare-shrink_800/feedshare-shrink_800/0/1686679316401?e=1769644800&v=beta&t=6SMO6TFisIPyaM9hWXMUNZqg0HWBfGnB4DpkEjma6RA",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        ],
+        "company": {
+          "name": "Tso Chinese Takeout & Delivery",
+          "url": "https://www.linkedin.com/company/tso-chinese-takeout-delivery/",
+          "urn": "urn:li:fsd_company:16246448",
+          "username": "tso-chinese-takeout-delivery",
+          "companyLogo": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQEu21qtWPMZnA/company-logo_100_100/B56ZkbyexLHMAQ-/0/1757107842530/tso_chinese_takeout_delivery_logo?e=1769644800&v=beta&t=UaTAT53uj_OJPDUU2eLrv-SUFC9AFg6CesvrC6pvsAw"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQEu21qtWPMZnA/company-logo_400_400/B56ZkbyexLHMAY-/0/1757107842530/tso_chinese_takeout_delivery_logo?e=1769644800&v=beta&t=CJE_4X_kxB3l8pKXM4KgAFbyXMS5zcRL5OCa9T7XTtc"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D560BAQEu21qtWPMZnA/company-logo_200_200/B56ZkbyexLHMAI-/0/1757107842530/tso_chinese_takeout_delivery_logo?e=1769644800&v=beta&t=qCDZzJFrpwLuvBUztZ9TWY-7EZzOHEXMm875m41cekI"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Congrats to Min Choe, Angell Tsang, and the entire Tso Chinese Takeout & Delivery team on opening their 4th Austin area location! As an early investor in the company, I couldn't be more proud of the work the Tso team is doing to disrupt the $25B (as in Billion) Chinese food industry!\n\n💡Tso Chinese Takeout & Delivery provides delicious, authentic American Chinese cuisine in a contemporary setting using their own state-of-the-art technology, developed purposely for the take-out and delivery markets, giving the brand a huge advantage in an industry that still boasts many single unit and traditional operators. As a result, the brand offers a superior experience that includes free delivery via their company-operated delivery network, supported by proprietary tech that allows for more efficient execution.",
+      "totalReactionCount": 57,
+      "likeCount": 42,
+      "empathyCount": 4,
+      "praiseCount": 11,
+      "commentsCount": 6,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7090028077774209024/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_atx-roundrocktx-activity-7090028077774209024-5GDK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "2yr",
+      "postedDate": "2023-07-26 18:00:20.093 +0000 UTC",
+      "postedDateTimestamp": 1690394420093,
+      "reposted": true,
+      "urn": "7090028077774209024",
+      "shareUrn": "urn:li:ugcPost:7090028077031833602",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Min",
+          "lastName": "Choe",
+          "urn": "ACoAAA4e10ABCpVU4anruPrtzOv_bVpwKd6C5mg",
+          "publicIdentifier": "mchoe"
+        },
+        {
+          "firstName": "Angell",
+          "lastName": "Tsang",
+          "urn": "ACoAAAIWaC0BpKyoGcE8Fnc6iM9qCNcMNOF7AX0",
+          "publicIdentifier": "angellt"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 16246448,
+          "name": "Tso Chinese Takeout & Delivery",
+          "publicIdentifier": "tso-chinese-takeout-delivery",
+          "url": "https://www.linkedin.com/company/tso-chinese-takeout-delivery/"
+        },
+        {
+          "id": 16246448,
+          "name": "Tso Chinese Takeout & Delivery",
+          "publicIdentifier": "tso-chinese-takeout-delivery",
+          "url": "https://www.linkedin.com/company/tso-chinese-takeout-delivery/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "This is a bittersweet moment. After seven intense and wonderful years, I have decided to step down from my day-to-day role as CEO of membersy. I will always love membersy and am extremely proud of my team and what we’ve created together. \n\nMy gratitude for the people of membersy and our amazing industry partners runs deep. I am forever grateful for your advocacy, strong networks, and professional friendships over the years. From the bottom of my heart, thank you.\n\nGoing forward, I will continue to remain a large shareholder of the company and no one will be rooting harder or be more supportive of membersy’s efforts and the #membershipdentistry movement. \n\nIf there's one piece of wisdom that I can share from experience, it is this: have the courage to be fearlessly authentic, and don’t beat yourself up for not being perfect, none of us are.\n\nYour biggest fan,\n\nEric",
+      "totalReactionCount": 178,
+      "likeCount": 141,
+      "appreciationCount": 1,
+      "empathyCount": 16,
+      "praiseCount": 20,
+      "commentsCount": 41,
+      "repostsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6912466511139926016/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_membershipdentistry-activity-6912466511139926016-4k2Y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "3yr",
+      "postedDate": "2022-03-23 18:34:03.673 +0000 UTC",
+      "postedDateTimestamp": 1648060443673,
+      "urn": "6912466511139926016",
+      "shareUrn": "6912466510447882240",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "[Article] membersy CEO Eric Johnson founded the startup after selling his car and raising $20,000 from friends and family. Here is what's next for the company after raising $66 million from Spectrum Equity. #technology #healthcare #digital #marketplace #fundraising #money",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6848752672963616768/",
+        "shareUrl": "https://www.linkedin.com/posts/austin-business-journal_austin-based-membersy-raises-66m-from-spectrum-activity-6848752672963616768-7W8M?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2021-09-28 22:58:00.906 +0000 UTC",
+        "postedDateTimestamp": 1632869880906,
+        "urn": "6848752672963616768",
+        "author": {},
+        "company": {
+          "name": "Austin Business Journal",
+          "url": "https://www.linkedin.com/company/austin-business-journal/",
+          "urn": "urn:li:fsd_company:2567363",
+          "username": "austin-business-journal",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGitCBoMUjpMg/company-logo_200_200/company-logo_200_200/0/1715955342413/austin_business_journal_logo?e=1769644800&v=beta&t=yesN4bOATjyC8YoMWilo6pSF58VKU88mK2e1nYr8-Ao"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGitCBoMUjpMg/company-logo_100_100/company-logo_100_100/0/1715955342414/austin_business_journal_logo?e=1769644800&v=beta&t=bi7ICLTUK3kZpKkPusuQcJ0m4yePFQr24-8WeJDOhYM"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGitCBoMUjpMg/company-logo_400_400/company-logo_400_400/0/1715955342414/austin_business_journal_logo?e=1769644800&v=beta&t=WG452MgoGyU61WwHZbWqBO-nPVTt3mjynH-aYmbgzfo"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "article",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Thank you Austin Business Journal for sharing the membersy story and our recent $66 million funding from Spectrum Equity.\n \nThis is an amazing milestone for our company, employees, partners, and the #membershipdentistry movement, and it would have been possible without the hard work, dedication, and support of so many great people.\n \nAs I reflect upon the last 6 years, I keep thinking about the moments of self doubt along my journey. The countless times being told \"no\". A bank account showing a balance of $500. The list goes on.\n \nIf you've ever doubted yourself—in business or life—keep pushing and remember: it’s not about the result, it’s about the journey. Embrace challenges, celebrate victories, and have some fun along the way :)",
+      "totalReactionCount": 121,
+      "likeCount": 105,
+      "empathyCount": 1,
+      "praiseCount": 15,
+      "commentsCount": 18,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6849359052472950784/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_austin-based-membersy-raises-66m-from-spectrum-activity-6849359052472950784-qvyU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "4yr",
+      "postedDate": "2021-09-30 15:07:33.047 +0000 UTC",
+      "postedDateTimestamp": 1633014453047,
+      "reposted": true,
+      "urn": "6849359052472950784",
+      "shareUrn": "6849359051915087872",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 2567363,
+          "name": "Austin Business Journal",
+          "publicIdentifier": "austin-business-journal",
+          "url": "https://www.linkedin.com/company/austin-business-journal/"
+        },
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        },
+        {
+          "id": 24577,
+          "name": "Spectrum Equity",
+          "publicIdentifier": "spectrum-equity",
+          "url": "https://www.linkedin.com/company/spectrum-equity/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "As most know, we've been experiencing a major disaster in #Austin as a result of the once-in-a-generation winter storm. Many across the region, including most membersy employees, are still without power, water, and heat. Our thoughts and prayers are with our fellow Texans and the Austin community during this difficult time.\n\nTo our valued partners: we're here because you're there; until membersy HQ can open back up we'll be routing all partner and member support through our California office. We’re so grateful for our Cali team. We’ll continue to work behind the scenes to ensure your practices and members continue to receive top-notch membership services and support. \n\n\nStay warm, yall!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6767908430339477504/",
+        "shareUrl": "https://www.linkedin.com/posts/membersy_austin-activity-6767908430339477504-HWas?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2021-02-17 20:51:51.451 +0000 UTC",
+        "postedDateTimestamp": 1613595111451,
+        "urn": "6767908430339477504",
+        "author": {},
+        "company": {
+          "name": "Membersy",
+          "url": "https://www.linkedin.com/company/membersy/",
+          "urn": "urn:li:fsd_company:35628094",
+          "username": "membersy",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_200_200/company-logo_200_200/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=HHUuuMIdYIBX4oIvJxP7XxwVF6slInPGuzQqYEoJTTQ"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_100_100/company-logo_100_100/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=XSQHtkqoyGR_eCeND6r-oCOwGjPq5dHECmpiai4Cif4"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "post",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "It's been a rough week here in Texas (to say it lightly). I could not be more proud of how the entire membersy team has come together during at times has felt like an apocalyptic week. Thanks to everyone who has reached out to check in and offer words of encouragement. We are so grateful!",
+      "totalReactionCount": 30,
+      "likeCount": 28,
+      "praiseCount": 2,
+      "commentsCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6768236954011127808/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_austin-activity-6768236954011127808-fC1K?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "4yr",
+      "postedDate": "2021-02-18 18:37:17.598 +0000 UTC",
+      "postedDateTimestamp": 1613673437598,
+      "reposted": true,
+      "urn": "6768236954011127808",
+      "shareUrn": "6768236953495244800",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "I would like to give a very warm welcome to membersy's newest team members: Jacob Henderson (Chief Strategy Officer) and Emily Nolin (Specialist, Partner Success).\n\nThese recent additions further our commitment to our valued partners and the #membershipdentistry movement. Welcome to the team, yall!",
+      "totalReactionCount": 50,
+      "likeCount": 43,
+      "praiseCount": 7,
+      "commentsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6759502169679966208/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_membershipdentistry-activity-6759502169679966208-qcsq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "4yr",
+      "postedDate": "2021-01-25 16:08:22.729 +0000 UTC",
+      "postedDateTimestamp": 1611590902729,
+      "urn": "6759502169679966208",
+      "shareUrn": "6759502168857858048",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Emily",
+          "lastName": "Nolin",
+          "urn": "ACoAAANTAgsBODdTIWlequw8h3vM5r12ff0Nj5A",
+          "publicIdentifier": "emily-nolin-32381716"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "I would like to recognize my colleague and friend Michael Shuman for recently being promoted to Chief Revenue Officer. Michael joined membersy five years ago and has played a key role in the company's transformation from a small startup with lofty goals to the industry's largest dental membership platform. \n\nPlease join me in congratulating Michael on his promotion. Congrats Shu!! 🤙",
+      "totalReactionCount": 111,
+      "likeCount": 98,
+      "empathyCount": 4,
+      "praiseCount": 9,
+      "commentsCount": 66,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6753353117087150080/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_i-would-like-to-recognize-my-colleague-and-activity-6753353117087150080-u36b?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5yr",
+      "postedDate": "2021-01-08 16:54:14.347 +0000 UTC",
+      "postedDateTimestamp": 1610124854347,
+      "urn": "6753353117087150080",
+      "shareUrn": "6753353116462170112",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Michael",
+          "lastName": "Shuman",
+          "urn": "ACoAAA15sTQB51CcDfOLLfN1i3s1jHhuJRQ2KO0",
+          "publicIdentifier": "michael-shuman-93086863"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "I would like to give a very warm welcome to membersy's newest team members:  Sudha Vetri (EVP Product), Nadeem F. (VP Engineering), Jack Sorrells (Front-End Engineer), Brad Roberts, CPA (Director Finance & Accounting), and Bryant Yu (Operations Associate). \n\nThese recent additions further our commitment to our valued partners and the #membershipdentistry movement. Welcome to the team, yall!",
+      "totalReactionCount": 52,
+      "likeCount": 45,
+      "praiseCount": 7,
+      "commentsCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6740316612764712960/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_membershipdentistry-activity-6740316612764712960-GOPx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5yr",
+      "postedDate": "2020-12-03 17:31:49.51 +0000 UTC",
+      "postedDateTimestamp": 1607016709510,
+      "urn": "6740316612764712960",
+      "shareUrn": "6740316612278202368",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Sudha",
+          "lastName": "Vetri",
+          "urn": "ACoAAAC_nT4B4JHfnBibjuYzRoUnbzBlKwFCJZw",
+          "publicIdentifier": "sudhavetri"
+        },
+        {
+          "firstName": "Nadeem",
+          "lastName": "F.",
+          "urn": "ACoAAAEetlQBUNcbbnUGt7zmDppNwVR5rLYcLJQ",
+          "publicIdentifier": "nadeem-f-9b03616"
+        },
+        {
+          "firstName": "Jack",
+          "lastName": "Sorrells",
+          "urn": "ACoAABTPj4UBzvwsfsZNweo9qNJZIwuVDzn0VbA",
+          "publicIdentifier": "jack-sorrells"
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Roberts, CPA",
+          "urn": "ACoAAAMv6WoBe4V1JZMZ9OGZTXszBwPaxkIiXcE",
+          "publicIdentifier": "brad-roberts-cpa-262aa815"
+        },
+        {
+          "firstName": "Bryant",
+          "lastName": "Yu",
+          "urn": "ACoAACbP9NcBqPIyFpFz-FdMlc6eUUifOtm07R4",
+          "publicIdentifier": "bryant-yu-0123"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "membersy is hiring! We're looking for a Director of Finance & Accounting to lead the company's finance and accounting functions from our #Austin HQ. \n\nPlease send me a DM if you’re interested in the role and someone who appreciates the grind, is hungry to learn, a critical thinker and problem solver.",
+      "totalReactionCount": 38,
+      "likeCount": 38,
+      "commentsCount": 4,
+      "repostsCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6704426971583062017/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_director-finance-accounting-activity-6704426971583062017-oY7O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5yr",
+      "postedDate": "2020-08-26 16:39:12.255 +0000 UTC",
+      "postedDateTimestamp": 1598459952255,
+      "urn": "6704426971583062017",
+      "shareUrn": "urn:li:ugcPost:6704426970601586688",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {
+        "title": "Director, Finance & Accounting",
+        "urn": "C4E1FAQHF5r7IqienMw",
+        "TranscribedDocumentUrl": "https://media.licdn.com/dms/document/media/v2/C4E1FAQHF5r7IqienMw/feedshare-document-url-metadata-scrapper-pdf/feedshare-document-url-metadata-scrapper-pdf/0/1620936446679?e=1768586400&v=beta&t=DBgnzDhszDBD-R4k5ryiF3hnbvrSq5yU_apWij05QSU",
+        "TranscribedDocumentUrlExpiresAt": 1768586400000,
+        "manifestUrlExpiresAt": 1768586400000,
+        "manifestUrl": "https://media.licdn.com/dms/document/pl/v2/C4E1FAQHF5r7IqienMw/feedshare-document-master-manifest/feedshare-document-master-manifest/0/1620936447461?e=1768586400&v=beta&t=Ar2hL0vMGDei8ONgSMaEjncNNGyiVE5vCQMBMur3lYo",
+        "scanRequiredForDownload": true,
+        "totalPageCount": 2,
+        "coverPages": [
+          {
+            "width": 374,
+            "height": 484,
+            "imageUrls": [
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_480/feedshare-document-cover-images_480/0/1598458982433?e=1768586400&v=beta&t=wVSfKeCqpEFH8j3Divnm2Ef0RcgwvRff1e8fA0Bo8Ic",
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_480/feedshare-document-cover-images_480/1/1598458982433?e=1768586400&v=beta&t=kZMxd04ZjMSSYrL7NW0OFAIdtwRGEVs-EZAq_1DW_Zk"
+            ]
+          },
+          {
+            "width": 620,
+            "height": 802,
+            "imageUrls": [
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_800/feedshare-document-cover-images_800/0/1598458982440?e=1768586400&v=beta&t=TL2YXuXRXgunN5662Nrqv10clsTnE_kZ2yr164oaEwM",
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_800/feedshare-document-cover-images_800/1/1598458982440?e=1768586400&v=beta&t=ls1PHI9_b1ULKwbAMMnMhD3TDtEbfPPibhbdETizLSM"
+            ]
+          },
+          {
+            "width": 994,
+            "height": 1287,
+            "imageUrls": [
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_1280/feedshare-document-cover-images_1280/0/1598458983023?e=1768586400&v=beta&t=21BuzPTilA63Qs2pAwh1GQCMFdiXfKPQN8ohvmtFMU4",
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_1280/feedshare-document-cover-images_1280/1/1598458983023?e=1768586400&v=beta&t=m7RRQgtpHuxH6Hj9cJIQbqaKuM5JXiomOhhSVGgvChg"
+            ]
+          },
+          {
+            "width": 1487,
+            "height": 1925,
+            "imageUrls": [
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_1920/feedshare-document-cover-images_1920/0/1598458983284?e=1768586400&v=beta&t=0NUpFtwdpBeLiapbqeyi0OclsMhHaSHIFxnJdXv2Jqs",
+              "https://media.licdn.com/dms/image/v2/C4E1FAQHF5r7IqienMw/feedshare-document-cover-images_1920/feedshare-document-cover-images_1920/1/1598458983284?e=1768586400&v=beta&t=XFc5SoTOaD76WXsS4BSfLHn31j9QgFBtZB5eyT0q1l8"
+            ]
+          }
+        ]
+      },
+      "celebration": {},
+      "poll": {},
+      "contentType": "document",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "#COVID19 is hitting the #dental industry hard. There's no doubt about it. But I am also more optimistic on the future of #dentistry than I ever have been. Why? The people. The collaboration. The mindset that we're all in this together-and that we'll all get through this together.\n\n\"When you can't control what's happening, challenge yourself to control the way you respond to what's happening. That's where your power is!\"",
+      "totalReactionCount": 30,
+      "likeCount": 30,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6667089188195758080/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_covid19-dental-dentistry-activity-6667089188195758080-Kelr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5yr",
+      "postedDate": "2020-05-15 15:52:10.993 +0000 UTC",
+      "postedDateTimestamp": 1589557930993,
+      "urn": "6667089188195758080",
+      "shareUrn": "6667089187088478208",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "I have always deeply admired my grandparents and the rest of America’s Greatest Generation. Not only did this generation make it through the unimaginable hardships of the Great Depression and WWII, they practiced what they learned during those toughest of times for the remainder of their lives. Practices such as personal responsibility, humility, work ethic, and prudent saving. \n\nThis our opportunity to be GREAT - now and for years to come. Let’s come together as one, do as much as possible to help the most vulnerable, and apply what we learn from this difficult time for years to come so future generations admire us as we do our parents/grandparents.\n\nWe got this.",
+      "totalReactionCount": 58,
+      "likeCount": 52,
+      "empathyCount": 3,
+      "praiseCount": 3,
+      "commentsCount": 4,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6647929738226659328/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_i-have-always-deeply-admired-my-grandparents-activity-6647929738226659328-zDAD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5yr",
+      "postedDate": "2020-03-23 18:59:22.155 +0000 UTC",
+      "postedDateTimestamp": 1584989962155,
+      "urn": "6647929738226659328",
+      "shareUrn": "6647929737199042561",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "We’re looking for high character individuals to fill numerous positions here at membersy. I’m not a big believer in resumes and what someone has “done” in the past (before starting membersy in 2015 I was fired from 2 jobs and told numerous times I wasn’t qualified enough for the position I wanted). All you need is a great attitude and a willingness to embrace the grind. The rest will take care of itself.\n\nShoot me a DM if you’re interested in joining one of the fastest growing companies in #Austin. You never know, that simple DM could be the start of your new career. 🤙🏼",
+      "totalReactionCount": 62,
+      "likeCount": 61,
+      "empathyCount": 1,
+      "commentsCount": 7,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6633068240471941120/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_austin-activity-6633068240471941120-Zon4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "5yr",
+      "postedDate": "2020-02-11 18:45:04.977 +0000 UTC",
+      "postedDateTimestamp": 1581446704977,
+      "urn": "6633068240471941120",
+      "shareUrn": "6633068239834398720",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Ashton Parkey, our rockstar Director of Marketing, is celebrating her 1-year anniversary! Ashton's passion for serving our partners and their members shows in her everyday work. #meettheteam",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6559825522132606976/",
+        "shareUrl": "https://www.linkedin.com/posts/membersy_meettheteam-activity-6559825522132606976-QG0_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2019-07-24 16:04:40.141 +0000 UTC",
+        "postedDateTimestamp": 1563984280141,
+        "urn": "6559825522132606976",
+        "author": {},
+        "image": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_20/feedshare-shrink_20/0/1563984275620?e=1769644800&v=beta&t=n-Mfs_sVQ_AM9lmHEHPVkbQX9exsBuKZ34XPfDQa0e0",
+            "width": 20,
+            "height": 10
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_1280/feedshare-shrink_1280/0/1563984275585?e=1769644800&v=beta&t=tjm6a-59blldQ90A_gJzFwE003DUuAENqNHtBnEJZhA",
+            "width": 1200,
+            "height": 628
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_480/feedshare-shrink_480/0/1563984275581?e=1769644800&v=beta&t=K1_mD3_sEXqB6IZqn5yTCHpXo_nBPXDLofYTGho_Sz8",
+            "width": 480,
+            "height": 251
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_160/feedshare-shrink_160/0/1563984279043?e=1769644800&v=beta&t=Obl0xdGWfXuguo_BatySqJzze-2blVzVzTyA2N6DOIY",
+            "width": 160,
+            "height": 84
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_800/feedshare-shrink_800/0/1563984275779?e=1769644800&v=beta&t=SWbYjtziLL7mqqhaBFBjFibZjzN9znynwj4NNWH1npw",
+            "width": 800,
+            "height": 419
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_8192/feedshare-shrink_8192/0/1563984275805?e=1769644800&v=beta&t=Qkz01pjNdKX3ejfT5aFTJB0MpZ14lxVdHDGyz0G6wlg",
+            "width": 1200,
+            "height": 628
+          }
+        ],
+        "images": [
+          [
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_20/feedshare-shrink_20/0/1563984275620?e=1769644800&v=beta&t=n-Mfs_sVQ_AM9lmHEHPVkbQX9exsBuKZ34XPfDQa0e0",
+              "width": 20,
+              "height": 10
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_1280/feedshare-shrink_1280/0/1563984275585?e=1769644800&v=beta&t=tjm6a-59blldQ90A_gJzFwE003DUuAENqNHtBnEJZhA",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_480/feedshare-shrink_480/0/1563984275581?e=1769644800&v=beta&t=K1_mD3_sEXqB6IZqn5yTCHpXo_nBPXDLofYTGho_Sz8",
+              "width": 480,
+              "height": 251
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_160/feedshare-shrink_160/0/1563984279043?e=1769644800&v=beta&t=Obl0xdGWfXuguo_BatySqJzze-2blVzVzTyA2N6DOIY",
+              "width": 160,
+              "height": 84
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_800/feedshare-shrink_800/0/1563984275779?e=1769644800&v=beta&t=SWbYjtziLL7mqqhaBFBjFibZjzN9znynwj4NNWH1npw",
+              "width": 800,
+              "height": 419
+            },
+            {
+              "url": "https://media.licdn.com/dms/image/v2/C4E22AQGCB04jK-adsg/feedshare-shrink_8192/feedshare-shrink_8192/0/1563984275805?e=1769644800&v=beta&t=Qkz01pjNdKX3ejfT5aFTJB0MpZ14lxVdHDGyz0G6wlg",
+              "width": 1200,
+              "height": 628
+            }
+          ]
+        ],
+        "company": {
+          "name": "Membersy",
+          "url": "https://www.linkedin.com/company/membersy/",
+          "urn": "urn:li:fsd_company:35628094",
+          "username": "membersy",
+          "companyLogo": [
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_200_200/company-logo_200_200/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=HHUuuMIdYIBX4oIvJxP7XxwVF6slInPGuzQqYEoJTTQ"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_100_100/company-logo_100_100/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=XSQHtkqoyGR_eCeND6r-oCOwGjPq5dHECmpiai4Cif4"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs"
+            }
+          ]
+        },
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "image",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "The most rewarding part of being a CEO is to see individuals thrive as employees. Congrats to Ashton Parkey, Director of Marketing at membersy, on her 1-year work anniversary! #teamwork",
+      "totalReactionCount": 4,
+      "likeCount": 4,
+      "commentsCount": 1,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6560187206487588864/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_meettheteam-activity-6560187206487588864-3e2G?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "6yr",
+      "postedDate": "2019-07-25 16:01:52.411 +0000 UTC",
+      "postedDateTimestamp": 1564070512411,
+      "reposted": true,
+      "urn": "6560187206487588864",
+      "shareUrn": "6560187206084939778",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Ashton",
+          "lastName": "Parkey",
+          "urn": "ACoAAB1raO0Bw-PpesSPBPODBuD0VrxXCg6Dm3g",
+          "publicIdentifier": "ashtontparkey"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 35628094,
+          "name": "Membersy",
+          "publicIdentifier": "membersy",
+          "url": "https://www.linkedin.com/company/membersy/"
+        }
+      ]
+    },
+    {
+      "isBrandPartnership": false,
+      "text": "Looks like #dentistry isn’t the only new industry realizing the value of professionally administered membership plans. Check out this recent article from TechCrunch about Lyft’s new membership plan:",
+      "totalReactionCount": 20,
+      "likeCount": 20,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6400040459212779520/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_lyfts-monthly-subscription-plan-gets-a-waitlist-activity-6400040459212779520-4MAl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "7yr",
+      "postedDate": "2018-05-09 17:55:52.478 +0000 UTC",
+      "postedDateTimestamp": 1525888552478,
+      "urn": "6400040459212779520",
+      "shareUrn": "6400040458684289024",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "article",
+      "article": {
+        "title": "Lyft's monthly subscription plan gets a waitlist",
+        "subtitle": "social.techcrunch.com",
+        "link": "http://social.techcrunch.com/2018/05/09/lyfts-monthly-subscription-plan-gets-a-waitlist/",
+        "image": [
+          {
+            "width": 600,
+            "height": 600,
+            "url": "https://media.licdn.com/dms/image/v2/C4D34AQGAQm7I-NePRw/ugc-proxy-shrink_1280_800/ugc-proxy-shrink_1280_800/0/1594128921996?e=1768586400&v=beta&t=dUa_SwDj4HeHFB5RkPKeO4v0wSa2sQnUbSKJyXaWDPk"
+          },
+          {
+            "width": 480,
+            "height": 480,
+            "url": "https://media.licdn.com/dms/image/v2/C4D34AQGAQm7I-NePRw/ugc-proxy-shrink_480/ugc-proxy-shrink_480/0/1594128921996?e=1768586400&v=beta&t=I_h_VyOv6sOtfJOBAZDCdLSYvEaqORW4PvEV5ZYetKA"
+          },
+          {
+            "width": 160,
+            "height": 160,
+            "url": "https://media.licdn.com/dms/image/v2/C4D34AQGAQm7I-NePRw/ugc-proxy-shrink_160/ugc-proxy-shrink_160/0/1594128921996?e=1768586400&v=beta&t=HXwXI7TOzA2KAsbY5uSUIFvb91Anf16m2608fdPUUAk"
+          },
+          {
+            "width": 600,
+            "height": 600,
+            "url": "https://media.licdn.com/dms/image/v2/C4D34AQGAQm7I-NePRw/ugc-proxy-shrink_800/ugc-proxy-shrink_800/0/1594128921996?e=1768586400&v=beta&t=QrA0rJiXm5ygVnbUPPTt0NNlgeuQ_vnjJssJBTDWjMk"
+          }
+        ],
+        "newsletter": {}
+      },
+      "entity": {},
+      "companyMentions": [
+        {
+          "id": 85562,
+          "name": "TechCrunch",
+          "publicIdentifier": "techcrunch",
+          "url": "https://www.linkedin.com/company/techcrunch/"
+        },
+        {
+          "id": 2620735,
+          "name": "Lyft",
+          "publicIdentifier": "lyft",
+          "url": "https://www.linkedin.com/company/lyft/"
+        }
+      ]
+    },
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "Did you know that these are the best US cities for young entrepreneurs? https://virg.in/7kGia",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6167011525266534400/",
+        "shareUrl": "https://www.linkedin.com/posts/rbranson_research-reveals-the-best-us-cities-for-young-activity-6167011525266534400--Gd3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+        "postedDate": "2016-08-04 17:02:05.157 +0000 UTC",
+        "postedDateTimestamp": 1470330125157,
+        "urn": "6167011525266534400",
+        "author": {
+          "firstName": "Richard",
+          "lastName": "Branson",
+          "headline": "Founder at Virgin Group",
+          "username": "rbranson",
+          "url": "https://www.linkedin.com/in/rbranson",
+          "profilePictures": [
+            {
+              "width": 100,
+              "height": 100,
+              "url": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1625181963183?e=1769644800&v=beta&t=kxpDgOaClfYgPM5M6MJV5kMunaLQLC4-EFnWbTBt0iE"
+            },
+            {
+              "width": 200,
+              "height": 200,
+              "url": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1625181963183?e=1769644800&v=beta&t=eLiPgQ6Ll_5ZZcKdtZ8BbV08yLa3FEAyOaIXVHYEKuI"
+            },
+            {
+              "width": 400,
+              "height": 400,
+              "url": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1625181963183?e=1769644800&v=beta&t=rAZpgawo0DUtzjRaTJy92-_-RIgyyraTffMuO5BqsAE"
+            },
+            {
+              "width": 800,
+              "height": 800,
+              "url": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1625181963183?e=1769644800&v=beta&t=S0NqfZPhOrENtWcBQe3jBWkrHpqKh_nTGCxxiDWXOXg"
+            }
+          ]
+        },
+        "company": {},
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "article",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "Shout out to Austin, TX!  We're glad to call this innovative, business friendly city our home base - we just love it here!",
+      "totalReactionCount": 3,
+      "likeCount": 3,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6167015832346963969/",
+      "shareUrl": "https://www.linkedin.com/posts/eric-johnson-atx_research-reveals-the-best-us-cities-for-young-activity-6167015832346963969-FXzb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkafPIBxcEoXYxnhnqnm22RYxjZ_Uac9Fo",
+      "postedAt": "9yr",
+      "postedDate": "2016-08-04 17:19:12.045 +0000 UTC",
+      "postedDateTimestamp": 1470331152045,
+      "reposted": true,
+      "urn": "6167015832346963969",
+      "shareUrn": "6167015832359550976",
+      "author": {
+        "id": 438634185,
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "headline": "CCO | Arini",
+        "username": "eric-johnson-atx",
+        "url": "https://www.linkedin.com/in/eric-johnson-atx",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU"
+          },
+          {
+            "width": 545,
+            "height": 545,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI"
+          }
+        ],
+        "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {}
+    }
+  ],
+  "paginationToken": "dXJuOmxpOmFjdGl2aXR5OjYxMzE0ODkzMTY2OTE1MzM4MjUtMTQ2MTg2MDk3MDY5MA=="
+}

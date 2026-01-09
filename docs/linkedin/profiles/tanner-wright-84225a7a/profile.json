@@ -1,0 +1,952 @@
+{
+  "id": 281302322,
+  "urn": "ACoAABDEVTIBUE06hAt--0PwvhRttvS26XMqe48",
+  "username": "tanner-wright-84225a7a",
+  "firstName": "Tanner",
+  "lastName": "Wright",
+  "isPremium": false,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/C4E03AQG2hFpZdvNu4A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516703153329?e=1769644800&v=beta&t=cAtX3ftNEsOY3GT0vBUpJ66GYnFeYWcoU8BN8Tz_48g",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQG2hFpZdvNu4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516703153331?e=1769644800&v=beta&t=Tm2hCZXepUjOGm_JEg2I1-eiEc7uqTvcSVX3pHX24OE",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQG2hFpZdvNu4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516703153340?e=1769644800&v=beta&t=a8NBWHGbz4JQgpRIrGjcvpYE7sKqcQ0yDwERbFYKVME",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQG2hFpZdvNu4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516703153404?e=1769644800&v=beta&t=inkt6u0C8fsRdvT33U9nkoqe3yBB1J57NRQB2Ttv5C8",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQG2hFpZdvNu4A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516703153329?e=1769644800&v=beta&t=cAtX3ftNEsOY3GT0vBUpJ66GYnFeYWcoU8BN8Tz_48g",
+      "width": 450,
+      "height": 450
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQEdv-ypgsHXng/profile-displaybackgroundimage-shrink_200_800/B56Zb40Ex.HgAY-/0/1747931123214?e=1769644800&v=beta&t=KSO6KnK_wJhh2CIVSe_JUGjb2FeQUK_l7lKZF3NLkX4"
+    },
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQEdv-ypgsHXng/profile-displaybackgroundimage-shrink_350_1400/B56Zb40Ex.HgAc-/0/1747931123214?e=1769644800&v=beta&t=lK2Lc411ahs4K2k8x1T_54sIBMlvuT_HbyyoYOKUBUs"
+    }
+  ],
+  "summary": "I'm a seasoned Customer Success Manager People Leader with 9 years of experience in building customer loyalty in the Healthcare Industry. I'm passionate about working with my customers to drive results and increase ROI, and I've spent the last 5 years helping grow Weaves' customer base by 200% while keeping customer churn at an all-time low and the last year helping JobNimbus grow their first CSM team.",
+  "headline": "Customer Success Leader | People Obsessed | Optimistic Lions Fan",
+  "geo": {
+    "country": "United States",
+    "city": "Salt Lake City, Utah",
+    "full": "Salt Lake City, Utah, United States",
+    "countryCode": "us"
+  },
+  "languages": [
+    {
+      "name": "Portuguese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 2009,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "International/Global Studies",
+      "degree": "Bachelor of Arts (BA)",
+      "grade": "",
+      "schoolName": "Utah State University",
+      "description": "",
+      "activities": "Homecoming Chair, Mr. USU Participant, Latter-Day Voices, ASUSU Member, Volunteer at Val R Christensen Service Center",
+      "url": "https://www.linkedin.com/school/utah-state-university/",
+      "schoolId": "7812",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_200_200/company-logo_200_200/0/1630669263556/utah_state_university_logo?e=1769644800&v=beta&t=bPgJ5DopPU0HOSLMn-3yQzPv470MOejXZ7ebtCNAp44",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630669263579/utah_state_university_logo?e=1769644800&v=beta&t=9Z5dWLSrzz7deETFg7rivDD_8BuPEN-d8-W1wMhhgVM",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_200_200-alternative/company-logo_200_200-alternative/0/1630669263579/utah_state_university_logo?e=1769644800&v=beta&t=0fWRVQuaW97mRdqCDlU2fTMWurokH6uTdck8cznGUKc",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_100_100/company-logo_100_100/0/1630669263556/utah_state_university_logo?e=1769644800&v=beta&t=ue3_beQywnTupBXe6vuXwqbKJCTgikeTiSx4OJTPH6M",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_400_400-alternative/company-logo_400_400-alternative/0/1630669263579/utah_state_university_logo?e=1769644800&v=beta&t=zjB6CwMNEJoCJV6HCn8WDcpH8b7ejOf40V9uZaSj3y0",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_400_400/company-logo_400_400/0/1630669263556/utah_state_university_logo?e=1769644800&v=beta&t=ie85QsJz3U32FAPc7rmk6qShf4ovW9QUvCrBmomkQeY",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Head of Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Head of Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18530469,
+      "companyName": "Peerlogic",
+      "companyUsername": "peerlogic",
+      "companyURL": "https://www.linkedin.com/company/peerlogic/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGup9KFjSM8Pg/company-logo_400_400/B56ZU_HJvbHQAg-/0/1740520594818/peerlogic_logo?e=1769644800&v=beta&t=9BI1Dk2lsTMIQYBfK7GuDRhY3WKKlcLJWDjGM1Bm1ow",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Director of Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Director of Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Peerlogic"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2455555,
+      "companyName": "JobNimbus",
+      "companyUsername": "jobnimbus",
+      "companyURL": "https://www.linkedin.com/company/jobnimbus/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFSqNGMpLfZLw/company-logo_400_400/company-logo_400_400/0/1724700914947/jobnimbus_logo?e=1769644800&v=beta&t=XyVvHwuIAN2Iv4AafbBsAqIkXXL46PYD_o67FLYxEzQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Manager, Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Manager, Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "JobNimbus"
+      },
+      "location": "Lehi, Utah, United States",
+      "locationType": "",
+      "description": "-Manage a team of 11 CSMs with a range of enterprise, SMB, and one to many roles\n-Helped create and start the CSM motion at JobNimbus\n-Over implementation and maintaining an accurate customer health score",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1271877,
+      "companyName": "Weave HQ",
+      "companyUsername": "getweave",
+      "companyURL": "https://www.linkedin.com/company/getweave/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE5qU-CsUolLQ/company-logo_400_400/company-logo_400_400/0/1660170006736?e=1769644800&v=beta&t=71UHVk0y7Uh1SvdXADpoRfcl5CPmpaYqIYUwJLJXXXY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Manager of Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Manager of Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Weave HQ"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1271877,
+      "companyName": "Weave HQ",
+      "companyUsername": "getweave",
+      "companyURL": "https://www.linkedin.com/company/getweave/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE5qU-CsUolLQ/company-logo_400_400/company-logo_400_400/0/1660170006736?e=1769644800&v=beta&t=71UHVk0y7Uh1SvdXADpoRfcl5CPmpaYqIYUwJLJXXXY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Team Lead - Customer Success Manager",
+      "multiLocaleTitle": {
+        "en_US": "Team Lead - Customer Success Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Weave HQ"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "- Lead two teams consisting of 10 CSMs total\n- Created and hired a new team, the CSM Engagement team, which is responsible for training all current customers.\n- Created new hire training material for CSMs.\n- Responsible for creating multiple email drip campaigns for Weaves one to many approach.\n- Implemented Gainsight for both teams.",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1271877,
+      "companyName": "Weave HQ",
+      "companyUsername": "getweave",
+      "companyURL": "https://www.linkedin.com/company/getweave/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE5qU-CsUolLQ/company-logo_400_400/company-logo_400_400/0/1660170006736?e=1769644800&v=beta&t=71UHVk0y7Uh1SvdXADpoRfcl5CPmpaYqIYUwJLJXXXY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Senior Customer Success Manager",
+      "multiLocaleTitle": {
+        "en_US": "Senior Customer Success Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Weave HQ"
+      },
+      "location": "Lehi, Utah",
+      "locationType": "",
+      "description": "- Worked to drive customer loyalty and helped them see Weaves ROI via daily calls and quarterly business reviews.\n- Helped create and implement a new structure in Weaves CSM team to adapt and scale our customer experience while keeping our CSM count low. \n- Was one of the first team members in our newly created proactive team that helped own the proactive touches and responsibilities for all Weave customers.",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 1,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1340972,
+      "companyName": "Prosper Healthcare Lending",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Senior Activation Manager",
+      "multiLocaleTitle": {
+        "en_US": "Senior Activation Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Prosper Healthcare Lending"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "- Created a brand new team responsible for activating new customers post-sales\n- Managed a portfolio of 50-100 customers \n- Helped create the implementation plan of Gainsight for our activation team and 20 Customer Success Managers\n- Created material for the training team \n- Created material for Customer Success Manager team\n- Hosted live videos and trainings on a daily basis for current customers.\n- Helped to streamline customer path",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2016,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1340972,
+      "companyName": "Prosper Healthcare Lending",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Customer Success Manager",
+      "multiLocaleTitle": {
+        "en_US": "Customer Success Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Prosper Healthcare Lending"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "-Provide coaching and education to improve adoption of the Prosper product by each and every customer\n-Deliver best practices to customers to help improve their overall experience with Prosper\n-Build value-based relationships with customers ensuring that they remain Prosper customers\n-Proactively manage 150 accounts through weekly touch points and quarterly business reviews",
+      "employmentType": "",
+      "start": {
+        "year": 2014,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Romney Services Inc.",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "V.P. of Recruiting and Marketing",
+      "multiLocaleTitle": {
+        "en_US": "V.P. of Recruiting and Marketing"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Romney Services Inc."
+      },
+      "location": "",
+      "locationType": "",
+      "description": "-Executed 60-100 daily cold calls to increase client base.\n-Matched product features based on analysis of customers' needs.\n-Successfully managed a sales team of 7 sales consultants.\n-Promoted sales through successfully responding to customers' questions regarding products, prices and availability.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Foresight",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Marketing Intern",
+      "multiLocaleTitle": {
+        "en_US": "Marketing Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Foresight"
+      },
+      "location": "Logan, UT",
+      "locationType": "",
+      "description": "-Led Foresight to create new marketing intern position to help assist in their growing humanitarian effort in the African country of Ethiopia.\n-Created the monthly newsletter program which reached out to sponsors of the program and increased sponsorships by %100.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 7812,
+      "companyName": "Utah State University",
+      "companyUsername": "utah-state-university",
+      "companyURL": "https://www.linkedin.com/school/utah-state-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_400_400/company-logo_400_400/0/1630669263556/utah_state_university_logo?e=1769644800&v=beta&t=ie85QsJz3U32FAPc7rmk6qShf4ovW9QUvCrBmomkQeY",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Academic Senate President",
+      "multiLocaleTitle": {
+        "en_US": "Academic Senate President"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Utah State University"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "The USUSA Academic Senate works to enhance the quality of academic life for students at Utah State University. The students of each college on campus are represented by a senator who sits as a voting member of the Academic Senate. As president I chaired our weekly meetings and acted as the primary liaison between the students and faculty, specifically The Provost.",
+      "employmentType": "",
+      "start": {
+        "year": 2010,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Head of Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Head of Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18530469,
+      "companyName": "Peerlogic",
+      "companyUsername": "peerlogic",
+      "companyURL": "https://www.linkedin.com/company/peerlogic/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGup9KFjSM8Pg/company-logo_400_400/B56ZU_HJvbHQAg-/0/1740520594818/peerlogic_logo?e=1769644800&v=beta&t=9BI1Dk2lsTMIQYBfK7GuDRhY3WKKlcLJWDjGM1Bm1ow",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Director of Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Director of Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Peerlogic"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2455555,
+      "companyName": "JobNimbus",
+      "companyUsername": "jobnimbus",
+      "companyURL": "https://www.linkedin.com/company/jobnimbus/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFSqNGMpLfZLw/company-logo_400_400/company-logo_400_400/0/1724700914947/jobnimbus_logo?e=1769644800&v=beta&t=XyVvHwuIAN2Iv4AafbBsAqIkXXL46PYD_o67FLYxEzQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Manager, Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Manager, Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "JobNimbus"
+      },
+      "location": "Lehi, Utah, United States",
+      "locationType": "",
+      "description": "-Manage a team of 11 CSMs with a range of enterprise, SMB, and one to many roles\n-Helped create and start the CSM motion at JobNimbus\n-Over implementation and maintaining an accurate customer health score",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1271877,
+      "companyName": "Weave HQ",
+      "companyUsername": "getweave",
+      "companyURL": "https://www.linkedin.com/company/getweave/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE5qU-CsUolLQ/company-logo_400_400/company-logo_400_400/0/1660170006736?e=1769644800&v=beta&t=71UHVk0y7Uh1SvdXADpoRfcl5CPmpaYqIYUwJLJXXXY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Manager of Customer Success",
+      "multiLocaleTitle": {
+        "en_US": "Manager of Customer Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Weave HQ"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1271877,
+      "companyName": "Weave HQ",
+      "companyUsername": "getweave",
+      "companyURL": "https://www.linkedin.com/company/getweave/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE5qU-CsUolLQ/company-logo_400_400/company-logo_400_400/0/1660170006736?e=1769644800&v=beta&t=71UHVk0y7Uh1SvdXADpoRfcl5CPmpaYqIYUwJLJXXXY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Team Lead - Customer Success Manager",
+      "multiLocaleTitle": {
+        "en_US": "Team Lead - Customer Success Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Weave HQ"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "- Lead two teams consisting of 10 CSMs total\n- Created and hired a new team, the CSM Engagement team, which is responsible for training all current customers.\n- Created new hire training material for CSMs.\n- Responsible for creating multiple email drip campaigns for Weaves one to many approach.\n- Implemented Gainsight for both teams.",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1271877,
+      "companyName": "Weave HQ",
+      "companyUsername": "getweave",
+      "companyURL": "https://www.linkedin.com/company/getweave/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE5qU-CsUolLQ/company-logo_400_400/company-logo_400_400/0/1660170006736?e=1769644800&v=beta&t=71UHVk0y7Uh1SvdXADpoRfcl5CPmpaYqIYUwJLJXXXY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Senior Customer Success Manager",
+      "multiLocaleTitle": {
+        "en_US": "Senior Customer Success Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Weave HQ"
+      },
+      "location": "Lehi, Utah",
+      "locationType": "",
+      "description": "- Worked to drive customer loyalty and helped them see Weaves ROI via daily calls and quarterly business reviews.\n- Helped create and implement a new structure in Weaves CSM team to adapt and scale our customer experience while keeping our CSM count low. \n- Was one of the first team members in our newly created proactive team that helped own the proactive touches and responsibilities for all Weave customers.",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 1,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1340972,
+      "companyName": "Prosper Healthcare Lending",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Senior Activation Manager",
+      "multiLocaleTitle": {
+        "en_US": "Senior Activation Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Prosper Healthcare Lending"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "- Created a brand new team responsible for activating new customers post-sales\n- Managed a portfolio of 50-100 customers \n- Helped create the implementation plan of Gainsight for our activation team and 20 Customer Success Managers\n- Created material for the training team \n- Created material for Customer Success Manager team\n- Hosted live videos and trainings on a daily basis for current customers.\n- Helped to streamline customer path",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2016,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1340972,
+      "companyName": "Prosper Healthcare Lending",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Customer Success Manager",
+      "multiLocaleTitle": {
+        "en_US": "Customer Success Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Prosper Healthcare Lending"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "-Provide coaching and education to improve adoption of the Prosper product by each and every customer\n-Deliver best practices to customers to help improve their overall experience with Prosper\n-Build value-based relationships with customers ensuring that they remain Prosper customers\n-Proactively manage 150 accounts through weekly touch points and quarterly business reviews",
+      "employmentType": "",
+      "start": {
+        "year": 2014,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Romney Services Inc.",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "V.P. of Recruiting and Marketing",
+      "multiLocaleTitle": {
+        "en_US": "V.P. of Recruiting and Marketing"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Romney Services Inc."
+      },
+      "location": "",
+      "locationType": "",
+      "description": "-Executed 60-100 daily cold calls to increase client base.\n-Matched product features based on analysis of customers' needs.\n-Successfully managed a sales team of 7 sales consultants.\n-Promoted sales through successfully responding to customers' questions regarding products, prices and availability.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Foresight",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Marketing Intern",
+      "multiLocaleTitle": {
+        "en_US": "Marketing Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Foresight"
+      },
+      "location": "Logan, UT",
+      "locationType": "",
+      "description": "-Led Foresight to create new marketing intern position to help assist in their growing humanitarian effort in the African country of Ethiopia.\n-Created the monthly newsletter program which reached out to sponsors of the program and increased sponsorships by %100.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 7812,
+      "companyName": "Utah State University",
+      "companyUsername": "utah-state-university",
+      "companyURL": "https://www.linkedin.com/school/utah-state-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHeAGY3U3E3MQ/company-logo_400_400/company-logo_400_400/0/1630669263556/utah_state_university_logo?e=1769644800&v=beta&t=ie85QsJz3U32FAPc7rmk6qShf4ovW9QUvCrBmomkQeY",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Academic Senate President",
+      "multiLocaleTitle": {
+        "en_US": "Academic Senate President"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Utah State University"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "The USUSA Academic Senate works to enhance the quality of academic life for students at Utah State University. The students of each college on campus are represented by a senator who sits as a voting member of the Academic Senate. As president I chaired our weekly meetings and acted as the primary liaison between the students and faculty, specifically The Provost.",
+      "employmentType": "",
+      "start": {
+        "year": 2010,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 46
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 30
+    },
+    {
+      "name": "Training",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 15
+    },
+    {
+      "name": "Public Speaking",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 36
+    },
+    {
+      "name": "Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Sales",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Microsoft Office",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 24
+    },
+    {
+      "name": "Recruiting",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Social Networking",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Event Planning",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "PowerPoint",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Team Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 11
+    },
+    {
+      "name": "Microsoft Excel",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Marketing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 5
+    },
+    {
+      "name": "Facebook",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 11
+    },
+    {
+      "name": "Teamwork",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Microsoft Word",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    },
+    {
+      "name": "Time Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Social Media",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 5
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Customer Success Manager (CCSM) Level 1",
+      "start": {
+        "year": 2018,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 10,
+        "day": 0
+      },
+      "authority": "SuccessHACKER",
+      "company": {
+        "name": "SuccessHACKER",
+        "universalName": "successhacker",
+        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFiPdGVBY-Dbw/company-logo_200_200/company-logo_200_200/0/1634695699042/successhacker_logo?e=1769644800&v=beta&t=uMSdCADj9fRmtNPxbwGEKvlIFuL0-G1FQimtGVpb-6g",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    }
+  ],
+  "projects": {},
+  "volunteering": [
+    {
+      "title": "Missionary",
+      "start": {
+        "year": 2007,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2009,
+        "month": 7,
+        "day": 0
+      },
+      "companyName": "The Church of Jesus Christ of Latter-day Saints",
+      "CompanyId": "4711",
+      "companyUrl": "https://www.linkedin.com/company/4711",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGVCbMXKnAzvQ/company-logo_400_400/company-logo_400_400/0/1735862355195/the_church_of_jesus_christ_of_latter_day_saints___logo?e=1769644800&v=beta&t=ulq3EcuTsD9OSt3FNRE1ojpF_Ow0pdvLV6xHDCSP-WQ"
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Tanner"
+  },
+  "multiLocaleLastName": {
+    "en": "Wright"
+  },
+  "multiLocaleHeadline": {
+    "en": "Customer Success Leader | People Obsessed | Optimistic Lions Fan"
+  },
+  "multiLocaleSummary": {
+    "en": "I'm a seasoned Customer Success Manager People Leader with 9 years of experience in building customer loyalty in the Healthcare Industry. I'm passionate about working with my customers to drive results and increase ROI, and I've spent the last 5 years helping grow Weaves' customer base by 200% while keeping customer churn at an all-time low and the last year helping JobNimbus grow their first CSM team."
+  }
+}

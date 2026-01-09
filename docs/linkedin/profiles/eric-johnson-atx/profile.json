@@ -1,0 +1,697 @@
+{
+  "id": 438634185,
+  "urn": "ACoAABolBskBec_-_PQ8PFB6wrCeoSMQoPHjCAU",
+  "username": "eric-johnson-atx",
+  "firstName": "Eric",
+  "lastName": "Johnson",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594097416980?e=1769644800&v=beta&t=mM5GvdAn2DuU6m-f19Fl4ZYdYQ6x5hxafjZyxYqaTlQ",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1594097416980?e=1769644800&v=beta&t=7ZebnvKjt3fngMEh6Sel9pDVu_Wqv7_2QoDCrUBZWhI",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1594097416980?e=1769644800&v=beta&t=oSWkHItZNFR5apr-uNHS7DcSqfXUK2GXdTfG2713wFU",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C4E03AQEaHbJbnmcUoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1594097416980?e=1769644800&v=beta&t=GUsE007EAppn21jZ2Hs2oOwW9BczE9qQ5r3tOGZyPeI",
+      "width": 545,
+      "height": 545
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQHrQXbe0dQpdQ/profile-displaybackgroundimage-shrink_200_800/B56ZhmRjvKG4Ac-/0/1754062536363?e=1769644800&v=beta&t=y5oSANruJsk0o5lG0cgK3g13diYN3fh27C7RjGz26uw"
+    },
+    {
+      "width": 1128,
+      "height": 282,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQHrQXbe0dQpdQ/profile-displaybackgroundimage-shrink_350_1400/B56ZhmRjvKG4Ag-/0/1754062536363?e=1769644800&v=beta&t=rPG9fFXCxoDh55Vo6ajXyvdasDeWmwH2lo7pO47f2Ys"
+    }
+  ],
+  "summary": "CCO at Arini, a full-service AI Transformation Partner for growing dental enterprises, practices, and teams. Founder of Membersy (now branded Clerri), the country's first and largest dental subscription management and plan design platform for dentists and DSOs. Seed investor in a handful of innovative startups run by committed founders with visions I believe in. Philanthropist supporting some awesome non-profits trying to drive positive change in the world.",
+  "headline": "CCO | Arini",
+  "geo": {
+    "country": "United States",
+    "city": "Austin, Texas",
+    "full": "Austin, Texas, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2007,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2009,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "Political Science",
+      "grade": "",
+      "schoolName": "University of North Texas",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/northtexas/",
+      "schoolId": "6464",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQEWg2OaOf8MSg/company-logo_200_200/company-logo_200_200/0/1630635492658/northtexas_logo?e=1769644800&v=beta&t=ak5F0Z522HkrH3xgZQSaReBA48myg13c--w_v9xdePA",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQEWg2OaOf8MSg/company-logo_100_100/company-logo_100_100/0/1630635492658/northtexas_logo?e=1769644800&v=beta&t=hi0v4Bv4J8NQx-4G4k2Ice_FYK8kRrTw2faMepkzWOw",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQEWg2OaOf8MSg/company-logo_400_400/company-logo_400_400/0/1630635492658/northtexas_logo?e=1769644800&v=beta&t=jtsnmc4ECElOqa4tN-gaYff2_ja-fhU5mwFpJ7Kqz58",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2005,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2007,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "Political Science",
+      "grade": "",
+      "schoolName": "Southern Methodist University",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/smudallas/",
+      "schoolId": "5515",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_200_200/company-logo_200_200/0/1735922305631/smudallas_logo?e=1769644800&v=beta&t=wzpgB68UoW7NkS_ENlJ17btA20vNHAf2E4ktTZKDCMs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_100_100/company-logo_100_100/0/1735922305631/smudallas_logo?e=1769644800&v=beta&t=59gd6DJEz712mACK_EiCi1YZhXPh7A-g0N8krRoo2Dw",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_400_400/company-logo_400_400/0/1735922305631/smudallas_logo?e=1769644800&v=beta&t=inT5pnVf07kDk-eVtT8RAJY0EIqBRonTk03CW-y64ec",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Southern Methodist University",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/smudallas/",
+      "schoolId": "5515",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_200_200/company-logo_200_200/0/1735922305631/smudallas_logo?e=1769644800&v=beta&t=wzpgB68UoW7NkS_ENlJ17btA20vNHAf2E4ktTZKDCMs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_100_100/company-logo_100_100/0/1735922305631/smudallas_logo?e=1769644800&v=beta&t=59gd6DJEz712mACK_EiCi1YZhXPh7A-g0N8krRoo2Dw",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGEEtZebsFPhA/company-logo_400_400/company-logo_400_400/0/1735922305631/smudallas_logo?e=1769644800&v=beta&t=inT5pnVf07kDk-eVtT8RAJY0EIqBRonTk03CW-y64ec",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Chief Commercial Officer (CCO)",
+      "multiLocaleTitle": {
+        "en_US": "Chief Commercial Officer (CCO)"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "Arini is a full-service AI Transformation Partner for growing dental enterprises, practices, and teams. We bring together deep domain expertise and the best AI-native engineering talent for our clients as they constantly reinvent their operations and patient interactions with the application of advanced AI.",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35628094,
+      "companyName": "Membersy",
+      "companyUsername": "membersy",
+      "companyURL": "https://www.linkedin.com/company/membersy/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder & Board Observer",
+      "multiLocaleTitle": {
+        "en_US": "Founder & Board Observer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Membersy"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2024,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35628094,
+      "companyName": "Membersy",
+      "companyUsername": "membersy",
+      "companyURL": "https://www.linkedin.com/company/membersy/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder & Principal Owner",
+      "multiLocaleTitle": {
+        "en_US": "Founder & Principal Owner"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Membersy"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35628094,
+      "companyName": "membersy",
+      "companyUsername": "membersy",
+      "companyURL": "https://www.linkedin.com/company/membersy/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder & CEO",
+      "multiLocaleTitle": {
+        "en_US": "Founder & CEO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "membersy"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3053483,
+      "companyName": "The CDI Group, Inc.",
+      "companyUsername": "coastal-dental-inc-",
+      "companyURL": "https://www.linkedin.com/company/coastal-dental-inc-/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGz5msJot57AQ/company-logo_400_400/company-logo_400_400/0/1630638638798/coastal_dental_inc__logo?e=1769644800&v=beta&t=RjFbDaRhYirqKHrOLDeHubG3p5dGJDW57DBW2C0tnpI",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Director of Strategic Partnerships",
+      "multiLocaleTitle": {
+        "en_US": "Director of Strategic Partnerships"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "The CDI Group, Inc."
+      },
+      "location": "Santa Barbara, California",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 444599,
+      "companyName": "WellDyne",
+      "companyUsername": "welldynerx",
+      "companyURL": "https://www.linkedin.com/company/welldynerx/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQE4hY8iLAe8yw/company-logo_400_400/company-logo_400_400/0/1630577302969/welldynerx_logo?e=1769644800&v=beta&t=gU1RY82t1iOoJFD4CWwmUuks-i9R6omthYSpxGPiJ2Q",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Growth Consultant",
+      "multiLocaleTitle": {
+        "en_US": "Growth Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "WellDyne"
+      },
+      "location": "Dallas, Texas",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35830,
+      "companyName": "Careington International Corporation",
+      "companyUsername": "careington-international-corporation",
+      "companyURL": "https://www.linkedin.com/company/careington-international-corporation/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGOzi5p_MhR0w/company-logo_400_400/company-logo_400_400/0/1631304034425?e=1769644800&v=beta&t=HMQPp5ag-d6fsztYrk1oiGcwDkSQfpf3eYlHZbILZOk",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "201 - 500",
+      "title": "National Sales Manager",
+      "multiLocaleTitle": {
+        "en_US": "National Sales Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Careington International Corporation"
+      },
+      "location": "Frisco, Texas",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2010,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 11,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Chief Commercial Officer (CCO)",
+      "multiLocaleTitle": {
+        "en_US": "Chief Commercial Officer (CCO)"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "Arini is a full-service AI Transformation Partner for growing dental enterprises, practices, and teams. We bring together deep domain expertise and the best AI-native engineering talent for our clients as they constantly reinvent their operations and patient interactions with the application of advanced AI.",
+      "employmentType": "",
+      "start": {
+        "year": 2025,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35628094,
+      "companyName": "Membersy",
+      "companyUsername": "membersy",
+      "companyURL": "https://www.linkedin.com/company/membersy/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder & Board Observer",
+      "multiLocaleTitle": {
+        "en_US": "Founder & Board Observer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Membersy"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2024,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35628094,
+      "companyName": "Membersy",
+      "companyUsername": "membersy",
+      "companyURL": "https://www.linkedin.com/company/membersy/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder & Principal Owner",
+      "multiLocaleTitle": {
+        "en_US": "Founder & Principal Owner"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Membersy"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35628094,
+      "companyName": "membersy",
+      "companyUsername": "membersy",
+      "companyURL": "https://www.linkedin.com/company/membersy/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGzwIOgXGYcaQ/company-logo_400_400/company-logo_400_400/0/1715083765400/membersy_logo?e=1769644800&v=beta&t=CK1TeKXbpYr1tgX6fTmyi-4UVkD6h6Rn22I-4DEZbOs",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder & CEO",
+      "multiLocaleTitle": {
+        "en_US": "Founder & CEO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "membersy"
+      },
+      "location": "Austin, Texas, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3053483,
+      "companyName": "The CDI Group, Inc.",
+      "companyUsername": "coastal-dental-inc-",
+      "companyURL": "https://www.linkedin.com/company/coastal-dental-inc-/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGz5msJot57AQ/company-logo_400_400/company-logo_400_400/0/1630638638798/coastal_dental_inc__logo?e=1769644800&v=beta&t=RjFbDaRhYirqKHrOLDeHubG3p5dGJDW57DBW2C0tnpI",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Director of Strategic Partnerships",
+      "multiLocaleTitle": {
+        "en_US": "Director of Strategic Partnerships"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "The CDI Group, Inc."
+      },
+      "location": "Santa Barbara, California",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 444599,
+      "companyName": "WellDyne",
+      "companyUsername": "welldynerx",
+      "companyURL": "https://www.linkedin.com/company/welldynerx/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQE4hY8iLAe8yw/company-logo_400_400/company-logo_400_400/0/1630577302969/welldynerx_logo?e=1769644800&v=beta&t=gU1RY82t1iOoJFD4CWwmUuks-i9R6omthYSpxGPiJ2Q",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Growth Consultant",
+      "multiLocaleTitle": {
+        "en_US": "Growth Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "WellDyne"
+      },
+      "location": "Dallas, Texas",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 35830,
+      "companyName": "Careington International Corporation",
+      "companyUsername": "careington-international-corporation",
+      "companyURL": "https://www.linkedin.com/company/careington-international-corporation/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGOzi5p_MhR0w/company-logo_400_400/company-logo_400_400/0/1631304034425?e=1769644800&v=beta&t=HMQPp5ag-d6fsztYrk1oiGcwDkSQfpf3eYlHZbILZOk",
+      "companyIndustry": "Health, Wellness & Fitness",
+      "companyStaffCountRange": "201 - 500",
+      "title": "National Sales Manager",
+      "multiLocaleTitle": {
+        "en_US": "National Sales Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Careington International Corporation"
+      },
+      "location": "Frisco, Texas",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2010,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 11,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 43
+    },
+    {
+      "name": "Strategic Planning",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 33
+    },
+    {
+      "name": "Business Strategy",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    },
+    {
+      "name": "Strategic Partnerships",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 32
+    },
+    {
+      "name": "Revenue & Profit Growth",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "P&L Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Fundraising",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Mergers & Acquisitions (M&A)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Business Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Marketing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "Project Management",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Strategy",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Product Marketing",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Agile Methodologies",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "B2B Software",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Software as a Service (SaaS)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "FinTech",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "B2B2C",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Start-ups",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Eric"
+  },
+  "multiLocaleLastName": {
+    "en": "Johnson"
+  },
+  "multiLocaleHeadline": {
+    "en": "CCO | Arini"
+  },
+  "multiLocaleSummary": {
+    "en": "CCO at Arini, a full-service AI Transformation Partner for growing dental enterprises, practices, and teams. Founder of Membersy (now branded Clerri), the country's first and largest dental subscription management and plan design platform for dentists and DSOs. Seed investor in a handful of innovative startups run by committed founders with visions I believe in. Philanthropist supporting some awesome non-profits trying to drive positive change in the world."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "resharedPost": {
+        "isBrandPartnership": false,
+        "text": "We are growing the Arini team! Our MRR has doubled in April, and our DSOs are rolling out Arini faster than we’ve ever seen before. To support this growth, we are hiring more engineers, in person, in San Francisco! (as well as forward-deployed engineers for our largest DSOs)\n\nArini started as an inbound voice agent for DSOs and Dental Groups. This allowed us to scale to hundreds of DSOs in the past few months, and invest in building infrastructure and a framework that now allows us to deploy various types of custom agents in dental — think managing patient comms (call, text, web chat), online scheduling, performance tracking/alerting, schedule optimization, and more.\n\nThe next 5 months are going to be intense, exciting, and rewarding. We are looking for folks who can hit the ground running, go heads down on difficult scaling challenges, and build a world-class product. Dental software is known to look ugly, feel sluggish, and barely work. We are resetting the bar for the industry.\n\nPS: $10K referral bonus for any engineer we end up hiring. Mention your smartest engineer friends below or DM me their info!",
+        "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7335651562041532419/",
+        "shareUrl": "https://www.linkedin.com/posts/abduljamjoom_we-are-growing-the-arini-team-our-mrr-has-activity-7335651562041532419-M_7h?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlBvJcB_KpajR7vIY9vxZA2dC2jmJx89iA",
+        "postedDate": "2025-06-03 13:00:22.206 +0000 UTC",
+        "postedDateTimestamp": 1748955622206,
+        "urn": "7335651562041532419",
+        "author": {
+          "firstName": "Abdul",
+          "lastName": "Jamjoom",
+          "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+          "username": "abduljamjoom",
+          "url": "https://www.linkedin.com/in/abduljamjoom"
+        },
+        "company": {},
+        "document": {},
+        "celebration": {},
+        "poll": {},
+        "contentType": "post",
+        "article": {
+          "newsletter": {}
+        },
+        "entity": {}
+      },
+      "isBrandPartnership": false,
+      "text": "PSA to any engineers out there who are excited to grow with an early stage company and work on AI applications in one of the most massive and untapped markets out there--Arini is hiring!\n\nRami Rustom and our engineering team have been shipping at lightning speed, but the opportunities ahead of us continue to grow exponentially. DM me if you'd like to chat--$10k referral bonus 💸",
+      "totalReactionCount": 22,
+      "likeCount": 17,
+      "appreciationCount": 1,
+      "empathyCount": 1,
+      "praiseCount": 3,
+      "commentsCount": 2,
+      "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7335744464700760065/",
+      "shareUrl": "https://www.linkedin.com/posts/bryan-carbaugh-b03746127_we-are-growing-the-arini-team-our-mrr-has-activity-7335744464700760065-5bQC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlBvJcB_KpajR7vIY9vxZA2dC2jmJx89iA",
+      "postedAt": "7mo",
+      "postedDate": "2025-06-03 19:09:31.926 +0000 UTC",
+      "postedDateTimestamp": 1748977771926,
+      "reposted": true,
+      "urn": "7335744464700760065",
+      "shareUrn": "7335744463916478465",
+      "author": {
+        "id": 524383923,
+        "firstName": "Bryan",
+        "lastName": "Carbaugh",
+        "headline": "Head of Growth @ Arini",
+        "username": "bryan-carbaugh-b03746127",
+        "url": "https://www.linkedin.com/in/bryan-carbaugh-b03746127",
+        "profilePictures": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731452722345?e=1769644800&v=beta&t=_HQ4KAKi1tdO9M6JILipqPkIFeRQmfU-Zv3_Uq9IClw"
+          },
+          {
+            "width": 200,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731452722345?e=1769644800&v=beta&t=Ud_9ecMcH2PpEB0qgClZtGX08-lEyIuxcpNNzNlhgJw"
+          },
+          {
+            "width": 400,
+            "height": 400,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731452722345?e=1769644800&v=beta&t=5UwKZorRXlI_eVRNcJM-89QtQHaouWEwxNcgI5uRFGg"
+          },
+          {
+            "width": 800,
+            "height": 800,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQF56jHXPbxH0Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731452722369?e=1769644800&v=beta&t=bgZltkJsfm0PgckM-XchGJ9MI7cNacFVrtOA52BERQg"
+          }
+        ],
+        "urn": "ACoAAB9BdrMBPD5GIfB-GkwmI_L-Bq5K0XLswyQ"
+      },
+      "company": {},
+      "document": {},
+      "celebration": {},
+      "poll": {},
+      "contentType": "post",
+      "article": {
+        "newsletter": {}
+      },
+      "entity": {},
+      "mentions": [
+        {
+          "firstName": "Rami",
+          "lastName": "Rustom",
+          "urn": "ACoAAB5t5t8BIvrLkVj3YAx5m0mjR8j1ElTKBBE",
+          "publicIdentifier": "ramirustom"
+        }
+      ],
+      "companyMentions": [
+        {
+          "id": 100515888,
+          "name": "Arini",
+          "publicIdentifier": "ariniai",
+          "url": "https://www.linkedin.com/company/ariniai/"
+        }
+      ]
+    }
+  ],
+  "paginationToken": "dXJuOmxpOmFjdGl2aXR5OjczMzU3NDQ0NjQ3MDA3NjAwNjUtMTc0ODk3Nzc3MTkwNA=="
+}

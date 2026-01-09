@@ -1,0 +1,1002 @@
+{
+  "id": 325862255,
+  "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+  "username": "abduljamjoom",
+  "firstName": "Abdul",
+  "lastName": "Jamjoom",
+  "isPremium": true,
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQEacBHAbgVuRg/profile-displaybackgroundimage-shrink_200_800/B56ZsF02.UI4AU-/0/1765329301732?e=1769644800&v=beta&t=4oO8CHcEM62UOdLJpGNeABofUtM4j69khbpPUI0TNgY"
+    },
+    {
+      "width": 1128,
+      "height": 282,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQEacBHAbgVuRg/profile-displaybackgroundimage-shrink_350_1400/B56ZsF02.UI4AY-/0/1765329301732?e=1769644800&v=beta&t=bq8mgCrK35CTvkwixZqLfMjIqhlYT84o10lmLnzMaAU"
+    }
+  ],
+  "summary": "Building the best AI patient engagement experience for dental groups.",
+  "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "languages": [
+    {
+      "name": "Arabic",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Chinese",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science",
+      "degree": "Bachelor of Arts - BA",
+      "grade": "Junior",
+      "schoolName": "Harvard University",
+      "description": "",
+      "activities": "Harvard Computer Society\nIlluminate Global\nHarvard Undergraduate robotics Club\nHarvard Association of Arab Students\nHarvard Arab Weekend\nHarvard Financial Analyst Club",
+      "url": "https://www.linkedin.com/school/harvard-university/",
+      "schoolId": "1646",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_200_200/company-logo_200_200/0/1631318058235?e=1769644800&v=beta&t=qgTUHqAC522MN6Qeg1ciwPQXMlHag4FK-aZS1dpD2EI",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_100_100/company-logo_100_100/0/1631318058235?e=1769644800&v=beta&t=rprRqMvc11km_mWynB9Az3w0_J_n8pEARGb408kGlbs",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1769644800&v=beta&t=cjAjWroOgM71GcmUp-Lepoe9u7YWmkcFsXeGugXLACc",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science and Entreproneurship",
+      "degree": "Summer School",
+      "grade": "High School Sophomore",
+      "schoolName": "Stanford University",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/stanford-university/",
+      "schoolId": "1792",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=sqXBAbm3aQG_xr5k34yWdYXNcXUSv6IExQGhZ1fVEDg",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=Ofgp-53u91vhwisHtY3jC8KEbFk11zeFtZUFdyt83YE",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1769644800&v=beta&t=Llzs98i6BxOnAdFcd7qBlpaa7EmxuuAfpokqHcO1BX8",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science and Philosophy",
+      "degree": "Summer School",
+      "grade": "High School Junior",
+      "schoolName": "Harvard University",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/harvard-university/",
+      "schoolId": "1646",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_200_200/company-logo_200_200/0/1631318058235?e=1769644800&v=beta&t=qgTUHqAC522MN6Qeg1ciwPQXMlHag4FK-aZS1dpD2EI",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_100_100/company-logo_100_100/0/1631318058235?e=1769644800&v=beta&t=rprRqMvc11km_mWynB9Az3w0_J_n8pEARGb408kGlbs",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1769644800&v=beta&t=cjAjWroOgM71GcmUp-Lepoe9u7YWmkcFsXeGugXLACc",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 2011,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Sciences and Humanities",
+      "degree": "High School",
+      "grade": "Alum",
+      "schoolName": "Kings Academy",
+      "description": "",
+      "activities": "ALDIWAN\nKing's Academy Model United Nations\nJordan Model Parliament\nThe King's Academy Symposium\nNight Debate Team\nVarsity Volleyball",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    }
+  ],
+  "position": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini (YC W24)",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini (YC W24)"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19046193,
+      "companyName": "Threads",
+      "companyUsername": "threadsgroupinc",
+      "companyURL": "https://www.linkedin.com/company/threadsgroupinc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEsLKMpRBap7A/company-logo_400_400/company-logo_400_400/0/1697564251864/threadsgroupinc_logo?e=1769644800&v=beta&t=sQ1ue39r7v7nwatNpTXvsugqdOZFx4jt4u0KrUwwS0A",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Threads"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1480,
+      "companyName": "Adobe",
+      "companyUsername": "adobe",
+      "companyURL": "https://www.linkedin.com/company/adobe/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=1769644800&v=beta&t=FAEi-4pwImE_ng0hLB-DrqAhgOskNajN4GWCwq_xLCY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Adobe"
+      },
+      "location": "San Jose, California",
+      "locationType": "",
+      "description": "I worked with a team of engineers to develop an internal scalable data pipeline for Adobe Analytics that aims to simplify the process of gathering and cleaning data for Adobe data scientists. Throughout my internship, I have successfully developed four main tools: \n\n1. Variable Utilization Project\n* Worked with a team of three engineers to design the architecture of, and implement, a scalable data pipeline that automatically updates and maintains Adobe Analytics data for internal analysis (SQL, Sequalize, Adobe Analytics API, Node.js)\n* Created a virtualized UI that enables users to view, edit, map, and analyze Adobe Analytics data (Aurelia, Node.js)\n\n2. Data Sampling Tool\n* Created an API for sampling data from Adobe Analytics (Aurelia API). Use Case - pulling data from Adobe Analytics could take hours or even days, depending on the size of the request, so I've created a sampling functionality that runs in several seconds and fetches a sample of the data pull request for approval before initiating the full data pull request\n* Designed and implemented the data sampling UI\n\n3. Time Estimation Model\n* Designed and implemented a data pull request time estimation model for the Adobe Analytics API with an average error of 15 mins\n* The model used a random forest regressor along with several extracted features to estimate how much time the data pull request will take\n\n4. Developed a secure internal email notifications system (SMTP) that has voluntarily been activated by almost all the users",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Tamerny",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Founder and Lead Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder and Lead Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Tamerny"
+      },
+      "location": "Jeddah Governorate, Saudi Arabia",
+      "locationType": "",
+      "description": "Website: www.tamerny.com\n\nWhat's Tamerny?\n\nTamerny is a text-based platform that centralizes the on-demand market. Users can text the Tamerny phone number anything they would like to purchase or any service they would like to have and we will get it for them, it's an automated assistant service that operates in the middle east.\n\n\"Anything, one text away\"\n\nWhat have I worked on?\n\n- Developed a web application on Meteor\n- Designed the platform using Materialize\n- Integrated Moyasar, Careem, and several other API's to the platform\n- Developed the SMS text distribution system and the Operator Functionality Dashboard\n- Recruited four members to design, tech, and finance\n- Pitched to investors and raised seed funding\n- Conducted market research\n- Held Alpha and beta testing sessions",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Empanist",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Founder and Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder and Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Empanist"
+      },
+      "location": "Greater Boston Area",
+      "locationType": "",
+      "description": "What is Empaninst?\n\nEmpanist is Startup that came out of the Harvard Venture Incubator Program which aims to digitalize the collaborative music making industry by connecting musicians and accompanists together.\n\nWhat have I worked on?\n\n- Developed both the front-end and back-end segments of the platform using Javascript and node.js\n- Collaboratively designed the platform using Materialize\n- Implemented data visualizations using D3\n- Constructed a business plan and revenue model\n- Conducted Alpha and Beta testing sessions\n\nPlatform complexity and structure:\n\nThe platform that we developed was very similar in structure to the LinkedIn and AirBnb platforms. Users were able to search for each other, fill in resume profiles, and book/pay for sessions.",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Jamjoom Vehicles and Equipment",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Jamjoom Vehicles and Equipment"
+      },
+      "location": "Jeddah Governorate, Saudi Arabia",
+      "locationType": "",
+      "description": "Internship segments:\n1. HINO Automotive Service - Management\n2. HINO Automotive Service - Engineer\n\nManagement:\n- Overlooked the parts department\n- Analyzed the process of ordering and shipping car parts from Japan to Saudi Arabia\n\nEngineering:\n- Shadowed a Mechanical and Electrical engineering\n- Participated in AC service training sessions\n- Participated in engine service training sessions",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 100515888,
+      "companyName": "Arini (YC W24)",
+      "companyUsername": "ariniai",
+      "companyURL": "https://www.linkedin.com/company/ariniai/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHwHmpGo3fsVg/company-logo_400_400/company-logo_400_400/0/1736273807445/ariniai_logo?e=1769644800&v=beta&t=IWG5_YtiBM0Q5RsGEN-aedRksWK7ZRQW3WAigq2LX7k",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Co-Founder",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Arini (YC W24)"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 19046193,
+      "companyName": "Threads",
+      "companyUsername": "threadsgroupinc",
+      "companyURL": "https://www.linkedin.com/company/threadsgroupinc/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEsLKMpRBap7A/company-logo_400_400/company-logo_400_400/0/1697564251864/threadsgroupinc_logo?e=1769644800&v=beta&t=sQ1ue39r7v7nwatNpTXvsugqdOZFx4jt4u0KrUwwS0A",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Threads"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2019,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1480,
+      "companyName": "Adobe",
+      "companyUsername": "adobe",
+      "companyURL": "https://www.linkedin.com/company/adobe/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=1769644800&v=beta&t=FAEi-4pwImE_ng0hLB-DrqAhgOskNajN4GWCwq_xLCY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Adobe"
+      },
+      "location": "San Jose, California",
+      "locationType": "",
+      "description": "I worked with a team of engineers to develop an internal scalable data pipeline for Adobe Analytics that aims to simplify the process of gathering and cleaning data for Adobe data scientists. Throughout my internship, I have successfully developed four main tools: \n\n1. Variable Utilization Project\n* Worked with a team of three engineers to design the architecture of, and implement, a scalable data pipeline that automatically updates and maintains Adobe Analytics data for internal analysis (SQL, Sequalize, Adobe Analytics API, Node.js)\n* Created a virtualized UI that enables users to view, edit, map, and analyze Adobe Analytics data (Aurelia, Node.js)\n\n2. Data Sampling Tool\n* Created an API for sampling data from Adobe Analytics (Aurelia API). Use Case - pulling data from Adobe Analytics could take hours or even days, depending on the size of the request, so I've created a sampling functionality that runs in several seconds and fetches a sample of the data pull request for approval before initiating the full data pull request\n* Designed and implemented the data sampling UI\n\n3. Time Estimation Model\n* Designed and implemented a data pull request time estimation model for the Adobe Analytics API with an average error of 15 mins\n* The model used a random forest regressor along with several extracted features to estimate how much time the data pull request will take\n\n4. Developed a secure internal email notifications system (SMTP) that has voluntarily been activated by almost all the users",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Tamerny",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Founder and Lead Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder and Lead Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Tamerny"
+      },
+      "location": "Jeddah Governorate, Saudi Arabia",
+      "locationType": "",
+      "description": "Website: www.tamerny.com\n\nWhat's Tamerny?\n\nTamerny is a text-based platform that centralizes the on-demand market. Users can text the Tamerny phone number anything they would like to purchase or any service they would like to have and we will get it for them, it's an automated assistant service that operates in the middle east.\n\n\"Anything, one text away\"\n\nWhat have I worked on?\n\n- Developed a web application on Meteor\n- Designed the platform using Materialize\n- Integrated Moyasar, Careem, and several other API's to the platform\n- Developed the SMS text distribution system and the Operator Functionality Dashboard\n- Recruited four members to design, tech, and finance\n- Pitched to investors and raised seed funding\n- Conducted market research\n- Held Alpha and beta testing sessions",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 3,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Empanist",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Co-Founder and Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Co-Founder and Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Empanist"
+      },
+      "location": "Greater Boston Area",
+      "locationType": "",
+      "description": "What is Empaninst?\n\nEmpanist is Startup that came out of the Harvard Venture Incubator Program which aims to digitalize the collaborative music making industry by connecting musicians and accompanists together.\n\nWhat have I worked on?\n\n- Developed both the front-end and back-end segments of the platform using Javascript and node.js\n- Collaboratively designed the platform using Materialize\n- Implemented data visualizations using D3\n- Constructed a business plan and revenue model\n- Conducted Alpha and Beta testing sessions\n\nPlatform complexity and structure:\n\nThe platform that we developed was very similar in structure to the LinkedIn and AirBnb platforms. Users were able to search for each other, fill in resume profiles, and book/pay for sessions.",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Jamjoom Vehicles and Equipment",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Engineering Intern",
+      "multiLocaleTitle": {
+        "en_US": "Engineering Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Jamjoom Vehicles and Equipment"
+      },
+      "location": "Jeddah Governorate, Saudi Arabia",
+      "locationType": "",
+      "description": "Internship segments:\n1. HINO Automotive Service - Management\n2. HINO Automotive Service - Engineer\n\nManagement:\n- Overlooked the parts department\n- Analyzed the process of ordering and shipping car parts from Japan to Saudi Arabia\n\nEngineering:\n- Shadowed a Mechanical and Electrical engineering\n- Participated in AC service training sessions\n- Participated in engine service training sessions",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Entrepreneurship",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Programming",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Higher Education",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Data Analysis",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "SQL",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "JavaScript",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Java",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "HTML",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Microsoft Word",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Node.js",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "PHP",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "python",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "c",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "c++",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Meteor",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Git",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Microsoft Excel",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Microsoft Office",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "MySQL",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Fundraising",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "English",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Start-ups",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Software Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Web Applications",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Technical Data Analysis",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Machine Learning",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Aurelia",
+      "passedSkillAssessment": false
+    }
+  ],
+  "courses": [
+    {
+      "name": "Artificial Intelligence",
+      "number": "CS 182"
+    },
+    {
+      "name": "Calculus, Series, and Differential Equations",
+      "number": "MATH 1B"
+    },
+    {
+      "name": "Celestial Navigation",
+      "number": "ASTRON 2"
+    },
+    {
+      "name": "Classical Mythology",
+      "number": "CULTBLF 35"
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "number": "CS 124"
+    },
+    {
+      "name": "Democracy in the Technological Age",
+      "number": "EXPOS 20"
+    },
+    {
+      "name": "Dynamic Web Development",
+      "number": ""
+    },
+    {
+      "name": "Economic Justice",
+      "number": "ETHRSON 41"
+    },
+    {
+      "name": "Economics and Computation",
+      "number": "CS 136"
+    },
+    {
+      "name": "Engineering Quantum Mechanics",
+      "number": "ENG-SCI 170"
+    },
+    {
+      "name": "Entrepreneurship in Contemporary Developing Countries",
+      "number": "SOCWORLD 47"
+    },
+    {
+      "name": "Introduction to Computer Science I",
+      "number": "COMPSCI 50"
+    },
+    {
+      "name": "Introduction to Computer Science II",
+      "number": "CS 51"
+    },
+    {
+      "name": "Introduction to Electrical Engineering",
+      "number": "ES 50"
+    },
+    {
+      "name": "Introduction to Probability",
+      "number": "STAT 110"
+    },
+    {
+      "name": "Introduction to Technology and Society",
+      "number": "FRSEMR 22R"
+    },
+    {
+      "name": "Introduction to Theory of Computation",
+      "number": "CS 121"
+    },
+    {
+      "name": "Linear Algebra and Differential Equations",
+      "number": "MATH 21B"
+    },
+    {
+      "name": "Machine Learning",
+      "number": "COMPSCI 181"
+    },
+    {
+      "name": "Multivariable Calculus",
+      "number": "MATH 21A"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "King's Academy Diploma",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "King's Academy",
+      "company": {
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    }
+  ],
+  "honors": [
+    {
+      "title": "Declamation Competition Finalist",
+      "description": "The Declamation competition is an annual public speaking competition at King's Academy",
+      "issuer": "King's Academy",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "title": "First Place, most innovative solution",
+      "description": "",
+      "issuer": "Gelejik",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2011,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {
+    "total": 6,
+    "items": [
+      {
+        "title": "CS181: Classifying Urban Sounds (2nd place winner, accuracy rate: 95.4%)                                                                                          ",
+        "description": "Collaboratively built and optimized a process that extracts several features of sound (e.g. Mel-Frequency and Contrast) by utilizing the python Librosa library and then fitting them to an optimized classification algorithm",
+        "start": {
+          "year": 2018,
+          "month": 3,
+          "day": 0
+        },
+        "end": {
+          "year": 2018,
+          "month": 3,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+            "username": "abduljamjoom",
+            "fullName": "Abdul Jamjoom",
+            "firstName": "Abdul",
+            "lastName": "Jamjoom",
+            "profilePicture": null,
+            "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+            "url": "https://www.linkedin.com/in/abduljamjoom"
+          }
+        ]
+      },
+      {
+        "title": "CS181: Classifying Malicious Software (1st place winner, accuracy rate: 93.5%)                                                                                   ",
+        "description": "Worked with a team of three to design and implement a boosting classification algorithm that detects and labels 12 critical viruses. Our implementation extracted the md5 hash of an executable file, retrieved further information on the hash from the VirusTotal API, and finally vectorized and labeled the executable with a single viruses type",
+        "start": {
+          "year": 2018,
+          "month": 2,
+          "day": 0
+        },
+        "end": {
+          "year": 2018,
+          "month": 2,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+            "username": "abduljamjoom",
+            "fullName": "Abdul Jamjoom",
+            "firstName": "Abdul",
+            "lastName": "Jamjoom",
+            "profilePicture": null,
+            "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+            "url": "https://www.linkedin.com/in/abduljamjoom"
+          }
+        ]
+      },
+      {
+        "title": "Crypto Exchange Network Fee Reduction Through TTC",
+        "description": "In this project, we examined how to reduce cryptocurrency transaction fees through TTC. To motivate, why this is important, it is important to understand that one of the key benefits that cryptocurrencies were constructed to have in comparison to traditional fiat currencies is the ability to transfer money at a lower cost in comparison to traditional financial institutions.",
+        "start": {
+          "year": 2017,
+          "month": 5,
+          "day": 0
+        },
+        "end": {
+          "year": 2017,
+          "month": 5,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+            "username": "abduljamjoom",
+            "fullName": "Abdul Jamjoom",
+            "firstName": "Abdul",
+            "lastName": "Jamjoom",
+            "profilePicture": null,
+            "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+            "url": "https://www.linkedin.com/in/abduljamjoom"
+          }
+        ]
+      },
+      {
+        "title": "Astronomical Reductions ",
+        "description": "Astronomical Reductions is geographical location platform that takes astronomical angle measurements and outputs your location.\n\nSimilar systems were used in the US Navy several years ago!",
+        "start": {
+          "year": 2016,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 2016,
+          "month": 0,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+            "username": "abduljamjoom",
+            "fullName": "Abdul Jamjoom",
+            "firstName": "Abdul",
+            "lastName": "Jamjoom",
+            "profilePicture": null,
+            "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+            "url": "https://www.linkedin.com/in/abduljamjoom"
+          }
+        ]
+      },
+      {
+        "title": "Al Zibdah",
+        "description": "We are consuming too much noise from the internet. Wasting hours of valuable time on junk media. There’s a lack of useful content on the internet that is both easy to parse/understand and fun to consume at the same time. Al Zibdah is an iOS/Android application that aids the creation and spread of simple, fun, and useful content online.\n\nI have participated in the Tech Entrepreneurship Sprint in Prince Mohammed Bin Salman College with Al Zibdah and won 2nd place. After the competition, I formed a small founding team around Al Zibdah that is working on developing the product, doing market research, and finally launching it.\n",
+        "start": {
+          "year": 2017,
+          "month": 6,
+          "day": 0
+        },
+        "end": {
+          "year": 2017,
+          "month": 8,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+            "username": "abduljamjoom",
+            "fullName": "Abdul Jamjoom",
+            "firstName": "Abdul",
+            "lastName": "Jamjoom",
+            "profilePicture": null,
+            "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+            "url": "https://www.linkedin.com/in/abduljamjoom"
+          }
+        ]
+      },
+      {
+        "title": "Electro Bag",
+        "description": "Electro Bag is a recycling trashcan that automatically separates plastics, metals, and papers from each other and places them in separate containers. It uses barcode scanning and a density estimation system to analyze objects placed inside it to guess what they are made of and place them in the correct bin.\n\nThis is the project that got me interested in computer science and electrical engineering in the first place!",
+        "start": {
+          "year": 2011,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 2014,
+          "month": 0,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABNsQ28BuUABimaS-QXrZvAwshAADSr6Pow",
+            "username": "abduljamjoom",
+            "fullName": "Abdul Jamjoom",
+            "firstName": "Abdul",
+            "lastName": "Jamjoom",
+            "profilePicture": null,
+            "headline": "CEO at Arini (YC) | The DSO AI Transformation Partner",
+            "url": "https://www.linkedin.com/in/abduljamjoom"
+          }
+        ]
+      }
+    ]
+  },
+  "volunteering": [
+    {
+      "title": "Volunteer",
+      "start": {
+        "year": 2012,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "companyName": "Habitate For Humanity",
+      "CompanyId": "6502665",
+      "companyUrl": "https://www.linkedin.com/company/6502665",
+      "companyLogo": ""
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Abdul"
+  },
+  "multiLocaleLastName": {
+    "en": "Jamjoom"
+  },
+  "multiLocaleHeadline": {
+    "en": "CEO at Arini (YC) | The DSO AI Transformation Partner"
+  },
+  "multiLocaleSummary": {
+    "en": "Building the best AI patient engagement experience for dental groups."
+  }
+}
