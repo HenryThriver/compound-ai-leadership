@@ -1,0 +1,856 @@
+{
+  "id": 347983647,
+  "urn": "ACoAABS9zx8BVQ1Qb69eNwTYY3XFT-YQAT2ajQE",
+  "username": "jefferyliu300",
+  "firstName": "Jeffery",
+  "lastName": "L.",
+  "isCreator": true,
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_200_200/B56Zl5pqHOI4Ac-/0/1758682588810?e=1769644800&v=beta&t=veWVHCiVUsN9JRbc-WaYxQgES-MbsQTth12JRPRTYaI",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_100_100/B56Zl5pqHOI4Ag-/0/1758682588810?e=1769644800&v=beta&t=O1WVIvVuuRktF-i600fIWpMdK8_gmtzEDYRM9-T-blM",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_400_400/B56Zl5pqHOI4Ak-/0/1758682588810?e=1769644800&v=beta&t=yA0TG5NeUYi79lWjQu3TY3pBWuauPQQOZkS2G6PVRkk",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-crop_800_800/B56Zl5pqHOI4AM-/0/1758682588726?e=1769644800&v=beta&t=VH_E2vNiRwUALa_P12Isw0VZ0Jpr9t6cEJ4bH6l6gzk",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_200_200/B56Zl5pqHOI4Ac-/0/1758682588810?e=1769644800&v=beta&t=veWVHCiVUsN9JRbc-WaYxQgES-MbsQTth12JRPRTYaI",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 199,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQFRg-dPGTlJLQ/profile-displaybackgroundimage-shrink_200_800/B56ZljpIuRKIAU-/0/1758313353381?e=1769644800&v=beta&t=H8H4bBPVPS519nWSW78Flktv-SUOrFET0pCy7IsAD0E"
+    },
+    {
+      "width": 1400,
+      "height": 349,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQFRg-dPGTlJLQ/profile-displaybackgroundimage-shrink_350_1400/B56ZljpIuRKIAY-/0/1758313353381?e=1769644800&v=beta&t=oLbar6GgwGNdtkjrIvbgitCixO-FUqeX9rfKMz_HTag"
+    }
+  ],
+  "summary": "Founder @ Assort Health | Building specialty specific generative voice AI that answers patient calls. Free your patients from waiting on hold. \n\n70M+ patient interactions served with Voice AI. -63% operational costs. +3% net new patients. 5 weeks to go live.\n\nTrusted by thousands of providers across leading healthcare organizations: Palm Beach Orthopedics Institute, SharedPractices, Peninsula Orthopedics Associates, MDCS Dermatology, Cleaver Medical Group, Northern California Retina Vitreous Associates, Catalyst Medical Group, Chesapeake Healthcare OrthoIndy, Pediatric Associates of Southwest Missouri, and many more. \n\nLearn more: https://assorthealth.com",
+  "headline": "Founder, co-CEO at Assort Health - Specialty-specific voice AI to answer patient calls",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "languages": [
+    {
+      "name": "Chinese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "LIMITED_WORKING"
+    }
+  ],
+  "educations": [
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Computer Science and Economics",
+      "degree": "Bachelor of Science (B.S.)",
+      "grade": "",
+      "schoolName": "Duke University",
+      "description": "",
+      "activities": "Duke Club Rowing, Duke Catalyst Technology Club, Innovation and Entrepreneurship Certificate, First Year Advisory Counselor",
+      "url": "https://www.linkedin.com/school/duke-university/",
+      "schoolId": "3356",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_100_100/B56ZbZv8i_H4AQ-/0/1747409948261?e=1769644800&v=beta&t=PbAy51DgZ3ZMmiZ8RkKcVn6VhLs1GET5pWJFpdxq5uU",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_400_400/B56ZbZv8i_H4AY-/0/1747409948261?e=1769644800&v=beta&t=cG05C4uZiT53-D7j_heUJdqPzgBe7_-6o7-NH9LFRAc",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1769644800&v=beta&t=jQlp7peR-G7dkXCCPQwWkViU36oMbEUVA_DM6GDnmXU",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Thomas Jefferson High School for Science and Technology",
+      "description": "#1 High School at the time",
+      "activities": "TJ Crew, TJ Tennis,  National Honor Society , Hope for the Homeless , Business in Science, Future Business Leaders of America, Chemistry Olympiad",
+      "url": "https://www.linkedin.com/school/tjpartnershipfund/",
+      "schoolId": "11190603",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHHUi77woqbKA/company-logo_400_400/B4EZX87ir7HUAY-/0/1743705222380/tjpartnershipfund_logo?e=1769644800&v=beta&t=xe_jtg3S4OWuzog3c-bJ6tz4HATohDhxGJCnkGR5eO0",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHHUi77woqbKA/company-logo_200_200/B4EZX87ir7HUAI-/0/1743705222379/tjpartnershipfund_logo?e=1769644800&v=beta&t=j_5FyOVV1u1P05ji3gS1pi6vaBL9LP-4I4EnFfu90ho",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHHUi77woqbKA/company-logo_100_100/B4EZX87ir7HUAQ-/0/1743705222380/tjpartnershipfund_logo?e=1769644800&v=beta&t=Ev1VcZyux7cePKN4ptLjANVtuGXKrt-O2rtZHhPa3Us",
+          "width": 100,
+          "height": 100
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder, co-CEO",
+      "multiLocaleTitle": {
+        "en_US": "Founder, co-CEO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Unlock 24/7 patient access with multilingual generative voice AI that answers patient phone calls. 40M+ interactions helping save employees times and improve access. \n\nTrusted by thousands of providers at healthcare organizations: Palm Beach Orthopedics Institute, OrthoIndy, SharedPractices, Peninsula Orthopedics Associates, MDCS Dermatology, Cleaver Medical Group, Northern California Retina Vitreous Associates, Catalyst Medical Group, Chesapeake Healthcare OrthoIndy, Pediatric Associates of Southwest Missouri, and many more. \n\nBacked by top institutional funds like Quiet Capital and leaders from Commure, Flatiron, AthenaHealth, Infinitus, and PathAI. Join us!",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18065999,
+      "companyName": "Athelas",
+      "companyUsername": "athelas",
+      "companyURL": "https://www.linkedin.com/company/athelas/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQG6GCVjPhNSRg/company-logo_400_400/company-logo_400_400/0/1649095131950/athelas_logo?e=1769644800&v=beta&t=PxlgxTTrh-28l10CXqT9su1tiYDn2lIvR1waKy1FIXg",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Head of Product Engineering",
+      "multiLocaleTitle": {
+        "en_US": "Head of Product Engineering"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Athelas"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "Lead and built core products: GenAI ambient scribing, remote patient monitoring and chronic care management programs, PillTrack (a medication adherence device), and AI revenue cycle management.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18065999,
+      "companyName": "Athelas",
+      "companyUsername": "athelas",
+      "companyURL": "https://www.linkedin.com/company/athelas/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQG6GCVjPhNSRg/company-logo_400_400/company-logo_400_400/0/1649095131950/athelas_logo?e=1769644800&v=beta&t=PxlgxTTrh-28l10CXqT9su1tiYDn2lIvR1waKy1FIXg",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Senior Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Senior Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Athelas"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 76987811,
+      "companyName": "Facebook",
+      "companyUsername": "facebook",
+      "companyURL": "https://www.linkedin.com/company/facebook/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1769644800&v=beta&t=mBjsLNpUSewiDll8g3ISVXvzQoBUat5HNlnmsinnU2s",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Facebook"
+      },
+      "location": "Menlo Park, California",
+      "locationType": "",
+      "description": "Oculus (AR/VR) and Marketplace Teams",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 76987811,
+      "companyName": "Facebook",
+      "companyUsername": "facebook",
+      "companyURL": "https://www.linkedin.com/company/facebook/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1769644800&v=beta&t=mBjsLNpUSewiDll8g3ISVXvzQoBUat5HNlnmsinnU2s",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Facebook"
+      },
+      "location": "Menlo Park",
+      "locationType": "",
+      "description": "Social Virtual Reality Team; built gesture detection for early Metaverse applications",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 22296645,
+      "companyName": "Cameo",
+      "companyUsername": "bookcameo",
+      "companyURL": "https://www.linkedin.com/company/bookcameo/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGidB97035NVQ/company-logo_400_400/company-logo_400_400/0/1630646010501/bookcameo_logo?e=1769644800&v=beta&t=pwjfCppbu848AZ-GsOkwC700ja0cEY43AxyTB4yYzK4",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Cameo"
+      },
+      "location": "Greater Chicago Area",
+      "locationType": "",
+      "description": "Early engineering team at Cameo, now an unicorn video sharing platform",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 4644,
+      "companyName": "George Washington University",
+      "companyUsername": "george-washington-university",
+      "companyURL": "https://www.linkedin.com/school/george-washington-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFSVBibNbqMQA/company-logo_400_400/company-logo_400_400/0/1633354278505/george_washington_university_logo?e=1769644800&v=beta&t=TiDEdn9Xf5Q6rxVW-BujPNZ0sZbzQKn14krfWFDfdPk",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "5001 - 10000",
+      "title": "Research Assistant",
+      "multiLocaleTitle": {
+        "en_US": "Research Assistant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "George Washington University"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Built web apps for GWU's cyber security lab and helped conduct research.",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "National Graphene Research and Development",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Research Fellowship",
+      "multiLocaleTitle": {
+        "en_US": "Research Fellowship"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "National Graphene Research and Development"
+      },
+      "location": "Alexandria Virginia",
+      "locationType": "",
+      "description": "Siemens Regional Finalist",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Founder, co-CEO",
+      "multiLocaleTitle": {
+        "en_US": "Founder, co-CEO"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Unlock 24/7 patient access with multilingual generative voice AI that answers patient phone calls. 40M+ interactions helping save employees times and improve access. \n\nTrusted by thousands of providers at healthcare organizations: Palm Beach Orthopedics Institute, OrthoIndy, SharedPractices, Peninsula Orthopedics Associates, MDCS Dermatology, Cleaver Medical Group, Northern California Retina Vitreous Associates, Catalyst Medical Group, Chesapeake Healthcare OrthoIndy, Pediatric Associates of Southwest Missouri, and many more. \n\nBacked by top institutional funds like Quiet Capital and leaders from Commure, Flatiron, AthenaHealth, Infinitus, and PathAI. Join us!",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18065999,
+      "companyName": "Athelas",
+      "companyUsername": "athelas",
+      "companyURL": "https://www.linkedin.com/company/athelas/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQG6GCVjPhNSRg/company-logo_400_400/company-logo_400_400/0/1649095131950/athelas_logo?e=1769644800&v=beta&t=PxlgxTTrh-28l10CXqT9su1tiYDn2lIvR1waKy1FIXg",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Head of Product Engineering",
+      "multiLocaleTitle": {
+        "en_US": "Head of Product Engineering"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Athelas"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "Lead and built core products: GenAI ambient scribing, remote patient monitoring and chronic care management programs, PillTrack (a medication adherence device), and AI revenue cycle management.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 18065999,
+      "companyName": "Athelas",
+      "companyUsername": "athelas",
+      "companyURL": "https://www.linkedin.com/company/athelas/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQG6GCVjPhNSRg/company-logo_400_400/company-logo_400_400/0/1649095131950/athelas_logo?e=1769644800&v=beta&t=PxlgxTTrh-28l10CXqT9su1tiYDn2lIvR1waKy1FIXg",
+      "companyIndustry": "Hospital & Health Care",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Senior Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Senior Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Athelas"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 76987811,
+      "companyName": "Facebook",
+      "companyUsername": "facebook",
+      "companyURL": "https://www.linkedin.com/company/facebook/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1769644800&v=beta&t=mBjsLNpUSewiDll8g3ISVXvzQoBUat5HNlnmsinnU2s",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Facebook"
+      },
+      "location": "Menlo Park, California",
+      "locationType": "",
+      "description": "Oculus (AR/VR) and Marketplace Teams",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2019,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 76987811,
+      "companyName": "Facebook",
+      "companyUsername": "facebook",
+      "companyURL": "https://www.linkedin.com/company/facebook/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/company-logo_400_400/0/1635988509331/facebook__logo?e=1769644800&v=beta&t=mBjsLNpUSewiDll8g3ISVXvzQoBUat5HNlnmsinnU2s",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Facebook"
+      },
+      "location": "Menlo Park",
+      "locationType": "",
+      "description": "Social Virtual Reality Team; built gesture detection for early Metaverse applications",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 22296645,
+      "companyName": "Cameo",
+      "companyUsername": "bookcameo",
+      "companyURL": "https://www.linkedin.com/company/bookcameo/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGidB97035NVQ/company-logo_400_400/company-logo_400_400/0/1630646010501/bookcameo_logo?e=1769644800&v=beta&t=pwjfCppbu848AZ-GsOkwC700ja0cEY43AxyTB4yYzK4",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Software Engineer",
+      "multiLocaleTitle": {
+        "en_US": "Software Engineer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Cameo"
+      },
+      "location": "Greater Chicago Area",
+      "locationType": "",
+      "description": "Early engineering team at Cameo, now an unicorn video sharing platform",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 4644,
+      "companyName": "George Washington University",
+      "companyUsername": "george-washington-university",
+      "companyURL": "https://www.linkedin.com/school/george-washington-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFSVBibNbqMQA/company-logo_400_400/company-logo_400_400/0/1633354278505/george_washington_university_logo?e=1769644800&v=beta&t=TiDEdn9Xf5Q6rxVW-BujPNZ0sZbzQKn14krfWFDfdPk",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "5001 - 10000",
+      "title": "Research Assistant",
+      "multiLocaleTitle": {
+        "en_US": "Research Assistant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "George Washington University"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Built web apps for GWU's cyber security lab and helped conduct research.",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "National Graphene Research and Development",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Research Fellowship",
+      "multiLocaleTitle": {
+        "en_US": "Research Fellowship"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "National Graphene Research and Development"
+      },
+      "location": "Alexandria Virginia",
+      "locationType": "",
+      "description": "Siemens Regional Finalist",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "honors": [
+    {
+      "title": "PilotDC Hackathon",
+      "description": "Was finalist in PilotDC hackathon from doing an Android application that helped to get people motivated and keep up with their schedule and goals.",
+      "issuer": "PilotDC",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2014,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "title": "Siemen's Regional Finalist",
+      "description": "Honored as Siemens Regional Finalists for a project researching the surface chemistry tuning of 2-d materials. Went to Georgia Tech in order to compete to become national finalists.",
+      "issuer": "Siemens",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2013,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "title": "Hackathon 2013",
+      "description": "Won free tickets to MoDev Hackathon convention as a result of winning our school Hackathon by creating a platforming Android game.",
+      "issuer": "TJ",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 2013,
+        "month": 4,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {
+    "total": 3,
+    "items": [
+      {
+        "title": "Development of a Highly Efficient Solar Aircraft",
+        "description": "Calculations, design, and implementation of photovoltaic cells on a novel model solar aircraft.",
+        "start": {
+          "year": 2014,
+          "month": 9,
+          "day": 0
+        },
+        "end": {
+          "year": 2014,
+          "month": 9,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABS9zx8BVQ1Qb69eNwTYY3XFT-YQAT2ajQE",
+            "username": "jefferyliu300",
+            "fullName": "Jeffery L.",
+            "firstName": "Jeffery",
+            "lastName": "L.",
+            "profilePicture": [
+              {
+                "width": 100,
+                "height": 100,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_100_100/B56Zl5pqHOI4Ag-/0/1758682588810?e=1769644800&v=beta&t=O1WVIvVuuRktF-i600fIWpMdK8_gmtzEDYRM9-T-blM"
+              },
+              {
+                "width": 400,
+                "height": 400,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_400_400/B56Zl5pqHOI4Ak-/0/1758682588810?e=1769644800&v=beta&t=yA0TG5NeUYi79lWjQu3TY3pBWuauPQQOZkS2G6PVRkk"
+              },
+              {
+                "width": 800,
+                "height": 800,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-crop_800_800/B56Zl5pqHOI4AM-/0/1758682588726?e=1769644800&v=beta&t=VH_E2vNiRwUALa_P12Isw0VZ0Jpr9t6cEJ4bH6l6gzk"
+              },
+              {
+                "width": 200,
+                "height": 200,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_200_200/B56Zl5pqHOI4Ac-/0/1758682588810?e=1769644800&v=beta&t=veWVHCiVUsN9JRbc-WaYxQgES-MbsQTth12JRPRTYaI"
+              }
+            ],
+            "headline": "Founder, co-CEO at Assort Health - Specialty-specific voice AI to answer patient calls",
+            "url": "https://www.linkedin.com/in/jefferyliu300"
+          }
+        ]
+      },
+      {
+        "title": "MeetUp",
+        "description": "A web application which allows users to determine a place to meet up depending on where their starting locations are.",
+        "start": {
+          "year": 2014,
+          "month": 3,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABS9zx8BVQ1Qb69eNwTYY3XFT-YQAT2ajQE",
+            "username": "jefferyliu300",
+            "fullName": "Jeffery L.",
+            "firstName": "Jeffery",
+            "lastName": "L.",
+            "profilePicture": [
+              {
+                "width": 100,
+                "height": 100,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_100_100/B56Zl5pqHOI4Ag-/0/1758682588810?e=1769644800&v=beta&t=O1WVIvVuuRktF-i600fIWpMdK8_gmtzEDYRM9-T-blM"
+              },
+              {
+                "width": 400,
+                "height": 400,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_400_400/B56Zl5pqHOI4Ak-/0/1758682588810?e=1769644800&v=beta&t=yA0TG5NeUYi79lWjQu3TY3pBWuauPQQOZkS2G6PVRkk"
+              },
+              {
+                "width": 800,
+                "height": 800,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-crop_800_800/B56Zl5pqHOI4AM-/0/1758682588726?e=1769644800&v=beta&t=VH_E2vNiRwUALa_P12Isw0VZ0Jpr9t6cEJ4bH6l6gzk"
+              },
+              {
+                "width": 200,
+                "height": 200,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_200_200/B56Zl5pqHOI4Ac-/0/1758682588810?e=1769644800&v=beta&t=veWVHCiVUsN9JRbc-WaYxQgES-MbsQTth12JRPRTYaI"
+              }
+            ],
+            "headline": "Founder, co-CEO at Assort Health - Specialty-specific voice AI to answer patient calls",
+            "url": "https://www.linkedin.com/in/jefferyliu300"
+          }
+        ]
+      },
+      {
+        "title": "Surface Chemistry Adsorption of Carbon Dioxide on 2-d materials",
+        "description": "The projected consisted of research pertaining to 3 materials: silicene, graphene, and boron nitride. I worked on silicene.",
+        "start": {
+          "year": 2013,
+          "month": 6,
+          "day": 0
+        },
+        "end": {
+          "year": 2013,
+          "month": 10,
+          "day": 0
+        },
+        "contributors": [
+          {
+            "urn": "ACoAABS9zx8BVQ1Qb69eNwTYY3XFT-YQAT2ajQE",
+            "username": "jefferyliu300",
+            "fullName": "Jeffery L.",
+            "firstName": "Jeffery",
+            "lastName": "L.",
+            "profilePicture": [
+              {
+                "width": 100,
+                "height": 100,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_100_100/B56Zl5pqHOI4Ag-/0/1758682588810?e=1769644800&v=beta&t=O1WVIvVuuRktF-i600fIWpMdK8_gmtzEDYRM9-T-blM"
+              },
+              {
+                "width": 400,
+                "height": 400,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_400_400/B56Zl5pqHOI4Ak-/0/1758682588810?e=1769644800&v=beta&t=yA0TG5NeUYi79lWjQu3TY3pBWuauPQQOZkS2G6PVRkk"
+              },
+              {
+                "width": 800,
+                "height": 800,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-crop_800_800/B56Zl5pqHOI4AM-/0/1758682588726?e=1769644800&v=beta&t=VH_E2vNiRwUALa_P12Isw0VZ0Jpr9t6cEJ4bH6l6gzk"
+              },
+              {
+                "width": 200,
+                "height": 200,
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQGVtXjrV4V6ng/profile-displayphoto-scale_200_200/B56Zl5pqHOI4Ac-/0/1758682588810?e=1769644800&v=beta&t=veWVHCiVUsN9JRbc-WaYxQgES-MbsQTth12JRPRTYaI"
+              }
+            ],
+            "headline": "Founder, co-CEO at Assort Health - Specialty-specific voice AI to answer patient calls",
+            "url": "https://www.linkedin.com/in/jefferyliu300"
+          }
+        ]
+      }
+    ]
+  },
+  "publications": [
+    {
+      "publishedOn": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "name": "Surface Chemistry Tuning of Molecule Adsorption on Two-Dimensional Materials",
+      "publisher": "",
+      "url": ""
+    }
+  ],
+  "volunteering": [
+    {
+      "title": "Patient Transport Volunteer",
+      "start": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 0,
+        "day": 0
+      },
+      "companyName": "Inova Health System",
+      "CompanyId": "7515",
+      "companyUrl": "https://www.linkedin.com/company/7515",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEwkFU7Zu7YHw/company-logo_400_400/company-logo_400_400/0/1696253643187/inova_health_system_logo?e=1769644800&v=beta&t=e-mwsZf240JhMyMmZeJIytUa8Np7-dEED3HX2cl1wXY"
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Jeffery"
+  },
+  "multiLocaleLastName": {
+    "en": "L."
+  },
+  "multiLocaleHeadline": {
+    "en": "Founder, co-CEO at Assort Health - Specialty-specific voice AI to answer patient calls"
+  },
+  "multiLocaleSummary": {
+    "en": "Founder @ Assort Health | Building specialty specific generative voice AI that answers patient calls. Free your patients from waiting on hold. \n\n70M+ patient interactions served with Voice AI. -63% operational costs. +3% net new patients. 5 weeks to go live.\n\nTrusted by thousands of providers across leading healthcare organizations: Palm Beach Orthopedics Institute, SharedPractices, Peninsula Orthopedics Associates, MDCS Dermatology, Cleaver Medical Group, Northern California Retina Vitreous Associates, Catalyst Medical Group, Chesapeake Healthcare OrthoIndy, Pediatric Associates of Southwest Missouri, and many more. \n\nLearn more: https://assorthealth.com"
+  }
+}

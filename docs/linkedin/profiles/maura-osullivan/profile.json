@@ -1,0 +1,880 @@
+{
+  "id": 199924181,
+  "urn": "ACoAAAvqmdUBlslVdNKo1-o7K1Zejqjo_kooFjw",
+  "username": "maura-osullivan",
+  "firstName": "Maura",
+  "lastName": "O'Sullivan",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQGSiD4rz8u4pw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711585577533?e=1769644800&v=beta&t=GAcllWtRp13wqh-1RCS6ZPNtrtZVZFHRDF0w9wqYPHM",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGSiD4rz8u4pw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711585577533?e=1769644800&v=beta&t=MRURAwPDVQOsmsjbNRZx5CYd3BK8G0qJmbp7xIO1JJk",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGSiD4rz8u4pw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711585577533?e=1769644800&v=beta&t=DeurwApzo7CpJ1S2JoBlwFroaqLOG4F-z6qx3FSmX8A",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGSiD4rz8u4pw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711585577533?e=1769644800&v=beta&t=7OiOWLyOBvfWNCbIH7tnLTn0QyPGOUjwUpgMSEauvz0",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQGSiD4rz8u4pw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711585577533?e=1769644800&v=beta&t=GAcllWtRp13wqh-1RCS6ZPNtrtZVZFHRDF0w9wqYPHM",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQHiBWEstBE08Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712089529417?e=1769644800&v=beta&t=ke2v3CTFdSCGqHSzFNaMuqcYPQ44vsozAjxGJKLmlA4"
+    },
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQHiBWEstBE08Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712089529417?e=1769644800&v=beta&t=qsuw-JrqS8P5KB3X2of3QrOpgF3QLuunOV8vMxGVAg0"
+    }
+  ],
+  "summary": "I've worked across strategy, operations, and partnerships for 12+ years, and am thrilled to be leading Operations at Assort Health. At YouTube, I led a global partnerships team, focused on both internal solutions and user-facing products to address harmful content. Prior to BD, I worked in strategy and operations: I led YT’s deal operations by playing the chief of staff to the CEO/CFO, and I worked at Deloitte as a management consultant.",
+  "headline": "SVP of Ops @ Assort Health",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco Bay Area",
+    "full": "San Francisco Bay Area",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Political Science and Economics",
+      "degree": "Bachelor of Arts (BA)",
+      "grade": "",
+      "schoolName": "Princeton University",
+      "description": "Awards: Summa Cum Laude; Economics Department Walter C. Sauer ’28 Prize for senior thesis \nIndependent research: “Holes in the Safety Net: Interest Group Influence on Social Spending Responses to Economic Shocks”",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/princeton-university/",
+      "schoolId": "157313",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_200_200/company-logo_200_200/0/1630648147093/princeton_university_logo?e=1769644800&v=beta&t=vGKgOMtvGKU8Jv6pzJcUmrlHEE4sbcoTiotF7-LGdBs",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_100_100/company-logo_100_100/0/1630648147093/princeton_university_logo?e=1769644800&v=beta&t=vWqrjvq32hvRG2Lg_jBpzDQH68ajChEczwELQRUIRDc",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_400_400/company-logo_400_400/0/1630648147093/princeton_university_logo?e=1769644800&v=beta&t=zVNm0M_1BfVauJLYwiG2GJlnPnpA8QeW6Rpquw_aGnk",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Political Science and Government",
+      "degree": "",
+      "grade": "",
+      "schoolName": "University College Cork",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/university-college-cork-ireland-ucc-/",
+      "schoolId": "8798",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGQd-Pm1vRM9w/company-logo_200_200/B4EZsJJvVlHMAM-/0/1765385107313/university_college_cork_ireland_ucc__logo?e=1769644800&v=beta&t=9ymUgeo7Lbxd6HySJj2OEuTl6rLK-cLOVedobin1Z14",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGQd-Pm1vRM9w/company-logo_400_400/B4EZsJJvVlHMAc-/0/1765385107313/university_college_cork_ireland_ucc__logo?e=1769644800&v=beta&t=3_Kv2zBLUmNLohko74Ytyo5hO_FaggFq11huk6LV4jI",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGQd-Pm1vRM9w/company-logo_100_100/B4EZsJJvVlHMAU-/0/1765385107313/university_college_cork_ireland_ucc__logo?e=1769644800&v=beta&t=m4phjc_hMhxh5ZfOgYK2RgeUCUfxDqFiOmnWFYYe1u0",
+          "width": 100,
+          "height": 100
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Intensive Spanish language program",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Fundación Ortega y Gasset",
+      "description": "",
+      "activities": "",
+      "url": "",
+      "schoolId": "",
+      "logo": null
+    }
+  ],
+  "position": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "SVP of Operations",
+      "multiLocaleTitle": {
+        "en_US": "SVP of Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Developing the first generative AI call center built for healthcare. Join us!\nLeading Assort Health's Customer Ops: product implementations & customer success",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10814477,
+      "companyName": "Duco",
+      "companyUsername": "ducoexperts",
+      "companyURL": "https://www.linkedin.com/company/ducoexperts/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGx7Jv_LvN2pg/company-logo_400_400/company-logo_400_400/0/1631332586172?e=1769644800&v=beta&t=nMQe_ybAaYRzo8DkJTylJN9kV82GMkI0vSSoiZwsQI8",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Advisor",
+      "multiLocaleTitle": {
+        "en_US": "Advisor"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Duco"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Advisor with Duco's team of global experts, providing insight into trust & safety and misinformation.",
+      "employmentType": "Freelance",
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 16140,
+      "companyName": "YouTube",
+      "companyUsername": "youtube",
+      "companyURL": "https://www.linkedin.com/company/youtube/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUKaYgsO3cg/company-logo_200_200/B4EZb.zwGgGQAI-/0/1748031701722/youtube_logo?e=1769644800&v=beta&t=yBMlhXkWJ2Eo7oqUF8CiK-YaWpqa0hUMy9NeqwMOWwY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Product Partnerships Lead",
+      "multiLocaleTitle": {
+        "en_US": "Product Partnerships Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "YouTube"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led a global product-enabling partnerships team who sourced, negotiated, and managed bespoke partnerships to mitigate content and product risks.",
+      "employmentType": "",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 16140,
+      "companyName": "YouTube",
+      "companyUsername": "youtube",
+      "companyURL": "https://www.linkedin.com/company/youtube/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUKaYgsO3cg/company-logo_200_200/B4EZb.zwGgGQAI-/0/1748031701722/youtube_logo?e=1769644800&v=beta&t=yBMlhXkWJ2Eo7oqUF8CiK-YaWpqa0hUMy9NeqwMOWwY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Product Partnerships Manager",
+      "multiLocaleTitle": {
+        "en_US": "Product Partnerships Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "YouTube"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Established first-of-kind partnerships to enable YouTube product launches (e.g., India-first launch of YouTube’s Fact Check product).",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 16140,
+      "companyName": "YouTube",
+      "companyUsername": "youtube",
+      "companyURL": "https://www.linkedin.com/company/youtube/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUKaYgsO3cg/company-logo_200_200/B4EZb.zwGgGQAI-/0/1748031701722/youtube_logo?e=1769644800&v=beta&t=yBMlhXkWJ2Eo7oqUF8CiK-YaWpqa0hUMy9NeqwMOWwY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Strategy & Operations",
+      "multiLocaleTitle": {
+        "en_US": "Strategy & Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "YouTube"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led YouTube Executive review of high-risk commercial deals, from establishing the criteria that triggered exec review, to guiding teams on due diligence. Facilitated Alphabet C-Suite approvals for major YouTube deals.",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1441,
+      "companyName": "Google",
+      "companyUsername": "google",
+      "companyURL": "https://www.linkedin.com/company/google/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1769644800&v=beta&t=lCXsYIMUN2aVzDPKqhVMRFKQ8rFSGKjsWeTytrKfnIQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Strategy & Operations",
+      "multiLocaleTitle": {
+        "en_US": "Strategy & Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Google"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led strategy and operations for Google Fiber's Regulatory Program. Led development and optimization of processes for commercial deals and business-critical regulatory reports and payments.",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1038,
+      "companyName": "Deloitte",
+      "companyUsername": "deloitte",
+      "companyURL": "https://www.linkedin.com/company/deloitte/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1769644800&v=beta&t=RMZvKXZBS-Mxx8_lQFyqYcmso9NJ6sI8VFsmpx9aOK4",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "10001+",
+      "title": "Strategy & Operations Consultant",
+      "multiLocaleTitle": {
+        "en_US": "Strategy & Operations Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Deloitte"
+      },
+      "location": "Rosslyn, VA",
+      "locationType": "",
+      "description": "Developed a business case and investment criteria for a $35 million environmental program; led project management for program implementation.\n\nLed strategy sessions, enabling agency executives to reach consensus on a future vision for org design; defined business model improvements and performance goals required to realize org changes",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "PolicyInteractive",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Policy Intern",
+      "multiLocaleTitle": {
+        "en_US": "Policy Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "PolicyInteractive"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Conducted independent research on Oregon’s campaign finance laws; developed strategies for effecting campaign finance reform. Efforts culminated in setting the agenda for and participating in meetings with elected officials including Oregon's Secretary of State.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2348358,
+      "companyName": "House Of Ruth Maryland",
+      "companyUsername": "house-of-ruth-maryland",
+      "companyURL": "https://www.linkedin.com/company/house-of-ruth-maryland/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG7dr-Oa4hqUQ/company-logo_400_400/company-logo_400_400/0/1631364263021?e=1769644800&v=beta&t=XMZEPa-dVcnnNKxHY5EaRSYpqux5rO5DU2oyuGGKFBM",
+      "companyIndustry": "Non-profit Organization Management",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Legal Intern",
+      "multiLocaleTitle": {
+        "en_US": "Legal Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "House Of Ruth Maryland"
+      },
+      "location": "Rockville, Maryland",
+      "locationType": "",
+      "description": "Conducted client intake interviews and provided legal information to clients. Assisted clients in filing protective orders. Developed a guide for protecting personal information on social media, which was employed to inform all future clients.",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2011,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Maryland Disability Law Center",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Princeternship participant",
+      "multiLocaleTitle": {
+        "en_US": "Princeternship participant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Maryland Disability Law Center"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2011,
+        "month": 1,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "SVP of Operations",
+      "multiLocaleTitle": {
+        "en_US": "SVP of Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Developing the first generative AI call center built for healthcare. Join us!\nLeading Assort Health's Customer Ops: product implementations & customer success",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10814477,
+      "companyName": "Duco",
+      "companyUsername": "ducoexperts",
+      "companyURL": "https://www.linkedin.com/company/ducoexperts/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGx7Jv_LvN2pg/company-logo_400_400/company-logo_400_400/0/1631332586172?e=1769644800&v=beta&t=nMQe_ybAaYRzo8DkJTylJN9kV82GMkI0vSSoiZwsQI8",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Advisor",
+      "multiLocaleTitle": {
+        "en_US": "Advisor"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Duco"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Advisor with Duco's team of global experts, providing insight into trust & safety and misinformation.",
+      "employmentType": "Freelance",
+      "start": {
+        "year": 2023,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 16140,
+      "companyName": "YouTube",
+      "companyUsername": "youtube",
+      "companyURL": "https://www.linkedin.com/company/youtube/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUKaYgsO3cg/company-logo_200_200/B4EZb.zwGgGQAI-/0/1748031701722/youtube_logo?e=1769644800&v=beta&t=yBMlhXkWJ2Eo7oqUF8CiK-YaWpqa0hUMy9NeqwMOWwY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Product Partnerships Lead",
+      "multiLocaleTitle": {
+        "en_US": "Product Partnerships Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "YouTube"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led a global product-enabling partnerships team who sourced, negotiated, and managed bespoke partnerships to mitigate content and product risks.",
+      "employmentType": "",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 16140,
+      "companyName": "YouTube",
+      "companyUsername": "youtube",
+      "companyURL": "https://www.linkedin.com/company/youtube/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUKaYgsO3cg/company-logo_200_200/B4EZb.zwGgGQAI-/0/1748031701722/youtube_logo?e=1769644800&v=beta&t=yBMlhXkWJ2Eo7oqUF8CiK-YaWpqa0hUMy9NeqwMOWwY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Product Partnerships Manager",
+      "multiLocaleTitle": {
+        "en_US": "Product Partnerships Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "YouTube"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Established first-of-kind partnerships to enable YouTube product launches (e.g., India-first launch of YouTube’s Fact Check product).",
+      "employmentType": "",
+      "start": {
+        "year": 2018,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 16140,
+      "companyName": "YouTube",
+      "companyUsername": "youtube",
+      "companyURL": "https://www.linkedin.com/company/youtube/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUKaYgsO3cg/company-logo_200_200/B4EZb.zwGgGQAI-/0/1748031701722/youtube_logo?e=1769644800&v=beta&t=yBMlhXkWJ2Eo7oqUF8CiK-YaWpqa0hUMy9NeqwMOWwY",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Strategy & Operations",
+      "multiLocaleTitle": {
+        "en_US": "Strategy & Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "YouTube"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led YouTube Executive review of high-risk commercial deals, from establishing the criteria that triggered exec review, to guiding teams on due diligence. Facilitated Alphabet C-Suite approvals for major YouTube deals.",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1441,
+      "companyName": "Google",
+      "companyUsername": "google",
+      "companyURL": "https://www.linkedin.com/company/google/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1769644800&v=beta&t=lCXsYIMUN2aVzDPKqhVMRFKQ8rFSGKjsWeTytrKfnIQ",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Strategy & Operations",
+      "multiLocaleTitle": {
+        "en_US": "Strategy & Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Google"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led strategy and operations for Google Fiber's Regulatory Program. Led development and optimization of processes for commercial deals and business-critical regulatory reports and payments.",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 11,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 2,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1038,
+      "companyName": "Deloitte",
+      "companyUsername": "deloitte",
+      "companyURL": "https://www.linkedin.com/company/deloitte/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1769644800&v=beta&t=RMZvKXZBS-Mxx8_lQFyqYcmso9NJ6sI8VFsmpx9aOK4",
+      "companyIndustry": "Management Consulting",
+      "companyStaffCountRange": "10001+",
+      "title": "Strategy & Operations Consultant",
+      "multiLocaleTitle": {
+        "en_US": "Strategy & Operations Consultant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Deloitte"
+      },
+      "location": "Rosslyn, VA",
+      "locationType": "",
+      "description": "Developed a business case and investment criteria for a $35 million environmental program; led project management for program implementation.\n\nLed strategy sessions, enabling agency executives to reach consensus on a future vision for org design; defined business model improvements and performance goals required to realize org changes",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 11,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "PolicyInteractive",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Policy Intern",
+      "multiLocaleTitle": {
+        "en_US": "Policy Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "PolicyInteractive"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Conducted independent research on Oregon’s campaign finance laws; developed strategies for effecting campaign finance reform. Efforts culminated in setting the agenda for and participating in meetings with elected officials including Oregon's Secretary of State.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2348358,
+      "companyName": "House Of Ruth Maryland",
+      "companyUsername": "house-of-ruth-maryland",
+      "companyURL": "https://www.linkedin.com/company/house-of-ruth-maryland/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG7dr-Oa4hqUQ/company-logo_400_400/company-logo_400_400/0/1631364263021?e=1769644800&v=beta&t=XMZEPa-dVcnnNKxHY5EaRSYpqux5rO5DU2oyuGGKFBM",
+      "companyIndustry": "Non-profit Organization Management",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Legal Intern",
+      "multiLocaleTitle": {
+        "en_US": "Legal Intern"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "House Of Ruth Maryland"
+      },
+      "location": "Rockville, Maryland",
+      "locationType": "",
+      "description": "Conducted client intake interviews and provided legal information to clients. Assisted clients in filing protective orders. Developed a guide for protecting personal information on social media, which was employed to inform all future clients.",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2011,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 0,
+      "companyName": "Maryland Disability Law Center",
+      "companyUsername": "",
+      "companyURL": "",
+      "companyLogo": "",
+      "companyIndustry": "",
+      "companyStaffCountRange": "",
+      "title": "Princeternship participant",
+      "multiLocaleTitle": {
+        "en_US": "Princeternship participant"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Maryland Disability Law Center"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "",
+      "start": {
+        "year": 2011,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 2011,
+        "month": 1,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Operations Management",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Business Strategy",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Consulting",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Contract Negotiation",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Strategic Partnerships",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Business Planning",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "New Business Development",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Stata",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 7
+    },
+    {
+      "name": "Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "Spanish",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Public Speaking",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Policy Analysis",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 5
+    },
+    {
+      "name": "Microsoft Office",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 4
+    },
+    {
+      "name": "Social Media",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "PowerPoint",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Editing",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Data Analysis",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 11
+    },
+    {
+      "name": "Economics",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Microsoft Excel",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Public Policy",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Data Modeling",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Management Consulting",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Strategy",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Maura"
+  },
+  "multiLocaleLastName": {
+    "en": "O'Sullivan"
+  },
+  "multiLocaleHeadline": {
+    "en": "SVP of Ops @ Assort Health"
+  },
+  "multiLocaleSummary": {
+    "en": "I've worked across strategy, operations, and partnerships for 12+ years, and am thrilled to be leading Operations at Assort Health. At YouTube, I led a global partnerships team, focused on both internal solutions and user-facing products to address harmful content. Prior to BD, I worked in strategy and operations: I led YT’s deal operations by playing the chief of staff to the CEO/CFO, and I worked at Deloitte as a management consultant."
+  }
+}

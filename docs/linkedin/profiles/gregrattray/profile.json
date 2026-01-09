@@ -1,0 +1,1005 @@
+{
+  "id": 149264245,
+  "urn": "ACoAAAjll3UBZuaaa_yrWZrGUdVrD1z2VZ2B0ng",
+  "username": "gregrattray",
+  "firstName": "Greg",
+  "lastName": "Rattray",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQHXHhPx5K3k3Q/profile-displayphoto-scale_400_400/B4EZfieF4FHwAk-/0/1751851229336?e=1769644800&v=beta&t=GQkrm4uw93AWqUHCWhIItJ6i51EN9tOH0lsPJU8_HII",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHXHhPx5K3k3Q/profile-displayphoto-scale_100_100/B4EZfieF4FHwAg-/0/1751851229336?e=1769644800&v=beta&t=d8mg4_8Q8xbM8_TH_PU01IbfaiHYEXgnmIv4EpAd3OQ",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHXHhPx5K3k3Q/profile-displayphoto-scale_200_200/B4EZfieF4FHwAc-/0/1751851229336?e=1769644800&v=beta&t=jTwr1omrBLmp3Wb30PZxfoQ2PhCFDvbzE58ws0jdAKc",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHXHhPx5K3k3Q/profile-displayphoto-crop_800_800/B4EZfieF4FHwAM-/0/1751851229032?e=1769644800&v=beta&t=jatemQmLjQi0nUUJt4ksAr8O4Q8BS62b0my3hQK3G2k",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E03AQHXHhPx5K3k3Q/profile-displayphoto-scale_400_400/B4EZfieF4FHwAk-/0/1751851229336?e=1769644800&v=beta&t=GQkrm4uw93AWqUHCWhIItJ6i51EN9tOH0lsPJU8_HII",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "summary": "7 things I enjoy\n-Learning new things\n-Meeting new people\n-Connecting people to other people or to opportunities\n-Solving problems and pain points\n-Competition of any kind\n-Watching and playing sports\n-Travel, food, and getting outdoors",
+  "headline": "Head of Revenue Operations, Assort AI",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Business/Finance",
+      "degree": "Bachelor’s Degree",
+      "grade": "3.9 Finance GPA",
+      "schoolName": "California Polytechnic State University-San Luis Obispo",
+      "description": "",
+      "activities": "Cal Poly Club Basketball, Cal Poly Investment Group, Financial Management Association",
+      "url": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+      "schoolId": "15251132",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_200_200/company-logo_200_200/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1769644800&v=beta&t=ShTguezl5lp0oVx06L6XiCyAO35MEhqb94oep5wpARk",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_100_100/company-logo_100_100/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1769644800&v=beta&t=CiCE-DwjHd9mgWDHM_yepL8eBHLbAXx8ZomDv220fbk",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1769644800&v=beta&t=iL0Vu2kavmVSD9a6QO8PLqtcsOwmbRWp5bz9k7UG0qo",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Bishop O'Dowd High School",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/bishopodowdhighschool/",
+      "schoolId": "58164",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFPzzEtWJX2Gw/company-logo_200_200/company-logo_200_200/0/1630596349239/bishop_odowd_high_school_logo?e=1769644800&v=beta&t=Ct3o6R8PuJkrAaBjxbc57o7yoQo42Q6wmsv-QOdXUwI",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFPzzEtWJX2Gw/company-logo_100_100/company-logo_100_100/0/1630596349239/bishop_odowd_high_school_logo?e=1769644800&v=beta&t=HnQAApzXSYH11K1A86ozxjQZn8Lhe15JUeuDJoCVkqY",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFPzzEtWJX2Gw/company-logo_400_400/company-logo_400_400/0/1630596349239/bishop_odowd_high_school_logo?e=1769644800&v=beta&t=upKVU0qiSn3JBRAWGwPAgCduMcsohJeAPHhl6ZbFuK0",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Head of Revenue Operations",
+      "multiLocaleTitle": {
+        "en_US": "Head of Revenue Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Building AI agents for healthcare",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 7572649,
+      "companyName": "Airwallex",
+      "companyUsername": "airwallex",
+      "companyURL": "https://www.linkedin.com/company/airwallex/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE0x1xIVWaQgw/company-logo_400_400/company-logo_400_400/0/1630593999400/airwallex_logo?e=1769644800&v=beta&t=pdD5Vwh1AsEJcyLZyXLT0uDv0I3ESBUfOpIP95QcREE",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Associate Director, Revenue Operations",
+      "multiLocaleTitle": {
+        "en_US": "Associate Director, Revenue Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Airwallex"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led Revenue Operations for our North America business.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 7572649,
+      "companyName": "Airwallex",
+      "companyUsername": "airwallex",
+      "companyURL": "https://www.linkedin.com/company/airwallex/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE0x1xIVWaQgw/company-logo_400_400/company-logo_400_400/0/1630593999400/airwallex_logo?e=1769644800&v=beta&t=pdD5Vwh1AsEJcyLZyXLT0uDv0I3ESBUfOpIP95QcREE",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Senior Manager, Revenue Operations",
+      "multiLocaleTitle": {
+        "en_US": "Senior Manager, Revenue Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Airwallex"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led Revenue Operations for our North America business.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 66718635,
+      "companyName": "Alt",
+      "companyUsername": "altxyzofficial",
+      "companyURL": "https://www.linkedin.com/company/altxyzofficial/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEP_GNBEbpMOw/company-logo_400_400/company-logo_400_400/0/1655482539253/altxyzofficial_logo?e=1769644800&v=beta&t=Gmj-9YENHMlpBPDCKVIyzTJChUzGmn6Nz3_EnKxsDLo",
+      "companyIndustry": "Consumer Services",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Revenue and Business Operations Lead",
+      "multiLocaleTitle": {
+        "en_US": "Revenue and Business Operations Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Alt"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "•  First GTM operations hire. Brought on to help grow the marketplace into new verticals\n•  Revenue Operations: structure goals, quotas, team design, Salesforce set up and strategy, sales tools, forecasts, comp plans, funnel analysis, team playbooks, campaign execution and more.\n•  Business Operations: led annual planning process, led partnerships program, operational and financial models, marketplace analysis, data infrastructure, pricing roll outs and more.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3119164,
+      "companyName": "Iterable",
+      "companyUsername": "iterable",
+      "companyURL": "https://www.linkedin.com/company/iterable/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN-ayY9td0w/company-logo_400_400/company-logo_400_400/0/1720728713114/iterable_logo?e=1769644800&v=beta&t=RuXsJoHQGQtRg8BpJM--VlZfCNCZrRlaVowz9qCI84o",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Senior Manager, Revenue Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Senior Manager, Revenue Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Iterable"
+      },
+      "location": "San Francisco, California",
+      "locationType": "",
+      "description": "• Led the formation of our Sales, Marketing, Partner and Business Development operations teams\n• Built GTM operational programs and processes to fuel employee growth from 50 to 700 people, a 25x increase in ARR, three new office locations, an international expansion, and upcoming IPO\n• Manage key pillars of business operations including market segments, territories, international\nexpansion, forecasting, planning, analysis, market research, dashboards, process optimization,\nquotas, compensation, tool stack, enablement, and implementation",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3119164,
+      "companyName": "Iterable",
+      "companyUsername": "iterable",
+      "companyURL": "https://www.linkedin.com/company/iterable/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN-ayY9td0w/company-logo_400_400/company-logo_400_400/0/1720728713114/iterable_logo?e=1769644800&v=beta&t=RuXsJoHQGQtRg8BpJM--VlZfCNCZrRlaVowz9qCI84o",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Manager, Revenue Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Manager, Revenue Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Iterable"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2018,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3119164,
+      "companyName": "Iterable",
+      "companyUsername": "iterable",
+      "companyURL": "https://www.linkedin.com/company/iterable/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN-ayY9td0w/company-logo_400_400/company-logo_400_400/0/1720728713114/iterable_logo?e=1769644800&v=beta&t=RuXsJoHQGQtRg8BpJM--VlZfCNCZrRlaVowz9qCI84o",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Senior Analyst, Revenue Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Senior Analyst, Revenue Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Iterable"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "First revenue operations and strategy hire",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 89760,
+      "companyName": "Demandforce",
+      "companyUsername": "demandforce",
+      "companyURL": "https://www.linkedin.com/company/demandforce/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEv5OtgpoyB3g/company-logo_400_400/company-logo_400_400/0/1631312459224?e=1769644800&v=beta&t=4xyT99DpZMEZn1u2idk0GWLDTYGlIPTyfYQGGMGi4Fw",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Sales Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Sales Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Demandforce"
+      },
+      "location": "San Francisco",
+      "locationType": "",
+      "description": "• Moved from Sales into Sales Operations at Demandforce (Intuit and later acquired by Internet Brands)\n• Help drive strategy for the 100+ person GTM org\n• Maximized marketing and sales team efficiency by optimizing campaign execution, driving action from insights on sales metrics, optimizing lead flow, and by shifting sales incentives\n• Implemented success plan to increase renewal rates and minimize churn\n• Owned forecasting, reporting, dashboarding, data analysis, comp planning, commissions, sales processes and systems",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1666,
+      "companyName": "Demandforce/Intuit",
+      "companyUsername": "intuit",
+      "companyURL": "https://www.linkedin.com/company/intuit/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_400_400/company-logo_400_400/0/1661446146222/intuit_logo?e=1769644800&v=beta&t=iz1eMGkqml1O2sQ64oui78g0-fYHWKV1FJ3V7oExc6M",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Account Executive",
+      "multiLocaleTitle": {
+        "en_US": "Account Executive"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Demandforce/Intuit"
+      },
+      "location": "San Francisco, California",
+      "locationType": "",
+      "description": "• Full sales desk from cold calling/prospecting, running the demo, and closing business \n• Average monthly revenue target = $25,000; Average deal size = $3,200 \n• Work with managers to find high quality leads for reps to call\n• Salesforce dashboarding and reporting",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1666,
+      "companyName": "Demandforce/Intuit",
+      "companyUsername": "intuit",
+      "companyURL": "https://www.linkedin.com/company/intuit/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_400_400/company-logo_400_400/0/1661446146222/intuit_logo?e=1769644800&v=beta&t=iz1eMGkqml1O2sQ64oui78g0-fYHWKV1FJ3V7oExc6M",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "SDR",
+      "multiLocaleTitle": {
+        "en_US": "SDR"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Demandforce/Intuit"
+      },
+      "location": "San Francisco, CA",
+      "locationType": "",
+      "description": "• Quickest promotion possible due to sales benchmarks and objectives.\n• Prospect new business through 70+ cold calls per day\n• Build value in the product and identify business needs based on existing practices\n• Set meetings for Account Executives to close",
+      "employmentType": "",
+      "start": {
+        "year": 2014,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 15251132,
+      "companyName": "California Polytechnic State University-San Luis Obispo",
+      "companyUsername": "california-polytechnic-state-university-san-luis-o",
+      "companyURL": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1769644800&v=beta&t=iL0Vu2kavmVSD9a6QO8PLqtcsOwmbRWp5bz9k7UG0qo",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Investment Analyst",
+      "multiLocaleTitle": {
+        "en_US": "Investment Analyst"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "California Polytechnic State University-San Luis Obispo"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "• Managed a $500,000 university investment portfolio and outperformed S&P 500 by 1.5%\n• Combined fundamental analysis and valuation models to identify target companies\n• Conducted market research and develop a macro view of different sectors",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3282,
+      "companyName": "Stryker",
+      "companyUsername": "stryker",
+      "companyURL": "https://www.linkedin.com/company/stryker/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHa7kowBO7CeQ/company-logo_400_400/company-logo_400_400/0/1631319537543?e=1769644800&v=beta&t=oP7N_z_TK3xvVmlpg99lBfHW-Wka_3wdZhjlezgcWbY",
+      "companyIndustry": "Medical Device",
+      "companyStaffCountRange": "10001+",
+      "title": "Financial Analyst",
+      "multiLocaleTitle": {
+        "en_US": "Financial Analyst"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Stryker"
+      },
+      "location": "Fremont",
+      "locationType": "",
+      "description": "•Researched an adjacent market for potential M&A\n•Developed a reporting and forecasting tool useful for all levels",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1496282,
+      "companyName": "ReSurge International",
+      "companyUsername": "resurge-international",
+      "companyURL": "https://www.linkedin.com/company/resurge-international/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFrk8ddG-0ouA/company-logo_400_400/company-logo_400_400/0/1655922220674/resurge_international_logo?e=1769644800&v=beta&t=Zsi4g32vDRBogKURzOMDMidXkRECtsjFKg5RUyensuI",
+      "companyIndustry": "International Affairs",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Data Analytics",
+      "multiLocaleTitle": {
+        "en_US": "Data Analytics"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "ReSurge International"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "• Took a data driven approach to improving fundraising efforts.\n• Improved retention of future hires by surfacing key insights from current, successful nurses.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Head of Revenue Operations",
+      "multiLocaleTitle": {
+        "en_US": "Head of Revenue Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "Building AI agents for healthcare",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2025,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 7572649,
+      "companyName": "Airwallex",
+      "companyUsername": "airwallex",
+      "companyURL": "https://www.linkedin.com/company/airwallex/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE0x1xIVWaQgw/company-logo_400_400/company-logo_400_400/0/1630593999400/airwallex_logo?e=1769644800&v=beta&t=pdD5Vwh1AsEJcyLZyXLT0uDv0I3ESBUfOpIP95QcREE",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Associate Director, Revenue Operations",
+      "multiLocaleTitle": {
+        "en_US": "Associate Director, Revenue Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Airwallex"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led Revenue Operations for our North America business.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 7,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 7572649,
+      "companyName": "Airwallex",
+      "companyUsername": "airwallex",
+      "companyURL": "https://www.linkedin.com/company/airwallex/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE0x1xIVWaQgw/company-logo_400_400/company-logo_400_400/0/1630593999400/airwallex_logo?e=1769644800&v=beta&t=pdD5Vwh1AsEJcyLZyXLT0uDv0I3ESBUfOpIP95QcREE",
+      "companyIndustry": "Financial Services",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Senior Manager, Revenue Operations",
+      "multiLocaleTitle": {
+        "en_US": "Senior Manager, Revenue Operations"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Airwallex"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Led Revenue Operations for our North America business.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 66718635,
+      "companyName": "Alt",
+      "companyUsername": "altxyzofficial",
+      "companyURL": "https://www.linkedin.com/company/altxyzofficial/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEP_GNBEbpMOw/company-logo_400_400/company-logo_400_400/0/1655482539253/altxyzofficial_logo?e=1769644800&v=beta&t=Gmj-9YENHMlpBPDCKVIyzTJChUzGmn6Nz3_EnKxsDLo",
+      "companyIndustry": "Consumer Services",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Revenue and Business Operations Lead",
+      "multiLocaleTitle": {
+        "en_US": "Revenue and Business Operations Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Alt"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "•  First GTM operations hire. Brought on to help grow the marketplace into new verticals\n•  Revenue Operations: structure goals, quotas, team design, Salesforce set up and strategy, sales tools, forecasts, comp plans, funnel analysis, team playbooks, campaign execution and more.\n•  Business Operations: led annual planning process, led partnerships program, operational and financial models, marketplace analysis, data infrastructure, pricing roll outs and more.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3119164,
+      "companyName": "Iterable",
+      "companyUsername": "iterable",
+      "companyURL": "https://www.linkedin.com/company/iterable/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN-ayY9td0w/company-logo_400_400/company-logo_400_400/0/1720728713114/iterable_logo?e=1769644800&v=beta&t=RuXsJoHQGQtRg8BpJM--VlZfCNCZrRlaVowz9qCI84o",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Senior Manager, Revenue Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Senior Manager, Revenue Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Iterable"
+      },
+      "location": "San Francisco, California",
+      "locationType": "",
+      "description": "• Led the formation of our Sales, Marketing, Partner and Business Development operations teams\n• Built GTM operational programs and processes to fuel employee growth from 50 to 700 people, a 25x increase in ARR, three new office locations, an international expansion, and upcoming IPO\n• Manage key pillars of business operations including market segments, territories, international\nexpansion, forecasting, planning, analysis, market research, dashboards, process optimization,\nquotas, compensation, tool stack, enablement, and implementation",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 4,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3119164,
+      "companyName": "Iterable",
+      "companyUsername": "iterable",
+      "companyURL": "https://www.linkedin.com/company/iterable/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN-ayY9td0w/company-logo_400_400/company-logo_400_400/0/1720728713114/iterable_logo?e=1769644800&v=beta&t=RuXsJoHQGQtRg8BpJM--VlZfCNCZrRlaVowz9qCI84o",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Manager, Revenue Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Manager, Revenue Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Iterable"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2018,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 3,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3119164,
+      "companyName": "Iterable",
+      "companyUsername": "iterable",
+      "companyURL": "https://www.linkedin.com/company/iterable/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN-ayY9td0w/company-logo_400_400/company-logo_400_400/0/1720728713114/iterable_logo?e=1769644800&v=beta&t=RuXsJoHQGQtRg8BpJM--VlZfCNCZrRlaVowz9qCI84o",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "501 - 1000",
+      "title": "Senior Analyst, Revenue Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Senior Analyst, Revenue Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Iterable"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "First revenue operations and strategy hire",
+      "employmentType": "",
+      "start": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2018,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 89760,
+      "companyName": "Demandforce",
+      "companyUsername": "demandforce",
+      "companyURL": "https://www.linkedin.com/company/demandforce/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEv5OtgpoyB3g/company-logo_400_400/company-logo_400_400/0/1631312459224?e=1769644800&v=beta&t=4xyT99DpZMEZn1u2idk0GWLDTYGlIPTyfYQGGMGi4Fw",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "201 - 500",
+      "title": "Sales Operations and Strategy",
+      "multiLocaleTitle": {
+        "en_US": "Sales Operations and Strategy"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Demandforce"
+      },
+      "location": "San Francisco",
+      "locationType": "",
+      "description": "• Moved from Sales into Sales Operations at Demandforce (Intuit and later acquired by Internet Brands)\n• Help drive strategy for the 100+ person GTM org\n• Maximized marketing and sales team efficiency by optimizing campaign execution, driving action from insights on sales metrics, optimizing lead flow, and by shifting sales incentives\n• Implemented success plan to increase renewal rates and minimize churn\n• Owned forecasting, reporting, dashboarding, data analysis, comp planning, commissions, sales processes and systems",
+      "employmentType": "",
+      "start": {
+        "year": 2016,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2017,
+        "month": 9,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1666,
+      "companyName": "Demandforce/Intuit",
+      "companyUsername": "intuit",
+      "companyURL": "https://www.linkedin.com/company/intuit/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_400_400/company-logo_400_400/0/1661446146222/intuit_logo?e=1769644800&v=beta&t=iz1eMGkqml1O2sQ64oui78g0-fYHWKV1FJ3V7oExc6M",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "Account Executive",
+      "multiLocaleTitle": {
+        "en_US": "Account Executive"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Demandforce/Intuit"
+      },
+      "location": "San Francisco, California",
+      "locationType": "",
+      "description": "• Full sales desk from cold calling/prospecting, running the demo, and closing business \n• Average monthly revenue target = $25,000; Average deal size = $3,200 \n• Work with managers to find high quality leads for reps to call\n• Salesforce dashboarding and reporting",
+      "employmentType": "",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2016,
+        "month": 6,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1666,
+      "companyName": "Demandforce/Intuit",
+      "companyUsername": "intuit",
+      "companyURL": "https://www.linkedin.com/company/intuit/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_400_400/company-logo_400_400/0/1661446146222/intuit_logo?e=1769644800&v=beta&t=iz1eMGkqml1O2sQ64oui78g0-fYHWKV1FJ3V7oExc6M",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "10001+",
+      "title": "SDR",
+      "multiLocaleTitle": {
+        "en_US": "SDR"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Demandforce/Intuit"
+      },
+      "location": "San Francisco, CA",
+      "locationType": "",
+      "description": "• Quickest promotion possible due to sales benchmarks and objectives.\n• Prospect new business through 70+ cold calls per day\n• Build value in the product and identify business needs based on existing practices\n• Set meetings for Account Executives to close",
+      "employmentType": "",
+      "start": {
+        "year": 2014,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2015,
+        "month": 4,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 15251132,
+      "companyName": "California Polytechnic State University-San Luis Obispo",
+      "companyUsername": "california-polytechnic-state-university-san-luis-o",
+      "companyURL": "https://www.linkedin.com/school/california-polytechnic-state-university-san-luis-o/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQE6Ud53o_AMJw/company-logo_400_400/company-logo_400_400/0/1630608505515/california_polytechnic_state_university_san_luis_o_logo?e=1769644800&v=beta&t=iL0Vu2kavmVSD9a6QO8PLqtcsOwmbRWp5bz9k7UG0qo",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Investment Analyst",
+      "multiLocaleTitle": {
+        "en_US": "Investment Analyst"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "California Polytechnic State University-San Luis Obispo"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "• Managed a $500,000 university investment portfolio and outperformed S&P 500 by 1.5%\n• Combined fundamental analysis and valuation models to identify target companies\n• Conducted market research and develop a macro view of different sectors",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2014,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 3282,
+      "companyName": "Stryker",
+      "companyUsername": "stryker",
+      "companyURL": "https://www.linkedin.com/company/stryker/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHa7kowBO7CeQ/company-logo_400_400/company-logo_400_400/0/1631319537543?e=1769644800&v=beta&t=oP7N_z_TK3xvVmlpg99lBfHW-Wka_3wdZhjlezgcWbY",
+      "companyIndustry": "Medical Device",
+      "companyStaffCountRange": "10001+",
+      "title": "Financial Analyst",
+      "multiLocaleTitle": {
+        "en_US": "Financial Analyst"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Stryker"
+      },
+      "location": "Fremont",
+      "locationType": "",
+      "description": "•Researched an adjacent market for potential M&A\n•Developed a reporting and forecasting tool useful for all levels",
+      "employmentType": "",
+      "start": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2013,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1496282,
+      "companyName": "ReSurge International",
+      "companyUsername": "resurge-international",
+      "companyURL": "https://www.linkedin.com/company/resurge-international/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFrk8ddG-0ouA/company-logo_400_400/company-logo_400_400/0/1655922220674/resurge_international_logo?e=1769644800&v=beta&t=Zsi4g32vDRBogKURzOMDMidXkRECtsjFKg5RUyensuI",
+      "companyIndustry": "International Affairs",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Data Analytics",
+      "multiLocaleTitle": {
+        "en_US": "Data Analytics"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "ReSurge International"
+      },
+      "location": "San Francisco Bay Area",
+      "locationType": "",
+      "description": "• Took a data driven approach to improving fundraising efforts.\n• Improved retention of future hires by surfacing key insights from current, successful nurses.",
+      "employmentType": "",
+      "start": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Excel",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 25
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 23
+    },
+    {
+      "name": "Market Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 19
+    },
+    {
+      "name": "Microsoft Office",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 16
+    },
+    {
+      "name": "PowerPoint",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 17
+    },
+    {
+      "name": "Analysis",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 13
+    },
+    {
+      "name": "Financial Analysis",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Social Media",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "Research",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "Investments",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "Sales",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 9
+    },
+    {
+      "name": "Salesforce.com",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Business Strategy",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "Sales Operations",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 5
+    },
+    {
+      "name": "Corporate Finance",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Valuation",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 2
+    },
+    {
+      "name": "Microsoft Word",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 8
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Greg"
+  },
+  "multiLocaleLastName": {
+    "en": "Rattray"
+  },
+  "multiLocaleHeadline": {
+    "en": "Head of Revenue Operations, Assort AI"
+  },
+  "multiLocaleSummary": {
+    "en": "7 things I enjoy\n-Learning new things\n-Meeting new people\n-Connecting people to other people or to opportunities\n-Solving problems and pain points\n-Competition of any kind\n-Watching and playing sports\n-Travel, food, and getting outdoors"
+  }
+}

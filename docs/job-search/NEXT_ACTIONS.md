@@ -98,7 +98,15 @@ From `docs/relationships/loops/open.md`:
 - [x] Post + comments script: `./utils/linkedin/fetch-post-comments.sh` ✓
 - [x] Connection Surface Schema for extraction: `skills/relationship-building/CONNECTION_SURFACE_SCHEMA.md` ✓
 - [x] Skill documentation: `skills/linkedin-scraper/SKILL.md` ✓
+- [x] Watching list setup: `docs/relationships/contacts/watching/INDEX.md` ✓
 - [ ] Set up post monitoring workflow (weekly pulls for POG matching)
+- [ ] Automate weekly watching list refresh (cron or manual reminder)
+
+### Industry Intel (Voice AI)
+- [x] Assort Health team scraped (7 people) ✓
+- [ ] Build Healthcare Voice AI landscape view
+- [ ] Add Arini team to watching list
+- [ ] Add other verticals as researched (logistics, home services, support)
 
 ### Gmail Integration
 - [ ] Set up Gmail API access (OAuth)

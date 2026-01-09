@@ -1,0 +1,859 @@
+{
+  "id": 646836478,
+  "urn": "ACoAACaN8P4BZHh7jAtsFfqjGj0rnrbTHL6QJWs",
+  "username": "andrewlindbloom",
+  "firstName": "Andrew",
+  "lastName": "Lindbloom",
+  "isPremium": false,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQEoUJGD-nDfKA/profile-displayphoto-shrink_100_100/B56Zah_jUJHAAk-/0/1746474514124?e=1769644800&v=beta&t=Ic91u-3Bonlzeb3Ww_9ggPgmNkUWQrbw_YkHIVz8x-o",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQEoUJGD-nDfKA/profile-displayphoto-shrink_400_400/B56Zah_jUJHAAw-/0/1746474514150?e=1769644800&v=beta&t=fCW3pwuGQ8Bs1xuOAGrFH0XSHxMtAqSHU9waVERihy0",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQEoUJGD-nDfKA/profile-displayphoto-shrink_800_800/B56Zah_jUJHAAs-/0/1746474514150?e=1769644800&v=beta&t=rIuV5HVj_bcvNIF7Al8o_QLQmduf6nnTGOa1brr9Gws",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQEoUJGD-nDfKA/profile-displayphoto-shrink_200_200/B56Zah_jUJHAAo-/0/1746474514150?e=1769644800&v=beta&t=g_-x3jvXSzvxxCHbpMLv1-S0eYHkMj6IzmQW-P7mT48",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQEoUJGD-nDfKA/profile-displayphoto-shrink_100_100/B56Zah_jUJHAAk-/0/1746474514124?e=1769644800&v=beta&t=Ic91u-3Bonlzeb3Ww_9ggPgmNkUWQrbw_YkHIVz8x-o",
+      "width": 100,
+      "height": 100
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 199,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQH9A-216kRe7w/profile-displaybackgroundimage-shrink_200_800/B56ZuQMVTCJYAU-/0/1767650711384?e=1769644800&v=beta&t=b-TvsRrVhu7GR3OT449JHxO8IdWxW61TkKVqTUWE_4w"
+    },
+    {
+      "width": 1400,
+      "height": 349,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQH9A-216kRe7w/profile-displaybackgroundimage-shrink_350_1400/B56ZuQMVTCJYAY-/0/1767650711384?e=1769644800&v=beta&t=MwyUWvDuUDTZwFZyi-bMETy37c8zBAgqKAGJl04tfKg"
+    }
+  ],
+  "summary": "I'm a strategy and growth leader focused on the intersection of healthcare and technology. My background in public health gives me a unique understanding of the systemic challenges in the industry, which I apply to commercializing and scaling innovative solutions.\n\nAt Pear Suite, I've been responsible for the \"last mile\" of our AI platform—taking a complex technology and making it work in the real world.\n\nI believe the biggest opportunities in healthcare won't come from technology alone, but from the successful integration of that technology into clinical workflows and payer models. I'm always interested in connecting with others who are passionate about solving these complex challenges.",
+  "headline": "Director of AI Deployment & Success @ Assort Health - Specialty-specific voice AI to answer patient calls",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Health Policy and Management",
+      "degree": "Masters of Public Health",
+      "grade": "",
+      "schoolName": "University of California, Berkeley",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/uc-berkeley/",
+      "schoolId": "2517",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_200_200/company-logo_200_200/0/1732135669730/uc_berkeley_logo?e=1769644800&v=beta&t=14MlOUG_q0m89N7JKR4B7-CNdt1tvbGL_OnDqnGv_3o",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_100_100/company-logo_100_100/0/1732135669731/uc_berkeley_logo?e=1769644800&v=beta&t=g5yP7OAl6xeXfqoS7aPNHjjVwSfwCpVfyZgKvF3CcAA",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1769644800&v=beta&t=KCkvtitCXpLZwAHnCbGVR0CyxqohyB2l2piKIHXTni8",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Anthropology - Health Concentration",
+      "degree": "Bachelor of Science - BS",
+      "grade": "",
+      "schoolName": "Baylor University",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/baylor-university/",
+      "schoolId": "8606",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH7J_mVv5A9zQ/company-logo_100_100/B56ZX7ug92GUAQ-/0/1743685030088/baylor_university_logo?e=1769644800&v=beta&t=eD2IPFV29_Shl0CwNRi7tdnaus-VrKltxL8wA2ZthXg",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH7J_mVv5A9zQ/company-logo_400_400/B56ZX7ug92GUAY-/0/1743685030088/baylor_university_logo?e=1769644800&v=beta&t=zZbHn6zhcl4bV8OUXUIf6yuGD3siplq7ZdTyDioIiyU",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQH7J_mVv5A9zQ/company-logo_200_200/B56ZX7ug92GUAI-/0/1743685030088/baylor_university_logo?e=1769644800&v=beta&t=2BN6MhojKv1t9ZqGnMvEWDpCkIUjwbbZOFvfGlY6LOs",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Notre Dame Preparatory",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/notre-dame-preparatory/",
+      "schoolId": "3342725",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGhymhwGquylw/company-logo_200_200/company-logo_200_200/0/1630649072362/notre_dame_preparatory_logo?e=1769644800&v=beta&t=ZleZOYcyMtOSuTsFOMZUinqtp0HqfLRXK-WiF-OKzzg",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGhymhwGquylw/company-logo_100_100/company-logo_100_100/0/1630649072362/notre_dame_preparatory_logo?e=1769644800&v=beta&t=h8-pbQFnwiZle53fydu69K2cN2bfDxaCMGmk5Zy56GE",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGhymhwGquylw/company-logo_400_400/company-logo_400_400/0/1630649072362/notre_dame_preparatory_logo?e=1769644800&v=beta&t=ZAr25IkwuLh2JgYbg7fYGGubAtruxAz9SgPlfow2s5g",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "Yale Young Global Scholars",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/yaleygs/",
+      "schoolId": "11406096",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQE__Ep7kNwOMg/company-logo_200_200/company-logo_200_200/0/1644853645349/yale_young_global_scholars_logo?e=1769644800&v=beta&t=hYC7EKZJ5pmIFz_x4yWgyJRACx4w17Tf06qSSac0anU",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQE__Ep7kNwOMg/company-logo_100_100/company-logo_100_100/0/1644853645349/yale_young_global_scholars_logo?e=1769644800&v=beta&t=8Mfg6_S1yXTOdPnOsnT2Ocmv2hXcP9cVTFidy2Gs8IY",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQE__Ep7kNwOMg/company-logo_400_400/company-logo_400_400/0/1644853645349/yale_young_global_scholars_logo?e=1769644800&v=beta&t=pWqCDcafBGLBmLw0jnww9zXUAyTc6Q1eIXtFUZ1BqrM",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "start": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "",
+      "degree": "",
+      "grade": "",
+      "schoolName": "American School Foundation of Monterrey",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/american-school-foundation-of-monterrey/",
+      "schoolId": "3108528",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQF_EDxRlKH7ug/company-logo_200_200/company-logo_200_200/0/1697467777750/american_school_foundation_of_monterrey_logo?e=1769644800&v=beta&t=wjM2qHEQX-BmrPi5yVtn2dHn-u3RTV0bEHxoQzQQk74",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQF_EDxRlKH7ug/company-logo_100_100/company-logo_100_100/0/1697467777750/american_school_foundation_of_monterrey_logo?e=1769644800&v=beta&t=H7Y7J9wy-zwFg6saQzuQ0srPTiIEr5tOGOouI_SuHDU",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D560BAQF_EDxRlKH7ug/company-logo_400_400/company-logo_400_400/0/1697467777750/american_school_foundation_of_monterrey_logo?e=1769644800&v=beta&t=gUXYQRVWAexOqtj36DtjbidFlQJt7riEWNxK0W2dJsQ",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Director of AI Deployment & Success",
+      "multiLocaleTitle": {
+        "en_US": "Director of AI Deployment & Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2026,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 77734040,
+      "companyName": "Pear Suite",
+      "companyUsername": "pear-suite",
+      "companyURL": "https://www.linkedin.com/company/pear-suite/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQF6IHRxoYaVWg/company-logo_400_400/company-logo_400_400/0/1644297958409/pear_suite_logo?e=1769644800&v=beta&t=KB99K6G7vXUBQ3bMH0DlDEx7YmF2sgj7hhHBcc5fCcY",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Strategic Initiatives Manager",
+      "multiLocaleTitle": {
+        "en_US": "Strategic Initiatives Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Pear Suite"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 77734040,
+      "companyName": "Pear Suite",
+      "companyUsername": "pear-suite",
+      "companyURL": "https://www.linkedin.com/company/pear-suite/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQF6IHRxoYaVWg/company-logo_400_400/company-logo_400_400/0/1644297958409/pear_suite_logo?e=1769644800&v=beta&t=KB99K6G7vXUBQ3bMH0DlDEx7YmF2sgj7hhHBcc5fCcY",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Special Projects and Partnerships Lead",
+      "multiLocaleTitle": {
+        "en_US": "Special Projects and Partnerships Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Pear Suite"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2517,
+      "companyName": "University of California, Berkeley",
+      "companyUsername": "uc-berkeley",
+      "companyURL": "https://www.linkedin.com/school/uc-berkeley/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1769644800&v=beta&t=KCkvtitCXpLZwAHnCbGVR0CyxqohyB2l2piKIHXTni8",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "10001+",
+      "title": "Graduate Student Instructor",
+      "multiLocaleTitle": {
+        "en_US": "Graduate Student Instructor"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "University of California, Berkeley"
+      },
+      "location": "Berkeley, CA",
+      "locationType": "",
+      "description": "Led weekly discussion sections for 'Introduction to Health Policy and Management,' translating complex healthcare system concepts into real-world scenarios to enhance students' critical thinking and analytical skills.\n\nMentored students in 'Advanced Health Policy and Politics' through the development of well-researched policy briefs, enabling them to analyze complex information and propose actionable policy solutions.",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10432193,
+      "companyName": "Being Design Inc.",
+      "companyUsername": "being-design",
+      "companyURL": "https://www.linkedin.com/company/being-design/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEHEPjkcJ1aBg/company-logo_400_400/company-logo_400_400/0/1630534517771/being_design_logo?e=1769644800&v=beta&t=iFgORQaaG-9eKJycqoljAUZbLd62gcIzx6POKzIE6aE",
+      "companyIndustry": "Marketing & Advertising",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Content Specialist",
+      "multiLocaleTitle": {
+        "en_US": "Content Specialist"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Being Design Inc."
+      },
+      "location": "Phoenix, AZ",
+      "locationType": "",
+      "description": "Developed and executed content strategies for clients to enhance user engagement across multiple formats, including video, podcasts, and blog posts.\n\nLed the successful revamp of a key client's content library, which involved a full content audit, strategic reorganization, and packaging of materials to improve the end-user experience and achieve client goals.",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2020,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1646,
+      "companyName": "Harvard University",
+      "companyUsername": "harvard-university",
+      "companyURL": "https://www.linkedin.com/school/harvard-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1769644800&v=beta&t=cjAjWroOgM71GcmUp-Lepoe9u7YWmkcFsXeGugXLACc",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "10001+",
+      "title": "Editor of Undergraduate Research Publication ",
+      "multiLocaleTitle": {
+        "en_US": "Editor of Undergraduate Research Publication "
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Harvard University"
+      },
+      "location": "Boston, MA",
+      "locationType": "",
+      "description": "Served on the editorial committee for Harvard's annual undergraduate research publication (HSURV), where I was responsible for curating and editing student research abstracts to ensure all content met rigorous academic standards for final publication.",
+      "employmentType": "Freelance",
+      "start": {
+        "year": 2021,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 4867,
+      "companyName": "Harvard Business School",
+      "companyUsername": "harvard-business-school",
+      "companyURL": "https://www.linkedin.com/school/harvard-business-school/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1769644800&v=beta&t=jQLP5SOs_lgdNaCO5EFTxRQKUe67K3oSnyHRQxqP1c4",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Program for Research in Markets & Organizations (PRIMO) Research Fellow",
+      "multiLocaleTitle": {
+        "en_US": "Program for Research in Markets & Organizations (PRIMO) Research Fellow"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Harvard Business School"
+      },
+      "location": "Boston, MA",
+      "locationType": "",
+      "description": "Synthesized academic and market research to establish the foundational framework for a multi-year HBS study on organizational behavior, directly shaping the research team's primary lines of inquiry.\n\nExecuted a multi-month organizational ethnography of a high-growth technology partner to generate novel qualitative insights into their team dynamics. Presented findings weekly to HBS faculty, contributing primary data to the study's core analysis.",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 8606,
+      "companyName": "Baylor University",
+      "companyUsername": "baylor-university",
+      "companyURL": "https://www.linkedin.com/school/baylor-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH7J_mVv5A9zQ/company-logo_200_200/B56ZX7ug92GUAI-/0/1743685030088/baylor_university_logo?e=1769644800&v=beta&t=2BN6MhojKv1t9ZqGnMvEWDpCkIUjwbbZOFvfGlY6LOs",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "McNair Scholar Summer Research Internship ",
+      "multiLocaleTitle": {
+        "en_US": "McNair Scholar Summer Research Internship "
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Baylor University"
+      },
+      "location": "Waco, Texas, United States",
+      "locationType": "",
+      "description": "I led a research project on the correlation between social networks and health of the Tsimane' Indigenous group in Bolivia. I had the privilege of working under Dr. Alan Schultz, Ph.D., MPH, an Anthropology Assistant Professor at Baylor University.",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2020,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 96144957,
+      "companyName": "Assort Health",
+      "companyUsername": "assorthealth",
+      "companyURL": "https://www.linkedin.com/company/assorthealth/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuTkX_keoOUQ/company-logo_200_200/B4EZldvXOaIIAI-/0/1758214321372/assorthealth_logo?e=1769644800&v=beta&t=r5qsgddnrrysTBKrZ6LZaeaHYbFlLCdyrfJJUCQx2pE",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "51 - 200",
+      "title": "Director of AI Deployment & Success",
+      "multiLocaleTitle": {
+        "en_US": "Director of AI Deployment & Success"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Assort Health"
+      },
+      "location": "San Francisco, California, United States",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2026,
+        "month": 1,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 77734040,
+      "companyName": "Pear Suite",
+      "companyUsername": "pear-suite",
+      "companyURL": "https://www.linkedin.com/company/pear-suite/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQF6IHRxoYaVWg/company-logo_400_400/company-logo_400_400/0/1644297958409/pear_suite_logo?e=1769644800&v=beta&t=KB99K6G7vXUBQ3bMH0DlDEx7YmF2sgj7hhHBcc5fCcY",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Strategic Initiatives Manager",
+      "multiLocaleTitle": {
+        "en_US": "Strategic Initiatives Manager"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Pear Suite"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2024,
+        "month": 10,
+        "day": 0
+      },
+      "end": {
+        "year": 2025,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 77734040,
+      "companyName": "Pear Suite",
+      "companyUsername": "pear-suite",
+      "companyURL": "https://www.linkedin.com/company/pear-suite/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQF6IHRxoYaVWg/company-logo_400_400/company-logo_400_400/0/1644297958409/pear_suite_logo?e=1769644800&v=beta&t=KB99K6G7vXUBQ3bMH0DlDEx7YmF2sgj7hhHBcc5fCcY",
+      "companyIndustry": "Government Administration",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Special Projects and Partnerships Lead",
+      "multiLocaleTitle": {
+        "en_US": "Special Projects and Partnerships Lead"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Pear Suite"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2023,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2024,
+        "month": 10,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 2517,
+      "companyName": "University of California, Berkeley",
+      "companyUsername": "uc-berkeley",
+      "companyURL": "https://www.linkedin.com/school/uc-berkeley/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1769644800&v=beta&t=KCkvtitCXpLZwAHnCbGVR0CyxqohyB2l2piKIHXTni8",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "10001+",
+      "title": "Graduate Student Instructor",
+      "multiLocaleTitle": {
+        "en_US": "Graduate Student Instructor"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "University of California, Berkeley"
+      },
+      "location": "Berkeley, CA",
+      "locationType": "",
+      "description": "Led weekly discussion sections for 'Introduction to Health Policy and Management,' translating complex healthcare system concepts into real-world scenarios to enhance students' critical thinking and analytical skills.\n\nMentored students in 'Advanced Health Policy and Politics' through the development of well-researched policy briefs, enabling them to analyze complex information and propose actionable policy solutions.",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2022,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 2023,
+        "month": 12,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 10432193,
+      "companyName": "Being Design Inc.",
+      "companyUsername": "being-design",
+      "companyURL": "https://www.linkedin.com/company/being-design/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEHEPjkcJ1aBg/company-logo_400_400/company-logo_400_400/0/1630534517771/being_design_logo?e=1769644800&v=beta&t=iFgORQaaG-9eKJycqoljAUZbLd62gcIzx6POKzIE6aE",
+      "companyIndustry": "Marketing & Advertising",
+      "companyStaffCountRange": "2 - 10",
+      "title": "Content Specialist",
+      "multiLocaleTitle": {
+        "en_US": "Content Specialist"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Being Design Inc."
+      },
+      "location": "Phoenix, AZ",
+      "locationType": "",
+      "description": "Developed and executed content strategies for clients to enhance user engagement across multiple formats, including video, podcasts, and blog posts.\n\nLed the successful revamp of a key client's content library, which involved a full content audit, strategic reorganization, and packaging of materials to improve the end-user experience and achieve client goals.",
+      "employmentType": "Part-time",
+      "start": {
+        "year": 2020,
+        "month": 9,
+        "day": 0
+      },
+      "end": {
+        "year": 2022,
+        "month": 5,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 1646,
+      "companyName": "Harvard University",
+      "companyUsername": "harvard-university",
+      "companyURL": "https://www.linkedin.com/school/harvard-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1769644800&v=beta&t=cjAjWroOgM71GcmUp-Lepoe9u7YWmkcFsXeGugXLACc",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "10001+",
+      "title": "Editor of Undergraduate Research Publication ",
+      "multiLocaleTitle": {
+        "en_US": "Editor of Undergraduate Research Publication "
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Harvard University"
+      },
+      "location": "Boston, MA",
+      "locationType": "",
+      "description": "Served on the editorial committee for Harvard's annual undergraduate research publication (HSURV), where I was responsible for curating and editing student research abstracts to ensure all content met rigorous academic standards for final publication.",
+      "employmentType": "Freelance",
+      "start": {
+        "year": 2021,
+        "month": 7,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 4867,
+      "companyName": "Harvard Business School",
+      "companyUsername": "harvard-business-school",
+      "companyURL": "https://www.linkedin.com/school/harvard-business-school/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1769644800&v=beta&t=jQLP5SOs_lgdNaCO5EFTxRQKUe67K3oSnyHRQxqP1c4",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "Program for Research in Markets & Organizations (PRIMO) Research Fellow",
+      "multiLocaleTitle": {
+        "en_US": "Program for Research in Markets & Organizations (PRIMO) Research Fellow"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Harvard Business School"
+      },
+      "location": "Boston, MA",
+      "locationType": "",
+      "description": "Synthesized academic and market research to establish the foundational framework for a multi-year HBS study on organizational behavior, directly shaping the research team's primary lines of inquiry.\n\nExecuted a multi-month organizational ethnography of a high-growth technology partner to generate novel qualitative insights into their team dynamics. Presented findings weekly to HBS faculty, contributing primary data to the study's core analysis.",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2021,
+        "month": 6,
+        "day": 0
+      },
+      "end": {
+        "year": 2021,
+        "month": 8,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 8606,
+      "companyName": "Baylor University",
+      "companyUsername": "baylor-university",
+      "companyURL": "https://www.linkedin.com/school/baylor-university/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH7J_mVv5A9zQ/company-logo_200_200/B56ZX7ug92GUAI-/0/1743685030088/baylor_university_logo?e=1769644800&v=beta&t=2BN6MhojKv1t9ZqGnMvEWDpCkIUjwbbZOFvfGlY6LOs",
+      "companyIndustry": "Higher Education",
+      "companyStaffCountRange": "1001 - 5000",
+      "title": "McNair Scholar Summer Research Internship ",
+      "multiLocaleTitle": {
+        "en_US": "McNair Scholar Summer Research Internship "
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Baylor University"
+      },
+      "location": "Waco, Texas, United States",
+      "locationType": "",
+      "description": "I led a research project on the correlation between social networks and health of the Tsimane' Indigenous group in Bolivia. I had the privilege of working under Dr. Alan Schultz, Ph.D., MPH, an Anthropology Assistant Professor at Baylor University.",
+      "employmentType": "Internship",
+      "start": {
+        "year": 2020,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 8,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Public Speaking",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Marketing",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Leadership",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Spanish",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 3
+    },
+    {
+      "name": "French",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "English",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Elementor",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Research",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "WordPress",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "Web Content Writing",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "R (Programming Language)",
+      "passedSkillAssessment": false
+    },
+    {
+      "name": "RStudio",
+      "passedSkillAssessment": false
+    }
+  ],
+  "certifications": [
+    {
+      "name": " Leadership San Francisco",
+      "start": {
+        "year": 2025,
+        "month": 8,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "authority": "Leadership San Francisco",
+      "company": {
+        "name": "Leadership San Francisco",
+        "universalName": "leadership-san-francisco",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEly0b-3jfang/company-logo_200_200/company-logo_200_200/0/1630652027017?e=1769644800&v=beta&t=d-FCfm-TCdeyZFaqiGUTBw1nNKkoQGEGWpkO4YV-3uU",
+        "staffCountRange": {},
+        "headquarter": {}
+      },
+      "timePeriod": {
+        "start": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        },
+        "end": {
+          "year": 0,
+          "month": 0,
+          "day": 0
+        }
+      }
+    }
+  ],
+  "honors": [
+    {
+      "title": "McNair Scholar",
+      "description": "The Ronald E. McNair Post-Baccalaureate Achievement Program is an initiative with a goal of increasing \"attainment of PhD degrees by students from underrepresented segments of society,\" including first-generation low-income individuals and members from racial and ethnic groups historically underrepresented in graduate programs.",
+      "issuer": "Baylor University ",
+      "issuerLogo": "",
+      "issuedOn": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    }
+  ],
+  "projects": {},
+  "volunteering": [
+    {
+      "title": "Health Equity Advisory Group Member ",
+      "start": {
+        "year": 2024,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "companyName": "Consumer Technology Association",
+      "CompanyId": "16303",
+      "companyUrl": "https://www.linkedin.com/company/16303",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQH7lsWGpV9Dow/company-logo_400_400/company-logo_400_400/0/1724851871450/consumer_technology_association_logo?e=1769644800&v=beta&t=SXkvopuMOy8Kcb18INA7-IHLnnCGn0QmMFUq0GDc8ds"
+    }
+  ],
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Andrew"
+  },
+  "multiLocaleLastName": {
+    "en": "Lindbloom"
+  },
+  "multiLocaleHeadline": {
+    "en": "Director of AI Deployment & Success @ Assort Health - Specialty-specific voice AI to answer patient calls"
+  },
+  "multiLocaleSummary": {
+    "en": "I'm a strategy and growth leader focused on the intersection of healthcare and technology. My background in public health gives me a unique understanding of the systemic challenges in the industry, which I apply to commercializing and scaling innovative solutions.\n\nAt Pear Suite, I've been responsible for the \"last mile\" of our AI platform—taking a complex technology and making it work in the real world.\n\nI believe the biggest opportunities in healthcare won't come from technology alone, but from the successful integration of that technology into clinical workflows and payer models. I'm always interested in connecting with others who are passionate about solving these complex challenges."
+  }
+}
