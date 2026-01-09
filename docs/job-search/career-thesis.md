@@ -95,11 +95,16 @@ Some relationships will yield opportunities in 3-24 months. Prioritize based on 
 
 ---
 
-## Open Questions
+## Resolved Questions (2026-01-10)
 
-- How much do I weight "meaningful work" (healthcare) vs "natural progression" (logistics)?
-- What's my floor on company stage? Would I do Series A if growth metrics were exceptional?
-- How do I think about founder quality as a scoring dimension?
+**Q: How much do I weight "meaningful work" (healthcare) vs other dimensions?**
+> Healthcare/meaningful work is a nice-to-have bonus, not a primary driver. Industry fit is Medium weight, not High.
+
+**Q: What's my floor on company stage?**
+> Stage itself doesn't matter - growth metrics do. Series A is fine if it's a rocket ship (5x-10x revenue growth in 1-2 years). Otherwise target B/C to continue career progression toward larger enterprises. My trajectory: Seed → Series A → Series B. Going backward only makes sense with exceptional growth.
+
+**Q: How do I think about founder/team quality?**
+> **This is hugely important.** It's rare to work somewhere where I can genuinely learn from colleagues - smart people who can teach me, enjoyable and fun to work with. Team quality is a High weight dimension, possibly the most important.
 
 ---
 

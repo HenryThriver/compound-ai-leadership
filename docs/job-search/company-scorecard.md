@@ -16,29 +16,44 @@ Use this template to evaluate companies against the career thesis.
 
 ## Dimensions
 
-### 1. Industry Fit (Weight: High)
+### 1. Team Quality (Weight: HIGH - possibly most important)
+*Can I learn from these people? Are they smart, fun to work with?*
+
+| Score | Criteria |
+|-------|----------|
+| 5 | Exceptional team - people I'd actively seek to learn from, genuinely enjoyable |
+| 4 | Strong team - clearly smart, good energy, would learn a lot |
+| 3 | Solid team - competent, nothing concerning |
+| 2 | Mediocre - wouldn't learn much, just a job |
+| 1 | Red flags - difficult people, toxic dynamics |
+
+*How to assess: LinkedIn profiles of leadership, Glassdoor, backchannel, interview conversations*
+
+### 2. Growth Metrics (Weight: HIGH)
+*Is this a rocket ship? Growth matters more than stage.*
+
+| Score | Criteria |
+|-------|----------|
+| 5 | 5x-10x revenue growth trajectory; clear rocket ship |
+| 4 | Strong growth (3x+), Series B/C with momentum |
+| 3 | Solid growth, Series B/C, proven PMF |
+| 2 | Slow growth or early stage without exceptional metrics |
+| 1 | Stagnant, declining, or pre-PMF without traction |
+
+*Note: Series A acceptable if growth is 5x-10x. Otherwise target B/C for career progression (Seed → A → B trajectory).*
+
+### 3. Industry Fit (Weight: MEDIUM - nice to have)
 *Does this align with where I want to build expertise?*
 
 | Score | Criteria |
 |-------|----------|
-| 5 | Healthcare Voice AI |
+| 5 | Healthcare Voice AI (meaningful work bonus) |
 | 4 | Logistics, Customer Support, Home Services |
 | 3 | Adjacent/interesting vertical |
 | 2 | HR/Recruiting |
 | 1 | Sales coaching or uninteresting vertical |
 
-### 2. Company Stage (Weight: High)
-*Series B/C with proven PMF?*
-
-| Score | Criteria |
-|-------|----------|
-| 5 | Series B/C, $10M+ ARR, rapid growth |
-| 4 | Series A with exceptional metrics |
-| 3 | Late seed with strong traction |
-| 2 | Early stage, unproven |
-| 1 | Pre-seed or stagnant growth |
-
-### 3. Role Scope (Weight: High)
+### 4. Role Scope (Weight: HIGH)
 *Strategic influence, not just execution?*
 
 | Score | Criteria |
@@ -49,7 +64,7 @@ Use this template to evaluate companies against the career thesis.
 | 2 | Tactical execution role |
 | 1 | No strategic component |
 
-### 4. AI-Native GTM (Weight: High)
+### 5. AI-Native GTM (Weight: HIGH)
 *Is AI central to GTM, not an afterthought?*
 
 | Score | Criteria |
@@ -60,18 +75,20 @@ Use this template to evaluate companies against the career thesis.
 | 2 | Traditional GTM with some automation |
 | 1 | Skeptical of AI in GTM |
 
-### 5. Culture & Leadership (Weight: Medium)
+### 6. Culture (Weight: MEDIUM)
 *Experimentation, data-driven, C-suite partnership?*
 
 | Score | Criteria |
 |-------|----------|
-| 5 | Strong founder/exec team, experimentation culture |
-| 4 | Good leadership, open to new approaches |
+| 5 | Experimentation culture, data-driven, strong C-suite partnership |
+| 4 | Good culture, open to new approaches |
 | 3 | Standard startup culture |
 | 2 | Traditional/hierarchical |
-| 1 | Red flags in leadership or culture |
+| 1 | Red flags in culture |
 
-### 6. Compensation Potential (Weight: Medium)
+*Note: Team Quality is now separate - this is about the broader org culture.*
+
+### 7. Compensation Potential (Weight: MEDIUM)
 *Appropriate for top 1% performers?*
 
 | Score | Criteria |
@@ -82,7 +99,7 @@ Use this template to evaluate companies against the career thesis.
 | 2 | Below market |
 | 1 | Significantly below market |
 
-### 7. Timing & Urgency (Weight: Variable)
+### 8. Timing & Urgency (Weight: VARIABLE)
 *Are they hiring now? Does timing work?*
 
 | Score | Criteria |
@@ -100,20 +117,24 @@ Use this template to evaluate companies against the career thesis.
 ```
 ## [Company Name] Scorecard
 
-| Dimension | Score (1-5) | Notes |
-|-----------|-------------|-------|
-| Industry Fit | | |
-| Company Stage | | |
-| Role Scope | | |
-| AI-Native GTM | | |
-| Culture & Leadership | | |
-| Compensation Potential | | |
-| Timing & Urgency | | |
+| Dimension | Weight | Score (1-5) | Notes |
+|-----------|--------|-------------|-------|
+| Team Quality | HIGH | | |
+| Growth Metrics | HIGH | | |
+| Role Scope | HIGH | | |
+| AI-Native GTM | HIGH | | |
+| Industry Fit | MED | | |
+| Culture | MED | | |
+| Compensation | MED | | |
+| Timing | VAR | | |
 
-**Total:** /35
+**Total:** /40
 **Weighted Assessment:** [High Priority / Medium Priority / Low Priority / Pass]
 
-**Key Considerations:**
+**Key Strengths:**
+-
+
+**Key Concerns:**
 -
 
 **Open Questions:**
@@ -127,11 +148,23 @@ Use this template to evaluate companies against the career thesis.
 
 ## Priority Tiers
 
-- **28-35:** High Priority - Actively pursue
-- **21-27:** Medium Priority - Worth exploring
-- **14-20:** Low Priority - Opportunistic only
-- **<14:** Pass - Don't invest energy
+- **32-40:** High Priority - Actively pursue
+- **24-31:** Medium Priority - Worth exploring
+- **16-23:** Low Priority - Opportunistic only
+- **<16:** Pass - Don't invest energy
 
 ---
 
-*Note: Scores are guidelines. A single disqualifying dimension (score of 1 on high-weight item) may override total score.*
+## Quick Filters (before full scorecard)
+
+Before investing time in full analysis, check:
+
+1. **Team Quality signal** - Any LinkedIn/backchannel intel on leadership?
+2. **Growth signal** - Any public metrics, funding news, hiring velocity?
+3. **Role exists** - Are they actually hiring for this function?
+
+If any of these are red flags, may not be worth full scorecard.
+
+---
+
+*Note: Scores are guidelines. A single disqualifying dimension (score of 1 on HIGH-weight item) may override total score. Team Quality is the tie-breaker.*
