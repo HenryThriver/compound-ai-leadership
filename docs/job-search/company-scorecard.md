@@ -1,8 +1,34 @@
-# Company Scorecard Template
+# Company Evaluation Framework
 
-Use this template to evaluate companies against the career thesis.
+Two-phase evaluation: **Screen** (pre-conversation) → **Evaluate** (interview stage).
 
 ---
+
+# PHASE 1: Pre-Conversation Screening
+
+*"Is it worth my time to spin this up?"*
+
+**Data sources:** LinkedIn, Crunchbase, news, website, job postings, light backchannel
+
+## Quick Screen Checklist
+
+| Signal | Source | Pass/Fail |
+|--------|--------|-----------|
+| **Growth signal** | Funding news, hiring velocity, headcount growth | |
+| **Team quality signal** | Leadership LinkedIn profiles, backgrounds | |
+| **Role exists** | Job postings, org structure | |
+| **Industry fit** | Company description | |
+| **AI-native surface signals** | Website messaging, tech stack mentions | |
+
+**Decision:** [ ] Proceed to conversation | [ ] Pass | [ ] Watch list
+
+---
+
+# PHASE 2: Interview-Stage Evaluation
+
+*"How excited am I? Is this team set up for success?"*
+
+**Data sources:** Interviews, backchannels, insider conversations, detailed research
 
 ## Scoring Guide
 
@@ -74,6 +100,33 @@ Use this template to evaluate companies against the career thesis.
 | 3 | AI-curious, early adoption |
 | 2 | Traditional GTM with some automation |
 | 1 | Skeptical of AI in GTM |
+
+#### AI Organizational Readiness (Discovery Questions)
+*Source: Ignite book - use in interviews and backchannels*
+
+**Leadership Commitment Indicators:**
+- [ ] Senior leaders use AI tools personally (not just reviewing reports)
+- [ ] Leadership meetings discuss AI capability development (not just procurement)
+- [ ] Budget prioritizes data infrastructure + capability building over tool acquisition
+- [ ] Performance metrics include AI workflow adoption + business impact (not just utilization)
+
+**Technical Infrastructure Prerequisites:**
+- [ ] Core systems have APIs enabling data sharing between platforms
+- [ ] Data quality supports automated decision-making (80%+ accuracy threshold)
+- [ ] IT can implement integrations without extensive consulting/vendor PS
+- [ ] InfoSec policies accommodate AI while maintaining data protection
+
+**Cultural Readiness Signals:**
+- [ ] Teams willing to experiment (not demanding perfect solutions immediately)
+- [ ] Employee feedback focuses on business outcomes (not tool preferences)
+- [ ] Management emphasizes learning/iteration (not blame when AI experiments fail)
+- [ ] Cross-functional collaboration exists for data-intensive projects
+
+**Failure Anti-Patterns (Red Flags):**
+1. **Tool-First Implementation** - Bought impressive AI tools without deeper strategy
+2. **Delegation Without Understanding** - Leaders assigned AI to tech/ops without personal AI literacy
+3. **Perfectionism Paralysis** - Delaying until perfect infrastructure (rare)
+4. **Scope Creep & Complexity Accumulation** - Initial wins → rapid expansion → complexity outpaces capability
 
 ### 6. Culture (Weight: MEDIUM)
 *Experimentation, data-driven, C-suite partnership?*
@@ -152,18 +205,6 @@ Use this template to evaluate companies against the career thesis.
 - **24-31:** Medium Priority - Worth exploring
 - **16-23:** Low Priority - Opportunistic only
 - **<16:** Pass - Don't invest energy
-
----
-
-## Quick Filters (before full scorecard)
-
-Before investing time in full analysis, check:
-
-1. **Team Quality signal** - Any LinkedIn/backchannel intel on leadership?
-2. **Growth signal** - Any public metrics, funding news, hiring velocity?
-3. **Role exists** - Are they actually hiring for this function?
-
-If any of these are red flags, may not be worth full scorecard.
 
 ---
 
