@@ -1,0 +1,260 @@
+{
+  "id": 36415808,
+  "urn": "ACoAAAIrqUABkWItliF4jGnx44wXDLfpKn7s6vA",
+  "username": "dan-ni",
+  "firstName": "Dan",
+  "lastName": "N.",
+  "isPremium": true,
+  "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQHyWz87BkxFoQ/profile-displayphoto-crop_800_800/B56ZmtF3RoJsAI-/0/1759545619972?e=1769644800&v=beta&t=DzTzj8aBE0x9lhexxLUbf5GgiQ41Qlbhd2iT3Q261HE",
+  "profilePictures": [
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQHyWz87BkxFoQ/profile-displayphoto-scale_100_100/B56ZmtF3RoJsAc-/0/1759545620052?e=1769644800&v=beta&t=vH6PL0YFOHN0w3x4utQqTOFP_J3QREBOIhRJ23acNvM",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQHyWz87BkxFoQ/profile-displayphoto-scale_400_400/B56ZmtF3RoJsAg-/0/1759545620052?e=1769644800&v=beta&t=u_Eqnh3uKvc6Figqoak5VA1ZVQ2d2KToewLzHoQ9E50",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQHyWz87BkxFoQ/profile-displayphoto-scale_200_200/B56ZmtF3RoJsAY-/0/1759545620052?e=1769644800&v=beta&t=KZpgYcLnyKhEv6iWH3E2S9IHWMrfVaSgZN8g689pAzc",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQHyWz87BkxFoQ/profile-displayphoto-crop_800_800/B56ZmtF3RoJsAI-/0/1759545619972?e=1769644800&v=beta&t=DzTzj8aBE0x9lhexxLUbf5GgiQ41Qlbhd2iT3Q261HE",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "backgroundImage": [
+    {
+      "width": 800,
+      "height": 200,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQFWAYv0yclaXQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723775188896?e=1769644800&v=beta&t=tbLYdziPGnLzQ85kKXVZ9Tb5VVGp9hyA5rftyILjysc"
+    },
+    {
+      "width": 1400,
+      "height": 350,
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQFWAYv0yclaXQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723775188896?e=1769644800&v=beta&t=qzXSbITqqYfhtuVGHRJPEAx64zx_p8JaX7IIkNu4QQs"
+    }
+  ],
+  "summary": "I am the founder and CEO of TLDR, a modern media company running 12 curated newsletters with over 5 million readers covering technical topics like software engineering, AI, cybersecurity, crypto, and more.\n\nYou can subscribe here: https://tldr.tech\n\nOr learm more about advertising with us here: https://advertise.tldr.tech",
+  "headline": "CEO & Founder at TLDR",
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco, California",
+    "full": "San Francisco, California, United States",
+    "countryCode": "us"
+  },
+  "educations": [
+    {
+      "start": {
+        "year": 2008,
+        "month": 0,
+        "day": 0
+      },
+      "end": {
+        "year": 2012,
+        "month": 0,
+        "day": 0
+      },
+      "fieldOfStudy": "Statistics, Economics & Mathematics",
+      "degree": "B.S.",
+      "grade": "",
+      "schoolName": "Yale University",
+      "description": "",
+      "activities": "",
+      "url": "https://www.linkedin.com/school/yale-university/",
+      "schoolId": "15248569",
+      "logo": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_200_200/company-logo_200_200/0/1631385636084?e=1769644800&v=beta&t=OQQik8P-vBAe6FX-QjKCP-jNs4jcsDjhl3jSLkxwgk0",
+          "width": 200,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_100_100/company-logo_100_100/0/1631385636084?e=1769644800&v=beta&t=JHTKuXAUb1iUJggGIsLol18FE08hzyPZiiAOxCpKoQk",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_400_400/company-logo_400_400/0/1631385636084?e=1769644800&v=beta&t=cGPSconfYEat9EqwkzUtj56XShwzqO4-JsdgXOwDjqY",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "position": [
+    {
+      "companyId": 88275885,
+      "companyName": "TLDR",
+      "companyUsername": "tldrnewsletter",
+      "companyURL": "https://www.linkedin.com/company/tldrnewsletter/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFp9gsyVl-j3Q/company-logo_400_400/company-logo_400_400/0/1663609589109?e=1769644800&v=beta&t=Dyjd4Oo02dvSbws_5B-Wl0wAGFh61x9TZpVT_Q9k1iI",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Chief Executive Officer",
+      "multiLocaleTitle": {
+        "en_US": "Chief Executive Officer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "TLDR"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "TLDR is a modern media company with over 5 million readers covering technical topics like software engineering, AI, cybersecurity, crypto, and more.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 52120961,
+      "companyName": "Scraper API",
+      "companyUsername": "scraperapi",
+      "companyURL": "https://www.linkedin.com/company/scraperapi/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHM6cXV4f-Hew/company-logo_400_400/company-logo_400_400/0/1664274543806/scraperapi_logo?e=1769644800&v=beta&t=g4OymzBCtb3WIcwGeVQ1bWn2HcHgTKkGh7lIrhfEjgk",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Chief Executive Officer",
+      "multiLocaleTitle": {
+        "en_US": "Chief Executive Officer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Scraper API"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Founded and grew Scraper API to over $4M ARR before being acquired by SaaS Group in June 2020.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 12,
+        "day": 0
+      }
+    }
+  ],
+  "fullPositions": [
+    {
+      "companyId": 88275885,
+      "companyName": "TLDR",
+      "companyUsername": "tldrnewsletter",
+      "companyURL": "https://www.linkedin.com/company/tldrnewsletter/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFp9gsyVl-j3Q/company-logo_400_400/company-logo_400_400/0/1663609589109?e=1769644800&v=beta&t=Dyjd4Oo02dvSbws_5B-Wl0wAGFh61x9TZpVT_Q9k1iI",
+      "companyIndustry": "Computer Software",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Chief Executive Officer",
+      "multiLocaleTitle": {
+        "en_US": "Chief Executive Officer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "TLDR"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "TLDR is a modern media company with over 5 million readers covering technical topics like software engineering, AI, cybersecurity, crypto, and more.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2020,
+        "month": 12,
+        "day": 0
+      },
+      "end": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      }
+    },
+    {
+      "companyId": 52120961,
+      "companyName": "Scraper API",
+      "companyUsername": "scraperapi",
+      "companyURL": "https://www.linkedin.com/company/scraperapi/",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHM6cXV4f-Hew/company-logo_400_400/company-logo_400_400/0/1664274543806/scraperapi_logo?e=1769644800&v=beta&t=g4OymzBCtb3WIcwGeVQ1bWn2HcHgTKkGh7lIrhfEjgk",
+      "companyIndustry": "Information Technology & Services",
+      "companyStaffCountRange": "11 - 50",
+      "title": "Chief Executive Officer",
+      "multiLocaleTitle": {
+        "en_US": "Chief Executive Officer"
+      },
+      "multiLocaleCompanyName": {
+        "en_US": "Scraper API"
+      },
+      "location": "",
+      "locationType": "",
+      "description": "Founded and grew Scraper API to over $4M ARR before being acquired by SaaS Group in June 2020.",
+      "employmentType": "Full-time",
+      "start": {
+        "year": 2015,
+        "month": 5,
+        "day": 0
+      },
+      "end": {
+        "year": 2020,
+        "month": 12,
+        "day": 0
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "VBA",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 20
+    },
+    {
+      "name": "Python",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 10
+    },
+    {
+      "name": "R",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 20
+    },
+    {
+      "name": "PostgreSQL",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 6
+    },
+    {
+      "name": "Statistics",
+      "passedSkillAssessment": false,
+      "endorsementsCount": 15
+    }
+  ],
+  "projects": {},
+  "supportedLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "multiLocaleFirstName": {
+    "en": "Dan"
+  },
+  "multiLocaleLastName": {
+    "en": "N."
+  },
+  "multiLocaleHeadline": {
+    "en": "CEO & Founder at TLDR"
+  },
+  "multiLocaleSummary": {
+    "en": "I am the founder and CEO of TLDR, a modern media company running 12 curated newsletters with over 5 million readers covering technical topics like software engineering, AI, cybersecurity, crypto, and more.\n\nYou can subscribe here: https://tldr.tech\n\nOr learm more about advertising with us here: https://advertise.tldr.tech"
+  }
+}
