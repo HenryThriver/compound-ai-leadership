@@ -68,7 +68,16 @@ People and companies to monitor for industry intel and opportunity signals.
 
 ### Weekly Refresh
 ```bash
-# Run every Monday - Assort Health
+# Run every Monday
+
+# === COMPANY POSTS (official announcements, funding, hiring) ===
+for company in assorthealth arini fleetworksai; do
+  ./utils/linkedin/fetch-company-posts.sh "$company"
+done
+
+# === EMPLOYEE POSTS ===
+
+# Assort Health
 for user in jonxwang gregrattray maura-osullivan sarina-kaur-pattar andrewlindbloom alex-huber-41632a118; do
   ./utils/linkedin/fetch-posts.sh "$user"
 done

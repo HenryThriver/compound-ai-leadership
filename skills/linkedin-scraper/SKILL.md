@@ -61,6 +61,20 @@ Saves to: `docs/linkedin/profiles/{username}/posts-YYYY-MM-DD.json`
 Returns: Post content + all comments
 Saves to: `docs/linkedin/posts/post-{urn}.json`
 
+### Fetch Company Posts
+```bash
+./utils/linkedin/fetch-company-posts.sh <company-username> [start]
+
+# Examples:
+./utils/linkedin/fetch-company-posts.sh assorthealth      # First 50 posts
+./utils/linkedin/fetch-company-posts.sh fleetworksai 50   # Next 50 posts
+```
+
+Returns: Company page's recent posts (official announcements, funding, hiring)
+Saves to: `docs/linkedin/companies/{company}/posts-YYYY-MM-DD.json`
+
+Use for: Monitoring watched companies for funding news, product launches, job postings
+
 ---
 
 ## Workflows
@@ -165,13 +179,17 @@ Review what's changed:
 
 ```
 docs/linkedin/
-├── profiles/
+├── profiles/                      # Individual people
 │   └── {username}/
-│       ├── profile.json         # Latest profile data
-│       ├── posts-YYYY-MM-DD.json # Posts snapshot
-│       └── scraped-at.txt       # Last scrape timestamp
+│       ├── profile.json           # Latest profile data
+│       ├── posts-YYYY-MM-DD.json  # Posts snapshot
+│       └── scraped-at.txt         # Last scrape timestamp
+├── companies/                     # Company pages (for watching)
+│   └── {company}/
+│       ├── posts-YYYY-MM-DD.json  # Company posts snapshot
+│       └── scraped-at.txt         # Last scrape timestamp
 └── posts/
-    └── post-{urn}.json          # Individual posts with comments
+    └── post-{urn}.json            # Individual posts with comments
 ```
 
 Raw data is kept for reference. The synthesized version lives in the contact's baseball card.
@@ -204,6 +222,7 @@ This skill is a testing ground for CultivateHQ patterns:
 | `/get-profile-data-by-url` | GET | `url` |
 | `/get-profile-posts` | GET | `username`, `start` |
 | `/get-profile-post-and-comments` | GET | `urn` |
+| `/get-company-posts` | GET | `username`, `start` |
 
 **Rate Limits:** Check RapidAPI dashboard for current limits. PRO plan (~$5/mo) recommended.
 
@@ -213,6 +232,7 @@ This skill is a testing ground for CultivateHQ patterns:
 
 | Date | Change |
 |------|--------|
+| 2026-01-10 | Added company posts scraping for watching list (industry intel) |
 | 2026-01-09 | Added Connection Surface Schema integration for comprehensive extraction |
 | 2026-01-09 | Switched to real-time-data-enrichment API (UltraAPIs) |
 | 2026-01-09 | Initial skill creation with 3 core scripts |
